@@ -1,0 +1,29 @@
+ŹRÓDŁA INICJATYWY USTAWODAWCZEJ W POLSCE (Krótki Przewodnik)
+
+W Polsce proces legislacyjny (tworzenie prawa) może zostać zainicjowany przez ściśle określoną grupę podmiotów. Ustawy nie biorą się "znikąd" – każde zgłoszenie musi mieć swojego oficjalnego wnioskodawcę.
+
+Oto główne źródła (ścieżki), którymi projekty trafiają do Sejmu:
+
+1. RZĄD (Rada Ministrów)
+   - To najczęstsza ścieżka. Ministerstwa opracowują projekty realizujące program rządu.
+   - Trafiają one do "Wykazu Prac Legislacyjnych Rady Ministrów".
+   - Przechodzą konsultacje społeczne i międzyresortowe przed wysłaniem do Sejmu.
+
+2. POSŁOWIE (Grupa powsłów)
+   - Wymagane jest podpisy co najmniej 15 posłów.
+   - Często wykorzystywana ścieżka do "szybkich" ustaw, ponieważ (teoretycznie) nie wymaga tak rozbudowanych konsultacji jak ścieżka rządowa.
+
+3. SENAT
+   - Senat jako cała izba może przyjąć uchwałę o wniesieniu projektu ustawy do Sejmu.
+
+4. PREZYDENT RP
+   - Prezydent ma własną inicjatywę ustawodawczą. Może zgłaszać własne projekty.
+
+5. OBYWATELE (Inicjatywa Obywatelska)
+   - Grupa co najmniej 100 000 obywateli może wnieść projekt ustawy.
+   - Wymaga to utworzenia komitetu i zebrania podpisów w określonym czasie.
+
+PROCES (Uproszczony):
+Zgłoszenie (jedno z powyższych) -> Marszałek Sejmu (nada numer druku) -> I Czytanie (zazwyczaj na Komisji) -> II Czytanie (poprawki) -> III Czytanie (Głosowanie) -> Senat -> Prezydent (Podpis).
+
+W aplikacji 'SejmFlow 2026' śledzimy te projekty od momentu nadania im numeru w Wykazie Prac Rządu lub wpłynięcia do laski marszałkowskiej.

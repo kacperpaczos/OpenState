@@ -1,0 +1,547 @@
+:root {
+  /* Liquid Glass Dark Mode (Default) */
+  --bg-color: #050505;
+  --surface-color: rgba(255, 255, 255, 0.05);
+  --surface-color-heavy: rgba(255, 255, 255, 0.08);
+  --surface-border: rgba(255, 255, 255, 0.15);
+  --glass-highlight: rgba(255, 255, 255, 0.2);
+
+  --text-primary: #f0f0f0;
+  --text-secondary: #a0a0a0;
+
+  --accent-metallic: #e0e0e0;
+  /* Liquid Silver */
+  --accent-blue: #0A84FF;
+  /* Retained for functional active states only */
+
+  --glass-blur: 50px;
+  --hover-bg: rgba(255, 255, 255, 0.1);
+  --shadow-liquid: 0 8px 32px 0 rgba(0, 0, 0, 0.5);
+}
+
+[data-theme="light"] {
+  /* Liquid Glass Light Mode */
+  --bg-color: #f2f2f7;
+  /* High key silver/white */
+  --surface-color: rgba(255, 255, 255, 0.65);
+  --surface-color-heavy: rgba(255, 255, 255, 0.85);
+  --surface-border: rgba(255, 255, 255, 0.8);
+  --glass-highlight: rgba(255, 255, 255, 0.9);
+
+  --text-primary: #111111;
+  --text-secondary: #666666;
+
+  --accent-metallic: #333333;
+  /* Dark Liquid Metal */
+  --accent-blue: #007AFF;
+
+  --hover-bg: rgba(0, 0, 0, 0.05);
+  --shadow-liquid: 0 8px 32px 0 rgba(0, 0, 0, 0.1);
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  -webkit-font-smoothing: antialiased;
+}
+
+body {
+  background-color: var(--bg-color);
+  color: var(--text-primary);
+  font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", "Inter", sans-serif;
+  overflow: hidden;
+  height: 100vh;
+  transition: background-color 0.5s ease;
+}
+
+/* Liquid Metal Background */
+.mesh-background {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -2;
+  background: linear-gradient(135deg, var(--bg-color) 0%, rgba(100, 100, 100, 0.05) 50%, var(--bg-color) 100%);
+  background-size: 400% 400%;
+  animation: liquidMetal 20s ease infinite;
+}
+
+@keyframes liquidMetal {
+  0% {
+    background-position: 0% 50%;
+  }
+
+  50% {
+    background-position: 100% 50%;
+  }
+
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+/* Layout */
+.app-layout {
+  display: flex;
+  height: 100vh;
+}
+
+/* Sidebar - Liquid Glass */
+.sidebar {
+  width: 260px;
+  background: var(--surface-color);
+  backdrop-filter: blur(var(--glass-blur));
+  -webkit-backdrop-filter: blur(var(--glass-blur));
+  border-right: 1px solid var(--surface-border);
+  display: flex;
+  flex-direction: column;
+  padding: 24px 16px;
+  z-index: 100;
+}
+
+.brand {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 32px;
+  padding-left: 12px;
+}
+
+.brand h2 {
+  font-weight: 600;
+  font-size: 1.1rem;
+  color: var(--text-primary);
+}
+
+.nav-item {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 12px;
+  border-radius: 12px;
+  color: var(--text-secondary);
+  font-weight: 500;
+  text-decoration: none;
+  cursor: pointer;
+  transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+}
+
+.nav-item:hover {
+  background: var(--hover-bg);
+  color: var(--text-primary);
+  transform: scale(1.02);
+}
+
+.nav-item.active {
+  background: var(--surface-color-heavy);
+  color: var(--text-primary);
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
+  border: 1px solid var(--surface-border);
+}
+
+.sidebar-footer {
+  padding-top: 20px;
+  border-top: 1px solid var(--surface-border);
+}
+
+.user-profile {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 0 12px;
+}
+
+.avatar {
+  width: 36px;
+  height: 36px;
+  background: conic-gradient(from 45deg, #bdc3c7, #2c3e50, #bdc3c7);
+  /* Silver Coin look */
+  border-radius: 50%;
+}
+
+/* Main Content */
+.main-content {
+  flex: 1;
+  overflow-y: auto;
+  padding: 40px;
+  position: relative;
+}
+
+.header-tools {
+  position: absolute;
+  top: 24px;
+  right: 40px;
+  display: flex;
+  gap: 12px;
+  z-index: 50;
+}
+
+.icon-btn {
+  background: var(--surface-color);
+  backdrop-filter: blur(20px);
+  border: 1px solid var(--surface-border);
+  color: var(--text-primary);
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: all 0.3s;
+}
+
+.icon-btn:hover {
+  background: var(--hover-bg);
+  transform: scale(1.05);
+  border-color: var(--glass-highlight);
+}
+
+/* Liquid Glass Cards */
+.glass-card {
+  background: var(--surface-color);
+  backdrop-filter: blur(var(--glass-blur)) saturate(120%);
+  -webkit-backdrop-filter: blur(var(--glass-blur)) saturate(120%);
+  border: 1px solid var(--surface-border);
+  border-top: 1px solid var(--glass-highlight);
+  /* Top highlight for wet look */
+  border-radius: 24px;
+  padding: 24px;
+  transition: all 0.5s cubic-bezier(0.2, 0.8, 0.2, 1);
+  position: relative;
+  overflow: visible;
+  /* Changed for Hemicycle absolute positioning */
+  box-shadow: var(--shadow-liquid);
+}
+
+.glass-card:hover {
+  transform: translateY(-5px) scale(1.01);
+  box-shadow: 0 15px 40px rgba(0, 0, 0, 0.2);
+  border-color: var(--glass-highlight);
+}
+
+/* Sejm Visualization */
+.hemicycle-container {
+  position: relative;
+  width: 600px;
+  height: 300px;
+  /* Semicircle height */
+  margin: 20px auto;
+}
+
+.hemicycle-info {
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  text-align: center;
+}
+
+.seat-dot {
+  position: absolute;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: #555;
+  transition: all 0.2s;
+  cursor: pointer;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
+}
+
+.seat-dot:hover {
+  transform: scale(2);
+  box-shadow: 0 0 10px currentColor;
+  /* uses the dot's own color */
+  z-index: 10;
+}
+
+/* Typography & Utils */
+.text-gradient {
+  background: linear-gradient(135deg, var(--text-primary) 30%, var(--text-secondary));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.section-title {
+  color: var(--text-secondary);
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  font-weight: 600;
+  margin-bottom: 20px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.view-section {
+  display: none;
+  animation: fadeIn 0.8s cubic-bezier(0.2, 0.8, 0.2, 1);
+}
+
+.view-section.active {
+  display: block;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    filter: blur(10px);
+  }
+
+  to {
+    opacity: 1;
+    filter: blur(0);
+  }
+}
+
+/* Pipeline, Kanban, etc - Adapted to Monochrome */
+.pipeline-track {
+  background: var(--surface-border);
+}
+
+.stage-dot {
+  background: var(--bg-color);
+  border: 2px solid var(--text-secondary);
+}
+
+.stage-dot.active {
+  border-color: var(--text-primary);
+  background: var(--text-primary);
+  box-shadow: 0 0 20px var(--glass-highlight);
+}
+
+.stage-dot.completed {
+  border-color: var(--text-secondary);
+  background: var(--text-secondary);
+}
+
+.kanban-board {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 24px;
+  height: calc(100vh - 160px);
+  padding-bottom: 20px;
+}
+
+.kanban-column {
+  background: rgba(20, 20, 20, 0.4);
+  /* Darker semi-transparent */
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border: 1px solid var(--surface-border);
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  padding: 16px;
+  transition: all 0.3s ease;
+}
+
+.kanban-column:hover {
+  border-color: var(--glass-highlight);
+  background: rgba(30, 30, 30, 0.5);
+}
+
+.kanban-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 4px 16px 4px;
+  border-bottom: 1px solid var(--surface-border);
+  margin-bottom: 16px;
+  font-weight: 600;
+  color: var(--text-secondary);
+  font-size: 0.9rem;
+  letter-spacing: 0.02em;
+}
+
+.kanban-body {
+  flex: 1;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  padding-right: 4px;
+  /* Space for scrollbar */
+}
+
+/* Custom Scrollbar for columns */
+.kanban-body::-webkit-scrollbar {
+  width: 6px;
+}
+
+.kanban-body::-webkit-scrollbar-thumb {
+  background: var(--surface-border);
+  border-radius: 99px;
+}
+
+.kanban-card {
+  background: var(--surface-color);
+  border: 1px solid var(--surface-border);
+  border-radius: 16px;
+  padding: 16px;
+  cursor: grab;
+  position: relative;
+  transition: all 0.2s cubic-bezier(0.2, 0.8, 0.2, 1);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.kanban-card:hover {
+  transform: translateY(-4px);
+  background: var(--surface-color-heavy);
+  border-color: var(--glass-highlight);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.2);
+}
+
+.kanban-tag {
+  font-size: 0.7rem;
+  padding: 4px 8px;
+  border-radius: 6px;
+  background: rgba(255, 255, 255, 0.05);
+  color: var(--text-secondary);
+  display: inline-block;
+  margin-bottom: 8px;
+  border: 1px solid var(--surface-border);
+}
+
+/* Voting Colors (Exceptions to monochrome) */
+.vote-yes {
+  background: #34C759;
+}
+
+/* Green */
+.vote-no {
+  background: #FF3B30;
+}
+
+/* Red */
+.vote-abstain {
+  background: #8E8E93;
+}
+
+/* Utilities */
+.flex-between {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.text-xs {
+  font-size: 0.8rem;
+}
+
+.opacity-70 {
+  opacity: 0.7;
+}
+
+.mb-4 {
+  margin-bottom: 1rem;
+}
+
+.grid-dashboard {
+  display: grid;
+  grid-template-columns: 2.5fr 1fr;
+  gap: 24px;
+}
+
+.committees-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+  gap: 16px;
+}
+
+.gov-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 16px 0;
+  border-bottom: 1px solid var(--surface-border);
+}
+
+.progress-bar-bg {
+  background: rgba(128, 128, 128, 0.2);
+  border-radius: 4px;
+  height: 4px;
+}
+
+.progress-bar-fill {
+  background: var(--text-primary);
+  border-radius: 4px;
+}
+
+.voting-chart {
+  height: 32px;
+  border-radius: 8px;
+  overflow: hidden;
+  margin: 16px 0;
+  display: flex;
+}
+
+.vote-segment {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.75rem;
+  font-weight: 700;
+  color: white;
+}
+
+.badge {
+  padding: 4px 10px;
+  border-radius: 99px;
+  font-size: 0.75rem;
+  background: var(--surface-border);
+  color: var(--text-primary);
+}
+
+.live-indicator {
+  width: 8px;
+  height: 8px;
+  background: #FF3B30;
+  border-radius: 50%;
+  animation: pulse 2s infinite;
+}
+
+@keyframes pulse {
+  0% {
+    opacity: 1;
+  }
+
+  50% {
+    opacity: 0.3;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+/* Responsive */
+@media (max-width: 1024px) {
+  .sidebar {
+    width: 80px;
+    padding: 20px 10px;
+  }
+
+  .nav-item .nav-text,
+  .brand h2,
+  .user-profile div {
+    display: none;
+  }
+
+  .grid-dashboard {
+    grid-template-columns: 1fr;
+  }
+
+  .hemicycle-container {
+    transform: scale(0.6);
+    transform-origin: top center;
+  }
+
+  .kanban-board {
+    grid-template-columns: repeat(4, 280px);
+  }
+}
