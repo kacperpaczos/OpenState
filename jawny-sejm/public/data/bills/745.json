@@ -1,0 +1,160 @@
+{
+    "ELI": "DU/2024/1976",
+    "UE": "NO",
+    "address": "WDU20240001976",
+    "changeDate": "2025-01-03T14:37:01",
+    "closureDate": "2024-12-05",
+    "description": "projekt dotyczy - Rzeczpospolita Polska nie prowadzi obecnie jakiejkolwiek współpracy z Intersputnikiem, a na terytorium Rzeczypospolitej Polskiej nie znajduje się żadna infrastruktura należąca do Organizacji.",
+    "displayAddress": "Dz.U. 2024 poz. 1976",
+    "documentDate": "2024-10-21",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [
+        {
+            "href": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001976",
+            "rel": "isap"
+        },
+        {
+            "href": "https://eli.gov.pl/eli/DU/2024/1976/ogl",
+            "rel": "eli"
+        },
+        {
+            "href": "https://api.sejm.gov.pl/eli/acts/DU/2024/1976",
+            "rel": "eli-api"
+        }
+    ],
+    "number": "745",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2024-10-21",
+    "rclLink": "https://legislacja.rcl.gov.pl/getIdFromLegislacja?number=RM-0610-76-24",
+    "rclNum": "RM-0610-76-24",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2024-10-21",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "745",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-10-25",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "SZA",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                },
+                {
+                    "date": "2024-10-25",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "CNT",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-10-25",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "date": "2024-11-06",
+            "stageName": "I czytanie w komisjach",
+            "stageType": "Reading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-11-06",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "779",
+                    "proposal": "uchwalić projekt ustawy bez poprawek",
+                    "rapporteurID": "19",
+                    "rapporteurName": "Paweł Bliźniuk",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/779/779.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2024-11-06",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "date": "2024-12-05",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "decision": "niezwłocznie przystąpiono do III czytania",
+            "sittingNum": 23,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-12-05",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 0,
+                        "date": "2024-12-05T17:47:05",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/23/3/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 1,
+                        "no": 0,
+                        "notParticipating": 16,
+                        "present": 0,
+                        "sitting": 23,
+                        "sittingDay": 2,
+                        "term": 10,
+                        "title": "Pkt. 10 Sprawozdanie Komisji o rządowym projekcie ustawy o wypowiedzeniu Porozumienia o zdolności prawnej, przywilejach i immunitetach Międzynarodowej Organizacji Łączności Kosmicznej \"Intersputnik\", sporządzonego w Berlinie dnia 20 września 1976 r. (druki nr 745 i 779)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 444,
+                        "votingNumber": 3,
+                        "yes": 444
+                    }
+                }
+            ],
+            "date": "2024-12-05",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "decision": "uchwalono",
+            "sittingNum": 23,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/745/attachment/745_u3.pdf"
+        },
+        {
+            "date": "2024-12-18",
+            "stageName": "Stanowisko Senatu",
+            "position": "nie wniósł poprawek",
+            "stageType": "SenatePosition"
+        },
+        {
+            "date": "2024-12-19",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "date": "2024-12-28",
+            "stageName": "Prezydent podpisał ustawę",
+            "omittedInconsistent": false,
+            "stageType": "PresidentSignature"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o wypowiedzeniu Porozumienia o zdolności prawnej, przywilejach i immunitetach Międzynarodowej Organizacji Łączności Kosmicznej \"Intersputnik\", sporządzonego w Berlinie dnia 20 września 1976 r.",
+    "titleFinal": "o wypowiedzeniu Porozumienia o zdolności prawnej, przywilejach i immunitetach Międzynarodowej Organizacji Łączności Kosmicznej \"Intersputnik\", sporządzonego w Berlinie dnia 20 września 1976 r.",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-01-09T14:37:56"
+}

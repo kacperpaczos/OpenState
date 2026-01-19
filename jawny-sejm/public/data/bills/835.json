@@ -1,0 +1,226 @@
+{
+    "ELI": "DU/2025/1696",
+    "UE": "NO",
+    "address": "WDU20250001696",
+    "changeDate": "2025-12-09T14:20:27",
+    "closureDate": "2025-11-07",
+    "description": "projekt dotyczy wprowadzenia zakazu hodowli zwierząt futerkowych z wyjątkiem królika; wprowadzenia 15-letniego okresu przejściowego, po upływie którego wprowadzony zostanie bezwzględny zakaz chowu i hodowli zwierząt futerkowych, z wyjątkiem królika; zakazu budowy nowych ferm zwierząt futerkowych - działalność będzie mogła być prowadzona wyłącznie na już istniejących fermach, bez możliwości ich rozbudowy",
+    "displayAddress": "Dz.U. 2025 poz. 1696",
+    "documentDate": "2024-06-26",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [
+        {
+            "href": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001696",
+            "rel": "isap"
+        },
+        {
+            "href": "https://eli.gov.pl/eli/DU/2025/1696/ogl",
+            "rel": "eli"
+        },
+        {
+            "href": "https://api.sejm.gov.pl/eli/acts/DU/2025/1696",
+            "rel": "eli-api"
+        }
+    ],
+    "number": "835",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "printsConsideredJointly": [
+        "703"
+    ],
+    "processStartDate": "2024-06-26",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2024-06-26",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "835",
+            "stageType": "Start"
+        },
+        {
+            "date": "2024-07-03",
+            "stageName": "Opinia organizacji samorządowej",
+            "organ": "Organizacja samorządowa",
+            "stageType": "Opinion"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-11-05",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "NOZ",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-11-05",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "date": "2025-10-07",
+            "stageName": "I czytanie w komisjach",
+            "stageType": "Reading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-10-14",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 4,
+                    "printNumber": "1769",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "394",
+                    "rapporteurName": "Małgorzata Tracz",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1769/1769.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-10-14",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-10-15",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "NOZ",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-10-15",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "comment": "poprawki",
+            "decision": "skierowano ponownie do komisji w celu przedstawienia sprawozdania",
+            "sittingNum": 43,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-10-16",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "1769-A",
+                    "proposal": "przyjąć poprawki",
+                    "rapporteurID": "394",
+                    "rapporteurName": "Małgorzata Tracz",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1769-A/1769-A.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-10-16",
+            "stageName": "Praca w komisjach po II czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-10-17",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 19,
+                        "date": "2025-10-17T10:14:57",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/43/57/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 79,
+                        "no": 78,
+                        "notParticipating": 24,
+                        "present": 0,
+                        "sitting": 43,
+                        "sittingDay": 3,
+                        "term": 10,
+                        "title": "Pkt. 12 Sprawozdanie Komisji o poselskich projektach ustaw o zmianie ustawy o ochronie zwierząt (druki nr 703, 835, 1769 i 1769-A)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 436,
+                        "votingNumber": 57,
+                        "yes": 339
+                    }
+                }
+            ],
+            "date": "2025-10-17",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "comment": "wnioski mniejszości, poprawki",
+            "decision": "uchwalono",
+            "sittingNum": 43,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/703/attachment/703_u3.pdf"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-10-30",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "NOZ",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-10-29",
+            "stageName": "Stanowisko Senatu",
+            "position": "wniósł poprawki",
+            "printNumber": "1868",
+            "stageType": "SenatePosition"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-11-05",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "1905",
+                    "proposal": "przyjąć poprawki",
+                    "rapporteurID": "394",
+                    "rapporteurName": "Małgorzata Tracz",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1905/1905.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-11-05",
+            "stageName": "Praca w komisjach nad stanowiskiem Senatu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "date": "2025-11-07",
+            "stageName": "Rozpatrywanie na forum Sejmu stanowiska Senatu",
+            "decision": "przyjęto poprawki",
+            "sittingNum": 44,
+            "stageType": "SenatePositionConsideration"
+        },
+        {
+            "date": "2025-11-12",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "date": "2025-12-02",
+            "stageName": "Prezydent podpisał ustawę",
+            "omittedInconsistent": false,
+            "stageType": "PresidentSignature"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Poselski projekt ustawy o zmianie ustawy o ochronie zwierząt",
+    "titleFinal": "o zmianie ustawy o ochronie zwierząt",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-12-09T14:21:12"
+}

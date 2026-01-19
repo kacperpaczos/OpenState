@@ -1,0 +1,231 @@
+{
+    "ELI": "DU/2024/1685",
+    "UE": "ENFORCEMENT",
+    "address": "WDU20240001685",
+    "changeDate": "2024-11-25T09:46:19",
+    "closureDate": "2024-11-06",
+    "description": "projekt dotyczy implementacji do polskiego porządku prawnego przepisów dyrektywy Rady (UE) 2022/2523 z dnia 14 grudnia 2022 r. w sprawie zapewnienia globalnego minimalnego poziomu opodatkowania międzynarodowych grup przedsiębiorstw oraz dużych grup krajowych w Unii Europejskiej i wprowadzenia systemu tzw. globalnego podatku minimalnego (zasad GloBE), tj. głównej części tzw. Filaru II OECD",
+    "displayAddress": "Dz.U. 2024 poz. 1685",
+    "documentDate": "2024-09-25",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [
+        {
+            "href": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001685",
+            "rel": "isap"
+        },
+        {
+            "href": "https://eli.gov.pl/eli/DU/2024/1685/ogl",
+            "rel": "eli"
+        },
+        {
+            "href": "https://api.sejm.gov.pl/eli/acts/DU/2024/1685",
+            "rel": "eli-api"
+        }
+    ],
+    "number": "674",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2024-09-25",
+    "rclLink": "https://legislacja.rcl.gov.pl/getIdFromLegislacja?number=RM-0610-69-24",
+    "rclNum": "RM-0610-69-24",
+    "shortenProcedure": true,
+    "stages": [
+        {
+            "date": "2024-09-25",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "674",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-09-25",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "Sejm",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-09-25",
+            "stageName": "Skierowano do I czytania na posiedzeniu Sejmu",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-10-10",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "FPB",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                },
+                {
+                    "date": "2024-10-10",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 98,
+                        "date": "2024-10-10T10:28:35",
+                        "description": "Wniosek o odrzucenie projektu ustawy w pierwszym czytaniu",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/19/6/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 239,
+                        "no": 238,
+                        "notParticipating": 107,
+                        "present": 0,
+                        "sitting": 19,
+                        "sittingDay": 2,
+                        "term": 10,
+                        "title": "Pkt. 2 Pierwsze czytanie rządowego projektu ustawy o opodatkowaniu wyrównawczym jednostek składowych grup międzynarodowych i krajowych (druk nr 674)",
+                        "topic": "wniosek o odrzucenie projektu w pierwszym czytaniu.",
+                        "totalVoted": 352,
+                        "votingNumber": 6,
+                        "yes": 16
+                    }
+                }
+            ],
+            "date": "2024-10-10",
+            "stageName": "I czytanie na posiedzeniu Sejmu",
+            "sittingNum": 19,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-10-15",
+                    "stageName": "Sprawozdanie podkomisji",
+                    "minorityMotions": 0,
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/processes/674/attachment/spr_674.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": true
+                },
+                {
+                    "date": "2024-10-17",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "734",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "161",
+                    "rapporteurName": "Katarzyna Kierzek-Koperska",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/734/734.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2024-10-15",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-11-06",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "FPB",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-11-06",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "comment": "poprawki",
+            "decision": "skierowano ponownie do komisji w celu przedstawienia sprawozdania",
+            "sittingNum": 21,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-11-06",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "734-A",
+                    "proposal": "przyjąć poprawki",
+                    "rapporteurID": "161",
+                    "rapporteurName": "Katarzyna Kierzek-Koperska",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/734-A/734-A.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2024-11-06",
+            "stageName": "Praca w komisjach po II czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-11-06",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 9,
+                        "date": "2024-11-06T16:12:36",
+                        "description": "Całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/21/12/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 189,
+                        "no": 188,
+                        "notParticipating": 27,
+                        "present": 0,
+                        "sitting": 21,
+                        "sittingDay": 1,
+                        "term": 10,
+                        "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o opodatkowaniu wyrównawczym jednostek składowych grup międzynarodowych i krajowych (druki nr 674, 734 i 734-A)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 433,
+                        "votingNumber": 12,
+                        "yes": 236
+                    }
+                }
+            ],
+            "date": "2024-11-06",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "comment": "poprawki",
+            "decision": "uchwalono",
+            "sittingNum": 21,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/674/attachment/674_u3.pdf"
+        },
+        {
+            "date": "2024-11-07",
+            "stageName": "Stanowisko Senatu",
+            "position": "nie wniósł poprawek",
+            "stageType": "SenatePosition"
+        },
+        {
+            "date": "2024-11-07",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "date": "2024-11-15",
+            "stageName": "Prezydent podpisał ustawę",
+            "omittedInconsistent": false,
+            "stageType": "PresidentSignature"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o opodatkowaniu wyrównawczym jednostek składowych grup międzynarodowych i krajowych",
+    "titleFinal": "o opodatkowaniu wyrównawczym jednostek składowych grup międzynarodowych i krajowych",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2024-11-27T08:09:03"
+}

@@ -1,0 +1,163 @@
+{
+    "ELI": "DU/2024/852",
+    "UE": "NO",
+    "address": "WDU20240000852",
+    "changeDate": "2024-06-11T10:37:51",
+    "closureDate": "2024-05-09",
+    "description": "projekt dotyczy przesunięcia terminu wdrożenia Krajowego Systemu e-Faktur (KSeF) z 1 lipca 2024 roku na 1 lutego 2026 roku",
+    "displayAddress": "Dz.U. 2024 poz. 852",
+    "documentDate": "2024-05-02",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [
+        {
+            "href": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000852",
+            "rel": "isap"
+        },
+        {
+            "href": "https://eli.gov.pl/eli/DU/2024/852/ogl",
+            "rel": "eli"
+        },
+        {
+            "href": "https://api.sejm.gov.pl/eli/acts/DU/2024/852",
+            "rel": "eli-api"
+        }
+    ],
+    "number": "341",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2024-05-02",
+    "rclLink": "https://legislacja.rcl.gov.pl/getIdFromLegislacja?number=RM-0610-32-24",
+    "rclNum": "RM-0610-32-24",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2024-05-02",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "341",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-05-07",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "Sejm",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-05-07",
+            "stageName": "Skierowano do I czytania na posiedzeniu Sejmu",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-05-08",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "FPB",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-05-08",
+            "stageName": "I czytanie na posiedzeniu Sejmu",
+            "sittingNum": 11,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-05-08",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "373",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "334",
+                    "rapporteurName": "Krystyna Sibińska",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/373/373.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2024-05-08",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "date": "2024-05-09",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "decision": "niezwłocznie przystąpiono do III czytania",
+            "sittingNum": 11,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-05-09",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 20,
+                        "date": "2024-05-09T20:52:54",
+                        "description": "Całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/11/18/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 184,
+                        "no": 183,
+                        "notParticipating": 19,
+                        "present": 0,
+                        "sitting": 11,
+                        "sittingDay": 2,
+                        "term": 10,
+                        "title": "Pkt. 12 Sprawozdanie Komisji o rządowym projekcie ustawy zmieniającej ustawę o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw (druki nr 341 i 373)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 440,
+                        "votingNumber": 18,
+                        "yes": 237
+                    }
+                }
+            ],
+            "date": "2024-05-09",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "decision": "uchwalono",
+            "sittingNum": 11,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/341/attachment/341_u3.pdf"
+        },
+        {
+            "date": "2024-05-22",
+            "stageName": "Stanowisko Senatu",
+            "position": "nie wniósł poprawek",
+            "stageType": "SenatePosition"
+        },
+        {
+            "date": "2024-05-23",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "date": "2024-06-05",
+            "stageName": "Prezydent podpisał ustawę",
+            "omittedInconsistent": false,
+            "stageType": "PresidentSignature"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy zmieniającej ustawę o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw",
+    "titleFinal": "zmieniająca ustawę o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2024-06-11T11:50:38"
+}

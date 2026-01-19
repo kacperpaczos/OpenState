@@ -1,0 +1,53 @@
+{
+    "UE": "NO",
+    "changeDate": "2025-02-20T11:45:46",
+    "description": "projekt dotyczy uznania charakterystycznych zapachów i dźwięków będących wynikiem prowadzonej działalności rolniczej za element dziedzictwa sensorycznego wsi i poddanie ich ochronie prawnej, a co za tym idzie, wyeliminowania roszczeń negatoryjnych związanych z immisjami z działalności rolniczej",
+    "documentDate": "2024-12-30",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "998",
+    "passed": false,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2024-12-30",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2024-12-30",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "998",
+            "stageType": "Start"
+        },
+        {
+            "date": "2025-01-08",
+            "stageName": "Opinia organizacji samorządowej",
+            "organ": "Organizacja samorządowa",
+            "stageType": "Opinion"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-02-20",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "RRW",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-02-20",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "date": "2025-10-02",
+            "stageName": "Wpłynęło stanowisko rządu",
+            "stageType": "GovermentPosition",
+            "title": "Stanowisko Rządu do druku nr 998"
+        }
+    ],
+    "term": 10,
+    "title": "Poselski projekt ustawy o ochronie prowadzenia działalności rolniczej",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-02-20T11:46:02"
+}

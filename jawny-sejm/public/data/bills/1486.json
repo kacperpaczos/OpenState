@@ -1,0 +1,158 @@
+{
+    "ELI": "DU/2025/1412",
+    "UE": "NO",
+    "address": "WDU20250001412",
+    "changeDate": "2025-10-23T14:52:17",
+    "closureDate": "2025-09-12",
+    "description": "projekt dotyczy uporządkowania statusu prawnego umowy tworzącej Międzynarodowy Fundusz Walutowy i właściwego jej usytuowania w polskim porządku prawnym",
+    "displayAddress": "Dz.U. 2025 poz. 1412",
+    "documentDate": "2025-07-07",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [
+        {
+            "href": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001412",
+            "rel": "isap"
+        },
+        {
+            "href": "https://eli.gov.pl/eli/DU/2025/1412/ogl",
+            "rel": "eli"
+        },
+        {
+            "href": "https://api.sejm.gov.pl/eli/acts/DU/2025/1412",
+            "rel": "eli-api"
+        }
+    ],
+    "number": "1486",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2025-07-07",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2025-07-07",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "1486",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-07-10",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "SZA",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                },
+                {
+                    "date": "2025-07-10",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "FPB",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-07-10",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "date": "2025-07-22",
+            "stageName": "I czytanie w komisjach",
+            "stageType": "Reading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-07-22",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "1516",
+                    "proposal": "uchwalić projekt ustawy bez poprawek",
+                    "rapporteurID": "431",
+                    "rapporteurName": "Anna Wojciechowska",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1516/1516.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-07-22",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "date": "2025-09-10",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "decision": "niezwłocznie przystąpiono do III czytania",
+            "sittingNum": 40,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-09-12",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 185,
+                        "date": "2025-09-12T20:59:19",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/40/121/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 9,
+                        "no": 8,
+                        "notParticipating": 36,
+                        "present": 0,
+                        "sitting": 40,
+                        "sittingDay": 4,
+                        "term": 10,
+                        "title": "Pkt. 27 Sprawozdanie Komisji o rządowym projekcie ustawy o ratyfikacji Umowy o Międzynarodowym Funduszu Walutowym, sporządzonej w Bretton Woods dnia 22 lipca 1944 r., w wersji tej Umowy nadanej Drugą Poprawką przyjętą Rezolucją nr 31-4 Rady Gubernatorów Międzynarodowego Funduszu Walutowego z dnia 30 kwietnia 1976 r., wraz z Trzecią Poprawką przyjętą Rezolucją nr 45-3 Rady Gubernatorów Międzynarodowego Funduszu Walutowego z dnia 28 czerwca 1990 r. oraz z Czwartą Poprawką przyjętą Rezolucją nr 52-4 Rady Gubernatorów Międzynarodowego Funduszu Walutowego z dnia 23 września 1997 r. (druki nr 1486 i 1516)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 424,
+                        "votingNumber": 121,
+                        "yes": 231
+                    }
+                }
+            ],
+            "date": "2025-09-12",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "decision": "uchwalono",
+            "sittingNum": 40,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/1486/attachment/1486_u3.pdf"
+        },
+        {
+            "date": "2025-09-24",
+            "stageName": "Stanowisko Senatu",
+            "position": "nie wniósł poprawek",
+            "stageType": "SenatePosition"
+        },
+        {
+            "date": "2025-09-26",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "date": "2025-10-15",
+            "stageName": "Prezydent podpisał ustawę",
+            "omittedInconsistent": false,
+            "stageType": "PresidentSignature"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o ratyfikacji Umowy o Międzynarodowym Funduszu Walutowym, sporządzonej w Bretton Woods dnia 22 lipca 1944 r., w wersji tej Umowy nadanej Drugą Poprawką przyjętą Rezolucją nr 31-4 Rady Gubernatorów Międzynarodowego Funduszu Walutowego z dnia 30 kwietnia 1976 r., wraz z Trzecią Poprawką przyjętą Rezolucją nr 45-3 Rady Gubernatorów Międzynarodowego Funduszu Walutowego z dnia 28 czerwca 1990 r. oraz z Czwartą Poprawką przyjętą Rezolucją nr 52-4 Rady Gubernatorów Międzynarodowego Funduszu Walutowego z dnia 23 września 1997 r.",
+    "titleFinal": "o ratyfikacji Umowy o Międzynarodowym Funduszu Walutowym, sporządzonej w Bretton Woods dnia 22 lipca 1944 r., w wersji tej Umowy nadanej Drugą Poprawką przyjętą Rezolucją nr 31-4 Rady Gubernatorów Międzynarodowego Funduszu Walutowego z dnia 30 kwietnia 1976 r., wraz z Trzecią Poprawką przyjętą Rezolucją nr 45-3 Rady Gubernatorów Międzynarodowego Funduszu Walutowego z dnia 28 czerwca 1990 r. oraz z Czwartą Poprawką przyjętą Rezolucją nr 52-4 Rady Gubernatorów Międzynarodowego Funduszu Walutowego z dnia 23 września 1997 r.",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-10-24T08:53:56"
+}

@@ -1,0 +1,153 @@
+{
+    "ELI": "DU/2025/565",
+    "UE": "NO",
+    "address": "WDU20250000565",
+    "changeDate": "2025-05-06T13:30:35",
+    "closureDate": "2025-04-23",
+    "description": "projekt dotyczy przesunięcia terminu wejścia w życie zmienionych taryf dla energii elektrycznej z dnia 1 lipca 2025 r. na dzień 1 października 2025 r.; zmiany terminu na złożenie wniosków taryfowych przez przedsiębiorstwa energetyczne z dnia 30 kwietnia 2025 r. na dzień 31 lipca 2025 r.; określenia nowej daty aktualizacji publikacji średnich cen energii elektrycznej wynikających z taryf sprzedawców energii elektrycznej pełniących funkcję sprzedawców z urzędu, w wyniku zatwierdzenia w IV kw. 2025 r. nowych taryf dla odbiorców w gospodarstwach domowych",
+    "displayAddress": "Dz.U. 2025 poz. 565",
+    "documentDate": "2025-04-15",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [
+        {
+            "href": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000565",
+            "rel": "isap"
+        },
+        {
+            "href": "https://eli.gov.pl/eli/DU/2025/565/ogl",
+            "rel": "eli"
+        },
+        {
+            "href": "https://api.sejm.gov.pl/eli/acts/DU/2025/565",
+            "rel": "eli-api"
+        }
+    ],
+    "number": "1175",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2025-04-15",
+    "rclLink": "https://legislacja.rcl.gov.pl/getIdFromLegislacja?number=RM-0610-33-25",
+    "rclNum": "RM-0610-33-25",
+    "shortenProcedure": true,
+    "stages": [
+        {
+            "date": "2025-04-15",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "1175",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-04-16",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "ESK",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-04-16",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "date": "2025-04-23",
+            "stageName": "I czytanie w komisjach",
+            "stageType": "Reading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-04-23",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "1183",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "171",
+                    "rapporteurName": "Rafał Komarewicz",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1183/1183.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-04-23",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "date": "2025-04-23",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "decision": "niezwłocznie przystąpiono do III czytania",
+            "sittingNum": 33,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-04-23",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 16,
+                        "date": "2025-04-23T21:47:43",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/33/6/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 1,
+                        "no": 0,
+                        "notParticipating": 28,
+                        "present": 0,
+                        "sitting": 33,
+                        "sittingDay": 1,
+                        "term": 10,
+                        "title": "Pkt. 4 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o szczególnych rozwiązaniach służących ochronie odbiorców energii elektrycznej w 2023 roku oraz w 2024 roku w związku z sytuacją na rynku energii elektrycznej (druki nr 1175 i 1183)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 432,
+                        "votingNumber": 6,
+                        "yes": 416
+                    }
+                }
+            ],
+            "date": "2025-04-23",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "decision": "uchwalono",
+            "sittingNum": 33,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/1175/attachment/1175_u3.pdf"
+        },
+        {
+            "date": "2025-04-24",
+            "stageName": "Stanowisko Senatu",
+            "position": "nie wniósł poprawek",
+            "stageType": "SenatePosition"
+        },
+        {
+            "date": "2025-04-25",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "date": "2025-04-28",
+            "stageName": "Prezydent podpisał ustawę",
+            "omittedInconsistent": false,
+            "stageType": "PresidentSignature"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o zmianie ustawy o szczególnych rozwiązaniach służących ochronie odbiorców energii elektrycznej w 2023 roku oraz w 2024 roku w związku z sytuacją na rynku energii elektrycznej",
+    "titleFinal": "o zmianie ustawy o szczególnych rozwiązaniach służących ochronie odbiorców energii elektrycznej w 2023 roku oraz w 2024 roku w związku z sytuacją na rynku energii elektrycznej",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-05-07T15:14:00"
+}

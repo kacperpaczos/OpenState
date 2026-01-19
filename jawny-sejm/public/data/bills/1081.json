@@ -1,0 +1,99 @@
+{
+    "UE": "NO",
+    "changeDate": "2025-04-24T17:27:01",
+    "closureDate": "2025-04-24",
+    "description": "projekt dotyczy wprowadzenia przepisów umożliwiających zwolnienia od podatku dochodowego od osób fizycznych i podatku dochodowego od osób prawnych w zakresie odszkodowań uzyskanych przez przedsiębiorców w związku z usuwaniem skutków powodzi z września 2024 r.",
+    "documentDate": "2024-11-26",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "1081",
+    "passed": false,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2024-11-26",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2024-11-26",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "1081",
+            "stageType": "Start"
+        },
+        {
+            "date": "2024-12-04",
+            "stageName": "Opinia organizacji samorządowej",
+            "organ": "Organizacja samorządowa",
+            "stageType": "Opinion"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-03-05",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "Sejm",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-03-05",
+            "stageName": "Skierowano do I czytania na posiedzeniu Sejmu",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "date": "2025-04-04",
+            "stageName": "I czytanie na posiedzeniu Sejmu",
+            "comment": "Marszałek Sejmu przeniósł na następne posiedzenie głosowanie nad wnioskiem o odrzucenie projektu ustawy w pierwszym czytaniu",
+            "decision": "niedokończone I czytanie",
+            "sittingNum": 32,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-04-24",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 0,
+                        "date": "2025-04-24T13:54:16",
+                        "description": "wniosek o odrzucenie projektu ustawy w pierwszym czytaniu",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/33/13/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 188,
+                        "no": 187,
+                        "notParticipating": 40,
+                        "present": 0,
+                        "sitting": 33,
+                        "sittingDay": 2,
+                        "term": 10,
+                        "title": "Pkt. 8 Pierwsze czytanie poselskiego projektu ustawy o zmianie niektórych ustaw w celu zwolnienia przedsiębiorców od podatku dochodowego od kwot z ubezpieczeń majątkowych uzyskanych w związku z usuwaniem skutków klęsk żywiołowych (druk nr 1081) - kontynuacja",
+                        "topic": "wniosek o odrzucenie projektu w pierwszym czytaniu.",
+                        "totalVoted": 420,
+                        "votingNumber": 13,
+                        "yes": 233
+                    }
+                }
+            ],
+            "date": "2025-04-24",
+            "stageName": "I czytanie na posiedzeniu Sejmu",
+            "decision": "odrzucony",
+            "sittingNum": 33,
+            "stageType": "SejmReading"
+        },
+        {
+            "stageName": "Odrzucono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Poselski projekt ustawy o zmianie niektórych ustaw w celu zwolnienia przedsiębiorców od podatku dochodowego od kwot z ubezpieczeń majątkowych uzyskanych w związku z usuwaniem skutków klęsk żywiołowych",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-05-07T15:14:00"
+}

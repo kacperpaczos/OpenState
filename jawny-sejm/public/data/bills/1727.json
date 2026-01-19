@@ -1,0 +1,154 @@
+{
+    "ELI": "DU/2025/1610",
+    "UE": "ENFORCEMENT",
+    "address": "WDU20250001610",
+    "changeDate": "2025-12-09T14:08:38",
+    "closureDate": "2025-10-09",
+    "description": "projekt dotyczy dostosowania polskiego prawa do przepisów Unii Europejskiej w sprawie uznawania kwalifikacji zawodowych pielęgniarek, które odbyły kształcenie w Rumunii",
+    "displayAddress": "Dz.U. 2025 poz. 1610",
+    "documentDate": "2025-09-11",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [
+        {
+            "href": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001610",
+            "rel": "isap"
+        },
+        {
+            "href": "https://eli.gov.pl/eli/DU/2025/1610/ogl",
+            "rel": "eli"
+        },
+        {
+            "href": "https://api.sejm.gov.pl/eli/acts/DU/2025/1610",
+            "rel": "eli-api"
+        }
+    ],
+    "number": "1727",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2025-09-11",
+    "rclLink": "https://legislacja.rcl.gov.pl/getIdFromLegislacja?number=RM-0610-163-25",
+    "rclNum": "RM-0610-163-25",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2025-09-11",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "1727",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-09-24",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "ZDR",
+                    "reportDate": "2025-10-07",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-09-24",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "date": "2025-10-07",
+            "stageName": "I czytanie w komisjach",
+            "stageType": "Reading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-10-07",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "1772",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "417",
+                    "rapporteurName": "Joanna Wicha",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1772/1772.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-10-07",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "date": "2025-10-08",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "decision": "niezwłocznie przystąpiono do III czytania",
+            "sittingNum": 42,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-10-09",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 0,
+                        "date": "2025-10-09T16:58:21",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/42/33/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 20,
+                        "no": 19,
+                        "notParticipating": 19,
+                        "present": 0,
+                        "sitting": 42,
+                        "sittingDay": 3,
+                        "term": 10,
+                        "title": "Pkt. 13 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o zawodach pielęgniarki i położnej (druki nr 1727 i 1772)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 441,
+                        "votingNumber": 33,
+                        "yes": 422
+                    }
+                }
+            ],
+            "date": "2025-10-09",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "decision": "uchwalono",
+            "sittingNum": 42,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/1727/attachment/1727_u3.pdf"
+        },
+        {
+            "date": "2025-10-29",
+            "stageName": "Stanowisko Senatu",
+            "position": "nie wniósł poprawek",
+            "stageType": "SenatePosition"
+        },
+        {
+            "date": "2025-10-30",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "date": "2025-11-18",
+            "stageName": "Prezydent podpisał ustawę",
+            "omittedInconsistent": false,
+            "stageType": "PresidentSignature"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o zmianie ustawy o zawodach pielęgniarki i położnej",
+    "titleFinal": "o zmianie ustawy o zawodach pielęgniarki i położnej",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-12-09T14:08:49"
+}

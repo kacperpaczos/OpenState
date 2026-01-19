@@ -1,0 +1,163 @@
+{
+    "ELI": "DU/2025/897",
+    "UE": "NO",
+    "address": "WDU20250000897",
+    "changeDate": "2025-07-18T12:55:04",
+    "closureDate": "2025-06-24",
+    "description": "projekt dotyczy wydłużenia terminu na złożenie przez rozwiedzionego małżonka oświadczenia o powrocie do nazwiska, które nosił przed zawarciem małżeństwa z 3 do 12 miesięcy od uprawomocnienia się orzeczenia rozwodowego. Nowe przepisy realizują działania deregulacyjne rządu.",
+    "displayAddress": "Dz.U. 2025 poz. 897",
+    "documentDate": "2025-05-06",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [
+        {
+            "href": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000897",
+            "rel": "isap"
+        },
+        {
+            "href": "https://eli.gov.pl/eli/DU/2025/897/ogl",
+            "rel": "eli"
+        },
+        {
+            "href": "https://api.sejm.gov.pl/eli/acts/DU/2025/897",
+            "rel": "eli-api"
+        }
+    ],
+    "number": "1234",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2025-05-06",
+    "rclLink": "https://legislacja.rcl.gov.pl/getIdFromLegislacja?number=RM-0610-49-25",
+    "rclNum": "RM-0610-49-25",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2025-05-06",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "1234",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-05-08",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "Sejm",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-05-08",
+            "stageName": "Skierowano do I czytania na posiedzeniu Sejmu",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-05-21",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "DER",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-05-21",
+            "stageName": "I czytanie na posiedzeniu Sejmu",
+            "sittingNum": 35,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-06-03",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "1292",
+                    "proposal": "uchwalić projekt ustawy bez poprawek",
+                    "rapporteurID": "67",
+                    "rapporteurName": "Barbara Dolniak",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1292/1292.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-06-03",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "date": "2025-06-11",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "decision": "zakończono II czytanie",
+            "sittingNum": 36,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-06-24",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 1,
+                        "date": "2025-06-24T10:39:58",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/37/12/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 1,
+                        "no": 0,
+                        "notParticipating": 43,
+                        "present": 0,
+                        "sitting": 37,
+                        "sittingDay": 1,
+                        "term": 10,
+                        "title": "Pkt. 5 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Kodeks rodzinny i opiekuńczy (druki nr 1234 i 1292) - trzecie czytanie",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 417,
+                        "votingNumber": 12,
+                        "yes": 416
+                    }
+                }
+            ],
+            "date": "2025-06-24",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "decision": "uchwalono",
+            "sittingNum": 37,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/1234/attachment/1234_u3.pdf"
+        },
+        {
+            "date": "2025-06-25",
+            "stageName": "Stanowisko Senatu",
+            "position": "nie wniósł poprawek",
+            "stageType": "SenatePosition"
+        },
+        {
+            "date": "2025-06-26",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "date": "2025-07-03",
+            "stageName": "Prezydent podpisał ustawę",
+            "omittedInconsistent": false,
+            "stageType": "PresidentSignature"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o zmianie ustawy - Kodeks rodzinny i opiekuńczy",
+    "titleFinal": "o zmianie ustawy - Kodeks rodzinny i opiekuńczy",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-07-18T14:24:08"
+}

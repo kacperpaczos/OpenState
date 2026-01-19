@@ -1,0 +1,201 @@
+{
+    "ELI": "DU/2024/1221",
+    "UE": "ENFORCEMENT",
+    "address": "WDU20240001221",
+    "changeDate": "2024-08-21T10:05:27",
+    "closureDate": "2024-07-12",
+    "description": "projekt dotyczy ustanowienia Europejskiego Kodeksu Łączności Elektronicznej, co ma poprawić pozycję konsumentów na rynku usług telekomunikacyjnych; wprowadzenia m.in. możliwości otrzymania przez abonentów pre-paid zwrotu pozostałych na koncie środków z doładowań, w przypadku wygaśnięcia ważności konta; zwiększenia elastyczności przy zawieraniu i rozwiązywaniu umów",
+    "displayAddress": "Dz.U. 2024 poz. 1221",
+    "documentDate": "2024-05-21",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [
+        {
+            "href": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001221",
+            "rel": "isap"
+        },
+        {
+            "href": "https://eli.gov.pl/eli/DU/2024/1221/ogl",
+            "rel": "eli"
+        },
+        {
+            "href": "https://api.sejm.gov.pl/eli/acts/DU/2024/1221",
+            "rel": "eli-api"
+        }
+    ],
+    "number": "423",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2024-05-21",
+    "rclLink": "https://legislacja.rcl.gov.pl/getIdFromLegislacja?number=RM-0610-13-24",
+    "rclNum": "RM-0610-13-24",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2024-05-21",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "423",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-05-31",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "Sejm",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-05-31",
+            "stageName": "Skierowano do I czytania na posiedzeniu Sejmu",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-06-13",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "CNT",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-06-13",
+            "stageName": "I czytanie na posiedzeniu Sejmu",
+            "sittingNum": 13,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-06-27",
+                    "stageName": "Sprawozdanie podkomisji",
+                    "minorityMotions": 0,
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/processes/423/attachment/spr_423.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": true
+                },
+                {
+                    "date": "2024-07-04",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "506",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "257",
+                    "rapporteurName": "Grzegorz Napieralski",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/506/506.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2024-06-27",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-07-11",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "CNT",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-07-11",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "comment": "poprawki",
+            "decision": "skierowano ponownie do komisji w celu przedstawienia sprawozdania",
+            "sittingNum": 15,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-07-11",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "506-A",
+                    "proposal": "odrzucić poprawki",
+                    "rapporteurID": "257",
+                    "rapporteurName": "Grzegorz Napieralski",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/506-A/506-A.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2024-07-11",
+            "stageName": "Praca w komisjach po II czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-07-12",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 7,
+                        "date": "2024-07-12T13:59:25",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/15/27/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 16,
+                        "no": 15,
+                        "notParticipating": 25,
+                        "present": 0,
+                        "sitting": 15,
+                        "sittingDay": 2,
+                        "term": 10,
+                        "title": "Pkt. 2 Sprawozdanie Komisji o rządowym projekcie ustawy - Prawo komunikacji elektronicznej (druki nr 423 i 506)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 433,
+                        "votingNumber": 27,
+                        "yes": 411
+                    }
+                }
+            ],
+            "date": "2024-07-12",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "comment": "poprawki",
+            "decision": "uchwalono",
+            "sittingNum": 15,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/423/attachment/423_u3.pdf"
+        },
+        {
+            "date": "2024-07-25",
+            "stageName": "Stanowisko Senatu",
+            "position": "nie wniósł poprawek",
+            "stageType": "SenatePosition"
+        },
+        {
+            "date": "2024-07-26",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "date": "2024-08-09",
+            "stageName": "Prezydent podpisał ustawę",
+            "omittedInconsistent": false,
+            "stageType": "PresidentSignature"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy - Prawo komunikacji elektronicznej",
+    "titleFinal": "Prawo komunikacji elektronicznej",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2024-08-21T10:05:39"
+}

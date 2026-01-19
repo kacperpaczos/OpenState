@@ -1,0 +1,81 @@
+{
+    "UE": "NO",
+    "changeDate": "2025-09-10T18:48:53",
+    "description": "projekt dotyczy wprowadzenia dla odbiorców w gospodarstwach domowych od 1 lipca 2025 roku do 31 grudnia 2026 r. cen energii elektrycznej na maksymalnym poziomie 412 zł/MWh. Z kolei w zakresie ochrony podmiotów użyteczności publicznej wykonujących kluczowe role władz publicznych, w szczególności z zakresu polityki zdrowotnej, edukacyjnej i rodzinno-opiekuńczej tzw. odbiorcy wrażliwi, jednostek samorządu terytorialnego w zakresie w jakim zużywają energię elektryczną na realizację zadań publicznych, producentów rolnych oraz mikro, małych i średnich przedsiębiorstw zakładają, że we wskazanym wyżej okresie rozliczeniach z tymi odbiorcami stosowana będzie cena za obrót energią elektryczną nie wyższa niż tzw. cena maksymalna ustalona na poziomie 500 zł/MWh",
+    "documentDate": "2025-07-07",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "1625",
+    "passed": false,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2025-07-07",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2025-07-07",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "1625",
+            "stageType": "Start"
+        },
+        {
+            "date": "2025-07-11",
+            "stageName": "Opinia organizacji samorządowej",
+            "organ": "Organizacja samorządowa",
+            "stageType": "Opinion"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-09-05",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "Sejm",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-09-05",
+            "stageName": "Skierowano do I czytania na posiedzeniu Sejmu",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-09-10",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "ESK",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-09-10",
+            "stageName": "I czytanie na posiedzeniu Sejmu",
+            "sittingNum": 40,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-09-10",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "1692",
+                    "proposal": "odrzucić projekt ustawy",
+                    "rapporteurID": "360",
+                    "rapporteurName": "Marek Suski",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1692/1692.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-09-10",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        }
+    ],
+    "term": 10,
+    "title": "Poselski projekt ustawy o zmianie ustawy o środkach nadzwyczajnych mających na celu ograniczenie wysokości cen energii elektrycznej oraz wsparciu niektórych odbiorców w latach 2023-2025 oraz ustawy o szczególnych rozwiązaniach służących ochronie odbiorców energii elektrycznej w 2023 roku oraz w 2024 roku w związku z sytuacją na rynku energii elektrycznej",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-09-10T18:50:46"
+}

@@ -1,0 +1,180 @@
+{
+    "UE": "NO",
+    "changeDate": "2025-10-17T10:42:56",
+    "closureDate": "2025-09-12",
+    "description": "projekt dotyczy uznania języka wilamowskiego za język regionalny",
+    "documentDate": "2024-03-21",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "321",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2024-03-21",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2024-03-21",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "321",
+            "stageType": "Start"
+        },
+        {
+            "date": "2024-03-28",
+            "stageName": "Opinia organizacji samorządowej",
+            "organ": "Organizacja samorządowa",
+            "stageType": "Opinion"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-04-24",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "MNE",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-04-24",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "date": "2025-07-24",
+            "stageName": "I czytanie w komisjach",
+            "stageType": "Reading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-07-24",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "1553",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "266",
+                    "rapporteurName": "Wanda Nowicka",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1553/1553.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-07-24",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-09-11",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "MNE",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-09-11",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "comment": "poprawki",
+            "decision": "skierowano ponownie do komisji w celu przedstawienia sprawozdania",
+            "sittingNum": 40,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-09-11",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "1553-A",
+                    "proposal": "przyjąć poprawki",
+                    "rapporteurID": "313",
+                    "rapporteurName": "Monika Rosa",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1553-A/1553-A.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-09-11",
+            "stageName": "Praca w komisjach po II czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-09-12",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 3,
+                        "date": "2025-09-12T20:33:27",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/40/97/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 194,
+                        "no": 193,
+                        "notParticipating": 33,
+                        "present": 0,
+                        "sitting": 40,
+                        "sittingDay": 4,
+                        "term": 10,
+                        "title": "Pkt. 31 Sprawozdanie Komisji o komisyjnym projekcie ustawy o zmianie ustawy o mniejszościach narodowych i etnicznych oraz o języku regionalnym oraz niektórych innych ustaw (druki nr 321, 1553 i 1553-A)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 427,
+                        "votingNumber": 97,
+                        "yes": 231
+                    }
+                }
+            ],
+            "date": "2025-09-12",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "comment": "poprawki",
+            "decision": "uchwalono",
+            "sittingNum": 40,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/321/attachment/321_u3.pdf"
+        },
+        {
+            "date": "2025-09-24",
+            "stageName": "Stanowisko Senatu",
+            "position": "nie wniósł poprawek",
+            "stageType": "SenatePosition"
+        },
+        {
+            "date": "2025-09-26",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-10-17",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "MNE",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-10-15",
+            "stageName": "Wniosek Prezydenta (VETO)",
+            "printNumber": "1848",
+            "stageType": "Veto"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Komisyjny projekt ustawy o zmianie ustawy o mniejszościach narodowych i etnicznych oraz o języku regionalnym oraz niektórych innych ustaw",
+    "titleFinal": "o zmianie ustawy o mniejszościach narodowych i etnicznych oraz o języku regionalnym oraz niektórych innych ustaw",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-10-21T11:53:32"
+}

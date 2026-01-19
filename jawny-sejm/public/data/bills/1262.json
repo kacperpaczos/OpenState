@@ -1,0 +1,184 @@
+{
+    "ELI": "DU/2025/1069",
+    "UE": "ENFORCEMENT",
+    "address": "WDU20250001069",
+    "changeDate": "2025-08-12T14:30:07",
+    "closureDate": "2025-06-25",
+    "description": "projekt dotyczy dostosowania polskiego prawa do unijnych przepisów dotyczących operacyjnej odporności cyfrowej sektora finansowego oraz emitowania europejskich zielonych obligacji; chodzi m.in. o zwiększenie odporności cyfrowej i bezpieczeństwa technologii informacyjno-komunikacyjnych (ICT), które wykorzystywane są w obszarze usług finansowych",
+    "displayAddress": "Dz.U. 2025 poz. 1069",
+    "documentDate": "2025-05-12",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [
+        {
+            "href": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001069",
+            "rel": "isap"
+        },
+        {
+            "href": "https://eli.gov.pl/eli/DU/2025/1069/ogl",
+            "rel": "eli"
+        },
+        {
+            "href": "https://api.sejm.gov.pl/eli/acts/DU/2025/1069",
+            "rel": "eli-api"
+        }
+    ],
+    "number": "1262",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2025-05-12",
+    "rclLink": "https://legislacja.rcl.gov.pl/getIdFromLegislacja?number=RM-0610-39-25",
+    "rclNum": "RM-0610-39-25",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2025-05-12",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "1262",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-05-19",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "FPB",
+                    "reportDate": "2025-06-24",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-05-19",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "date": "2025-06-03",
+            "stageName": "I czytanie w komisjach",
+            "stageType": "Reading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-06-03",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 2,
+                    "printNumber": "1326",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "352",
+                    "rapporteurName": "Marek Sowa",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1326/1326.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-06-03",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-06-24",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "FPB",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-06-24",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "comment": "poprawki",
+            "decision": "skierowano ponownie do komisji w celu przedstawienia sprawozdania",
+            "sittingNum": 37,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-06-25",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "1326-A",
+                    "proposal": "odrzucić poprawki",
+                    "rapporteurID": "352",
+                    "rapporteurName": "Marek Sowa",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1326-A/1326-A.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-06-25",
+            "stageName": "Praca w komisjach po II czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-06-25",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 5,
+                        "date": "2025-06-25T21:25:30",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/37/23/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 194,
+                        "no": 193,
+                        "notParticipating": 31,
+                        "present": 0,
+                        "sitting": 37,
+                        "sittingDay": 2,
+                        "term": 10,
+                        "title": "Pkt. 7 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie niektórych ustaw w związku z zapewnieniem operacyjnej odporności cyfrowej sektora finansowego oraz emitowaniem europejskich zielonych obligacji (druki nr 1262, 1326 i 1326-A)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 429,
+                        "votingNumber": 23,
+                        "yes": 231
+                    }
+                }
+            ],
+            "date": "2025-06-25",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "comment": "wnioski mniejszości, poprawki",
+            "decision": "uchwalono",
+            "sittingNum": 37,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/1262/attachment/1262_u3.pdf"
+        },
+        {
+            "date": "2025-07-17",
+            "stageName": "Stanowisko Senatu",
+            "position": "nie wniósł poprawek",
+            "stageType": "SenatePosition"
+        },
+        {
+            "date": "2025-07-21",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "date": "2025-07-31",
+            "stageName": "Prezydent podpisał ustawę",
+            "omittedInconsistent": false,
+            "stageType": "PresidentSignature"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o zmianie niektórych ustaw w związku z zapewnieniem operacyjnej odporności cyfrowej sektora finansowego oraz emitowaniem europejskich zielonych obligacji",
+    "titleFinal": "o zmianie niektórych ustaw w związku z zapewnieniem operacyjnej odporności cyfrowej sektora finansowego oraz emitowaniem europejskich zielonych obligacji",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-08-12T14:30:17"
+}

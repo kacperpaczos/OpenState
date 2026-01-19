@@ -1,0 +1,189 @@
+{
+    "ELI": "DU/2025/1170",
+    "UE": "NO",
+    "address": "WDU20250001170",
+    "changeDate": "2025-08-26T08:48:33",
+    "closureDate": "2025-08-05",
+    "description": "projekt dotyczy wprowadzenia podstawy prawnej jednoznacznie umożliwiającej bankom udzielanie informacji objętych tajemnicą bankową, w toku postępowania upadłościowego i restrukturyzacyjnego, syndykowi oraz nadzorcy sądowemu albo zarządcy w celu wykonywania czynności w postępowaniu upadłościowym bądź restrukturyzacyjnym. Nowe przepisy realizują działania deregulacyjne rządu.",
+    "displayAddress": "Dz.U. 2025 poz. 1170",
+    "documentDate": "2025-05-20",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [
+        {
+            "href": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001170",
+            "rel": "isap"
+        },
+        {
+            "href": "https://eli.gov.pl/eli/DU/2025/1170/ogl",
+            "rel": "eli"
+        },
+        {
+            "href": "https://api.sejm.gov.pl/eli/acts/DU/2025/1170",
+            "rel": "eli-api"
+        }
+    ],
+    "number": "1306",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2025-05-20",
+    "rclLink": "https://legislacja.rcl.gov.pl/getIdFromLegislacja?number=RM-0610-62-25",
+    "rclNum": "RM-0610-62-25",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2025-05-20",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "1306",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-06-02",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "DER",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-06-02",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "date": "2025-06-23",
+            "stageName": "I czytanie w komisjach",
+            "stageType": "Reading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-06-23",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "1358",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "140",
+                    "rapporteurName": "Maria Małgorzata Janyska",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1358/1358.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-06-23",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "date": "2025-07-08",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "decision": "niezwłocznie przystąpiono do III czytania",
+            "sittingNum": 38,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-07-09",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 176,
+                        "date": "2025-07-09T21:28:26",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/38/20/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 1,
+                        "no": 0,
+                        "notParticipating": 24,
+                        "present": 0,
+                        "sitting": 38,
+                        "sittingDay": 2,
+                        "term": 10,
+                        "title": "Pkt. 4 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Prawo bankowe oraz niektórych innych ustaw (druki nr 1306 i 1358)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 436,
+                        "votingNumber": 20,
+                        "yes": 260
+                    }
+                }
+            ],
+            "date": "2025-07-09",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "decision": "uchwalono",
+            "sittingNum": 38,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/1306/attachment/1306_u3.pdf"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-08-01",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "DER",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-07-31",
+            "stageName": "Stanowisko Senatu",
+            "position": "wniósł poprawki",
+            "printNumber": "1581",
+            "stageType": "SenatePosition"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-08-04",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "1589",
+                    "proposal": "przyjąć poprawki",
+                    "rapporteurID": "140",
+                    "rapporteurName": "Maria Małgorzata Janyska",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1589/1589.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-08-04",
+            "stageName": "Praca w komisjach nad stanowiskiem Senatu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "date": "2025-08-05",
+            "stageName": "Rozpatrywanie na forum Sejmu stanowiska Senatu",
+            "decision": "przyjęto poprawki",
+            "sittingNum": 39,
+            "stageType": "SenatePositionConsideration"
+        },
+        {
+            "date": "2025-08-06",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "date": "2025-08-21",
+            "stageName": "Prezydent podpisał ustawę",
+            "omittedInconsistent": false,
+            "stageType": "PresidentSignature"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o zmianie ustawy - Prawo bankowe oraz niektórych innych ustaw",
+    "titleFinal": "o zmianie ustawy - Prawo bankowe oraz niektórych innych ustaw",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-09-02T12:51:49"
+}

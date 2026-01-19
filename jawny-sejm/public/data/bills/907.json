@@ -1,0 +1,123 @@
+{
+    "UE": "NO",
+    "changeDate": "2025-09-30T12:14:24",
+    "description": "projekt dotyczy rozszerzenia zakresu środków trwałych, które mogą podlegać jednorazowej pełnej amortyzacji, zawężenia katalogu podmiotów podlegających procedurom związanym z cenami transferowymi obowiązującymi w PIT i CIT, rozszerzenia katalogu przypadków, w których nie nalicza się odsetek od zaległości podatkowych, wyłączenia zawieszania biegu okresu przedawnienia zobowiązania podatkowego poprzez wszczęcie postępowania karnego skarbowego później niż rok przed upływem terminu przedawnienia, braku możliwości podjęcia czynności związanych z wszczęciem postępowania karnego skarbowego w związku z niecelowymi błędami i pomyłkami oraz nałożenia obowiązku informowania kontrolowanego podmiotu o jego kontrahentach wpisanych do Rejestru Należności Publicznoprawnych",
+    "documentDate": "2024-11-26",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "907",
+    "passed": false,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2024-11-26",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2024-11-26",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "907",
+            "stageType": "Start"
+        },
+        {
+            "date": "2024-12-03",
+            "stageName": "Opinia organizacji samorządowej",
+            "organ": "Organizacja samorządowa",
+            "stageType": "Opinion"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-01-07",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "Sejm",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-01-07",
+            "stageName": "Skierowano do I czytania na posiedzeniu Sejmu",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-01-23",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "GOR",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                },
+                {
+                    "date": "2025-01-23",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "FPB",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-01-23",
+            "stageName": "I czytanie na posiedzeniu Sejmu",
+            "sittingNum": 27,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-04-02",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "DER",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                },
+                {
+                    "date": "2025-04-02",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "GOR",
+                    "stageType": "Referral",
+                    "type": "WITHDRAWAL"
+                },
+                {
+                    "date": "2025-04-02",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "FPB",
+                    "stageType": "Referral",
+                    "type": "WITHDRAWAL"
+                }
+            ],
+            "date": "2025-04-02",
+            "stageName": "I czytanie na posiedzeniu Sejmu",
+            "sittingNum": 32,
+            "stageType": "SejmReading"
+        },
+        {
+            "date": "2025-06-20",
+            "stageName": "Wpłynęło stanowisko rządu",
+            "stageType": "GovermentPosition",
+            "title": "Stanowisko Rządu do druku nr 907"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-09-25",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "1227",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "286",
+                    "rapporteurName": "Ryszard Petru",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1227/1227.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-09-25",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        }
+    ],
+    "term": 10,
+    "title": "Poselski projekt ustawy o zmianie niektórych ustaw w celu poprawy warunków prowadzenia działalności gospodarczej",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-09-30T12:15:29"
+}

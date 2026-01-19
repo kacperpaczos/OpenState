@@ -1,0 +1,197 @@
+{
+    "ELI": "DU/2025/1427",
+    "UE": "NO",
+    "address": "WDU20250001427",
+    "changeDate": "2025-10-23T14:53:52",
+    "closureDate": "2025-09-12",
+    "description": "projekt dotyczy ograniczenia liczby dokumentów, które trzeba składać w sądach administracyjnych, np. pełnomocnictwa, jeśli sąd może to samodzielnie sprawdzić w dostępnych elektronicznie wykazach lub rejestrach publicznych; sąd administracyjny będzie mógł zwrócić się do organizacji społecznej lub organu administracji o przedstawienie opinii prawnej istotnej dla sprawy; sąd będzie mógł łączyć wiele spraw dotyczących tej samej decyzji, jeżeli wspólne ich rozpoznanie nie przedłuży nadmiernie wydania wyroku. Nowe przepisy realizują działania deregulacyjne rządu.",
+    "displayAddress": "Dz.U. 2025 poz. 1427",
+    "documentDate": "2025-06-25",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [
+        {
+            "href": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001427",
+            "rel": "isap"
+        },
+        {
+            "href": "https://eli.gov.pl/eli/DU/2025/1427/ogl",
+            "rel": "eli"
+        },
+        {
+            "href": "https://api.sejm.gov.pl/eli/acts/DU/2025/1427",
+            "rel": "eli-api"
+        }
+    ],
+    "number": "1432",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2025-06-25",
+    "rclLink": "https://legislacja.rcl.gov.pl/getIdFromLegislacja?number=RM-0610-107-25",
+    "rclNum": "RM-0610-107-25",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2025-06-25",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "1432",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-07-07",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "SPC",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                },
+                {
+                    "date": "2025-07-07",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "DER",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-07-07",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "date": "2025-07-25",
+            "stageName": "I czytanie w komisjach",
+            "stageType": "Reading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-07-25",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "1541",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "465",
+                    "rapporteurName": "Dominik Jaśkowiec",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1541/1541.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-07-25",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-08-04",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "DER",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                },
+                {
+                    "date": "2025-08-04",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "SPC",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-08-04",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "comment": "poprawki",
+            "decision": "skierowano ponownie do komisji w celu przedstawienia sprawozdania",
+            "sittingNum": 39,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-09-10",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "1541-A",
+                    "proposal": "przyjąć poprawki",
+                    "rapporteurID": "465",
+                    "rapporteurName": "Dominik Jaśkowiec",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1541-A/1541-A.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-09-10",
+            "stageName": "Praca w komisjach po II czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-09-12",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 21,
+                        "date": "2025-09-12T20:44:45",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/40/109/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 173,
+                        "no": 172,
+                        "notParticipating": 35,
+                        "present": 0,
+                        "sitting": 40,
+                        "sittingDay": 4,
+                        "term": 10,
+                        "title": "Pkt. 52 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Prawo o postępowaniu przed sądami administracyjnymi (druki nr 1432, 1541 i 1541-A) - trzecie czytanie",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 425,
+                        "votingNumber": 109,
+                        "yes": 232
+                    }
+                }
+            ],
+            "date": "2025-09-12",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "comment": "poprawki",
+            "decision": "uchwalono",
+            "sittingNum": 40,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/1432/attachment/1432_u3.pdf"
+        },
+        {
+            "date": "2025-09-24",
+            "stageName": "Stanowisko Senatu",
+            "position": "nie wniósł poprawek",
+            "stageType": "SenatePosition"
+        },
+        {
+            "date": "2025-09-26",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "date": "2025-10-16",
+            "stageName": "Prezydent podpisał ustawę",
+            "omittedInconsistent": false,
+            "stageType": "PresidentSignature"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o zmianie ustawy - Prawo o postepowaniu przed sądami administracyjnymi.",
+    "titleFinal": "o zmianie ustawy - Prawo o postepowaniu przed sądami administracyjnymi.",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-10-24T08:53:56"
+}

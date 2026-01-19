@@ -1,0 +1,87 @@
+{
+    "UE": "NO",
+    "changeDate": "2025-05-09T15:37:41",
+    "comments": "Zmiana przedstawiciela wnioskodawców -  posła Pawła Śliza zastąpił poseł Rafał Kasprzyk.",
+    "description": "projekt dotyczy zwiększenia profesjonalizmu i fachowości w nadzorowaniu majątku publicznego poprzez podniesienie wymogów kwalifikacyjnych i zaostrzenie kryteriów wykluczających dla kandydatów do rad nadzorczych z udziałem Skarbu Państwa",
+    "documentDate": "2025-03-19",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "1186",
+    "passed": false,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2025-03-19",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2025-03-19",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "1186",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-04-23",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "Sejm",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-04-23",
+            "stageName": "Skierowano do I czytania na posiedzeniu Sejmu",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-05-09",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "ESK",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                },
+                {
+                    "date": "2025-05-09",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 0,
+                        "date": "2025-05-09T10:11:57",
+                        "description": "wniosek o skierowanie projektu ustawy do Komisji do Spraw Energii, Klimatu i Aktywów Państwowych",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/34/48/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 36,
+                        "no": 35,
+                        "notParticipating": 36,
+                        "present": 0,
+                        "sitting": 34,
+                        "sittingDay": 3,
+                        "term": 10,
+                        "title": "Pkt. 15 Pierwsze czytanie poselskiego projektu ustawy o zmianie ustawy o zasadach zarządzania mieniem państwowym oraz niektórych innych ustaw (druk nr 1186)",
+                        "topic": "wniosek o skierowanie projektu ustawy do Komisji",
+                        "totalVoted": 424,
+                        "votingNumber": 48,
+                        "yes": 389
+                    }
+                }
+            ],
+            "date": "2025-05-09",
+            "stageName": "I czytanie na posiedzeniu Sejmu",
+            "sittingNum": 34,
+            "stageType": "SejmReading"
+        }
+    ],
+    "term": 10,
+    "title": "Poselski projekt ustawy o zmianie ustawy o zasadach zarządzania mieniem państwowym oraz niektórych innych ustaw",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-09-23T08:08:04"
+}

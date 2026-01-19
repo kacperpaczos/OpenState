@@ -1,0 +1,199 @@
+{
+    "ELI": "DU/2025/1020",
+    "UE": "ENFORCEMENT",
+    "address": "WDU20250001020",
+    "changeDate": "2025-07-30T12:04:03",
+    "closureDate": "2025-07-09",
+    "description": "projekt dotyczy odroczenia o 2 lata tzw. raportowania ESG, które dotyczy ujawniania przez firmy informacji m.in. na temat wpływu ich działalności na środowisko, społeczeństwo oraz ład korporacyjny. Nowe przepisy realizują działania deregulacyjne rządu.",
+    "displayAddress": "Dz.U. 2025 poz. 1020",
+    "documentDate": "2025-06-17",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [
+        {
+            "href": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001020",
+            "rel": "isap"
+        },
+        {
+            "href": "https://eli.gov.pl/eli/DU/2025/1020/ogl",
+            "rel": "eli"
+        },
+        {
+            "href": "https://api.sejm.gov.pl/eli/acts/DU/2025/1020",
+            "rel": "eli-api"
+        }
+    ],
+    "number": "1375",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2025-06-17",
+    "rclLink": "https://legislacja.rcl.gov.pl/getIdFromLegislacja?number=RM-0610-96-25",
+    "rclNum": "RM-0610-96-25",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2025-06-17",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "1375",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-06-23",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "FPB",
+                    "reportDate": "2025-07-08",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                },
+                {
+                    "date": "2025-06-23",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "DER",
+                    "reportDate": "2025-07-08",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-06-23",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "date": "2025-07-07",
+            "stageName": "I czytanie w komisjach",
+            "stageType": "Reading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-07-07",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "1422",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "41",
+                    "rapporteurName": "Marek Jan Chmielewski",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1422/1422.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-07-07",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-07-08",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "DER",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                },
+                {
+                    "date": "2025-07-08",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "FPB",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-07-08",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "comment": "poprawka",
+            "decision": "skierowano ponownie do komisji w celu przedstawienia sprawozdania",
+            "sittingNum": 38,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-07-09",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "1422-A",
+                    "proposal": "odrzucić poprawkę",
+                    "rapporteurID": "41",
+                    "rapporteurName": "Marek Jan Chmielewski",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1422-A/1422-A.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-07-09",
+            "stageName": "Praca w komisjach po II czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-07-09",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 0,
+                        "date": "2025-07-09T21:37:33",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/38/26/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 10,
+                        "no": 9,
+                        "notParticipating": 23,
+                        "present": 0,
+                        "sitting": 38,
+                        "sittingDay": 2,
+                        "term": 10,
+                        "title": "Pkt. 9 Sprawozdanie Komisji o rządowym projekcie ustawy zmieniającej ustawę o zmianie ustawy o rachunkowości, ustawy o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym oraz niektórych innych ustaw (druki nr 1375, 1422 i 1422-A)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 437,
+                        "votingNumber": 26,
+                        "yes": 428
+                    }
+                }
+            ],
+            "date": "2025-07-09",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "comment": "poprawka",
+            "decision": "uchwalono",
+            "sittingNum": 38,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/1375/attachment/1375_u3.pdf"
+        },
+        {
+            "date": "2025-07-17",
+            "stageName": "Stanowisko Senatu",
+            "position": "nie wniósł poprawek",
+            "stageType": "SenatePosition"
+        },
+        {
+            "date": "2025-07-21",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "date": "2025-07-23",
+            "stageName": "Prezydent podpisał ustawę",
+            "omittedInconsistent": false,
+            "stageType": "PresidentSignature"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy zmieniającej ustawę o zmianie ustawy o rachunkowości, ustawy o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym oraz niektórych innych ustaw",
+    "titleFinal": "zmieniająca ustawę o zmianie ustawy o rachunkowości, ustawy o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym oraz niektórych innych ustaw",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-07-30T12:04:13"
+}

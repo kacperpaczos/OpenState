@@ -1,0 +1,160 @@
+{
+    "UE": "NO",
+    "changeDate": "2026-01-12T09:51:44",
+    "closureDate": "2026-01-09",
+    "description": "projekt dotyczy wprowadzenia obowiązku szybkiego zgłaszania zmian przez spółki, obowiązku informowania sądu o zakończeniu umowy, ujawnienia w KRS informacji o instytucji prowadzącej rejestr akcjonariuszy albo rejestrację akcji w depozycie papierów wartościowych, składania wykazu akcjonariuszy przy wykreślaniu spółki z KRS, rozszerzenia danych wpisywanych do rejestru akcjonariuszy. W rejestrze, obok dotychczasowych danych, znajdzie się również numer PESEL lub jeśli ktoś go nie posiada data urodzenia. W przypadku firmy (np. spółki) będą to m.in. numer w odpowiednim rejestrze i jego nazwa",
+    "documentDate": "2025-11-28",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "2027",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2025-11-28",
+    "rclLink": "https://legislacja.rcl.gov.pl/getIdFromLegislacja?number=RM-0610-218-25",
+    "rclNum": "RM-0610-218-25",
+    "shortenProcedure": true,
+    "stages": [
+        {
+            "date": "2025-11-28",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "2027",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-12-02",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "Sejm",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-12-02",
+            "stageName": "Skierowano do I czytania na posiedzeniu Sejmu",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-12-17",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "NKK",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-12-17",
+            "stageName": "I czytanie na posiedzeniu Sejmu",
+            "sittingNum": 48,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-12-18",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "2087",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "67",
+                    "rapporteurName": "Barbara Dolniak",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/2087/2087.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-12-18",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2026-01-08",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "NKK",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2026-01-08",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "comment": "poprawka",
+            "decision": "skierowano ponownie do komisji w celu przedstawienia sprawozdania",
+            "sittingNum": 49,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2026-01-08",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "2087-A",
+                    "proposal": "przyjąć poprawkę",
+                    "rapporteurID": "67",
+                    "rapporteurName": "Barbara Dolniak",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/2087-A/2087-A.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2026-01-08",
+            "stageName": "Praca w komisjach po II czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2026-01-09",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 17,
+                        "date": "2026-01-09T17:09:06",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/49/28/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 181,
+                        "no": 180,
+                        "notParticipating": 25,
+                        "present": 0,
+                        "sitting": 49,
+                        "sittingDay": 2,
+                        "term": 10,
+                        "title": "Pkt. 4 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Kodeks spółek handlowych oraz niektórych innych ustaw (druki nr 2027, 2087 i 2087-A)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 435,
+                        "votingNumber": 28,
+                        "yes": 238
+                    }
+                }
+            ],
+            "date": "2026-01-09",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "comment": "poprawka",
+            "decision": "uchwalono",
+            "sittingNum": 49,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/2027/attachment/2027_u3.pdf"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o zmianie ustawy - Kodeks spółek handlowych oraz niektórych innych ustaw",
+    "titleFinal": "o zmianie ustawy - Kodeks spółek handlowych oraz niektórych innych ustaw",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2026-01-12T09:52:04"
+}

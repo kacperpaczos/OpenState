@@ -1,0 +1,47 @@
+{
+    "UE": "NO",
+    "changeDate": "2025-11-12T10:50:47",
+    "description": "projekt dotyczy m.in. zmniejszenia obciążeń fiskalnych poprzez obniżenie ciężaru podatku PIT dla rodziców wychowujących co najmniej dwoje dzieci, zmian w ustawie CIT, zmian w Ordynacji podatkowej, zapewnienia większej skuteczności działań mających na celu uszczelnienie systemu podatku od towarów i usług oraz zmiany w ustawie o KAS jak wprowadzenie obowiązku i cykliczności procesu kontroli cen transferowych w największych przedsiębiorstwach co doprowadzić ma do wyższej ściągalności podatku od dochodów osób prawnych",
+    "documentDate": "2025-08-08",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "1898",
+    "passed": false,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2025-08-11",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2025-08-11",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "1898",
+            "stageType": "Start"
+        },
+        {
+            "date": "2025-08-20",
+            "stageName": "Opinia organizacji samorządowej",
+            "organ": "Organizacja samorządowa",
+            "stageType": "Opinion"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-11-04",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "Sejm",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-11-04",
+            "stageName": "Skierowano do I czytania na posiedzeniu Sejmu",
+            "stageType": "ReadingReferral"
+        }
+    ],
+    "term": 10,
+    "title": "Przedstawiony przez Prezydenta Rzeczypospolitej Polskiej projekt ustawy o zmianie ustawy o podatku dochodowym od osób fizycznych oraz niektórych innych ustaw",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-11-14T12:39:38"
+}

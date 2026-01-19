@@ -1,0 +1,69 @@
+{
+    "UE": "NO",
+    "changeDate": "2026-01-09T09:03:58",
+    "description": "projekt dotyczy wydłużenia o kolejne 10 lat okresu wstrzymania sprzedaży nieruchomości, ich części oraz udziałów we współwłasności wchodzących w skład Zasobu Własności Rolnej Skarbu Państwa",
+    "documentDate": "2025-04-11",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "1390",
+    "passed": false,
+    "principleOfSubsidiarity": false,
+    "printsConsideredJointly": [
+        "1632",
+        "2079"
+    ],
+    "processStartDate": "2025-04-11",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2025-04-11",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "1390",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-07-07",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "RRW",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-07-07",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "date": "2026-01-08",
+            "stageName": "I czytanie w komisjach",
+            "stageType": "Reading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2026-01-08",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "2137",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "102",
+                    "rapporteurName": "Piotr Głowski",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/2137/2137.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2026-01-08",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        }
+    ],
+    "term": 10,
+    "title": "Poselski projekt ustawy o zmianie ustawy o wstrzymaniu sprzedaży nieruchomości Zasobu Własności Rolnej Skarbu Państwa oraz o zmianie niektórych ustaw",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2026-01-09T09:04:58"
+}

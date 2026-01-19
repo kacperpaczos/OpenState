@@ -1,0 +1,183 @@
+{
+    "ELI": "DU/2025/1018",
+    "UE": "NO",
+    "address": "WDU20250001018",
+    "changeDate": "2025-07-30T12:01:17",
+    "closureDate": "2025-06-25",
+    "description": "projekt dotyczy zmiany obecnych przepisów polegającej na przywróceniu rozwiązań prawnych funkcjonujących w ustawie z dnia 29 sierpnia 1997 r. o komornikach sądowych i egzekucji, które określały granicę wieku, której przekroczenie będzie oznaczało konieczność odwołania komornika sądowego i asesora komorniczego z zajmowanego stanowiska, na poziomie 70 lat",
+    "displayAddress": "Dz.U. 2025 poz. 1018",
+    "documentDate": "2025-05-06",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [
+        {
+            "href": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001018",
+            "rel": "isap"
+        },
+        {
+            "href": "https://eli.gov.pl/eli/DU/2025/1018/ogl",
+            "rel": "eli"
+        },
+        {
+            "href": "https://api.sejm.gov.pl/eli/acts/DU/2025/1018",
+            "rel": "eli-api"
+        }
+    ],
+    "number": "1244",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2025-05-06",
+    "rclLink": "https://legislacja.rcl.gov.pl/getIdFromLegislacja?number=RM-0610-38-25",
+    "rclNum": "RM-0610-38-25",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2025-05-06",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "1244",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-05-09",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "SPC",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-05-09",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "date": "2025-06-03",
+            "stageName": "I czytanie w komisjach",
+            "stageType": "Reading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-06-03",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "1297",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "465",
+                    "rapporteurName": "Dominik Jaśkowiec",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1297/1297.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-06-03",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-06-24",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "SPC",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-06-24",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "comment": "wniosek o odrzucenie",
+            "decision": "skierowano ponownie do komisji w celu przedstawienia sprawozdania",
+            "sittingNum": 37,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-06-25",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "1297-A",
+                    "proposal": "odrzucić wniosek o odrzucenie",
+                    "rapporteurID": "465",
+                    "rapporteurName": "Dominik Jaśkowiec",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1297-A/1297-A.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-06-25",
+            "stageName": "Praca w komisjach po II czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-06-25",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 19,
+                        "date": "2025-06-25T21:54:37",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/37/44/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 175,
+                        "no": 174,
+                        "notParticipating": 33,
+                        "present": 0,
+                        "sitting": 37,
+                        "sittingDay": 2,
+                        "term": 10,
+                        "title": "Pkt. 12 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o komornikach sądowych (druki nr 1244, 1297 i 1297-A)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 427,
+                        "votingNumber": 44,
+                        "yes": 234
+                    }
+                }
+            ],
+            "date": "2025-06-25",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "comment": "wniosek o odrzucenie, poprawki",
+            "decision": "uchwalono",
+            "sittingNum": 37,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/1244/attachment/1244_u3.pdf"
+        },
+        {
+            "date": "2025-07-17",
+            "stageName": "Stanowisko Senatu",
+            "position": "nie wniósł poprawek",
+            "stageType": "SenatePosition"
+        },
+        {
+            "date": "2025-07-21",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "date": "2025-07-24",
+            "stageName": "Prezydent podpisał ustawę",
+            "omittedInconsistent": false,
+            "stageType": "PresidentSignature"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o zmianie ustawy o komornikach sądowych",
+    "titleFinal": "o zmianie ustawy o komornikach sądowych",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-07-31T08:07:47"
+}

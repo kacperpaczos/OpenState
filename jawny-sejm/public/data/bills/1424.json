@@ -1,0 +1,291 @@
+{
+    "UE": "ENFORCEMENT",
+    "changeDate": "2025-12-05T15:20:44",
+    "closureDate": "2025-12-05",
+    "description": "projekt dotyczy wprowadzenia nowych rozwiązań w obszarze sektora rynku kryptoaktywów, mających na celu realizację zadań wynikających z rozporządzenia 2023/1114, w szczególności w zakresie skutecznego nadzoru i ochrony inwestorów. Podjęcie działań zmierzających do realizacji wspomnianych celów zapewni rozwój rynku w perspektywie wieloletniej oraz bezpieczeństwo przez rozszerzenie kompetencji nadzorczych",
+    "documentDate": "2025-06-26",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "1424",
+    "passed": false,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2025-06-26",
+    "rclLink": "https://legislacja.rcl.gov.pl/getIdFromLegislacja?number=RM-0610-101-25",
+    "rclNum": "RM-0610-101-25",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2025-06-26",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "1424",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-07-07",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "Sejm",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-07-07",
+            "stageName": "Skierowano do I czytania na posiedzeniu Sejmu",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-07-23",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "FPB",
+                    "remarks": "Prolongata do dnia 24-09-2025.",
+                    "reportDate": "2025-09-09",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                },
+                {
+                    "date": "2025-07-23",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 3,
+                        "date": "2025-07-23T09:37:16",
+                        "description": "wniosek o odrzucenie projektu ustawy w pierwszym czytaniu",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/39/11/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 229,
+                        "no": 228,
+                        "notParticipating": 41,
+                        "present": 0,
+                        "sitting": 39,
+                        "sittingDay": 2,
+                        "term": 10,
+                        "title": "Pkt. 4 Pierwsze czytanie rządowego projektu ustawy o rynku kryptoaktywów (druk nr 1424)",
+                        "topic": "wniosek o odrzucenie projektu w pierwszym czytaniu.",
+                        "totalVoted": 419,
+                        "votingNumber": 11,
+                        "yes": 188
+                    }
+                }
+            ],
+            "date": "2025-07-23",
+            "stageName": "I czytanie na posiedzeniu Sejmu",
+            "sittingNum": 39,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-09-09",
+                    "stageName": "Sprawozdanie podkomisji",
+                    "minorityMotions": 0,
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/processes/1424/attachment/spr_1424.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": true
+                },
+                {
+                    "date": "2025-09-23",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 20,
+                    "printNumber": "1720",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "342",
+                    "rapporteurName": "Krystyna Skowrońska",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1720/1720.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-09-09",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "date": "2025-09-24",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "decision": "niezwłocznie przystąpiono do III czytania",
+            "sittingNum": 41,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-09-26",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 0,
+                        "date": "2025-09-26T13:12:56",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/41/63/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 197,
+                        "no": 196,
+                        "notParticipating": 34,
+                        "present": 0,
+                        "sitting": 41,
+                        "sittingDay": 3,
+                        "term": 10,
+                        "title": "Pkt. 10 Sprawozdanie Komisji o rządowym projekcie ustawy o rynku kryptoaktywów (druki nr 1424 i 1720)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 426,
+                        "votingNumber": 63,
+                        "yes": 230
+                    }
+                }
+            ],
+            "date": "2025-09-26",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "comment": "wnioski mniejszości",
+            "decision": "uchwalono",
+            "sittingNum": 41,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/1424/attachment/1424_u3.pdf"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-10-17",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "FPB",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-10-16",
+            "stageName": "Stanowisko Senatu",
+            "position": "wniósł poprawki",
+            "printNumber": "1843",
+            "stageType": "SenatePosition"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-11-06",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "1915",
+                    "proposal": "przyjąć część poprawek",
+                    "rapporteurID": "342",
+                    "rapporteurName": "Krystyna Skowrońska",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1915/1915.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-11-06",
+            "stageName": "Praca w komisjach nad stanowiskiem Senatu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "date": "2025-11-07",
+            "stageName": "Rozpatrywanie na forum Sejmu stanowiska Senatu",
+            "decision": "przyjęto część poprawek",
+            "sittingNum": 44,
+            "stageType": "SenatePositionConsideration"
+        },
+        {
+            "date": "2025-11-12",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-12-03",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "FPB",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-12-01",
+            "stageName": "Wniosek Prezydenta (VETO)",
+            "printNumber": "2048",
+            "stageType": "Veto"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-12-04",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "2059",
+                    "proposal": "uchwalić ponownie",
+                    "rapporteurID": "342",
+                    "rapporteurName": "Krystyna Skowrońska",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/2059/2059.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-12-04",
+            "stageName": "Praca w komisjach nad wnioskiem Prezydenta",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-12-05",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 0,
+                        "date": "2025-12-05T15:01:14",
+                        "description": "wniosek o ponowne uchwalenie ustawy w brzmieniu dotychczasowym",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/46/75/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "MAJORITY_THREE_FIFTHS",
+                        "majorityVotes": 261,
+                        "no": 192,
+                        "notParticipating": 25,
+                        "present": 0,
+                        "sitting": 46,
+                        "sittingDay": 3,
+                        "term": 10,
+                        "title": "Pkt. 29 Sprawozdanie Komisji o wniosku Prezydenta Rzeczypospolitej Polskiej o ponowne rozpatrzenie ustawy z dnia 7 listopada 2025 r. o rynku kryptoaktywów (druki nr 2048 i 2059)",
+                        "topic": "głosowanie nad wnioskiem o ponowne uchwalenie ustawy w brzmieniu dotychczasowym",
+                        "totalVoted": 435,
+                        "votingNumber": 75,
+                        "yes": 243
+                    }
+                }
+            ],
+            "date": "2025-12-05",
+            "stageName": "Rozpatrywanie na forum Sejmu wniosku Prezydenta",
+            "decision": "nie uchwalona ponownie",
+            "sittingNum": 46,
+            "stageType": "PresidentMotionConsideration"
+        },
+        {
+            "stageName": "nie uchwalona ponownie po wecie Prezydenta",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o rynku kryptoaktywów",
+    "titleFinal": "o rynku kryptoaktywów",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-12-05T15:21:21"
+}

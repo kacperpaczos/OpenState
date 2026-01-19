@@ -1,0 +1,121 @@
+{
+    "UE": "NO",
+    "changeDate": "2026-01-12T09:58:07",
+    "closureDate": "2026-01-09",
+    "description": "projekt dotyczy ułatwienia pozyskiwania danych z ksiąg wieczystych i Krajowego Rejestru Sądowego za pośrednictwem aplikacji mObywatel. Chodzi również o dostęp do odpisów i wyciągów ksiąg wieczystych oraz zaświadczeń o ich zamknięciu w postaci elektronicznej, których moc będzie równa dokumentom wydanym przez sąd. Projekt ustawy realizuje kamień milowy KPO - Rozwój i zwiększenie dostępności Rejestrów Sądowych - eKRS i EKW. Nowe przepisy realizują działania deregulacyjne rządu.",
+    "documentDate": "2025-12-23",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "2105",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2025-12-29",
+    "rclLink": "https://legislacja.rcl.gov.pl/getIdFromLegislacja?number=RM-0610-232-25",
+    "rclNum": "RM-0610-232-25",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2025-12-29",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "2105",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-12-30",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "SPC",
+                    "reportDate": "2026-01-08",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-12-30",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "date": "2026-01-08",
+            "stageName": "I czytanie w komisjach",
+            "stageType": "Reading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2026-01-08",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "2113",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "142",
+                    "rapporteurName": "Patryk Jaskulski",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/2113/2113.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2026-01-08",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "date": "2026-01-08",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "decision": "niezwłocznie przystąpiono do III czytania",
+            "sittingNum": 49,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2026-01-09",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 0,
+                        "date": "2026-01-09T17:11:36",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/49/31/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 7,
+                        "no": 6,
+                        "notParticipating": 18,
+                        "present": 0,
+                        "sitting": 49,
+                        "sittingDay": 2,
+                        "term": 10,
+                        "title": "Pkt. 7 Sprawozdanie Komisji o pilnym rządowym projekcie ustawy o zmianie ustawy o księgach wieczystych i hipotece oraz ustawy o Krajowym Rejestrze Sądowym (druki nr 2105 i 2113)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 442,
+                        "votingNumber": 31,
+                        "yes": 436
+                    }
+                }
+            ],
+            "date": "2026-01-09",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "decision": "uchwalono",
+            "sittingNum": 49,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/2105/attachment/2105_u3.pdf"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o zmianie ustawy o księgach wieczystych i hipotece oraz ustawy o Krajowym Rejestrze Sądowym",
+    "titleFinal": "o zmianie ustawy o księgach wieczystych i hipotece oraz ustawy o Krajowym Rejestrze Sądowym",
+    "urgencyStatus": "URGENT",
+    "webGeneratedDate": "2026-01-12T09:58:23"
+}

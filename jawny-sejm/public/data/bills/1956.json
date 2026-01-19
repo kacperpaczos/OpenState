@@ -1,0 +1,27 @@
+{
+    "UE": "NO",
+    "changeDate": "2025-11-03T00:00:00",
+    "description": "projekt dotyczy wprowadzenia do systemu zabezpieczenia społecznego stałego mechanizmu podwyższania wysokości świadczeń, gwarantującego zachowanie poziomu najniższych świadczeń adekwatnego do wzrostu cen towarów i usług w danym roku kalendarzowym",
+    "documentDate": "2025-11-03",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "1956",
+    "passed": false,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2025-11-04",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2025-11-04",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "1956",
+            "stageType": "Start"
+        }
+    ],
+    "term": 10,
+    "title": "Przedstawiony przez Prezydenta Rzeczypospolitej Polskiej projekt ustawy o zmianie ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych oraz niektórych innych ustaw",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-11-17T19:10:43"
+}

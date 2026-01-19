@@ -1,0 +1,62 @@
+{
+    "UE": "NO",
+    "changeDate": "2024-10-02T13:09:59",
+    "description": "projekt dotyczy systemowego uregulowania korzystania przez osoby z niepełnosprawnościami z usługi asystencji osobistej i stworzenia w ten sposób trwałych warunków dla osób z niepełnosprawnościami do realizacji możliwie pełnego samodzielnego życia",
+    "documentDate": "2024-03-04",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "316",
+    "passed": false,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2024-03-04",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2024-03-04",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "316",
+            "stageType": "Start"
+        },
+        {
+            "date": "2024-03-11",
+            "stageName": "Opinia organizacji samorządowej",
+            "organ": "Organizacja samorządowa",
+            "stageType": "Opinion"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-04-24",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "Sejm",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-04-24",
+            "stageName": "Skierowano do I czytania na posiedzeniu Sejmu",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-10-01",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "PSR",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-10-01",
+            "stageName": "I czytanie na posiedzeniu Sejmu",
+            "sittingNum": 18,
+            "stageType": "SejmReading"
+        }
+    ],
+    "term": 10,
+    "title": "Przedstawiony przez Prezydenta Rzeczypospolitej Polskiej projekt ustawy o asystencji osobistej osób z niepełnosprawnościami",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2024-10-02T13:10:19"
+}

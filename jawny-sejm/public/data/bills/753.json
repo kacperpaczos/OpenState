@@ -1,0 +1,153 @@
+{
+    "ELI": "DU/2024/1840",
+    "UE": "NO",
+    "address": "WDU20240001840",
+    "changeDate": "2024-12-16T12:22:04",
+    "closureDate": "2024-11-08",
+    "description": "projekt dotyczy m.in wprowadzenia na poziomie ustawowym precyzyjnych i stabilnych zasad wypłacania świadczeń przysługujących pracownikom placówek zagranicznych, określenia dodatkowych wymogów kompetencyjnych dla osób starających się o uzyskanie statusu dyplomaty zawodowego i wprowadzenia rozwiązania wpływającego na zwiększenie atrakcyjności zatrudnienia w służbie zagranicznej",
+    "displayAddress": "Dz.U. 2024 poz. 1840",
+    "documentDate": "2024-10-23",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [
+        {
+            "href": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001840",
+            "rel": "isap"
+        },
+        {
+            "href": "https://eli.gov.pl/eli/DU/2024/1840/ogl",
+            "rel": "eli"
+        },
+        {
+            "href": "https://api.sejm.gov.pl/eli/acts/DU/2024/1840",
+            "rel": "eli-api"
+        }
+    ],
+    "number": "753",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2024-10-23",
+    "rclLink": "https://legislacja.rcl.gov.pl/getIdFromLegislacja?number=RM-0610-78-24",
+    "rclNum": "RM-0610-78-24",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2024-10-23",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "753",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-10-29",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "SZA",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-10-29",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "date": "2024-11-05",
+            "stageName": "I czytanie w komisjach",
+            "stageType": "Reading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-11-05",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "770",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "19",
+                    "rapporteurName": "Paweł Bliźniuk",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/770/770.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2024-11-05",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "date": "2024-11-08",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "decision": "niezwłocznie przystąpiono do III czytania",
+            "sittingNum": 21,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-11-08",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 0,
+                        "date": "2024-11-08T19:01:05",
+                        "description": "Całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/21/70/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 206,
+                        "no": 205,
+                        "notParticipating": 13,
+                        "present": 0,
+                        "sitting": 21,
+                        "sittingDay": 3,
+                        "term": 10,
+                        "title": "Pkt. 22 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o służbie zagranicznej oraz ustawy o ograniczeniu prowadzenia działalności gospodarczej przez osoby pełniące funkcje publiczne (druki nr 753 i 770)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 447,
+                        "votingNumber": 70,
+                        "yes": 242
+                    }
+                }
+            ],
+            "date": "2024-11-08",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "decision": "uchwalono",
+            "sittingNum": 21,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/753/attachment/753_u3.pdf"
+        },
+        {
+            "date": "2024-11-20",
+            "stageName": "Stanowisko Senatu",
+            "position": "nie wniósł poprawek",
+            "stageType": "SenatePosition"
+        },
+        {
+            "date": "2024-11-21",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "date": "2024-12-09",
+            "stageName": "Prezydent podpisał ustawę",
+            "omittedInconsistent": false,
+            "stageType": "PresidentSignature"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o zmianie ustawy o służbie zagranicznej oraz ustawy o ograniczeniu prowadzenia działalności gospodarczej przez osoby pełniące funkcje publiczne",
+    "titleFinal": "o zmianie ustawy o służbie zagranicznej oraz ustawy o ograniczeniu prowadzenia działalności gospodarczej przez osoby pełniące funkcje publiczne",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2024-12-18T08:27:39"
+}

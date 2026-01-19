@@ -1,0 +1,87 @@
+{
+    "UE": "NO",
+    "changeDate": "2025-07-23T19:17:15",
+    "description": "projekt dotyczy uchylenia jednej z przesłanek, której zaistnienie powoduje, że bieg terminu przedawnienia zobowiązania podatkowego nie rozpoczyna się lub w przypadku jego rozpoczęcia ulega zawieszeniu",
+    "documentDate": "2024-08-29",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "774",
+    "passed": false,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2024-08-29",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2024-08-29",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "774",
+            "stageType": "Start"
+        },
+        {
+            "date": "2024-09-04",
+            "stageName": "Opinia organizacji samorządowej",
+            "organ": "Organizacja samorządowa",
+            "stageType": "Opinion"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-11-05",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "Sejm",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-11-05",
+            "stageName": "Skierowano do I czytania na posiedzeniu Sejmu",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-12-18",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "FPB",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-12-18",
+            "stageName": "I czytanie na posiedzeniu Sejmu",
+            "sittingNum": 25,
+            "stageType": "SejmReading"
+        },
+        {
+            "date": "2025-06-20",
+            "stageName": "Wpłynęło stanowisko rządu",
+            "stageType": "GovermentPosition",
+            "title": "Stanowisko Rządu do druku nr 774"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-07-22",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "1537",
+                    "proposal": "odrzucić projekt ustawy",
+                    "rapporteurID": "161",
+                    "rapporteurName": "Katarzyna Kierzek-Koperska",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1537/1537.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-07-22",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        }
+    ],
+    "term": 10,
+    "title": "Poselski projekt ustawy o zmianie ustawy z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-07-23T19:17:43"
+}

@@ -1,0 +1,48 @@
+{
+    "UE": "NO",
+    "changeDate": "2024-05-08T08:53:22",
+    "description": "projekt dotyczy zapewnienia konsumentom dostępu do lokalnych produktów wiadomego pochodzenia a producentom rolnym większego bezpośredniego udziału w sprzedaży detalicznej ich lokalnych produktów w jednostkach handlu",
+    "documentDate": "2024-01-22",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "349",
+    "passed": false,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2024-01-22",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2024-01-22",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "349",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-05-07",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "RRW",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                },
+                {
+                    "date": "2024-05-07",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "GOR",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-05-07",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        }
+    ],
+    "term": 10,
+    "title": "Poselski projekt ustawy o sprzedaży detalicznej produktów lokalnych",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2024-05-08T08:53:39"
+}

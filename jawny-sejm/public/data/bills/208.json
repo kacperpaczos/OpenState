@@ -1,0 +1,194 @@
+{
+    "ELI": "DU/2024/653",
+    "UE": "NO",
+    "address": "WDU20240000653",
+    "changeDate": "2024-05-06T14:14:01",
+    "closureDate": "2024-03-20",
+    "description": "projekt dotyczy uchylenia przepisów, zgodnie z którymi do osób fizycznych prowadzących gospodarstwo rolne należy stosować przepisy ustawy o konsumenckiej pożyczce lombardowej, ustawy o kredycie konsumenckim oraz kodeksu cywilnego o klauzulach abuzywnych i niektóre przepisy o pożyczce",
+    "displayAddress": "Dz.U. 2024 poz. 653",
+    "documentDate": "2024-02-08",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [
+        {
+            "href": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000653",
+            "rel": "isap"
+        },
+        {
+            "href": "https://eli.gov.pl/eli/DU/2024/653/ogl",
+            "rel": "eli"
+        },
+        {
+            "href": "https://api.sejm.gov.pl/eli/acts/DU/2024/653",
+            "rel": "eli-api"
+        }
+    ],
+    "number": "208",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "printsConsideredJointly": [
+        "227"
+    ],
+    "processStartDate": "2024-02-08",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2024-02-08",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "208",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-02-20",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "Sejm",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-02-20",
+            "stageName": "Skierowano do I czytania na posiedzeniu Sejmu",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-03-07",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "RRW",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-03-07",
+            "stageName": "I czytanie na posiedzeniu Sejmu",
+            "sittingNum": 7,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-03-19",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 1,
+                    "printNumber": "250",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "229",
+                    "rapporteurName": "Mirosław Maliszewski",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/250/250.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2024-03-19",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-03-20",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "RRW",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-03-20",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "comment": "poprawka",
+            "decision": "skierowano ponownie do komisji w celu przedstawienia sprawozdania",
+            "sittingNum": 8,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-03-20",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "250-A",
+                    "proposal": "przyjąć poprawkę",
+                    "rapporteurID": "229",
+                    "rapporteurName": "Mirosław Maliszewski",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/250-A/250-A.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2024-03-20",
+            "stageName": "Praca w komisjach po II czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-03-20",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 0,
+                        "date": "2024-03-20T18:37:26",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/8/11/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 181,
+                        "no": 180,
+                        "notParticipating": 24,
+                        "present": 0,
+                        "sitting": 8,
+                        "sittingDay": 1,
+                        "term": 10,
+                        "title": "Pkt. 2 Sprawozdanie Komisji o:- poselskim projekcie ustawy o zmianie ustawy o konsumenckiej pożyczce lombardowej oraz o zmianie niektórych innych ustaw,- rządowym projekcie ustawy o zmianie ustawy - Kodeks cywilny oraz ustawy o kredycie konsumenckim (druki nr 208, 227, 250 i 250-A)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 435,
+                        "votingNumber": 11,
+                        "yes": 255
+                    }
+                }
+            ],
+            "date": "2024-03-20",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "comment": "wniosek mniejszości, poprawka",
+            "decision": "uchwalono",
+            "sittingNum": 8,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/208/attachment/208_u3.pdf"
+        },
+        {
+            "date": "2024-04-04",
+            "stageName": "Stanowisko Senatu",
+            "position": "nie wniósł poprawek",
+            "stageType": "SenatePosition"
+        },
+        {
+            "date": "2024-04-08",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "date": "2024-04-25",
+            "stageName": "Prezydent podpisał ustawę",
+            "omittedInconsistent": false,
+            "stageType": "PresidentSignature"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Poselski projekt ustawy o zmianie ustawy o konsumenckiej pożyczce lombardowej oraz o zmianie niektórych innych ustaw",
+    "titleFinal": "o zmianie ustawy - Kodeks cywilny, ustawy o kredycie konsumenckim oraz ustawy o konsumenckiej pożyczce lombardowej",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2024-05-06T14:15:09"
+}

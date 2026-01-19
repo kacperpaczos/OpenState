@@ -1,0 +1,154 @@
+{
+    "ELI": "DU/2024/1834",
+    "UE": "ENFORCEMENT",
+    "address": "WDU20240001834",
+    "changeDate": "2024-12-16T12:24:42",
+    "closureDate": "2024-11-21",
+    "description": "projekt dotyczy wprowadzenia zmiany dotyczącej organizacji systemu segregowania odpadów budowlanych i rozbiórkowych (tzw. odpady BiR) w celu uelastycznienia organizacji przez przedsiębiorców segregacji takich odpadów oraz wyeliminowanie zgłaszanych przez branżę wątpliwości interpretacyjnych, nowe przepisy umożliwią przekazywanie organom administracji (m.in. gminom) dofinansowania na usuwanie nielegalnych wysypisk odpadów, które zagrażają życiu i zdrowiu ludzi lub środowisku",
+    "displayAddress": "Dz.U. 2024 poz. 1834",
+    "documentDate": "2024-10-30",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [
+        {
+            "href": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001834",
+            "rel": "isap"
+        },
+        {
+            "href": "https://eli.gov.pl/eli/DU/2024/1834/ogl",
+            "rel": "eli"
+        },
+        {
+            "href": "https://api.sejm.gov.pl/eli/acts/DU/2024/1834",
+            "rel": "eli-api"
+        }
+    ],
+    "number": "766",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2024-10-31",
+    "rclLink": "https://legislacja.rcl.gov.pl/getIdFromLegislacja?number=RM-0610-91-24",
+    "rclNum": "RM-0610-91-24",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2024-10-31",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "766",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-10-31",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "OSZ",
+                    "reportDate": "2024-11-18",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-10-31",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "date": "2024-11-18",
+            "stageName": "I czytanie w komisjach",
+            "stageType": "Reading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-11-18",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "818",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "462",
+                    "rapporteurName": "Magdalena Łośko",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/818/818.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2024-11-18",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "date": "2024-11-19",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "decision": "niezwłocznie przystąpiono do III czytania",
+            "sittingNum": 22,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-11-21",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 19,
+                        "date": "2024-11-21T18:46:50",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/24/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 3,
+                        "no": 2,
+                        "notParticipating": 24,
+                        "present": 0,
+                        "sitting": 22,
+                        "sittingDay": 3,
+                        "term": 10,
+                        "title": "Pkt. 7 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o odpadach oraz ustawy o zmianie ustawy o odpadach oraz niektórych innych ustaw (druki nr 766 i 818)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 436,
+                        "votingNumber": 24,
+                        "yes": 415
+                    }
+                }
+            ],
+            "date": "2024-11-21",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "decision": "uchwalono",
+            "sittingNum": 22,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/766/attachment/766_u3.pdf"
+        },
+        {
+            "date": "2024-12-04",
+            "stageName": "Stanowisko Senatu",
+            "position": "nie wniósł poprawek",
+            "stageType": "SenatePosition"
+        },
+        {
+            "date": "2024-12-05",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "date": "2024-12-09",
+            "stageName": "Prezydent podpisał ustawę",
+            "omittedInconsistent": false,
+            "stageType": "PresidentSignature"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o zmianie ustawy o odpadach oraz ustawy o zmianie ustawy o odpadach oraz niektórych innych ustaw",
+    "titleFinal": "o zmianie ustawy o odpadach oraz ustawy o zmianie ustawy o odpadach oraz niektórych innych ustaw",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2024-12-18T08:27:39"
+}

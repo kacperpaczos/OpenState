@@ -1,0 +1,242 @@
+{
+    "UE": "ENFORCEMENT",
+    "changeDate": "2025-12-19T13:55:24",
+    "closureDate": "2025-12-18",
+    "description": "projekt dotyczy dostosowania polskich przepisów do rozporządzenia Parlamentu Europejskiego i Rady (UE) 2022/2065 w sprawie jednolitego rynku usług cyfrowych (tzw. Akt o usługach cyfrowych DSA). Dzięki temu w Polsce powstanie nowoczesny system skutecznej walki z nielegalnymi treściami oraz dezinformacją, który będzie chronił użytkowników w sieci i zapewni przejrzyste zasady działania dla platform internetowych.",
+    "documentDate": "2025-09-29",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "1757",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2025-09-29",
+    "rclLink": "https://legislacja.rcl.gov.pl/getIdFromLegislacja?number=RM-0610-173-25",
+    "rclNum": "RM-0610-173-25",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2025-09-29",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "1757",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-10-06",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "Sejm",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-10-06",
+            "stageName": "Skierowano do I czytania na posiedzeniu Sejmu",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-10-17",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "CNT",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                },
+                {
+                    "date": "2025-10-17",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 0,
+                        "date": "2025-10-17T10:29:50",
+                        "description": "wniosek o odrzucenie projektu ustawy w pierwszym czytaniu",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/43/70/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 242,
+                        "no": 241,
+                        "notParticipating": 15,
+                        "present": 0,
+                        "sitting": 43,
+                        "sittingDay": 3,
+                        "term": 10,
+                        "title": "Pkt. 20 Pierwsze czytanie rządowego projektu ustawy o zmianie ustawy o świadczeniu usług drogą elektroniczną oraz niektórych innych ustaw (druk nr 1757)",
+                        "topic": "wniosek o odrzucenie projektu w pierwszym czytaniu.",
+                        "totalVoted": 445,
+                        "votingNumber": 70,
+                        "yes": 204
+                    }
+                }
+            ],
+            "date": "2025-10-17",
+            "stageName": "I czytanie na posiedzeniu Sejmu",
+            "sittingNum": 43,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-11-04",
+                    "stageName": "Wysłuchanie publiczne",
+                    "stageType": "PublicHearing"
+                },
+                {
+                    "date": "2025-11-06",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "1922",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "345",
+                    "rapporteurName": "Weronika Smarduch",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1922/1922.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-11-04",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-11-19",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "CNT",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-11-19",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "comment": "wniosek o odrzucenie, poprawki",
+            "decision": "skierowano ponownie do komisji w celu przedstawienia sprawozdania",
+            "sittingNum": 45,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-11-20",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "1922-A",
+                    "proposal": "przyjąć część poprawek",
+                    "rapporteurID": "345",
+                    "rapporteurName": "Weronika Smarduch",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1922-A/1922-A.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-11-20",
+            "stageName": "Praca w komisjach po II czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-11-21",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 5,
+                        "date": "2025-11-21T10:38:55",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/80/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 201,
+                        "no": 200,
+                        "notParticipating": 18,
+                        "present": 0,
+                        "sitting": 45,
+                        "sittingDay": 4,
+                        "term": 10,
+                        "title": "Pkt. 14 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o świadczeniu usług drogą elektroniczną oraz niektórych innych ustaw (druki nr 1757, 1922 i 1922-A)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 442,
+                        "votingNumber": 80,
+                        "yes": 237
+                    }
+                }
+            ],
+            "date": "2025-11-21",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "comment": "wniosek o odrzucenie, poprawki",
+            "decision": "uchwalono",
+            "sittingNum": 45,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/1757/attachment/1757_u3.pdf"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-12-11",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "CNT",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-12-10",
+            "stageName": "Stanowisko Senatu",
+            "position": "wniósł poprawki",
+            "printNumber": "2069",
+            "stageType": "SenatePosition"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-12-18",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "2091",
+                    "proposal": "przyjąć część poprawek",
+                    "rapporteurID": "345",
+                    "rapporteurName": "Weronika Smarduch",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/2091/2091.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-12-18",
+            "stageName": "Praca w komisjach nad stanowiskiem Senatu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "date": "2025-12-18",
+            "stageName": "Rozpatrywanie na forum Sejmu stanowiska Senatu",
+            "decision": "przyjęto część poprawek",
+            "sittingNum": 48,
+            "stageType": "SenatePositionConsideration"
+        },
+        {
+            "date": "2025-12-19",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o zmianie ustawy o świadczeniu usług drogą elektroniczną oraz niektórych innych ustaw",
+    "titleFinal": "o zmianie ustawy o świadczeniu usług drogą elektroniczną oraz niektórych innych ustaw",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-12-19T15:06:00"
+}

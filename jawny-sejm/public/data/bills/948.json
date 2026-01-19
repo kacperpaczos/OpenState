@@ -1,0 +1,261 @@
+{
+    "ELI": "DU/2025/620",
+    "UE": "ENFORCEMENT",
+    "address": "WDU20250000620",
+    "changeDate": "2025-05-15T09:49:05",
+    "closureDate": "2025-03-20",
+    "description": "projekt dotyczy kompleksowej modernizacji instytucji rynku pracy poprzez udoskonalenie funkcjonowania Publicznych Służb Zatrudnienia (PSZ) i form aktywizacji zawodowej oraz podnoszenie umiejętności kadr gospodarki. Reforma została zapisana w Krajowym Planie Odbudowy.",
+    "displayAddress": "Dz.U. 2025 poz. 620",
+    "documentDate": "2025-01-07",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [
+        {
+            "href": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000620",
+            "rel": "isap"
+        },
+        {
+            "href": "https://eli.gov.pl/eli/DU/2025/620/ogl",
+            "rel": "eli"
+        },
+        {
+            "href": "https://api.sejm.gov.pl/eli/acts/DU/2025/620",
+            "rel": "eli-api"
+        }
+    ],
+    "number": "948",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2025-01-07",
+    "rclLink": "https://legislacja.rcl.gov.pl/getIdFromLegislacja?number=RM-0610-128-24",
+    "rclNum": "RM-0610-128-24",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2025-01-07",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "948",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-01-09",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "Sejm",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-01-09",
+            "stageName": "Skierowano do I czytania na posiedzeniu Sejmu",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-01-24",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "NZC",
+                    "remarks": "Prolongata do dnia 19-02-2025 r.",
+                    "reportDate": "2025-02-04",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                },
+                {
+                    "date": "2025-01-24",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 3,
+                        "date": "2025-01-24T09:27:43",
+                        "description": "wniosek o skierowanie do Komisji Nadzwyczajnej, która zostanie powołana",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/27/11/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 184,
+                        "no": 183,
+                        "notParticipating": 21,
+                        "present": 0,
+                        "sitting": 27,
+                        "sittingDay": 3,
+                        "term": 10,
+                        "title": "Pkt. 10 Pierwsze czytanie rządowego projektu ustawy o rynku pracy i służbach zatrudnienia (druk nr 948)",
+                        "topic": "głosowanie nad skierowaniem projektu ustawy do Komisji Nadzwyczajnej, która zostanie powołana",
+                        "totalVoted": 439,
+                        "votingNumber": 11,
+                        "yes": 253
+                    }
+                }
+            ],
+            "date": "2025-01-24",
+            "stageName": "I czytanie na posiedzeniu Sejmu",
+            "sittingNum": 27,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-02-19",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 3,
+                    "printNumber": "1021",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "402",
+                    "rapporteurName": "Katarzyna Ueberhan",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1021/1021.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-02-19",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-02-21",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "NZC",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-02-21",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "comment": "poprawki",
+            "decision": "skierowano ponownie do komisji w celu przedstawienia sprawozdania",
+            "sittingNum": 29,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-02-21",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "1021-A",
+                    "proposal": "przyjąć część poprawek",
+                    "rapporteurID": "402",
+                    "rapporteurName": "Katarzyna Ueberhan",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1021-A/1021-A.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-02-21",
+            "stageName": "Praca w komisjach po II czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-02-21",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 2,
+                        "date": "2025-02-21T19:18:01",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/29/50/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 19,
+                        "no": 18,
+                        "notParticipating": 35,
+                        "present": 0,
+                        "sitting": 29,
+                        "sittingDay": 2,
+                        "term": 10,
+                        "title": "Pkt. 17 Sprawozdanie Komisji o rządowym projekcie ustawy o rynku pracy i służbach zatrudnienia (druki nr 948, 1021 i 1021-A)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 425,
+                        "votingNumber": 50,
+                        "yes": 405
+                    }
+                }
+            ],
+            "date": "2025-02-21",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "comment": "wnioski mniejszości, poprawki",
+            "decision": "uchwalono",
+            "sittingNum": 29,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/948/attachment/948_u3.pdf"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-03-14",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "NZC",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-03-13",
+            "stageName": "Stanowisko Senatu",
+            "position": "wniósł poprawki",
+            "printNumber": "1092",
+            "stageType": "SenatePosition"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-03-19",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "1100",
+                    "proposal": "przyjąć część poprawek",
+                    "rapporteurID": "402",
+                    "rapporteurName": "Katarzyna Ueberhan",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1100/1100.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-03-19",
+            "stageName": "Praca w komisjach nad stanowiskiem Senatu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "date": "2025-03-20",
+            "stageName": "Rozpatrywanie na forum Sejmu stanowiska Senatu",
+            "decision": "przyjęto część poprawek",
+            "sittingNum": 31,
+            "stageType": "SenatePositionConsideration"
+        },
+        {
+            "date": "2025-03-21",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "date": "2025-04-10",
+            "stageName": "Prezydent podpisał ustawę",
+            "omittedInconsistent": false,
+            "stageType": "PresidentSignature"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o rynku pracy i służbach zatrudnienia",
+    "titleFinal": "o rynku pracy i służbach zatrudnienia",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-05-15T09:49:16"
+}

@@ -1,0 +1,222 @@
+{
+    "ELI": "DU/2023/2760",
+    "UE": "NO",
+    "address": "WDU20230002760",
+    "changeDate": "2023-12-29T09:36:36",
+    "closureDate": "2023-12-07",
+    "description": "projekt dotyczy zgodnie z uzasadnieniem - zminimalizowania podwyżek wpływu cen energii i gazu dla odbiorców w gospodarstwach domowych, szeroko rozumianych podmiotów użyteczności publicznej (w tym szpitale, szkoły, przedszkola, ośrodki pomocy społecznej) oraz jednostek samorządu terytorialnego, po dniu 31 grudnia 2023 roku oraz wprowadzenia rozwiązań zmierzających w stronę stopniowego przywracania mechanizmów rynkowych kształtowania cen na tych rynkach bez ingerencji państwa",
+    "displayAddress": "Dz.U. 2023 poz. 2760",
+    "documentDate": "2023-11-28",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [
+        {
+            "href": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002760",
+            "rel": "isap"
+        },
+        {
+            "href": "https://eli.gov.pl/eli/DU/2023/2760/ogl",
+            "rel": "eli"
+        },
+        {
+            "href": "https://api.sejm.gov.pl/eli/acts/DU/2023/2760",
+            "rel": "eli-api"
+        }
+    ],
+    "number": "72",
+    "otherDocuments": [
+        {
+            "documentDate": "2023-12-05",
+            "number": "72-A",
+            "registeredDate": "2023-12-05",
+            "title": "Autopoprawka do poselskiego projektu ustawy o zmianie ustaw w celu wsparcia odbiorców energii elektrycznej, paliw gazowych i ciepła oraz niektórych innych ustaw"
+        }
+    ],
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2023-11-28",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2023-11-28",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "otherDocuments": [
+                {
+                    "documentDate": "2023-12-05",
+                    "number": "72-A",
+                    "registeredDate": "2023-12-05",
+                    "title": "Autopoprawka do poselskiego projektu ustawy o zmianie ustaw w celu wsparcia odbiorców energii elektrycznej, paliw gazowych i ciepła oraz niektórych innych ustaw"
+                }
+            ],
+            "printNumber": "72",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2023-11-29",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "Sejm",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2023-11-29",
+            "stageName": "Skierowano do I czytania na posiedzeniu Sejmu",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "date": "2023-11-29",
+            "stageName": "Opinia organizacji samorządowej",
+            "organ": "Organizacja samorządowa",
+            "stageType": "Opinion"
+        },
+        {
+            "children": [
+                {
+                    "date": "2023-12-06",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "FPB",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                },
+                {
+                    "date": "2023-12-06",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "ESK",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                },
+                {
+                    "date": "2023-12-06",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 17,
+                        "date": "2023-12-06T13:29:41",
+                        "description": "wniosek o odrzucenie projektu ustawy w pierwszym czytaniu",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/1/57/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 240,
+                        "no": 239,
+                        "notParticipating": 27,
+                        "present": 0,
+                        "sitting": 1,
+                        "sittingDay": 7,
+                        "term": 10,
+                        "title": "Pkt. 29 Pierwsze czytanie poselskiego projektu ustawy o zmianie ustaw w celu wsparcia odbiorców energii elektrycznej, paliw gazowych i ciepła oraz niektórych innych ustaw (druki nr 72 i 72-A)",
+                        "topic": "wniosek o odrzucenie projektu w pierwszym czytaniu.",
+                        "totalVoted": 433,
+                        "votingNumber": 57,
+                        "yes": 177
+                    }
+                }
+            ],
+            "date": "2023-12-06",
+            "stageName": "I czytanie na posiedzeniu Sejmu",
+            "sittingNum": 1,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2023-12-06",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "88",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "352",
+                    "rapporteurName": "Marek Sowa",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/88/88.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2023-12-06",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "date": "2023-12-07",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "comment": "poprawki",
+            "decision": "niezwłocznie przystąpiono do III czytania",
+            "sittingNum": 1,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2023-12-07",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 197,
+                        "date": "2023-12-07T18:42:13",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/1/89/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 2,
+                        "no": 1,
+                        "notParticipating": 15,
+                        "present": 0,
+                        "sitting": 1,
+                        "sittingDay": 8,
+                        "term": 10,
+                        "title": "Pkt. 33 Sprawozdanie Komisji o poselskim projekcie ustawy o zmianie ustaw w celu wsparcia odbiorców energii elektrycznej, paliw gazowych i ciepła oraz niektórych innych ustaw (druki nr 72, 72-A i 88)",
+                        "topic": "głosowanie nad całością projektu ustawy",
+                        "totalVoted": 445,
+                        "votingNumber": 89,
+                        "yes": 247
+                    }
+                }
+            ],
+            "date": "2023-12-07",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "comment": "poprawki",
+            "decision": "uchwalono",
+            "sittingNum": 1,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/72/attachment/72_u3.pdf"
+        },
+        {
+            "date": "2023-12-08",
+            "stageName": "Stanowisko Senatu",
+            "position": "nie wniósł poprawek",
+            "stageType": "SenatePosition"
+        },
+        {
+            "date": "2023-12-12",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "date": "2023-12-15",
+            "stageName": "Prezydent podpisał ustawę",
+            "omittedInconsistent": false,
+            "stageType": "PresidentSignature"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Poselski projekt ustawy o zmianie ustaw w celu wsparcia odbiorców energii elektrycznej, paliw gazowych i ciepła oraz niektórych innych ustaw",
+    "titleFinal": "o zmianie ustaw w celu wsparcia odbiorców energii elektrycznej, paliw gazowych i ciepła",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2024-01-08T09:43:44"
+}

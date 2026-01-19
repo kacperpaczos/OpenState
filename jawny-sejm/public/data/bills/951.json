@@ -1,0 +1,193 @@
+{
+    "ELI": "DU/2025/622",
+    "UE": "NO",
+    "address": "WDU20250000622",
+    "changeDate": "2025-05-15T09:47:28",
+    "closureDate": "2025-04-04",
+    "description": "projekt dotyczy wprowadzenia reformy systemu wydawania wizy krajowej w celu odbycia studiów oraz systemu wydawania zezwolenia na pobyt czasowy w celu kształcenia się na studiach, wprowadzenia limitu cudzoziemców kształcących się na studiach na danej uczelni oraz ograniczenia dostępu do możliwości ubiegania się o udzielenie zezwolenia na pobyt czasowy i pracę",
+    "displayAddress": "Dz.U. 2025 poz. 622",
+    "documentDate": "2025-01-07",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [
+        {
+            "href": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000622",
+            "rel": "isap"
+        },
+        {
+            "href": "https://eli.gov.pl/eli/DU/2025/622/ogl",
+            "rel": "eli"
+        },
+        {
+            "href": "https://api.sejm.gov.pl/eli/acts/DU/2025/622",
+            "rel": "eli-api"
+        }
+    ],
+    "number": "951",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2025-01-07",
+    "rclLink": "https://legislacja.rcl.gov.pl/getIdFromLegislacja?number=RM-0610-125-24",
+    "rclNum": "RM-0610-125-24",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2025-01-07",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "951",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-01-09",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "Sejm",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-01-09",
+            "stageName": "Skierowano do I czytania na posiedzeniu Sejmu",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-01-23",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "NZC",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-01-23",
+            "stageName": "I czytanie na posiedzeniu Sejmu",
+            "sittingNum": 27,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-03-20",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 1,
+                    "printNumber": "1127",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "352",
+                    "rapporteurName": "Marek Sowa",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1127/1127.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-03-20",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-04-02",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "NZC",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-04-02",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "comment": "wniosek o odrzucenie, poprawki",
+            "decision": "skierowano ponownie do komisji w celu przedstawienia sprawozdania",
+            "sittingNum": 32,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-04-02",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "1127-A",
+                    "proposal": "odrzucić poprawki",
+                    "rapporteurID": "352",
+                    "rapporteurName": "Marek Sowa",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1127-A/1127-A.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-04-02",
+            "stageName": "Praca w komisjach po II czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-04-04",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 16,
+                        "date": "2025-04-04T09:58:25",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/32/21/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 179,
+                        "no": 178,
+                        "notParticipating": 31,
+                        "present": 0,
+                        "sitting": 32,
+                        "sittingDay": 3,
+                        "term": 10,
+                        "title": "Pkt. 3 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie niektórych ustaw w celu wyeliminowania nieprawidłowości w systemie wizowym Rzeczypospolitej Polskiej (druki nr 951, 1127 i 1127-A)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 429,
+                        "votingNumber": 21,
+                        "yes": 235
+                    }
+                }
+            ],
+            "date": "2025-04-04",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "comment": "wniosek o odrzucenie, wniosek mniejszości, poprawki",
+            "decision": "uchwalono",
+            "sittingNum": 32,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/951/attachment/951_u3.pdf"
+        },
+        {
+            "date": "2025-04-23",
+            "stageName": "Stanowisko Senatu",
+            "position": "nie wniósł poprawek",
+            "stageType": "SenatePosition"
+        },
+        {
+            "date": "2025-04-24",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "date": "2025-05-08",
+            "stageName": "Prezydent podpisał ustawę",
+            "omittedInconsistent": false,
+            "stageType": "PresidentSignature"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o zmianie niektórych ustaw w celu wyeliminowania nieprawidłowości w systemie wizowym Rzeczypospolitej Polskiej",
+    "titleFinal": "o zmianie niektórych ustaw w celu wyeliminowania nieprawidłowości w systemie wizowym Rzeczypospolitej Polskiej",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-05-15T09:47:37"
+}

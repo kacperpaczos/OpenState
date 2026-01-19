@@ -1,0 +1,197 @@
+{
+    "UE": "NO",
+    "changeDate": "2025-12-19T13:56:49",
+    "closureDate": "2025-12-18",
+    "description": "projekt dotyczy powoływania i odwoływania oraz składu organów podmiotów nadzorowanych, jak również kwalifikacji osób pełniących funkcje dyrektora i zastępcy dyrektora w instytutach badawczych oraz finansowania instytutów badawczych",
+    "documentDate": "2025-10-09",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "1807",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2025-10-09",
+    "rclLink": "https://legislacja.rcl.gov.pl/getIdFromLegislacja?number=RM-0610-179-25",
+    "rclNum": "RM-0610-179-25",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2025-10-09",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "1807",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-10-14",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "ENM",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-10-14",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "date": "2025-11-06",
+            "stageName": "I czytanie w komisjach",
+            "stageType": "Reading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-11-06",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "1917",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "273",
+                    "rapporteurName": "Dorota Olko",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1917/1917.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-11-06",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-11-20",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "ENM",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-11-20",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "comment": "wniosek o odrzucenie",
+            "decision": "skierowano ponownie do komisji w celu przedstawienia sprawozdania",
+            "sittingNum": 45,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-11-20",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "1917-A",
+                    "proposal": "odrzucić wniosek o odrzucenie",
+                    "rapporteurID": "273",
+                    "rapporteurName": "Dorota Olko",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1917-A/1917-A.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-11-20",
+            "stageName": "Praca w komisjach po II czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-11-21",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 0,
+                        "date": "2025-11-21T11:01:28",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/107/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 203,
+                        "no": 202,
+                        "notParticipating": 24,
+                        "present": 0,
+                        "sitting": 45,
+                        "sittingDay": 4,
+                        "term": 10,
+                        "title": "Pkt. 25 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Narodowym Centrum Badań i Rozwoju oraz niektórych innych ustaw (druki nr 1807, 1917 i 1917-A)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 436,
+                        "votingNumber": 107,
+                        "yes": 234
+                    }
+                }
+            ],
+            "date": "2025-11-21",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "comment": "wniosek o odrzucenie",
+            "decision": "uchwalono",
+            "sittingNum": 45,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/1807/attachment/1807_u3.pdf"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-12-11",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "ENM",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-12-10",
+            "stageName": "Stanowisko Senatu",
+            "position": "wniósł poprawki",
+            "printNumber": "2071",
+            "stageType": "SenatePosition"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-12-17",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "2090",
+                    "proposal": "przyjąć poprawki",
+                    "rapporteurID": "273",
+                    "rapporteurName": "Dorota Olko",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/2090/2090.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-12-17",
+            "stageName": "Praca w komisjach nad stanowiskiem Senatu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "date": "2025-12-18",
+            "stageName": "Rozpatrywanie na forum Sejmu stanowiska Senatu",
+            "decision": "przyjęto poprawki",
+            "sittingNum": 48,
+            "stageType": "SenatePositionConsideration"
+        },
+        {
+            "date": "2025-12-19",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o zmianie ustawy o Narodowym Centrum Badań i Rozwoju oraz niektórych innych ustaw",
+    "titleFinal": "o zmianie ustawy o Narodowym Centrum Badań i Rozwoju oraz niektórych innych ustaw",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-12-19T15:06:00"
+}

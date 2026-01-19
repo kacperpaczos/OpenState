@@ -1,0 +1,193 @@
+{
+    "ELI": "DU/2024/1585",
+    "UE": "NO",
+    "address": "WDU20240001585",
+    "changeDate": "2024-10-31T12:44:49",
+    "closureDate": "2024-10-01",
+    "description": "projekt dotyczy wprowadzenia preferencji podatkowych dla przedsiębiorców zatrudniających pracowników, którzy są jednocześnie żołnierzami OT i żołnierzami AR, wprowadzenia preferencji dla przedsiębiorców ubiegających się o udzielenie zamówienia publicznego, którzy przy wykonywaniu tego zlecenia będą zatrudniać pracowników, którzy są jednocześnie żołnierzami WOT i żołnierzami aktywnej rezerwy oraz zastąpienia odprawy wypłacanej pracownikom powołanym do terytorialnej służby wojskowej - świadczeniem początkowym celem podniesienia atrakcyjności terytorialnej służby wojskowej, zwiększenia liczebności Sił Zbrojnych RP oraz zmniejszenia obciążeń dla pracodawców",
+    "displayAddress": "Dz.U. 2024 poz. 1585",
+    "documentDate": "2024-09-25",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [
+        {
+            "href": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001585",
+            "rel": "isap"
+        },
+        {
+            "href": "https://eli.gov.pl/eli/DU/2024/1585/ogl",
+            "rel": "eli"
+        },
+        {
+            "href": "https://api.sejm.gov.pl/eli/acts/DU/2024/1585",
+            "rel": "eli-api"
+        }
+    ],
+    "number": "673",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2024-09-25",
+    "rclLink": "https://legislacja.rcl.gov.pl/getIdFromLegislacja?number=RM-0610-72-24",
+    "rclNum": "RM-0610-72-24",
+    "shortenProcedure": true,
+    "stages": [
+        {
+            "date": "2024-09-25",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "673",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-09-25",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "Sejm",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-09-25",
+            "stageName": "Skierowano do I czytania na posiedzeniu Sejmu",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-09-26",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "FPB",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-09-26",
+            "stageName": "I czytanie na posiedzeniu Sejmu",
+            "sittingNum": 18,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-09-27",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "681",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "342",
+                    "rapporteurName": "Krystyna Skowrońska",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/681/681.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2024-09-27",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-10-01",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "FPB",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-10-01",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "comment": "poprawki",
+            "decision": "skierowano ponownie do komisji w celu przedstawienia sprawozdania",
+            "sittingNum": 18,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-10-01",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "681-A",
+                    "proposal": "odrzucić poprawki",
+                    "rapporteurID": "342",
+                    "rapporteurName": "Krystyna Skowrońska",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/681-A/681-A.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2024-10-01",
+            "stageName": "Praca w komisjach po II czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-10-01",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 2,
+                        "date": "2024-10-01T20:16:11",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/18/121/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 1,
+                        "no": 0,
+                        "notParticipating": 48,
+                        "present": 0,
+                        "sitting": 18,
+                        "sittingDay": 4,
+                        "term": 10,
+                        "title": "Pkt. 28 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie niektórych ustaw w celu wsparcia przedsiębiorców zatrudniających żołnierzy Obrony Terytorialnej lub żołnierzy Aktywnej Rezerwy (druki nr 673, 681 i 681-A)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 411,
+                        "votingNumber": 121,
+                        "yes": 409
+                    }
+                }
+            ],
+            "date": "2024-10-01",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "comment": "poprawki",
+            "decision": "uchwalono",
+            "sittingNum": 18,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/673/attachment/673_u3.pdf"
+        },
+        {
+            "date": "2024-10-10",
+            "stageName": "Stanowisko Senatu",
+            "position": "nie wniósł poprawek",
+            "stageType": "SenatePosition"
+        },
+        {
+            "date": "2024-10-11",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "date": "2024-10-17",
+            "stageName": "Prezydent podpisał ustawę",
+            "omittedInconsistent": false,
+            "stageType": "PresidentSignature"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o zmianie niektórych ustaw w celu wsparcia przedsiębiorców zatrudniających żołnierzy Obrony Terytorialnej lub żołnierzy Aktywnej Rezerwy",
+    "titleFinal": "o zmianie niektórych ustaw w celu wsparcia przedsiębiorców zatrudniających żołnierzy Obrony Terytorialnej lub żołnierzy Aktywnej Rezerwy",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2024-11-04T13:28:45"
+}

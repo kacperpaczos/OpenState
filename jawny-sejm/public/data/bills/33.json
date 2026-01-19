@@ -1,0 +1,64 @@
+{
+    "UE": "NO",
+    "changeDate": "2023-11-29T16:50:37",
+    "comments": "Obywatelski projekt ustawy został wniesiony w IX kadencji Sejmu (druk nr 3421). Na podstawie art. 4. ust. 3 ustawy o wykonywaniu inicjatywy ustawodawczej przez obywateli - projekt ustawy, w stosunku do którego postępowanie ustawodawcze nie zostało zakończone w trakcie kadencji Sejmu, w której został wniesiony, jest rozpatrywany przez Sejm następnej kadencji.",
+    "description": "projekt dotyczy zobowiązania podmiotu leczniczego do ustalenia na nowo wynagrodzenia zasadniczego pracownika wykonującego zawód medyczny oraz pracownika działalności podstawowej, innego niż pracownik wykonujący zawód medyczny, który po dniu 1 lipca uzyskał kwalifikacje zawodowe powodujące zaliczenie pracownika do grupy zawodowej o wyższym współczynniku pracy określonym w załączniku do ustawy",
+    "documentDate": "2023-11-20",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "33",
+    "passed": false,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2023-05-23",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2023-05-23",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "33",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2023-11-20",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "Sejm",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2023-11-20",
+            "stageName": "Skierowano do I czytania na posiedzeniu Sejmu",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "children": [
+                {
+                    "date": "2023-11-29",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "ZDR",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                },
+                {
+                    "date": "2023-11-29",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "FPB",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2023-11-29",
+            "stageName": "I czytanie na posiedzeniu Sejmu",
+            "sittingNum": 1,
+            "stageType": "SejmReading"
+        }
+    ],
+    "term": 10,
+    "title": "Obywatelski projekt ustawy o zmianie ustawy o sposobie ustalania najniższego wynagrodzenia zasadniczego niektórych pracowników zatrudnionych w podmiotach leczniczych",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2024-02-02T08:02:08"
+}

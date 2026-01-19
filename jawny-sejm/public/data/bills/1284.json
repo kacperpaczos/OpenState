@@ -1,0 +1,252 @@
+{
+    "UE": "NO",
+    "changeDate": "2025-09-05T14:21:24",
+    "closureDate": "2025-07-25",
+    "description": "projekt dotyczy likwidacji Akademii Kopernikańskiej i Szkoły Głównej Mikołaja Kopernika z powodu nieefektywności - bilans kosztów i korzyści, które związane są z działalnością tych instytucji jest wyraźnie ujemny",
+    "documentDate": "2025-05-21",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "1284",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2025-05-21",
+    "rclLink": "https://legislacja.rcl.gov.pl/getIdFromLegislacja?number=RM-0610-53-25",
+    "rclNum": "RM-0610-53-25",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2025-05-21",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "1284",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-05-27",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "Sejm",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-05-27",
+            "stageName": "Skierowano do I czytania na posiedzeniu Sejmu",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-06-04",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "ENM",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                },
+                {
+                    "date": "2025-06-04",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 15,
+                        "date": "2025-06-04T17:56:33",
+                        "description": "wniosek o odrzucenie projektu ustawy w pierwszym czytaniu",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/36/13/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 245,
+                        "no": 244,
+                        "notParticipating": 20,
+                        "present": 0,
+                        "sitting": 36,
+                        "sittingDay": 2,
+                        "term": 10,
+                        "title": "Pkt. 4 Pierwsze czytanie rządowego projektu ustawy o likwidacji Akademii Kopernikańskiej i Szkoły Głównej Mikołaja Kopernika (druk nr 1284)",
+                        "topic": "wniosek o odrzucenie projektu w pierwszym czytaniu.",
+                        "totalVoted": 440,
+                        "votingNumber": 13,
+                        "yes": 181
+                    }
+                }
+            ],
+            "date": "2025-06-04",
+            "stageName": "I czytanie na posiedzeniu Sejmu",
+            "sittingNum": 36,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-06-25",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 2,
+                    "printNumber": "1400",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "419",
+                    "rapporteurName": "Dariusz Wieczorek",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1400/1400.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-06-25",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-07-09",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "ENM",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-07-09",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "comment": "wniosek o odrzucenie",
+            "decision": "skierowano ponownie do komisji w celu przedstawienia sprawozdania",
+            "sittingNum": 38,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-07-09",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "1400-A",
+                    "proposal": "odrzucić wniosek o odrzucenie",
+                    "rapporteurID": "419",
+                    "rapporteurName": "Dariusz Wieczorek",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1400-A/1400-A.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-07-09",
+            "stageName": "Praca w komisjach po II czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-07-09",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 2,
+                        "date": "2025-07-09T22:29:08",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/38/47/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 181,
+                        "no": 180,
+                        "notParticipating": 24,
+                        "present": 0,
+                        "sitting": 38,
+                        "sittingDay": 2,
+                        "term": 10,
+                        "title": "Pkt. 16 Sprawozdanie Komisji o rządowym projekcie ustawy o likwidacji Akademii Kopernikańskiej i Szkoły Głównej Mikołaja Kopernika (druki nr 1284, 1400 i 1400-A)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 436,
+                        "votingNumber": 47,
+                        "yes": 254
+                    }
+                }
+            ],
+            "date": "2025-07-09",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "comment": "wniosek o odrzucenie, wnioski mniejszości",
+            "decision": "uchwalono",
+            "sittingNum": 38,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/1284/attachment/1284_u3.pdf"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-07-18",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "ENM",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-07-17",
+            "stageName": "Stanowisko Senatu",
+            "position": "wniósł poprawki",
+            "printNumber": "1500",
+            "stageType": "SenatePosition"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-07-22",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "1534",
+                    "proposal": "przyjąć poprawki",
+                    "rapporteurID": "419",
+                    "rapporteurName": "Dariusz Wieczorek",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1534/1534.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-07-22",
+            "stageName": "Praca w komisjach nad stanowiskiem Senatu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "date": "2025-07-25",
+            "stageName": "Rozpatrywanie na forum Sejmu stanowiska Senatu",
+            "decision": "przyjęto poprawki",
+            "sittingNum": 39,
+            "stageType": "SenatePositionConsideration"
+        },
+        {
+            "date": "2025-07-28",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-09-05",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "ENM",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-08-05",
+            "stageName": "Wniosek Prezydenta (VETO)",
+            "printNumber": "1641",
+            "stageType": "Veto"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o likwidacji Akademii Kopernikańskiej i Szkoły Głównej Mikołaja Kopernika",
+    "titleFinal": "o likwidacji Akademii Kopernikańskiej i Szkoły Głównej Mikołaja Kopernika",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-09-05T14:21:43"
+}

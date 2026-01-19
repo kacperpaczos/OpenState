@@ -1,0 +1,241 @@
+{
+    "UE": "NO",
+    "changeDate": "2024-09-16T09:20:04",
+    "closureDate": "2024-09-13",
+    "comments": "Zmiana jednego z reprezentantów wnioskodawców - posła G. Rusieckiego zastąpił poseł B. Zdrojewski. Zmiana jednego z reprezentantów wnioskodawców - posła B. Zdrojewskiego zastąpił poseł P. Jaskulski",
+    "description": "projekt dotyczy określenia zasad wprowadzenia przepisów regulujących funkcjonowanie Trybunału Konstytucyjnego",
+    "documentDate": "2024-03-06",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "254",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2024-03-06",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2024-03-06",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "254",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-03-19",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "Sejm",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-03-19",
+            "stageName": "Skierowano do I czytania na posiedzeniu Sejmu",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-04-26",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "SPC",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                },
+                {
+                    "date": "2024-04-26",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 0,
+                        "date": "2024-04-26T11:14:27",
+                        "description": "Wniosek o odrzucenie projektu ustawy w pierwszym czytaniu",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/10/17/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 234,
+                        "no": 233,
+                        "notParticipating": 30,
+                        "present": 0,
+                        "sitting": 10,
+                        "sittingDay": 3,
+                        "term": 10,
+                        "title": "Pkt. 6 Pierwsze czytanie poselskiego projektu ustawy - Przepisy wprowadzające ustawę o Trybunale Konstytucyjnym (druk nr 254)",
+                        "topic": "wniosek o odrzucenie projektu w pierwszym czytaniu.",
+                        "totalVoted": 427,
+                        "votingNumber": 17,
+                        "yes": 194
+                    }
+                }
+            ],
+            "date": "2024-04-26",
+            "stageName": "I czytanie na posiedzeniu Sejmu",
+            "sittingNum": 10,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-05-24",
+                    "stageName": "Wysłuchanie publiczne",
+                    "stageType": "PublicHearing"
+                },
+                {
+                    "date": "2024-07-16",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 1,
+                    "printNumber": "544",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "465",
+                    "rapporteurName": "Dominik Jaśkowiec",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/544/544.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2024-05-24",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-07-23",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "SPC",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-07-23",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "comment": "wniosek o odrzucenie",
+            "decision": "skierowano ponownie do komisji w celu przedstawienia sprawozdania",
+            "sittingNum": 16,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-07-24",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "544-A",
+                    "proposal": "odrzucić wniosek o odrzucenie",
+                    "rapporteurID": "465",
+                    "rapporteurName": "Dominik Jaśkowiec",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/544-A/544-A.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2024-07-24",
+            "stageName": "Praca w komisjach po II czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-07-24",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 0,
+                        "date": "2024-07-24T17:08:36",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/16/15/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 201,
+                        "no": 200,
+                        "notParticipating": 18,
+                        "present": 0,
+                        "sitting": 16,
+                        "sittingDay": 2,
+                        "term": 10,
+                        "title": "Pkt. 3 Sprawozdanie Komisji o poselskim projekcie ustawy - Przepisy wprowadzające ustawę o Trybunale Konstytucyjnym (druki nr 254, 544 i 544-A)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 442,
+                        "votingNumber": 15,
+                        "yes": 242
+                    }
+                }
+            ],
+            "date": "2024-07-24",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "comment": "wniosek o odrzucenie, wniosek mniejszości",
+            "decision": "uchwalono",
+            "sittingNum": 16,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/254/attachment/254_u3.pdf"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-08-02",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "SPC",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-07-31",
+            "stageName": "Stanowisko Senatu",
+            "position": "wniósł poprawki",
+            "printNumber": "591",
+            "stageType": "SenatePosition"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-09-10",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "636",
+                    "proposal": "przyjąć poprawki",
+                    "rapporteurID": "63",
+                    "rapporteurName": "Sławomir Ćwik",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/636/636.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2024-09-10",
+            "stageName": "Praca w komisjach nad stanowiskiem Senatu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "date": "2024-09-13",
+            "stageName": "Rozpatrywanie na forum Sejmu stanowiska Senatu",
+            "decision": "przyjęto poprawki",
+            "sittingNum": 17,
+            "stageType": "SenatePositionConsideration"
+        },
+        {
+            "date": "2024-09-16",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Poselski projekt ustawy - Przepisy wprowadzające ustawę o Trybunale Konstytucyjnym",
+    "titleFinal": "Przepisy wprowadzające ustawę o Trybunale Konstytucyjnym",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2024-09-16T10:05:14"
+}

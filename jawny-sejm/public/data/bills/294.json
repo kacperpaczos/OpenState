@@ -1,0 +1,153 @@
+{
+    "ELI": "DU/2024/1148",
+    "UE": "NO",
+    "address": "WDU20240001148",
+    "changeDate": "2024-08-02T10:38:05",
+    "closureDate": "2024-07-12",
+    "description": "projekt dotyczy zakończenia obowiązywania Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Królestwa Norwegii w sprawie popierania i wzajemnej ochrony inwestycji, podpisanej w Warszawie dnia 5 czerwca 1990 r.",
+    "displayAddress": "Dz.U. 2024 poz. 1148",
+    "documentDate": "2024-03-29",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [
+        {
+            "href": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001148",
+            "rel": "isap"
+        },
+        {
+            "href": "https://eli.gov.pl/eli/DU/2024/1148/ogl",
+            "rel": "eli"
+        },
+        {
+            "href": "https://api.sejm.gov.pl/eli/acts/DU/2024/1148",
+            "rel": "eli-api"
+        }
+    ],
+    "number": "294",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2024-03-29",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2024-03-29",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "294",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-04-09",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "GOR",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                },
+                {
+                    "date": "2024-04-09",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "SZA",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-04-09",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-06-26",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "476",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "431",
+                    "rapporteurName": "Anna Wojciechowska",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/476/476.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2024-06-26",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "date": "2024-07-11",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "decision": "niezwłocznie przystąpiono do III czytania",
+            "sittingNum": 15,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-07-12",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 0,
+                        "date": "2024-07-12T14:42:35",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/15/67/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 2,
+                        "no": 1,
+                        "notParticipating": 26,
+                        "present": 0,
+                        "sitting": 15,
+                        "sittingDay": 2,
+                        "term": 10,
+                        "title": "Pkt. 8 Sprawozdanie Komisji o rządowym projekcie ustawy o ratyfikacji Porozumienia między Rządem Rzeczypospolitej Polskiej a Rządem Królestwa Norwegii o zakończeniu obowiązywania Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Królestwa Norwegii w sprawie popierania i wzajemnej ochrony inwestycji, podpisanej w Warszawie dnia 5 czerwca 1990 r., zawartego dnia 27 czerwca 2023 r. i 18 lipca 2023 r. (druki nr 294 i 476)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 432,
+                        "votingNumber": 67,
+                        "yes": 431
+                    }
+                }
+            ],
+            "date": "2024-07-12",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "decision": "uchwalono",
+            "sittingNum": 15,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/294/attachment/294_u3.pdf"
+        },
+        {
+            "date": "2024-07-25",
+            "stageName": "Stanowisko Senatu",
+            "position": "nie wniósł poprawek",
+            "stageType": "SenatePosition"
+        },
+        {
+            "date": "2024-07-26",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "date": "2024-07-29",
+            "stageName": "Prezydent podpisał ustawę",
+            "omittedInconsistent": false,
+            "stageType": "PresidentSignature"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o ratyfikacji Porozumienia między Rządem Rzeczypospolitej Polskiej a Rządem Królestwa Norwegii o zakończeniu obowiązywania Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Królestwa Norwegii w sprawie popierania i wzajemnej ochrony inwestycji, podpisanej w Warszawie dnia 5 czerwca 1990 r., zawartego dnia 27 czerwca 2023 r. i 18 lipca 2023 r.",
+    "titleFinal": "o ratyfikacji Porozumienia między Rządem Rzeczypospolitej Polskiej a Rządem Królestwa Norwegii o zakończeniu obowiązywania Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Królestwa Norwegii w sprawie popierania i wzajemnej ochrony inwestycji, podpisanej w Warszawie dnia 5 czerwca 1990 r., zawartego dnia 27 czerwca 2023 r. i 18 lipca 2023 r.",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2024-08-06T14:33:32"
+}

@@ -1,0 +1,193 @@
+{
+    "ELI": "DU/2024/1757",
+    "UE": "NO",
+    "address": "WDU20240001757",
+    "changeDate": "2024-12-02T09:27:10",
+    "closureDate": "2024-11-19",
+    "description": "projekt dotyczy wyeliminowania wątpliwości interpretacyjnych poprzez doprecyzowanie przepisów dotyczących ustawy o podatku rolnym, ustawy o podatkach i opłatach lokalnych oraz ustawy o opłacie skarbowej  oraz doprecyzowanie m.in. zasad opodatkowania podatkiem od nieruchomości garaży w budynkach mieszkalnych i definicji budynku i budowli oraz zakresu zwolnienia z podatku od nieruchomości budowli infrastruktury portowej, a także uszczelnienie zasad poboru opłaty uzdrowiskowej",
+    "displayAddress": "Dz.U. 2024 poz. 1757",
+    "documentDate": "2024-10-15",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [
+        {
+            "href": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001757",
+            "rel": "isap"
+        },
+        {
+            "href": "https://eli.gov.pl/eli/DU/2024/1757/ogl",
+            "rel": "eli"
+        },
+        {
+            "href": "https://api.sejm.gov.pl/eli/acts/DU/2024/1757",
+            "rel": "eli-api"
+        }
+    ],
+    "number": "741",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2024-10-15",
+    "rclLink": "https://legislacja.rcl.gov.pl/getIdFromLegislacja?number=RM-0610-79-24",
+    "rclNum": "RM-0610-79-24",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2024-10-15",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "741",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-10-22",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "Sejm",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-10-22",
+            "stageName": "Skierowano do I czytania na posiedzeniu Sejmu",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-11-06",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "FPB",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-11-06",
+            "stageName": "I czytanie na posiedzeniu Sejmu",
+            "sittingNum": 21,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-11-06",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 10,
+                    "printNumber": "788",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "233",
+                    "rapporteurName": "Dorota Marek",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/788/788.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2024-11-06",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-11-19",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "FPB",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-11-19",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "comment": "poprawki",
+            "decision": "skierowano ponownie do komisji w celu przedstawienia sprawozdania",
+            "sittingNum": 22,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-11-19",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "788-A",
+                    "proposal": "przyjąć poprawkę",
+                    "rapporteurID": "233",
+                    "rapporteurName": "Dorota Marek",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/788-A/788-A.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2024-11-19",
+            "stageName": "Praca w komisjach po II czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-11-19",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 147,
+                        "date": "2024-11-19T16:44:57",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/13/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 44,
+                        "no": 43,
+                        "notParticipating": 39,
+                        "present": 0,
+                        "sitting": 22,
+                        "sittingDay": 1,
+                        "term": 10,
+                        "title": "Pkt. 3 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o podatku rolnym, ustawy o podatkach i opłatach lokalnych oraz ustawy o opłacie skarbowej (druki nr 741, 788 i 788-A)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 421,
+                        "votingNumber": 13,
+                        "yes": 231
+                    }
+                }
+            ],
+            "date": "2024-11-19",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "comment": "wnioski mniejszości, poprawka",
+            "decision": "uchwalono",
+            "sittingNum": 22,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/741/attachment/741_u3.pdf"
+        },
+        {
+            "date": "2024-11-21",
+            "stageName": "Stanowisko Senatu",
+            "position": "nie wniósł poprawek",
+            "stageType": "SenatePosition"
+        },
+        {
+            "date": "2024-11-22",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "date": "2024-11-27",
+            "stageName": "Prezydent podpisał ustawę",
+            "omittedInconsistent": false,
+            "stageType": "PresidentSignature"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o zmianie ustawy o podatku rolnym, ustawy o podatkach i opłatach lokalnych oraz ustawy o opłacie skarbowej",
+    "titleFinal": "o zmianie ustawy o podatku rolnym, ustawy o podatkach i opłatach lokalnych oraz ustawy o opłacie skarbowej",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2024-12-02T15:55:07"
+}

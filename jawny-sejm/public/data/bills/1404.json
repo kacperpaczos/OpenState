@@ -1,0 +1,230 @@
+{
+    "ELI": "DU/2025/1423",
+    "UE": "NO",
+    "address": "WDU20250001423",
+    "changeDate": "2025-10-23T14:53:18",
+    "closureDate": "2025-09-26",
+    "description": "projekt dotyczy wyrównania szans w dostępie do niektórych uprawnień pracowniczych, jak i stanowisk wymagających potwierdzonego doświadczenia zawodowego osobom, które przebyły okresy zatrudnienia na podstawie stosunku pracy i stosunków służbowych oraz osób, które wykonywały pracę na podstawie innych stosunków prawnych i w innych formach (w szczególności okresów prowadzenia działalności gospodarczej)",
+    "displayAddress": "Dz.U. 2025 poz. 1423",
+    "documentDate": "2025-06-10",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [
+        {
+            "href": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001423",
+            "rel": "isap"
+        },
+        {
+            "href": "https://eli.gov.pl/eli/DU/2025/1423/ogl",
+            "rel": "eli"
+        },
+        {
+            "href": "https://api.sejm.gov.pl/eli/acts/DU/2025/1423",
+            "rel": "eli-api"
+        }
+    ],
+    "number": "1404",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "printsConsideredJointly": [
+        "1426"
+    ],
+    "processStartDate": "2025-06-10",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2025-06-10",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "1404",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-07-10",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "Sejm",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-07-10",
+            "stageName": "Skierowano do I czytania na posiedzeniu Sejmu",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-07-22",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "NKK",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-07-22",
+            "stageName": "I czytanie na posiedzeniu Sejmu",
+            "sittingNum": 39,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-07-24",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "1548",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "63",
+                    "rapporteurName": "Sławomir Ćwik",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1548/1548.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-07-24",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-09-09",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "NKK",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-09-09",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "comment": "poprawki",
+            "decision": "skierowano ponownie do komisji w celu przedstawienia sprawozdania",
+            "sittingNum": 40,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-09-11",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "1548-A",
+                    "proposal": "przyjąć część poprawek",
+                    "rapporteurID": "63",
+                    "rapporteurName": "Sławomir Ćwik",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1548-A/1548-A.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-09-11",
+            "stageName": "Praca w komisjach po II czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-09-12",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 0,
+                        "date": "2025-09-12T20:08:48",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/40/71/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 4,
+                        "no": 3,
+                        "notParticipating": 29,
+                        "present": 0,
+                        "sitting": 40,
+                        "sittingDay": 4,
+                        "term": 10,
+                        "title": "Pkt. 6 Sprawozdanie Komisji o rządowym oraz poselskim projektach ustaw o zmianie ustawy - Kodeks pracy oraz niektórych innych ustaw (druki nr 1426, 1404, 1548 i 1548-A)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 431,
+                        "votingNumber": 71,
+                        "yes": 428
+                    }
+                }
+            ],
+            "date": "2025-09-12",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "comment": "poprawki",
+            "decision": "uchwalono",
+            "sittingNum": 40,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/1404/attachment/1404_u3.pdf"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-09-24",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "NKK",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-09-24",
+            "stageName": "Stanowisko Senatu",
+            "position": "wniósł poprawki",
+            "printNumber": "1734",
+            "stageType": "SenatePosition"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-09-26",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "1737",
+                    "proposal": "przyjąć poprawki",
+                    "rapporteurID": "63",
+                    "rapporteurName": "Sławomir Ćwik",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1737/1737.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-09-26",
+            "stageName": "Praca w komisjach nad stanowiskiem Senatu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "date": "2025-09-26",
+            "stageName": "Rozpatrywanie na forum Sejmu stanowiska Senatu",
+            "decision": "przyjęto poprawki",
+            "sittingNum": 41,
+            "stageType": "SenatePositionConsideration"
+        },
+        {
+            "date": "2025-09-29",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "date": "2025-10-15",
+            "stageName": "Prezydent podpisał ustawę",
+            "omittedInconsistent": false,
+            "stageType": "PresidentSignature"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Poselski projekt ustawy o zmianie ustawy - Kodeks pracy oraz niektórych innych ustaw",
+    "titleFinal": "o zmianie ustawy - Kodeks pracy oraz niektórych innych ustaw",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-10-24T08:53:56"
+}

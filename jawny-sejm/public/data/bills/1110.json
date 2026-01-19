@@ -1,0 +1,92 @@
+{
+    "UE": "NO",
+    "changeDate": "2025-12-22T09:37:24",
+    "description": "projekt dotyczy dodania w art. 215 paragrafu 3, którego celem jest zapewnienie osobie tymczasowo aresztowanej pełnej realizacji prawa do obrony, w tym zniesienia barier o charakterze techniczno-organizacyjnym, w aspekcie realizacji prawa do porozumiewania się z obrońcą podczas nieobecności innych osób",
+    "documentDate": "2025-02-20",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "1110",
+    "passed": false,
+    "principleOfSubsidiarity": false,
+    "printsConsideredJointly": [
+        "410",
+        "643",
+        "865",
+        "935",
+        "1109",
+        "1131",
+        "1600"
+    ],
+    "processStartDate": "2025-02-21",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2025-02-21",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "1110",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-03-18",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "Sejm",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-03-18",
+            "stageName": "Skierowano do I czytania na posiedzeniu Sejmu",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-05-08",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "NKK",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-05-08",
+            "stageName": "I czytanie na posiedzeniu Sejmu",
+            "sittingNum": 34,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-11-20",
+                    "stageName": "Sprawozdanie podkomisji",
+                    "minorityMotions": 0,
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/processes/1110/attachment/spr_1600.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": true
+                },
+                {
+                    "date": "2025-12-16",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "2086",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "491",
+                    "rapporteurName": "Aleksandra Kot",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/2086/2086.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-11-20",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        }
+    ],
+    "term": 10,
+    "title": "Komisyjny projekt ustawy o zmianie ustawy - Kodeks karny wykonawczy",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-12-22T09:42:49"
+}

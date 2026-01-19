@@ -1,0 +1,156 @@
+{
+    "ELI": "DU/2024/1092",
+    "UE": "NO",
+    "address": "WDU20240001092",
+    "changeDate": "2024-08-02T10:35:28",
+    "closureDate": "2024-06-28",
+    "description": "projekt dotyczy ratyfikacji umowy, której celem jest stworzenie ram prawnych pozwalających na utworzenie i funkcjonowanie Przedstawicielstwa UNOPS w Warszawie i która zawiera regulacje niezbędne do skutecznego wypełniania funkcji przez Przedstawicielstwo oraz reguluje status pomieszczeń przedstawicielstwa, urzędników, ekspertów wykonujących zadania dla UNOPS i osób świadczących usługi",
+    "displayAddress": "Dz.U. 2024 poz. 1092",
+    "documentDate": "2024-03-26",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [
+        {
+            "href": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001092",
+            "rel": "isap"
+        },
+        {
+            "href": "https://eli.gov.pl/eli/DU/2024/1092/ogl",
+            "rel": "eli"
+        },
+        {
+            "href": "https://api.sejm.gov.pl/eli/acts/DU/2024/1092",
+            "rel": "eli-api"
+        }
+    ],
+    "number": "276",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2024-03-26",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2024-03-26",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "276",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-03-29",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "SZA",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-03-29",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "date": "2024-05-15",
+            "stageName": "I czytanie w komisjach",
+            "stageType": "Reading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-06-13",
+                    "stageName": "Wysłuchanie publiczne",
+                    "stageType": "PublicHearing"
+                },
+                {
+                    "date": "2024-06-13",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "456",
+                    "proposal": "uchwalić projekt ustawy bez poprawek",
+                    "rapporteurID": "394",
+                    "rapporteurName": "Małgorzata Tracz",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/456/456.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2024-06-13",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "date": "2024-06-27",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "decision": "niezwłocznie przystąpiono do III czytania",
+            "sittingNum": 14,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-06-28",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 0,
+                        "date": "2024-06-28T09:50:25",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/14/23/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 19,
+                        "no": 18,
+                        "notParticipating": 19,
+                        "present": 0,
+                        "sitting": 14,
+                        "sittingDay": 3,
+                        "term": 10,
+                        "title": "Pkt. 14 Sprawozdanie Komisji o rządowym projekcie ustawy o ratyfikacji Umowy między Rządem Rzeczypospolitej Polskiej a Organizacją Narodów Zjednoczonych w sprawie utworzenia Przedstawicielstwa Biura Narodów Zjednoczonych do spraw Obsługi Projektów w Warszawie, podpisanej w Nowym Jorku dnia 21 września 2023 r. (druki nr 276 i 456)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 439,
+                        "votingNumber": 23,
+                        "yes": 421
+                    }
+                }
+            ],
+            "date": "2024-06-28",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "decision": "uchwalono",
+            "sittingNum": 14,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/276/attachment/276_u3.pdf"
+        },
+        {
+            "date": "2024-07-10",
+            "stageName": "Stanowisko Senatu",
+            "position": "nie wniósł poprawek",
+            "stageType": "SenatePosition"
+        },
+        {
+            "date": "2024-07-11",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "date": "2024-07-17",
+            "stageName": "Prezydent podpisał ustawę",
+            "omittedInconsistent": false,
+            "stageType": "PresidentSignature"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o ratyfikacji Umowy między Rządem Rzeczypospolitej Polskiej a Organizacją Narodów Zjednoczonych w sprawie utworzenia Przedstawicielstwa Biura Narodów Zjednoczonych do spraw Obsługi Projektów w Warszawie, podpisanej w Nowym Jorku dnia 21 września 2023 r.",
+    "titleFinal": "o ratyfikacji Umowy między Rządem Rzeczypospolitej Polskiej a Organizacją Narodów Zjednoczonych w sprawie utworzenia Przedstawicielstwa Biura Narodów Zjednoczonych do spraw Obsługi Projektów w Warszawie, podpisanej w Nowym Jorku dnia 21 września 2023 r.",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2024-08-06T14:33:32"
+}

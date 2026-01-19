@@ -1,0 +1,158 @@
+{
+    "ELI": "DU/2025/1169",
+    "UE": "NO",
+    "address": "WDU20250001169",
+    "changeDate": "2025-08-26T08:50:16",
+    "closureDate": "2025-08-05",
+    "description": "projekt dotyczy zmiany polegającej na tym, że w przypadku ustalenia wysokości emerytury według nowych zasad w czerwcu danego roku w latach 2009-2019 waloryzacji kapitału początkowego i składek, zewidencjonowanych na koncie ubezpieczonego, dokonuje się w taki sam sposób, jak przy ustalaniu wysokości emerytury w maju danego roku, jeżeli jest to korzystniejsze dla ubezpieczonego. W przypadku osoby, której przyznano emeryturę lub rentę rodzinną w czerwcu w latach 2009-2019, jej emerytura lub renta rodzinna, na jej wniosek złożony do Zakładu Ubezpieczeń Społecznych, podlegałaby ponownemu ustaleniu wysokości.",
+    "displayAddress": "Dz.U. 2025 poz. 1169",
+    "documentDate": "2025-07-15",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [
+        {
+            "href": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001169",
+            "rel": "isap"
+        },
+        {
+            "href": "https://eli.gov.pl/eli/DU/2025/1169/ogl",
+            "rel": "eli"
+        },
+        {
+            "href": "https://api.sejm.gov.pl/eli/acts/DU/2025/1169",
+            "rel": "eli-api"
+        }
+    ],
+    "number": "1523",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "printsConsideredJointly": [
+        "909"
+    ],
+    "processStartDate": "2025-07-15",
+    "rclLink": "https://legislacja.rcl.gov.pl/getIdFromLegislacja?number=RM-0610-114-25",
+    "rclNum": "RM-0610-114-25",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2025-07-15",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "1523",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-07-22",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "PSR",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-07-22",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "date": "2025-08-04",
+            "stageName": "I czytanie w komisjach",
+            "stageType": "Reading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-08-04",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "1574",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "233",
+                    "rapporteurName": "Dorota Marek",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1574/1574.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-08-04",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "date": "2025-08-05",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "comment": "poprawki",
+            "decision": "niezwłocznie przystąpiono do III czytania",
+            "sittingNum": 39,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-08-05",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 0,
+                        "date": "2025-08-05T15:47:27",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/39/159/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 1,
+                        "no": 0,
+                        "notParticipating": 23,
+                        "present": 0,
+                        "sitting": 39,
+                        "sittingDay": 6,
+                        "term": 10,
+                        "title": "Pkt. 66 Sprawozdanie Komisji o rządowym i poselskim projektach ustaw:- o ustalaniu wysokości emerytur z Funduszu Ubezpieczeń Społecznych ustalonych w czerwcu w latach 2009-2019 oraz rent rodzinnych po ubezpieczonych, którym ustalono emerytury w czerwcu w latach 2009-2019,- o zmianie ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (druki nr 1523, 909 i 1574)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 437,
+                        "votingNumber": 159,
+                        "yes": 437
+                    }
+                }
+            ],
+            "date": "2025-08-05",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "comment": "poprawki",
+            "decision": "uchwalono",
+            "sittingNum": 39,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/909/attachment/909_u3.pdf"
+        },
+        {
+            "date": "2025-08-07",
+            "stageName": "Stanowisko Senatu",
+            "position": "nie wniósł poprawek",
+            "stageType": "SenatePosition"
+        },
+        {
+            "date": "2025-08-08",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "date": "2025-08-21",
+            "stageName": "Prezydent podpisał ustawę",
+            "omittedInconsistent": false,
+            "stageType": "PresidentSignature"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o ustalaniu wysokości emerytur z Funduszu Ubezpieczeń Społecznych ustalonych w czerwcu w latach 2009-2019 oraz rent rodzinnych po ubezpieczonych, którym ustalono emerytury w czerwcu w latach 2009-2019",
+    "titleFinal": "o ustalaniu wysokości emerytur z Funduszu Ubezpieczeń Społecznych ustalonych w czerwcu w latach 2009-2019 oraz rent rodzinnych po ubezpieczonych, którym ustalono emerytury w czerwcu w latach 2009-2019",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-09-02T12:51:49"
+}

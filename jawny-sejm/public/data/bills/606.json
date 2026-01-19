@@ -1,0 +1,183 @@
+{
+    "ELI": "DU/2024/1558",
+    "UE": "NO",
+    "address": "WDU20240001558",
+    "changeDate": "2024-10-22T10:26:07",
+    "closureDate": "2024-09-27",
+    "description": "projekt dotyczy zmiany terminu wejścia w życie przepisu, który zakazuje w Polsce wytwarzania, wprowadzania do obrotu i stosowania w żywieniu zwierząt pasz genetycznie zmodyfikowanych oraz organizmów genetycznie zmodyfikowanych (GMO) z 1 stycznia 2025 r. na 1 stycznia 2030 r.",
+    "displayAddress": "Dz.U. 2024 poz. 1558",
+    "documentDate": "2024-08-05",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [
+        {
+            "href": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001558",
+            "rel": "isap"
+        },
+        {
+            "href": "https://eli.gov.pl/eli/DU/2024/1558/ogl",
+            "rel": "eli"
+        },
+        {
+            "href": "https://api.sejm.gov.pl/eli/acts/DU/2024/1558",
+            "rel": "eli-api"
+        }
+    ],
+    "number": "606",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2024-08-05",
+    "rclLink": "https://legislacja.rcl.gov.pl/getIdFromLegislacja?number=RM-0610-55-24",
+    "rclNum": "RM-0610-55-24",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2024-08-05",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "606",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-08-26",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "RRW",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-08-26",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "date": "2024-09-12",
+            "stageName": "I czytanie w komisjach",
+            "stageType": "Reading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-09-12",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "648",
+                    "proposal": "uchwalić projekt ustawy bez poprawek",
+                    "rapporteurID": "221",
+                    "rapporteurName": "Alicja Łepkowska-Gołaś",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/648/648.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2024-09-12",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-09-25",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "RRW",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-09-25",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "comment": "poprawka",
+            "decision": "skierowano ponownie do komisji w celu przedstawienia sprawozdania",
+            "sittingNum": 18,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-09-26",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "648-A",
+                    "proposal": "odrzucić poprawkę",
+                    "rapporteurID": "221",
+                    "rapporteurName": "Alicja Łepkowska-Gołaś",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/648-A/648-A.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2024-09-26",
+            "stageName": "Praca w komisjach po II czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-09-27",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 16,
+                        "date": "2024-09-27T09:38:10",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/18/38/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 179,
+                        "no": 178,
+                        "notParticipating": 29,
+                        "present": 0,
+                        "sitting": 18,
+                        "sittingDay": 3,
+                        "term": 10,
+                        "title": "Pkt. 7 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o paszach (druki nr 606, 648 i 648-A)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 430,
+                        "votingNumber": 38,
+                        "yes": 236
+                    }
+                }
+            ],
+            "date": "2024-09-27",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "comment": "poprawka",
+            "decision": "uchwalono",
+            "sittingNum": 18,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/606/attachment/606_u3.pdf"
+        },
+        {
+            "date": "2024-10-10",
+            "stageName": "Stanowisko Senatu",
+            "position": "nie wniósł poprawek",
+            "stageType": "SenatePosition"
+        },
+        {
+            "date": "2024-10-11",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "date": "2024-10-17",
+            "stageName": "Prezydent podpisał ustawę",
+            "omittedInconsistent": false,
+            "stageType": "PresidentSignature"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o zmianie ustawy o paszach",
+    "titleFinal": "o zmianie ustawy o paszach",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2024-10-22T13:08:30"
+}

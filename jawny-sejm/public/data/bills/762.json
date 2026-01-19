@@ -1,0 +1,178 @@
+{
+    "ELI": "DU/2024/1871",
+    "UE": "NO",
+    "address": "WDU20240001871",
+    "changeDate": "2024-12-23T11:09:04",
+    "closureDate": "2024-12-06",
+    "description": "projekt dotyczy wprowadzenia uzupełniającego urlopu macierzyńskiego, który pozwoli zrekompensować pracownikom - rodzicom, czas spędzony z dzieckiem w szpitalu podczas urlopu macierzyńskiego, w przypadku długotrwałej hospitalizacji dziecka i ułatwi rodzicom dalsze specjalistyczne leczenie czy rehabilitację dziecka, bez konieczności wykorzystywania urlopów wypoczynkowych czy innych zwolnień od pracy",
+    "displayAddress": "Dz.U. 2024 poz. 1871",
+    "documentDate": "2024-10-30",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [
+        {
+            "href": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001871",
+            "rel": "isap"
+        },
+        {
+            "href": "https://eli.gov.pl/eli/DU/2024/1871/ogl",
+            "rel": "eli"
+        },
+        {
+            "href": "https://api.sejm.gov.pl/eli/acts/DU/2024/1871",
+            "rel": "eli-api"
+        }
+    ],
+    "number": "762",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2024-10-31",
+    "rclLink": "https://legislacja.rcl.gov.pl/getIdFromLegislacja?number=RM-0610-97-24",
+    "rclNum": "RM-0610-97-24",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2024-10-31",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "762",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-10-31",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "Sejm",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-10-31",
+            "stageName": "Skierowano do I czytania na posiedzeniu Sejmu",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-11-27",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 155,
+                        "date": "2024-11-27T09:26:20",
+                        "description": "wniosek o nieodsyłanie projektu ustawy do Komisji",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/131/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 1,
+                        "no": 0,
+                        "notParticipating": 52,
+                        "present": 0,
+                        "sitting": 22,
+                        "sittingDay": 5,
+                        "term": 10,
+                        "title": "Pkt. 30 Pierwsze czytanie rządowego projektu ustawy o zmianie ustawy - Kodeks pracy oraz niektórych innych ustaw (druk nr 762)",
+                        "topic": "wniosek o przystąpienie do drugiego czytania  bez kierowania projektu do komisji",
+                        "totalVoted": 408,
+                        "votingNumber": 131,
+                        "yes": 253
+                    }
+                }
+            ],
+            "date": "2024-11-27",
+            "stageName": "I czytanie na posiedzeniu Sejmu",
+            "decision": "niezwłocznie przystąpiono do II czytania",
+            "sittingNum": 22,
+            "stageType": "SejmReading"
+        },
+        {
+            "date": "2024-11-27",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "comment": "poprawki",
+            "decision": "niezwłocznie przystąpiono do III czytania",
+            "sittingNum": 22,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-11-27",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 0,
+                        "date": "2024-11-27T21:22:04",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/153/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 1,
+                        "no": 0,
+                        "notParticipating": 32,
+                        "present": 0,
+                        "sitting": 22,
+                        "sittingDay": 5,
+                        "term": 10,
+                        "title": "Pkt. 30 Pierwsze czytanie rządowego projektu ustawy o zmianie ustawy - Kodeks pracy oraz niektórych innych ustaw (druk nr 762)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 428,
+                        "votingNumber": 153,
+                        "yes": 428
+                    }
+                }
+            ],
+            "date": "2024-11-27",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "comment": "poprawki",
+            "decision": "uchwalono",
+            "sittingNum": 22,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/762/attachment/762_u3.pdf"
+        },
+        {
+            "date": "2024-12-05",
+            "stageName": "Stanowisko Senatu",
+            "position": "wniósł poprawki",
+            "printNumber": "894",
+            "stageType": "SenatePosition"
+        },
+        {
+            "date": "2024-12-06",
+            "stageName": "Rozpatrywanie na forum Sejmu stanowiska Senatu",
+            "decision": "przyjęto poprawki",
+            "sittingNum": 24,
+            "stageType": "SenatePositionConsideration"
+        },
+        {
+            "date": "2024-12-09",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "date": "2024-12-12",
+            "stageName": "Prezydent podpisał ustawę",
+            "omittedInconsistent": false,
+            "stageType": "PresidentSignature"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o zmianie ustawy - Kodeks pracy oraz niektórych innych ustaw",
+    "titleFinal": "o zmianie ustawy - Kodeks pracy oraz niektórych innych ustaw",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-01-02T08:14:19"
+}

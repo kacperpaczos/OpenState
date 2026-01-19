@@ -1,0 +1,47 @@
+{
+    "UE": "NO",
+    "changeDate": "2025-11-12T10:51:19",
+    "description": "projekt dotyczy podniesienia limitu zwolnienia z podatku od czynności cywilnoprawnych w zakresie sprzedaży rzeczy ruchomych oraz pożyczki udzielanej na podstawie umowy zawartej między innymi podmiotami niż małżonek, zstępny, wstępny, pasierb, rodzeństwo, ojczym i macocha oraz osoby zaliczone do I grupy podatkowej z 1000 zł do 5000 zł",
+    "documentDate": "2025-10-15",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "1899",
+    "passed": false,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2025-10-15",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2025-10-15",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "1899",
+            "stageType": "Start"
+        },
+        {
+            "date": "2025-10-22",
+            "stageName": "Opinia organizacji samorządowej",
+            "organ": "Organizacja samorządowa",
+            "stageType": "Opinion"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-11-04",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "Sejm",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-11-04",
+            "stageName": "Skierowano do I czytania na posiedzeniu Sejmu",
+            "stageType": "ReadingReferral"
+        }
+    ],
+    "term": 10,
+    "title": "Poselski projekt ustawy o zmianie ustawy o podatku od czynności cywilnoprawnych",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-11-14T12:39:38"
+}

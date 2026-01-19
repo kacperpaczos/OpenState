@@ -1,0 +1,47 @@
+{
+    "UE": "NO",
+    "changeDate": "2024-12-05T16:36:23",
+    "description": "projekt dotyczy uregulowania spraw z zakresu organizacji hodowli oraz utrzymywania kotów i psów rasowych, w tym zasad: działalności stowarzyszeń wpisanych do rejestru stowarzyszeń zrzeszających hodowców kotów lub psów rasowych, prowadzenia ksiąg hodowlanych i wydawania rodowodów oraz utrzymywania kotów i psów rasowych w hodowli",
+    "documentDate": "2024-10-18",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "837",
+    "passed": false,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2024-10-18",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2024-10-18",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "837",
+            "stageType": "Start"
+        },
+        {
+            "date": "2024-10-24",
+            "stageName": "Opinia organizacji samorządowej",
+            "organ": "Organizacja samorządowa",
+            "stageType": "Opinion"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-11-19",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "NOZ",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-11-19",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        }
+    ],
+    "term": 10,
+    "title": "Poselski projekt ustawy o działalności stowarzyszeń felinologicznych i kynologicznych oraz organizacji hodowli kotów i psów rasowych",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2024-12-05T16:36:49"
+}

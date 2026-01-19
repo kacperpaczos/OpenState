@@ -1,0 +1,153 @@
+{
+    "ELI": "DU/2026/31",
+    "UE": "NO",
+    "address": "WDU20260000031",
+    "changeDate": "2026-01-19T13:46:42",
+    "closureDate": "2025-12-05",
+    "description": "projekt dotyczy ratyfikacji Umowy w obszarze ochrony inwestycji, która doprecyzowuje standardy ochrony inwestycji w celu ograniczenia stosowanej przez międzynarodowe trybunały arbitrażowe szerokiej i często niespójnej interpretacji ogólnie sformułowanych postanowień umów o popieraniu i ochronie inwestycji. Umowa ma zapewnić wysoki poziom ochrony inwestycji, gwarantując jednocześnie UE i jej państwom członkowskim oraz Singapurowi prawo do wprowadzania regulacji na swoim terytorium w celu osiągania uzasadnionych celów polityki, takich jak ochrona zdrowia publicznego, usług społecznych, edukacji publicznej, bezpieczeństwa, środowiska lub moralności publicznej, ochrona socjalna lub ochrona konsumenta, ochrona danych i ochrona prywatności oraz promowanie i ochrona różnorodności kulturowej.",
+    "displayAddress": "Dz.U. 2026 poz. 31",
+    "documentDate": "2025-10-29",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [
+        {
+            "href": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000031",
+            "rel": "isap"
+        },
+        {
+            "href": "https://eli.gov.pl/eli/DU/2026/31/ogl",
+            "rel": "eli"
+        },
+        {
+            "href": "https://api.sejm.gov.pl/eli/acts/DU/2026/31",
+            "rel": "eli-api"
+        }
+    ],
+    "number": "1887",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2025-10-29",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2025-10-29",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "1887",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-11-04",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "SZA",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                },
+                {
+                    "date": "2025-11-04",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "SUE",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-11-04",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-11-20",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "1954",
+                    "proposal": "uchwalić projekt ustawy bez poprawek",
+                    "rapporteurID": "84",
+                    "rapporteurName": "Patryk Gabriel",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1954/1954.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-11-20",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "date": "2025-12-04",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "decision": "niezwłocznie przystąpiono do III czytania",
+            "sittingNum": 46,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-12-05",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 0,
+                        "date": "2025-12-05T16:32:45",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/47/100/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 1,
+                        "no": 0,
+                        "notParticipating": 27,
+                        "present": 0,
+                        "sitting": 47,
+                        "sittingDay": 1,
+                        "term": 10,
+                        "title": "Pkt. 2 Sprawozdanie Komisji o rządowym projekcie ustawy o ratyfikacji Umowy o ochronie inwestycji między Unią Europejską i jej państwami członkowskimi, z jednej strony, a Republiką Singapuru, z drugiej strony, sporządzonej w Brukseli dnia 19 października 2018 r. (druki nr 1887 i 1954) - trzecie czytanie",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 433,
+                        "votingNumber": 100,
+                        "yes": 433
+                    }
+                }
+            ],
+            "date": "2025-12-05",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "decision": "uchwalono",
+            "sittingNum": 47,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/1887/attachment/1887_u3.pdf"
+        },
+        {
+            "date": "2025-12-19",
+            "stageName": "Stanowisko Senatu",
+            "position": "nie wniósł poprawek",
+            "stageType": "SenatePosition"
+        },
+        {
+            "date": "2025-12-19",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "date": "2026-01-09",
+            "stageName": "Prezydent podpisał ustawę",
+            "omittedInconsistent": false,
+            "stageType": "PresidentSignature"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o ratyfikacji Umowy o ochronie inwestycji między Unią Europejską i jej państwami członkowskimi, z jednej strony, a Republiką Singapuru, z drugiej strony, sporządzonej w Brukseli dnia 19 października 2018 r.",
+    "titleFinal": "o ratyfikacji Umowy o ochronie inwestycji między Unią Europejską i jej państwami członkowskimi, z jednej strony, a Republiką Singapuru, z drugiej strony, sporządzonej w Brukseli dnia 19 października 2018 r.",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-12-19T14:32:57"
+}

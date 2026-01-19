@@ -1,0 +1,220 @@
+{
+    "ELI": "DU/2024/1254",
+    "UE": "ENFORCEMENT",
+    "address": "WDU20240001254",
+    "changeDate": "2024-08-21T10:08:47",
+    "closureDate": "2024-07-26",
+    "description": "projekt dotyczy wdrożenia do polskiego porządku prawnego dwóch dyrektyw Parlamentu Europejskiego upoważniających twórców i wykonawców utworów audiowizualnych oraz wykonawców utworów muzycznych i słowno-muzycznych do tantiem z tytułu eksploatacji ich dzieł w Internecie oraz wprowadza nowe prawo pokrewne dla wydawców prasy do korzystania online z ich publikacji prasowych",
+    "displayAddress": "Dz.U. 2024 poz. 1254",
+    "documentDate": "2024-05-16",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [
+        {
+            "href": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001254",
+            "rel": "isap"
+        },
+        {
+            "href": "https://eli.gov.pl/eli/DU/2024/1254/ogl",
+            "rel": "eli"
+        },
+        {
+            "href": "https://api.sejm.gov.pl/eli/acts/DU/2024/1254",
+            "rel": "eli-api"
+        }
+    ],
+    "number": "406",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2024-05-16",
+    "rclLink": "https://legislacja.rcl.gov.pl/getIdFromLegislacja?number=RM-0610-36-24",
+    "rclNum": "RM-0610-36-24",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2024-05-16",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "406",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-05-21",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "KSP",
+                    "reportDate": "2024-06-25",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-05-21",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "date": "2024-06-11",
+            "stageName": "I czytanie w komisjach",
+            "stageType": "Reading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-06-19",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 2,
+                    "printNumber": "467",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "439",
+                    "rapporteurName": "Maciej Wróbel",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/467/467.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2024-06-19",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-06-26",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "KSP",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-06-26",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "comment": "poprawki",
+            "decision": "skierowano ponownie do komisji w celu przedstawienia sprawozdania",
+            "sittingNum": 14,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-06-27",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "467-A",
+                    "proposal": "przyjąć część poprawek",
+                    "rapporteurID": "439",
+                    "rapporteurName": "Maciej Wróbel",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/467-A/467-A.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2024-06-27",
+            "stageName": "Praca w komisjach po II czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-06-28",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 1,
+                        "date": "2024-06-28T09:43:02",
+                        "description": "całość projektu ustawy ",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/14/18/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 19,
+                        "no": 18,
+                        "notParticipating": 22,
+                        "present": 0,
+                        "sitting": 14,
+                        "sittingDay": 3,
+                        "term": 10,
+                        "title": "Pkt. 6 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o prawie autorskim i prawach pokrewnych oraz niektórych innych ustaw (druki nr 406, 467 i 467-A)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 436,
+                        "votingNumber": 18,
+                        "yes": 417
+                    }
+                }
+            ],
+            "date": "2024-06-28",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "comment": "wnioski mniejszości, poprawki (pierwsza poprawka została wycofana)",
+            "decision": "uchwalono",
+            "sittingNum": 14,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/406/attachment/406_u3.pdf"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-07-24",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "KSP",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-07-24",
+            "stageName": "Stanowisko Senatu",
+            "position": "wniósł poprawki",
+            "printNumber": "576",
+            "stageType": "SenatePosition"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-07-25",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "581",
+                    "proposal": "przyjąć poprawki",
+                    "rapporteurID": "439",
+                    "rapporteurName": "Maciej Wróbel",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/581/581.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2024-07-25",
+            "stageName": "Praca w komisjach nad stanowiskiem Senatu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "date": "2024-07-26",
+            "stageName": "Rozpatrywanie na forum Sejmu stanowiska Senatu",
+            "decision": "przyjęto poprawki",
+            "sittingNum": 16,
+            "stageType": "SenatePositionConsideration"
+        },
+        {
+            "date": "2024-07-29",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "date": "2024-08-14",
+            "stageName": "Prezydent podpisał ustawę",
+            "omittedInconsistent": false,
+            "stageType": "PresidentSignature"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o zmianie ustawy o prawie autorskim i prawach pokrewnych oraz niektórych innych ustaw",
+    "titleFinal": "o zmianie ustawy o prawie autorskim i prawach pokrewnych, ustawy o ochronie baz danych oraz ustawy o zbiorowym zarządzaniu prawami autorskimi i prawami pokrewnymi\n",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2024-08-21T10:08:54"
+}

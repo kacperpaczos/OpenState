@@ -1,0 +1,47 @@
+{
+    "UE": "NO",
+    "changeDate": "2024-11-20T13:18:48",
+    "description": "projekt dotyczy odblokowania możliwości eksploatacji, remontów, przebudów oraz budów oświetlenia ulicznego przez gminy, które w myśl przepisów ustawy Prawo energetyczne są zobowiązane do szerokiego zakresu zadań w tym przedmiocie",
+    "documentDate": "2024-10-23",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "827",
+    "passed": false,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2024-10-23",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2024-10-23",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "827",
+            "stageType": "Start"
+        },
+        {
+            "date": "2024-10-28",
+            "stageName": "Opinia organizacji samorządowej",
+            "organ": "Organizacja samorządowa",
+            "stageType": "Opinion"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-11-19",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "STR",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-11-19",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        }
+    ],
+    "term": 10,
+    "title": "Poselski projekt ustawy o zmianie ustawy - Prawo energetyczne",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2024-11-21T08:10:49"
+}

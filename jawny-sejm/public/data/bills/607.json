@@ -1,0 +1,153 @@
+{
+    "ELI": "DU/2024/1674",
+    "UE": "NO",
+    "address": "WDU20240001674",
+    "changeDate": "2024-11-18T08:51:35",
+    "closureDate": "2024-10-18",
+    "description": "projekt dotyczy unormowania prawnego wieloletniej tradycji szczególnego honorowania osób, które ukończyły 100 lat życia, w postaci przyznawania im świadczenia honorowego, finansowanego przez budżet państwa",
+    "displayAddress": "Dz.U. 2024 poz. 1674",
+    "documentDate": "2024-08-08",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [
+        {
+            "href": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001674",
+            "rel": "isap"
+        },
+        {
+            "href": "https://eli.gov.pl/eli/DU/2024/1674/ogl",
+            "rel": "eli"
+        },
+        {
+            "href": "https://api.sejm.gov.pl/eli/acts/DU/2024/1674",
+            "rel": "eli-api"
+        }
+    ],
+    "number": "607",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2024-08-08",
+    "rclLink": "https://legislacja.rcl.gov.pl/getIdFromLegislacja?number=RM-0610-56-24",
+    "rclNum": "RM-0610-56-24",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2024-08-08",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "607",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-08-26",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "PSR",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-08-26",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "date": "2024-10-09",
+            "stageName": "I czytanie w komisjach",
+            "stageType": "Reading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-10-09",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "709",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "468",
+                    "rapporteurName": "Lidia Czechak",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/709/709.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2024-10-09",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "date": "2024-10-16",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "decision": "niezwłocznie przystąpiono do III czytania",
+            "sittingNum": 20,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-10-18",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 1,
+                        "date": "2024-10-18T09:26:23",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/20/8/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 17,
+                        "no": 16,
+                        "notParticipating": 34,
+                        "present": 0,
+                        "sitting": 20,
+                        "sittingDay": 3,
+                        "term": 10,
+                        "title": "Pkt. 4 Sprawozdanie Komisji o rządowym projekcie ustawy o świadczeniu honorowym z tytułu ukończenia 100 lat życia (druki nr 607 i 709)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 425,
+                        "votingNumber": 8,
+                        "yes": 408
+                    }
+                }
+            ],
+            "date": "2024-10-18",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "decision": "uchwalono",
+            "sittingNum": 20,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/607/attachment/607_u3.pdf"
+        },
+        {
+            "date": "2024-10-30",
+            "stageName": "Stanowisko Senatu",
+            "position": "nie wniósł poprawek",
+            "stageType": "SenatePosition"
+        },
+        {
+            "date": "2024-10-31",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "date": "2024-11-13",
+            "stageName": "Prezydent podpisał ustawę",
+            "omittedInconsistent": false,
+            "stageType": "PresidentSignature"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o świadczeniu honorowym z tytułu ukończenia 100 lat życia",
+    "titleFinal": "o świadczeniu honorowym z tytułu ukończenia 100 lat życia",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2024-11-18T09:30:02"
+}

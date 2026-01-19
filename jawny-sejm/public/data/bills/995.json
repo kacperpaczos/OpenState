@@ -1,0 +1,158 @@
+{
+    "ELI": "DU/2025/630",
+    "UE": "NO",
+    "address": "WDU20250000630",
+    "changeDate": "2025-05-15T09:44:33",
+    "closureDate": "2025-04-04",
+    "comments": "Zmiana przedstawiciela wnioskodawcy -  senatora A. Szejnfelda zastąpił senator J. Trela.",
+    "description": "projekt dotyczy wprowadzenia możliwości stwierdzenia w odniesieniu do decyzji o ustaleniu, które nieruchomości stanowią wspólnotę gruntową, ustaleniu wykazu uprawnionych do udziału we wspólnocie gruntowej oraz wykazu obszarów gospodarstw rolnych przez nich posiadanych i wielkości przysługujących im udziałów we wspólnocie, że decyzja taka została wydana z naruszeniem prawa",
+    "displayAddress": "Dz.U. 2025 poz. 630",
+    "documentDate": "2025-01-08",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [
+        {
+            "href": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000630",
+            "rel": "isap"
+        },
+        {
+            "href": "https://eli.gov.pl/eli/DU/2025/630/ogl",
+            "rel": "eli"
+        },
+        {
+            "href": "https://api.sejm.gov.pl/eli/acts/DU/2025/630",
+            "rel": "eli-api"
+        }
+    ],
+    "number": "995",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2025-01-09",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2025-01-09",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "995",
+            "stageType": "Start"
+        },
+        {
+            "date": "2025-01-17",
+            "stageName": "Opinia organizacji samorządowej",
+            "organ": "Organizacja samorządowa",
+            "stageType": "Opinion"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-02-20",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "RRW",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-02-20",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "date": "2025-03-19",
+            "stageName": "I czytanie w komisjach",
+            "stageType": "Reading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-03-19",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "1123",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "102",
+                    "rapporteurName": "Piotr Głowski",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1123/1123.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-03-19",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "date": "2025-04-02",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "decision": "niezwłocznie przystąpiono do III czytania",
+            "sittingNum": 32,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-04-04",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 195,
+                        "date": "2025-04-04T09:16:15",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/32/9/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 1,
+                        "no": 0,
+                        "notParticipating": 27,
+                        "present": 0,
+                        "sitting": 32,
+                        "sittingDay": 3,
+                        "term": 10,
+                        "title": "Pkt. 6 Sprawozdanie Komisji o senackim projekcie ustawy o zmianie ustawy o zagospodarowaniu wspólnot gruntowych (druki nr 995 i 1123)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 433,
+                        "votingNumber": 9,
+                        "yes": 238
+                    }
+                }
+            ],
+            "date": "2025-04-04",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "decision": "uchwalono",
+            "sittingNum": 32,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/995/attachment/995_u3.pdf"
+        },
+        {
+            "date": "2025-04-23",
+            "stageName": "Stanowisko Senatu",
+            "position": "nie wniósł poprawek",
+            "stageType": "SenatePosition"
+        },
+        {
+            "date": "2025-04-24",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "date": "2025-05-07",
+            "stageName": "Prezydent podpisał ustawę",
+            "omittedInconsistent": false,
+            "stageType": "PresidentSignature"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Senacki projekt ustawy o zmianie ustawy o zagospodarowaniu wspólnot gruntowych",
+    "titleFinal": "o zmianie ustawy o zagospodarowaniu wspólnot gruntowych",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-05-15T09:44:48"
+}

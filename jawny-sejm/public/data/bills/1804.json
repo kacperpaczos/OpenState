@@ -1,0 +1,197 @@
+{
+    "ELI": "DU/2025/1812",
+    "UE": "NO",
+    "address": "WDU20250001812",
+    "changeDate": "2026-01-02T13:02:27",
+    "closureDate": "2025-11-07",
+    "description": "projekt dotyczy prowadzenia działalności dotyczącej gospodarki odpadami: do maksymalnie 30 miesięcy zostanie wydłużony czas, który umożliwia testowanie nowych technik/innowacji dla instalacji, które ubiegają się o wydanie pozwolenia zintegrowanego, w oparciu o złagodzone wymagania dotyczące ochrony środowiska; \nUrzędy Marszałkowskie nie będą musiały powtarzać kontroli rzetelności dokumentów związanych m.in. z recyklingiem odpadów opakowaniowych, które przeprowadziły już inne organy; o pół roku przedłużone zostanie obowiązywanie przepisów, które umożliwiają prowadzenie działalności dotyczącej gospodarowania odpadami na podstawie dotychczasowej decyzji (dotyczy przedsiębiorców, których administracyjne postępowania dostosowawcze się nie zakończyły). Nowe przepisy realizują działania deregulacyjne rządu.",
+    "displayAddress": "Dz.U. 2025 poz. 1812",
+    "documentDate": "2025-10-09",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [
+        {
+            "href": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001812",
+            "rel": "isap"
+        },
+        {
+            "href": "https://eli.gov.pl/eli/DU/2025/1812/ogl",
+            "rel": "eli"
+        },
+        {
+            "href": "https://api.sejm.gov.pl/eli/acts/DU/2025/1812",
+            "rel": "eli-api"
+        }
+    ],
+    "number": "1804",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2025-10-09",
+    "rclLink": "https://legislacja.rcl.gov.pl/getIdFromLegislacja?number=RM-0610-186-25",
+    "rclNum": "RM-0610-186-25",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2025-10-09",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "1804",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-10-14",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "OSZ",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                },
+                {
+                    "date": "2025-10-14",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "DER",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-10-14",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "date": "2025-11-05",
+            "stageName": "I czytanie w komisjach",
+            "stageType": "Reading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-11-05",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 4,
+                    "printNumber": "1909",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "344",
+                    "rapporteurName": "Waldemar Sługocki",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1909/1909.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-11-05",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-11-06",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "DER",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                },
+                {
+                    "date": "2025-11-06",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "OSZ",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-11-06",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "comment": "poprawki",
+            "decision": "skierowano ponownie do komisji w celu przedstawienia sprawozdania",
+            "sittingNum": 44,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-11-07",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "1909-A",
+                    "proposal": "odrzucić poprawki",
+                    "rapporteurID": "344",
+                    "rapporteurName": "Waldemar Sługocki",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1909-A/1909-A.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-11-07",
+            "stageName": "Praca w komisjach po II czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-11-07",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 185,
+                        "date": "2025-11-07T18:15:34",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/44/65/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 2,
+                        "no": 1,
+                        "notParticipating": 21,
+                        "present": 0,
+                        "sitting": 44,
+                        "sittingDay": 3,
+                        "term": 10,
+                        "title": "Pkt. 24 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Prawo ochrony środowiska oraz niektórych innych ustaw (druki nr 1804, 1909 i 1909-A)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 439,
+                        "votingNumber": 65,
+                        "yes": 253
+                    }
+                }
+            ],
+            "date": "2025-11-07",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "comment": "wnioski mniejszości, poprawki",
+            "decision": "uchwalono",
+            "sittingNum": 44,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/1804/attachment/1804_u3.pdf"
+        },
+        {
+            "date": "2025-11-27",
+            "stageName": "Stanowisko Senatu",
+            "position": "nie wniósł poprawek",
+            "stageType": "SenatePosition"
+        },
+        {
+            "date": "2025-11-28",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "date": "2025-12-15",
+            "stageName": "Prezydent podpisał ustawę",
+            "omittedInconsistent": false,
+            "stageType": "PresidentSignature"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o zmianie ustawy - Prawo ochrony środowiska oraz niektórych innych ustaw",
+    "titleFinal": "o zmianie ustawy - Prawo ochrony środowiska oraz niektórych innych ustaw",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2026-01-07T08:26:26"
+}

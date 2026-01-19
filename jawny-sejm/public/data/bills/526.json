@@ -1,0 +1,69 @@
+{
+    "UE": "NO",
+    "changeDate": "2024-07-11T08:30:10",
+    "description": "projekt dotyczy wprowadzenia nowych zasad ustalania wysokości składki na ubezpieczenie zdrowotne; wprowadzenia trzech ryczałtowych kwot w wysokości 300 zł, 525 zł i 700 zł miesięcznie, zależnie od przychodu, wynagrodzenia, uposażenia lub świadczeń w roku kalendarzowym",
+    "documentDate": "2024-06-25",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "526",
+    "otherDocuments": [
+        {
+            "documentDate": "2024-07-18",
+            "number": "526-A",
+            "registeredDate": "2024-07-18",
+            "title": "Autopoprawka do poselskiego projektu ustawy o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw"
+        },
+        {
+            "documentDate": "2024-11-19",
+            "number": "526-B",
+            "registeredDate": "2024-11-19",
+            "title": "Autopoprawka do poselskiego projektu ustawy o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw"
+        }
+    ],
+    "passed": false,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2024-06-25",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2024-06-25",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "otherDocuments": [
+                {
+                    "documentDate": "2024-07-18",
+                    "number": "526-A",
+                    "registeredDate": "2024-07-18",
+                    "title": "Autopoprawka do poselskiego projektu ustawy o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw"
+                },
+                {
+                    "documentDate": "2024-11-19",
+                    "number": "526-B",
+                    "registeredDate": "2024-11-19",
+                    "title": "Autopoprawka do poselskiego projektu ustawy o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw"
+                }
+            ],
+            "printNumber": "526",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-07-10",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "Sejm",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-07-10",
+            "stageName": "Skierowano do I czytania na posiedzeniu Sejmu",
+            "stageType": "ReadingReferral"
+        }
+    ],
+    "term": 10,
+    "title": "Poselski projekt ustawy o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2024-07-11T08:30:45"
+}

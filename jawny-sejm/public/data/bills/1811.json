@@ -1,0 +1,41 @@
+{
+    "UE": "NO",
+    "changeDate": "2025-11-04T19:26:29",
+    "description": "projekt dotyczy doprecyzowania mechanizmu ustalania minimalnego wynagrodzenia, wyłączenia określonych składników płacowych z kategorii wynagrodzenia minimalnego, wzmocnienia ochrony prawnej wynagrodzeń oraz sankcji za ich niewypłacanie",
+    "documentDate": "2025-09-23",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "1811",
+    "passed": false,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2025-09-23",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2025-09-23",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "1811",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-11-04",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "Sejm",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-11-04",
+            "stageName": "Skierowano do I czytania na posiedzeniu Sejmu",
+            "stageType": "ReadingReferral"
+        }
+    ],
+    "term": 10,
+    "title": "Poselski projekt ustawy o minimalnym wynagrodzeniu za pracę",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-11-04T19:26:42"
+}

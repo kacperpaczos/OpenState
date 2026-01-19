@@ -1,0 +1,229 @@
+{
+    "ELI": "DU/2025/1508",
+    "UE": "NO",
+    "address": "WDU20250001508",
+    "changeDate": "2025-11-12T10:21:08",
+    "closureDate": "2025-10-09",
+    "description": "projekt dotyczy umożliwienia stronom umowy o roboty budowlane uelastycznienia terminu na złożenie sprzeciwu wobec podwykonawcy, przy jednoczesnym zachowaniu funkcji ochronnej przepisów dotyczących solidarnej odpowiedzialności inwestora (obecnie termin ten wynosi 30 dni i ma charakter bezwzględnie obowiązujący). Nowe przepisy realizują działania deregulacyjne rządu",
+    "displayAddress": "Dz.U. 2025 poz. 1508",
+    "documentDate": "2025-06-25",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [
+        {
+            "href": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001508",
+            "rel": "isap"
+        },
+        {
+            "href": "https://eli.gov.pl/eli/DU/2025/1508/ogl",
+            "rel": "eli"
+        },
+        {
+            "href": "https://api.sejm.gov.pl/eli/acts/DU/2025/1508",
+            "rel": "eli-api"
+        }
+    ],
+    "number": "1425",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2025-06-25",
+    "rclLink": "https://legislacja.rcl.gov.pl/getIdFromLegislacja?number=RM-0610-106-25",
+    "rclNum": "RM-0610-106-25",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2025-06-25",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "1425",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-07-07",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "Sejm",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-07-07",
+            "stageName": "Skierowano do I czytania na posiedzeniu Sejmu",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-07-22",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "NKK",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-07-22",
+            "stageName": "I czytanie na posiedzeniu Sejmu",
+            "sittingNum": 39,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-08-04",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "1558",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "460",
+                    "rapporteurName": "Anna Maria Żukowska",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1558/1558.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-08-04",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-09-10",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "NKK",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-09-10",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "comment": "poprawki",
+            "decision": "skierowano ponownie do komisji w celu przedstawienia sprawozdania",
+            "sittingNum": 40,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-09-11",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "1558-A",
+                    "proposal": "przyjąć poprawki",
+                    "rapporteurID": "460",
+                    "rapporteurName": "Anna Maria Żukowska",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1558-A/1558-A.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-09-11",
+            "stageName": "Praca w komisjach po II czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-09-12",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 0,
+                        "date": "2025-09-12T20:19:50",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/40/83/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 174,
+                        "no": 173,
+                        "notParticipating": 37,
+                        "present": 0,
+                        "sitting": 40,
+                        "sittingDay": 4,
+                        "term": 10,
+                        "title": "Pkt. 14 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Kodeks cywilny (druki nr 1425, 1558 i 1558-A)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 423,
+                        "votingNumber": 83,
+                        "yes": 250
+                    }
+                }
+            ],
+            "date": "2025-09-12",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "comment": "poprawki",
+            "decision": "uchwalono",
+            "sittingNum": 40,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/1425/attachment/1425_u3.pdf"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-09-25",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "NKK",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-09-24",
+            "stageName": "Stanowisko Senatu",
+            "position": "wniósł poprawki",
+            "printNumber": "1743",
+            "stageType": "SenatePosition"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-10-07",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "1779",
+                    "proposal": "przyjąć część poprawek",
+                    "rapporteurID": "67",
+                    "rapporteurName": "Barbara Dolniak",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1779/1779.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-10-07",
+            "stageName": "Praca w komisjach nad stanowiskiem Senatu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "date": "2025-10-09",
+            "stageName": "Rozpatrywanie na forum Sejmu stanowiska Senatu",
+            "decision": "przyjęto część poprawek",
+            "sittingNum": 42,
+            "stageType": "SenatePositionConsideration"
+        },
+        {
+            "date": "2025-10-10",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "date": "2025-10-29",
+            "stageName": "Prezydent podpisał ustawę",
+            "omittedInconsistent": false,
+            "stageType": "PresidentSignature"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o zmianie ustawy - Kodeks cywilny",
+    "titleFinal": "o zmianie ustawy - Kodeks cywilny",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-11-14T12:39:38"
+}

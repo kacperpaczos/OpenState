@@ -1,0 +1,48 @@
+{
+    "UE": "NO",
+    "changeDate": "2024-02-21T11:26:06",
+    "description": "projekt dotyczy rozszerzenia listy nieuczciwego wykorzystywania przewagi kontraktowej w obrocie produktami rolnymi i spożywczymi o praktykę polegającą na nabywaniu produktu rolnego lub spożywczego poniżej kosztów produkcji dostawcy lub kosztów zakupu w celu uniknięcia sytuacji gdzie dostawca produktów rolnych lub spożywczych dostarcza je poniżej kosztów produkcji, przetworzenia czy zakupu",
+    "documentDate": "2024-01-22",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "206",
+    "passed": false,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2024-01-22",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2024-01-22",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "206",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-02-20",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "GOR",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                },
+                {
+                    "date": "2024-02-20",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "RRW",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-02-20",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        }
+    ],
+    "term": 10,
+    "title": "Poselski projekt ustawy o zmianie ustawy o przeciwdziałaniu nieuczciwemu wykorzystywaniu przewagi kontraktowej w obrocie produktami rolnymi i spożywczymi",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2024-02-23T10:34:15"
+}

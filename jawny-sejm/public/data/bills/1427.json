@@ -1,0 +1,207 @@
+{
+    "UE": "NO",
+    "changeDate": "2025-11-18T10:19:07",
+    "closureDate": "2025-09-26",
+    "description": "projekt dotyczy wprowadzenia ułatwień dla testowania pojazdów, które wykorzystują automatyczne funkcje kierowania i kontroli; wprowadzenia jasnych zasad uzyskiwania zezwoleń na prowadzenie prac badawczych z uwzględnieniem m.in. poziomu automatyzacji pojazdu, liczby pojazdów oraz obszaru prac badawczych; wprowadzenia zmian w rejestracji profesjonalnej, czyli szczególnego rodzaju rejestracji, która pozwala firmom zajmującym się produkcją, testowaniem, sprzedażą lub naprawą pojazdów na czasowe dopuszczenie ich do ruchu drogowego bez konieczności standardowej rejestracji każdego z nich. Nowe przepisy realizują działania deregulacyjne rządu.",
+    "documentDate": "2025-06-25",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "1427",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2025-06-25",
+    "rclLink": "https://legislacja.rcl.gov.pl/getIdFromLegislacja?number=RM-0610-100-25",
+    "rclNum": "RM-0610-100-25",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2025-06-25",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "1427",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-07-07",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "Sejm",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-07-07",
+            "stageName": "Skierowano do I czytania na posiedzeniu Sejmu",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-07-22",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "INF",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                },
+                {
+                    "date": "2025-07-22",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "DER",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-07-22",
+            "stageName": "I czytanie na posiedzeniu Sejmu",
+            "sittingNum": 39,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-09-12",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "1703",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "359",
+                    "rapporteurName": "Mirosław Suchoń",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1703/1703.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-09-12",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-09-25",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "DER",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                },
+                {
+                    "date": "2025-09-25",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "INF",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-09-25",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "comment": "poprawki",
+            "decision": "skierowano ponownie do komisji w celu przedstawienia sprawozdania",
+            "sittingNum": 41,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-09-26",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "1703-A",
+                    "proposal": "przyjąć poprawki",
+                    "rapporteurID": "272",
+                    "rapporteurName": "Barbara Oliwiecka",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1703-A/1703-A.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-09-26",
+            "stageName": "Praca w komisjach po II czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-09-26",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 174,
+                        "date": "2025-09-26T13:38:23",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/41/94/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 1,
+                        "no": 0,
+                        "notParticipating": 42,
+                        "present": 0,
+                        "sitting": 41,
+                        "sittingDay": 3,
+                        "term": 10,
+                        "title": "Pkt. 31 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Prawo o ruchu drogowym oraz ustawy o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych (druki nr 1427, 1703 i 1703-A)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 418,
+                        "votingNumber": 94,
+                        "yes": 244
+                    }
+                }
+            ],
+            "date": "2025-09-26",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "comment": "poprawki",
+            "decision": "uchwalono",
+            "sittingNum": 41,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/1427/attachment/1427_u3.pdf"
+        },
+        {
+            "date": "2025-10-16",
+            "stageName": "Stanowisko Senatu",
+            "position": "nie wniósł poprawek",
+            "stageType": "SenatePosition"
+        },
+        {
+            "date": "2025-10-17",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-11-18",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "DER",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                },
+                {
+                    "date": "2025-11-18",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "INF",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-11-07",
+            "stageName": "Wniosek Prezydenta (VETO)",
+            "printNumber": "1960",
+            "stageType": "Veto"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o zmianie ustawy - Prawo o ruchu drogowym oraz ustawy o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych",
+    "titleFinal": "o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-11-18T10:19:30"
+}

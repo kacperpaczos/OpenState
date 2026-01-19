@@ -1,0 +1,184 @@
+{
+    "ELI": "DU/2025/1023",
+    "UE": "ENFORCEMENT",
+    "address": "WDU20250001023",
+    "changeDate": "2025-07-30T12:00:32",
+    "closureDate": "2025-06-25",
+    "description": "projekt dotyczy dostosowania polskiego prawa do przepisów Unii Europejskiej w sprawie redukcji emisji metanu w sektorze energetycznym, m.in. w zakresie dokładności pomiarów, monitorowania oraz raportowania emisji metanu oraz wyznaczenia podmiotu, który będzie odpowiedzialny za monitorowanie i egzekwowanie przepisów w tej sprawie",
+    "displayAddress": "Dz.U. 2025 poz. 1023",
+    "documentDate": "2025-04-23",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [
+        {
+            "href": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001023",
+            "rel": "isap"
+        },
+        {
+            "href": "https://eli.gov.pl/eli/DU/2025/1023/ogl",
+            "rel": "eli"
+        },
+        {
+            "href": "https://api.sejm.gov.pl/eli/acts/DU/2025/1023",
+            "rel": "eli-api"
+        }
+    ],
+    "number": "1208",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2025-04-23",
+    "rclLink": "https://legislacja.rcl.gov.pl/getIdFromLegislacja?number=RM-0610-36-25",
+    "rclNum": "RM-0610-36-25",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2025-04-23",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "1208",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-04-28",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "ESK",
+                    "reportDate": "2025-05-19",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-04-28",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "date": "2025-05-08",
+            "stageName": "I czytanie w komisjach",
+            "stageType": "Reading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-05-08",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "1229",
+                    "proposal": "uchwalić projekt ustawy bez poprawek",
+                    "rapporteurID": "85",
+                    "rapporteurName": "Krzysztof Gadowski",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1229/1229.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-05-08",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-06-03",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "ESK",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-06-03",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "comment": "wniosek o odrzucenie",
+            "decision": "skierowano ponownie do komisji w celu przedstawienia sprawozdania",
+            "sittingNum": 36,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-06-24",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "1229-A",
+                    "proposal": "odrzucić wniosek o odrzucenie",
+                    "rapporteurID": "85",
+                    "rapporteurName": "Krzysztof Gadowski",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1229-A/1229-A.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-06-24",
+            "stageName": "Praca w komisjach po II czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-06-25",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 1,
+                        "date": "2025-06-25T22:58:14",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/37/78/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 196,
+                        "no": 195,
+                        "notParticipating": 28,
+                        "present": 0,
+                        "sitting": 37,
+                        "sittingDay": 2,
+                        "term": 10,
+                        "title": "Pkt. 28 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Prawo geologiczne i górnicze (druki nr 1208, 1229 i 1229-A) - trzecie czytanie",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 432,
+                        "votingNumber": 78,
+                        "yes": 236
+                    }
+                }
+            ],
+            "date": "2025-06-25",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "comment": "wniosek o odrzucenie",
+            "decision": "uchwalono",
+            "sittingNum": 37,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/1208/attachment/1208_u3.pdf"
+        },
+        {
+            "date": "2025-07-17",
+            "stageName": "Stanowisko Senatu",
+            "position": "nie wniósł poprawek",
+            "stageType": "SenatePosition"
+        },
+        {
+            "date": "2025-07-21",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "date": "2025-07-24",
+            "stageName": "Prezydent podpisał ustawę",
+            "omittedInconsistent": false,
+            "stageType": "PresidentSignature"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o zmianie ustawy - Prawo geologiczne i górnicze",
+    "titleFinal": "o zmianie ustawy - Prawo geologiczne i górnicze",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-07-30T12:00:45"
+}

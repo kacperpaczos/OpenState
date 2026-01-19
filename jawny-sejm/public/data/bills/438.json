@@ -1,0 +1,62 @@
+{
+    "UE": "NO",
+    "changeDate": "2024-06-28T12:43:29",
+    "description": "projekt dotyczy uzupełnienia i poprawienia istniejących przepisów w taki sposób aby umożliwić samorządom wywiązywanie się z obowiązku ochrony obywateli w tym  tworzenie schronów i budowli ochronnych dla ludności cywilnej a także utworzenia przepisów w taki sposób aby zachęcić obywateli do tworzenia przydomowych schronów",
+    "documentDate": "2024-03-14",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "438",
+    "passed": false,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2024-03-14",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2024-03-14",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "438",
+            "stageType": "Start"
+        },
+        {
+            "date": "2024-03-20",
+            "stageName": "Opinia organizacji samorządowej",
+            "organ": "Organizacja samorządowa",
+            "stageType": "Opinion"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-06-11",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "Sejm",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-06-11",
+            "stageName": "Skierowano do I czytania na posiedzeniu Sejmu",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-06-28",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "INF",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-06-28",
+            "stageName": "I czytanie na posiedzeniu Sejmu",
+            "sittingNum": 14,
+            "stageType": "SejmReading"
+        }
+    ],
+    "term": 10,
+    "title": "Poselski projekt ustawy o zmianie ustawy - Prawo budowlane oraz niektórych innych ustaw",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2024-07-01T07:52:19"
+}

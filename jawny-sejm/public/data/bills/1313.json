@@ -1,0 +1,156 @@
+{
+    "UE": "NO",
+    "changeDate": "2025-09-05T15:05:54",
+    "closureDate": "2025-07-25",
+    "description": "projekt dotyczy uproszczenia administracyjnych obowiązków podatkowych oraz złagodzenia kar za przestępstwa skarbowe, które nie powodują bezpośrednich strat w podatkach. Nowe przepisy realizują działania deregulacyjne rządu.",
+    "documentDate": "2025-05-28",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "1313",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2025-05-28",
+    "rclLink": "https://legislacja.rcl.gov.pl/getIdFromLegislacja?number=RM-0610-71-25",
+    "rclNum": "RM-0610-71-25",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2025-05-28",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "1313",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-06-02",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "Sejm",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-06-02",
+            "stageName": "Skierowano do I czytania na posiedzeniu Sejmu",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-06-26",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "NKK",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-06-26",
+            "stageName": "I czytanie na posiedzeniu Sejmu",
+            "sittingNum": 37,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-07-09",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "1470",
+                    "proposal": "uchwalić projekt ustawy bez poprawek",
+                    "rapporteurID": "63",
+                    "rapporteurName": "Sławomir Ćwik",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1470/1470.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-07-09",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "date": "2025-07-23",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "decision": "niezwłocznie przystąpiono do III czytania",
+            "sittingNum": 39,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-07-25",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 0,
+                        "date": "2025-07-25T15:45:04",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/39/53/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 178,
+                        "no": 177,
+                        "notParticipating": 25,
+                        "present": 0,
+                        "sitting": 39,
+                        "sittingDay": 4,
+                        "term": 10,
+                        "title": "Pkt. 27 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Kodeks karny skarbowy oraz ustawy - Ordynacja podatkowa (druki nr 1313 i 1470)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 435,
+                        "votingNumber": 53,
+                        "yes": 258
+                    }
+                }
+            ],
+            "date": "2025-07-25",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "decision": "uchwalono",
+            "sittingNum": 39,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/1313/attachment/1313_u3.pdf"
+        },
+        {
+            "date": "2025-07-31",
+            "stageName": "Stanowisko Senatu",
+            "position": "nie wniósł poprawek",
+            "stageType": "SenatePosition"
+        },
+        {
+            "date": "2025-08-04",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-09-05",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "NKK",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-08-25",
+            "stageName": "Wniosek Prezydenta (VETO)",
+            "printNumber": "1645",
+            "stageType": "Veto"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o zmianie ustawy - Kodeks karny skarbowy oraz ustawy - Ordynacja podatkowa",
+    "titleFinal": "o zmianie ustawy - Kodeks karny skarbowy oraz ustawy - Ordynacja podatkowa",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-09-05T15:06:35"
+}

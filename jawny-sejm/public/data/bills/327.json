@@ -1,0 +1,65 @@
+{
+    "UE": "NO",
+    "changeDate": "2025-11-19T08:29:47",
+    "closureDate": "2025-11-18",
+    "description": "projekt dotyczy przywrócenia dodatkowego wynagrodzenia rocznego w instytucjach kultury",
+    "documentDate": "2024-03-21",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "327",
+    "passed": false,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2024-03-21",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2024-03-21",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "327",
+            "stageType": "Start"
+        },
+        {
+            "date": "2024-03-26",
+            "stageName": "Opinia organizacji samorządowej",
+            "organ": "Organizacja samorządowa",
+            "stageType": "Opinion"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-04-24",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "KSP",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                },
+                {
+                    "date": "2024-04-24",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "FPB",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-04-24",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "date": "2024-05-09",
+            "stageName": "I czytanie w komisjach",
+            "stageType": "Reading"
+        },
+        {
+            "date": "2025-11-18",
+            "stageName": "Wycofano",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Poselski projekt ustawy o zmianie ustawy o dodatkowym wynagrodzeniu rocznym dla pracowników jednostek sfery budżetowej",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-11-19T08:46:40"
+}

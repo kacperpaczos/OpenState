@@ -40,6 +40,7 @@ document.addEventListener('DOMContentLoaded', async () => {
     if (document.getElementById('kanban-board')) renderKanban(data);
     if (document.getElementById('backlog-table')) renderBacklog(data);
     if (document.getElementById('mp-tracker-content')) renderMPTracker(data);
+    if (document.getElementById('voting-header-card')) renderVotingAnalysis(data);
 });
 
 // ... theme logic ...
@@ -279,6 +280,125 @@ function renderMPList(list, container) {
         </div>
     `;
     lucide.createIcons();
+}
+
+function renderVotingAnalysis(data) {
+    // 1. Get the featured vote (Hardcoded to vote_57_2025 for this demo)
+    const voteId = "vote_57_2025";
+    const voteData = data.votingRecords ? data.votingRecords[voteId] : null;
+
+    if (!voteData) return;
+
+    // 2. Render Header
+    document.getElementById('vote-title').textContent = voteData.title;
+    document.getElementById('vote-desc').textContent = voteData.description;
+
+    const resultEl = document.getElementById('vote-result');
+    resultEl.textContent = voteData.result.toUpperCase();
+    if (voteData.result === "Przyjęta") resultEl.classList.add('text-success');
+    else resultEl.classList.add('text-danger');
+
+    // 3. Render Stats
+    document.getElementById('count-yes').textContent = voteData.stats.yes;
+    document.getElementById('count-no').textContent = voteData.stats.no;
+    document.getElementById('count-abstain').textContent = voteData.stats.abstain;
+
+    // 4. Render Pie Chart (Simple SVG)
+    renderSimplePieChart(voteData.stats);
+
+    // 5. Render Party Discipline
+    renderPartyDiscipline(voteData.votes);
+
+    // 6. Render Individual Votes List
+    const listContainer = document.getElementById('individual-votes-list');
+    renderIndividualVotesList(voteData.votes, listContainer);
+
+    // 7. Attach Search Listener
+    const searchInput = document.getElementById('vote-search-input');
+    searchInput.addEventListener('input', (e) => {
+        const query = e.target.value.toLowerCase();
+        const filtered = voteData.votes.filter(v => v.mpName.toLowerCase().includes(query));
+        renderIndividualVotesList(filtered, listContainer);
+    });
+}
+
+function renderSimplePieChart(stats) {
+    const total = stats.yes + stats.no + stats.abstain;
+    const pYes = (stats.yes / total) * 360;
+    const pNo = (stats.no / total) * 360;
+
+    // Conic gradient for pie chart
+    const chartContainer = document.getElementById('main-vote-chart');
+    chartContainer.style.background = `conic-gradient(
+        #22c55e 0deg ${pYes}deg, 
+        #ef4444 ${pYes}deg ${pYes + pNo}deg, 
+        #9ca3af ${pYes + pNo}deg 360deg
+    )`;
+    chartContainer.style.width = "160px";
+    chartContainer.style.height = "160px";
+    chartContainer.style.borderRadius = "50%";
+    chartContainer.style.border = "4px solid var(--surface-border)";
+    chartContainer.innerHTML = `<span class="h4 font-bold text-white">${total}</span>`;
+}
+
+function renderPartyDiscipline(votes) {
+    const disciplineList = document.getElementById('party-discipline-list');
+    const parties = ["PiS", "KO", "TD", "Lewica", "Konfederacja"];
+
+    let html = '';
+
+    parties.forEach(party => {
+        const partyVotes = votes.filter(v => v.mpParty === party);
+        if (partyVotes.length === 0) return;
+
+        const yes = partyVotes.filter(v => v.vote === "Za").length;
+        const no = partyVotes.filter(v => v.vote === "Przeciw").length;
+        const total = partyVotes.length;
+
+        // Calculate "Loyalty" or majority direction
+        const majority = Math.max(yes, no);
+        const percent = Math.round((majority / total) * 100);
+        const direction = yes > no ? "Za" : "Przeciw";
+        const color = direction === "Za" ? "text-success" : "text-danger";
+
+        html += `
+            <div class="d-flex justify-content-between align-items-center mb-3 pb-2 border-bottom border-secondary" style="border-opacity:0.2">
+                <div>
+                    <span class="d-block font-bold">${party}</span>
+                    <span class="text-xs opacity-70">Głosów: ${total}</span>
+                </div>
+                <div class="text-end">
+                    <span class="d-block ${color} font-bold">${percent}% ${direction}</span>
+                    <span class="text-xs opacity-70">Dyscyplina</span>
+                </div>
+            </div>
+        `;
+    });
+
+    disciplineList.innerHTML = html;
+}
+
+function renderIndividualVotesList(votes, container) {
+    if (votes.length === 0) {
+        container.innerHTML = '<div class="text-center opacity-50 mt-4">Brak wyników.</div>';
+        return;
+    }
+
+    container.innerHTML = votes.map(v => {
+        let badgeClass = 'bg-secondary';
+        if (v.vote === 'Za') badgeClass = 'bg-success';
+        if (v.vote === 'Przeciw') badgeClass = 'bg-danger';
+        if (v.vote === 'Wstrzymał') badgeClass = 'bg-secondary';
+
+        return `
+        <div class="vote-card-mini d-flex justify-content-between align-items-center">
+            <div>
+                <span class="d-block font-bold">${v.mpName} <span class="badge bg-dark border border-secondary party-tag">${v.mpParty}</span></span>
+            </div>
+            <span class="badge ${badgeClass}">${v.vote}</span>
+        </div>
+        `;
+    }).join('');
 }
 
 // --- Theme Logic ---

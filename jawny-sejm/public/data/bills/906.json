@@ -1,0 +1,223 @@
+{
+    "ELI": "DU/2025/304",
+    "UE": "ENFORCEMENT",
+    "address": "WDU20250000304",
+    "changeDate": "2025-03-18T13:44:35",
+    "closureDate": "2025-01-24",
+    "description": "projekt dotyczy dostosowania polskiego prawa do unijnego rozporządzenia dotyczącego Prokuratury Europejskiej, w tym m in. wprowadzenia mechanizmu wyłaniania kandydatów na prokuratora Prokuratury Europejskiej i wprowadzenia podstawy prawnej do tworzenia biur delegowanego prokuratora europejskiego przy powszechnych jednostkach organizacyjnych prokuratury",
+    "displayAddress": "Dz.U. 2025 poz. 304",
+    "documentDate": "2024-12-12",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [
+        {
+            "href": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000304",
+            "rel": "isap"
+        },
+        {
+            "href": "https://eli.gov.pl/eli/DU/2025/304/ogl",
+            "rel": "eli"
+        },
+        {
+            "href": "https://api.sejm.gov.pl/eli/acts/DU/2025/304",
+            "rel": "eli-api"
+        }
+    ],
+    "number": "906",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2024-12-12",
+    "rclLink": "https://legislacja.rcl.gov.pl/getIdFromLegislacja?number=RM-0610-122-24",
+    "rclNum": "RM-0610-122-24",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2024-12-12",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "906",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-12-18",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "Sejm",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-12-18",
+            "stageName": "Skierowano do I czytania na posiedzeniu Sejmu",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-01-09",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "SPC",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                },
+                {
+                    "date": "2025-01-09",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 0,
+                        "date": "2025-01-09T18:11:22",
+                        "description": "wniosek o odrzucenie projektu ustawy w pierwszym czytaniu",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/26/16/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 239,
+                        "no": 238,
+                        "notParticipating": 27,
+                        "present": 0,
+                        "sitting": 26,
+                        "sittingDay": 2,
+                        "term": 10,
+                        "title": "Pkt. 10 Pierwsze czytanie rządowego projektu ustawy o zmianie niektórych ustaw w związku z przystąpieniem Rzeczypospolitej Polskiej do wzmocnionej współpracy w zakresie Prokuratury Europejskiej (druk nr 906)",
+                        "topic": "wniosek o odrzucenie projektu w pierwszym czytaniu.",
+                        "totalVoted": 433,
+                        "votingNumber": 16,
+                        "yes": 195
+                    }
+                }
+            ],
+            "date": "2025-01-09",
+            "stageName": "I czytanie na posiedzeniu Sejmu",
+            "sittingNum": 26,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-01-21",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "958",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "465",
+                    "rapporteurName": "Dominik Jaśkowiec",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/958/958.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-01-21",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-01-22",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "SPC",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-01-22",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "comment": "wniosek o odrzucenie",
+            "decision": "skierowano ponownie do komisji w celu przedstawienia sprawozdania",
+            "sittingNum": 27,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-01-22",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "958-A",
+                    "proposal": "odrzucić wniosek o odrzucenie",
+                    "rapporteurID": "465",
+                    "rapporteurName": "Dominik Jaśkowiec",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/958-A/958-A.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-01-22",
+            "stageName": "Praca w komisjach po II czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-01-24",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 0,
+                        "date": "2025-01-24T10:07:10",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/27/19/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 205,
+                        "no": 204,
+                        "notParticipating": 16,
+                        "present": 0,
+                        "sitting": 27,
+                        "sittingDay": 3,
+                        "term": 10,
+                        "title": "Pkt. 3 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie niektórych ustaw w związku z przystąpieniem Rzeczypospolitej Polskiej do wzmocnionej współpracy w zakresie Prokuratury Europejskiej (druki nr 906, 958 i 958-A)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 444,
+                        "votingNumber": 19,
+                        "yes": 240
+                    }
+                }
+            ],
+            "date": "2025-01-24",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "comment": "wniosek o odrzucenie",
+            "decision": "uchwalono",
+            "sittingNum": 27,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/906/attachment/906_u3.pdf"
+        },
+        {
+            "date": "2025-02-12",
+            "stageName": "Stanowisko Senatu",
+            "position": "nie wniósł poprawek",
+            "stageType": "SenatePosition"
+        },
+        {
+            "date": "2025-02-17",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "date": "2025-03-06",
+            "stageName": "Prezydent podpisał ustawę",
+            "omittedInconsistent": false,
+            "stageType": "PresidentSignature"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o zmianie niektórych ustaw w związku z przystąpieniem Rzeczypospolitej Polskiej do wzmocnionej współpracy w zakresie Prokuratury Europejskiej",
+    "titleFinal": "o zmianie niektórych ustaw w związku z przystąpieniem Rzeczypospolitej Polskiej do wzmocnionej współpracy w zakresie Prokuratury Europejskiej",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-03-18T13:55:46"
+}

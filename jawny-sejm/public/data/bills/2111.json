@@ -1,0 +1,43 @@
+{
+    "UE": "NO",
+    "changeDate": "2025-12-31T11:40:02",
+    "description": "projekt dotyczy nowelizacji wszystkich ustaw, których zmiana jest konieczna w związku z wprowadzeniem ustawy o statusie osoby najbliższej w związku i umowie o wspólnym pożyciu, na mocy której strony umowy uzyskują status osoby najbliższej w związku, mającej zapewnić ochronę prawną związkom nieformalnym",
+    "documentDate": "2025-12-30",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "2111",
+    "passed": false,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2025-12-30",
+    "rclLink": "https://legislacja.rcl.gov.pl/getIdFromLegislacja?number=RM-0610-243-25",
+    "rclNum": "RM-0610-243-25",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2025-12-30",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "2111",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-12-31",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "Sejm",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-12-31",
+            "stageName": "Skierowano do I czytania na posiedzeniu Sejmu",
+            "stageType": "ReadingReferral"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy - Przepisy wprowadzające ustawę o statusie osoby najbliższej w związku i umowie o wspólnym pożyciu",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-12-31T11:40:22"
+}

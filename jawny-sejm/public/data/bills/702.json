@@ -1,0 +1,197 @@
+{
+    "ELI": "DU/2024/1762",
+    "UE": "NO",
+    "address": "WDU20240001762",
+    "changeDate": "2024-12-09T08:14:09",
+    "closureDate": "2024-11-08",
+    "description": "projekt dotyczy przesunięcia środków dotacji celowej na dotację podmiotową dla Krajowego Zasobu Nieruchomości",
+    "displayAddress": "Dz.U. 2024 poz. 1762",
+    "documentDate": "2024-10-07",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [
+        {
+            "href": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001762",
+            "rel": "isap"
+        },
+        {
+            "href": "https://eli.gov.pl/eli/DU/2024/1762/ogl",
+            "rel": "eli"
+        },
+        {
+            "href": "https://api.sejm.gov.pl/eli/acts/DU/2024/1762",
+            "rel": "eli-api"
+        }
+    ],
+    "number": "702",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2024-10-08",
+    "rclLink": "https://legislacja.rcl.gov.pl/getIdFromLegislacja?number=RM-0610-67-24",
+    "rclNum": "RM-0610-67-24",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2024-10-08",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "702",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-10-08",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "STR",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                },
+                {
+                    "date": "2024-10-08",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "INF",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-10-08",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "date": "2024-10-17",
+            "stageName": "I czytanie w komisjach",
+            "stageType": "Reading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-10-17",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "736",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "430",
+                    "rapporteurName": "Kamil Wnuk",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/736/736.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2024-10-17",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-11-06",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "STR",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                },
+                {
+                    "date": "2024-11-06",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "INF",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-11-06",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "comment": "poprawka",
+            "decision": "skierowano ponownie do komisji w celu przedstawienia sprawozdania",
+            "sittingNum": 21,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-11-08",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "736-A",
+                    "proposal": "przyjąć poprawkę",
+                    "rapporteurID": "430",
+                    "rapporteurName": "Kamil Wnuk",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/736-A/736-A.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2024-11-08",
+            "stageName": "Praca w komisjach po II czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-11-08",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 16,
+                        "date": "2024-11-08T18:20:03",
+                        "description": "Całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/21/37/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 190,
+                        "no": 189,
+                        "notParticipating": 10,
+                        "present": 0,
+                        "sitting": 21,
+                        "sittingDay": 3,
+                        "term": 10,
+                        "title": "Pkt. 9 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o zmianie niektórych ustaw wspierających rozwój mieszkalnictwa (druki nr 702, 736 i 736-A)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 450,
+                        "votingNumber": 37,
+                        "yes": 245
+                    }
+                }
+            ],
+            "date": "2024-11-08",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "comment": "poprawka",
+            "decision": "uchwalono",
+            "sittingNum": 21,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/702/attachment/702_u3.pdf"
+        },
+        {
+            "date": "2024-11-21",
+            "stageName": "Stanowisko Senatu",
+            "position": "nie wniósł poprawek",
+            "stageType": "SenatePosition"
+        },
+        {
+            "date": "2024-11-22",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "date": "2024-11-27",
+            "stageName": "Prezydent podpisał ustawę",
+            "omittedInconsistent": false,
+            "stageType": "PresidentSignature"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o zmianie ustawy o zmianie niektórych ustaw wspierających rozwój mieszkalnictwa",
+    "titleFinal": "zmieniająca ustawę o zmianie niektórych ustaw wspierających\nrozwój mieszkalnictwa\n",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2024-12-12T16:26:01"
+}

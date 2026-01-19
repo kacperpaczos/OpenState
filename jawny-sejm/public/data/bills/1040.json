@@ -1,0 +1,42 @@
+{
+    "UE": "NO",
+    "changeDate": "2025-03-05T11:15:17",
+    "comments": "Zmiana przedstawiciela wnioskodawców - posłów Z. Boguckiego oraz P. Szefernakera zastąpił poseł P. Hreniak.",
+    "description": "projekt dotyczy propozycji wprowadzenia dwóch dodatkowych warunków, od których uzależnione jest otrzymanie świadczenia wychowawczego przez obywateli Ukrainy na podstawie ustawy o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium: 1) warunek zatrudnienia lub prowadzenia działalności gospodarczej na terytorium Rzeczypospolitej Polskiej,2) warunek realizowania zobowiązania podatkowego wobec Skarbu Państwa, chyba, że zaległości z uiszczeniem podatków wynikają z uzyskania przewidzianych prawem zwolnienia, odroczenia, rozłożenia na raty zaległych płatności lub wstrzymania w całości wykonania decyzji właściwego organu. Projekt wprowadza również przepisy, które zakładają wstrzymanie wypłaty świadczenia w przypadku podjęcia przez właściwe organy informacji o pozostawaniu bez pracy, jak również nie odprowadzaniu podatku i  przywrócenia świadczenia w przypadku ponownego spełnienia tych warunków.\n",
+    "documentDate": "2025-01-20",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "1040",
+    "passed": false,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2025-01-20",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2025-01-20",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "1040",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-03-05",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "PSR",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-03-05",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        }
+    ],
+    "term": 10,
+    "title": "Poselski projekt ustawy o zmianie ustawy o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-03-05T11:15:45"
+}

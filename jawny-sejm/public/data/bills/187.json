@@ -1,0 +1,56 @@
+{
+    "UE": "NO",
+    "changeDate": "2024-02-08T19:30:14",
+    "description": "projekt dotyczy możliwości przejścia na emeryturę stażową urodzonym po dniu 31 grudnia 1948 r. którzy mają okres składkowy i nieskładkowy wynoszący co najmniej 35 lat dla kobiet i 40 lata dla mężczyzn, pod warunkiem, że przysługująca temu ubezpieczonemu emerytura obliczona w formule zdefiniowanej składki będzie równa lub wyższa emeryturze minimalnej",
+    "documentDate": "2024-01-30",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "187",
+    "passed": false,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2024-01-30",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2024-01-30",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "187",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-02-06",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "Sejm",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-02-06",
+            "stageName": "Skierowano do I czytania na posiedzeniu Sejmu",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-02-08",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "PSR",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-02-08",
+            "stageName": "I czytanie na posiedzeniu Sejmu",
+            "sittingNum": 5,
+            "stageType": "SejmReading"
+        }
+    ],
+    "term": 10,
+    "title": "Poselski projekt ustawy o zmianie ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych oraz niektórych innych ustaw w celu wprowadzenia emerytury stażowej",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2024-03-04T09:41:25"
+}

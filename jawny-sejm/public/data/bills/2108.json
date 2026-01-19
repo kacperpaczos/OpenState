@@ -1,0 +1,43 @@
+{
+    "UE": "NO",
+    "changeDate": "2025-12-30T15:29:56",
+    "description": "projekt dotyczy wprowadzenia nowych zasad wyboru sędziów do Krajowej Rady Sądownictwa. Wybór 15 członków-sędziów KRS dokonywany będzie przez sędziów wszystkich szczebli i rodzajów sądów. Projektowana ustawa ma również na celu dostosowanie przepisów ustawowych do standardów określonych w orzeczeniach Trybunału Sprawiedliwości Unii Europejskiej, Europejskiego Trybunału Praw Człowieka oraz w orzeczeniach Sądu Najwyższego i Naczelnego Sądu Administracyjnego, dotyczących gwarancji odrębności i niezależności władzy sądowniczej od innych władz państwowych, w tym gwarancji niezależności Krajowej Rady Sądownictwa od organów władzy ustawodawczej oraz władzy wykonawczej w procedurze powoływania sędziów. Projekt realizuje priorytet polityki Rady Ministrów.",
+    "documentDate": "2025-12-29",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "2108",
+    "passed": false,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2025-12-29",
+    "rclLink": "https://legislacja.rcl.gov.pl/getIdFromLegislacja?number=RM-0610-236-25",
+    "rclNum": "RM-0610-236-25",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2025-12-29",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "2108",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-12-30",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "Sejm",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-12-30",
+            "stageName": "Skierowano do I czytania na posiedzeniu Sejmu",
+            "stageType": "ReadingReferral"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o zmianie ustawy o Krajowej Radzie Sądownictwa oraz ustawy - Kodeks wyborczy",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-12-30T15:30:14"
+}

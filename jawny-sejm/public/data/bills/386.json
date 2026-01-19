@@ -1,0 +1,53 @@
+{
+    "UE": "NO",
+    "changeDate": "2024-06-12T10:13:53",
+    "closureDate": "2024-06-10",
+    "description": "projekt dotyczy uchylenia jednej z przesłanek nierozpoczynających lub zawieszających bieg terminu przedawnienia zobowiązania podatkowego (art. 70 § 6 pkt 1 Ordynacji podatkowej) oraz uchylenia powiązanych z nim przepisów",
+    "documentDate": "2024-04-10",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "386",
+    "passed": false,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2024-04-10",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2024-04-10",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "386",
+            "stageType": "Start"
+        },
+        {
+            "date": "2024-04-17",
+            "stageName": "Opinia organizacji samorządowej",
+            "organ": "Organizacja samorządowa",
+            "stageType": "Opinion"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-05-14",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "Sejm",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-05-14",
+            "stageName": "Skierowano do I czytania na posiedzeniu Sejmu",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "date": "2024-06-10",
+            "stageName": "Wycofano",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Poselski projekt ustawy o zmianie ustawy z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2024-06-12T10:14:07"
+}

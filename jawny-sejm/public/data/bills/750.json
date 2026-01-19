@@ -1,0 +1,259 @@
+{
+    "ELI": "DU/2025/39",
+    "UE": "ENFORCEMENT",
+    "address": "WDU20250000039",
+    "changeDate": "2025-01-16T09:28:37",
+    "closureDate": "2024-12-20",
+    "description": "projekt dotyczy utworzenia nowej, eksperckiej i niezależnej instytucji - Rady Fiskalnej, dzięki której zwiększy się transparentność finansów publicznych i jest odpowiedzią na przepisy unijne, które zobowiązują państwa UE do posiadania niezależnych instytucji fiskalnych",
+    "displayAddress": "Dz.U. 2025 poz. 39",
+    "documentDate": "2024-10-23",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [
+        {
+            "href": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000039",
+            "rel": "isap"
+        },
+        {
+            "href": "https://eli.gov.pl/eli/DU/2025/39/ogl",
+            "rel": "eli"
+        },
+        {
+            "href": "https://api.sejm.gov.pl/eli/acts/DU/2025/39",
+            "rel": "eli-api"
+        }
+    ],
+    "number": "750",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2024-10-23",
+    "rclLink": "https://legislacja.rcl.gov.pl/getIdFromLegislacja?number=RM-0610-84-24",
+    "rclNum": "RM-0610-84-24",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2024-10-23",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "750",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-10-29",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "Sejm",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-10-29",
+            "stageName": "Skierowano do I czytania na posiedzeniu Sejmu",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-11-08",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "FPB",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                },
+                {
+                    "date": "2024-11-08",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 13,
+                        "date": "2024-11-08T18:46:46",
+                        "description": "Wniosek o odrzucenie projektu ustawy w pierwszym czytaniu",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/21/66/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 424,
+                        "no": 423,
+                        "notParticipating": 12,
+                        "present": 0,
+                        "sitting": 21,
+                        "sittingDay": 3,
+                        "term": 10,
+                        "title": "Pkt. 15 Pierwsze czytanie rządowego projektu ustawy o Radzie Fiskalnej (druk nr 750)",
+                        "topic": "wniosek o odrzucenie projektu w pierwszym czytaniu.",
+                        "totalVoted": 448,
+                        "votingNumber": 66,
+                        "yes": 12
+                    }
+                }
+            ],
+            "date": "2024-11-08",
+            "stageName": "I czytanie na posiedzeniu Sejmu",
+            "sittingNum": 21,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-11-19",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "821",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "206",
+                    "rapporteurName": "Piotr Lachowicz",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/821/821.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2024-11-19",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-11-20",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "FPB",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-11-20",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "comment": "poprawki",
+            "decision": "skierowano ponownie do komisji w celu przedstawienia sprawozdania",
+            "sittingNum": 22,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-11-21",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "821-A",
+                    "proposal": "przyjąć część poprawek",
+                    "rapporteurID": "206",
+                    "rapporteurName": "Piotr Lachowicz",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/821-A/821-A.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2024-11-21",
+            "stageName": "Praca w komisjach po II czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-11-21",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 11,
+                        "date": "2024-11-21T19:47:10",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/79/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 199,
+                        "no": 198,
+                        "notParticipating": 13,
+                        "present": 0,
+                        "sitting": 22,
+                        "sittingDay": 3,
+                        "term": 10,
+                        "title": "Pkt. 12 Sprawozdanie Komisji o rządowym projekcie ustawy o Radzie Fiskalnej (druki nr 750, 821 i 821-A)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 447,
+                        "votingNumber": 79,
+                        "yes": 238
+                    }
+                }
+            ],
+            "date": "2024-11-21",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "comment": "poprawki",
+            "decision": "uchwalono",
+            "sittingNum": 22,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/750/attachment/750_u3.pdf"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-12-19",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "FPB",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-12-18",
+            "stageName": "Stanowisko Senatu",
+            "position": "wniósł poprawki",
+            "printNumber": "915",
+            "stageType": "SenatePosition"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-12-19",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "917",
+                    "proposal": "przyjąć poprawki",
+                    "rapporteurID": "206",
+                    "rapporteurName": "Piotr Lachowicz",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/917/917.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2024-12-19",
+            "stageName": "Praca w komisjach nad stanowiskiem Senatu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "date": "2024-12-20",
+            "stageName": "Rozpatrywanie na forum Sejmu stanowiska Senatu",
+            "decision": "przyjęto poprawki",
+            "sittingNum": 25,
+            "stageType": "SenatePositionConsideration"
+        },
+        {
+            "date": "2024-12-23",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "date": "2025-01-10",
+            "stageName": "Prezydent podpisał ustawę",
+            "omittedInconsistent": false,
+            "stageType": "PresidentSignature"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o Radzie Fiskalnej",
+    "titleFinal": "o Radzie Fiskalnej",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-01-16T09:29:04"
+}

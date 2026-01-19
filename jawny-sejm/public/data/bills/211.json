@@ -1,0 +1,160 @@
+{
+    "ELI": "DU/2024/1246",
+    "UE": "NO",
+    "address": "WDU20240001246",
+    "changeDate": "2024-08-21T09:59:50",
+    "closureDate": "2024-07-24",
+    "description": "projekt dotyczy zmian w ustawie z dnia 26 maja 2023 r. o świadczeniu pieniężnym z tytułu pełnienia funkcji sołtysa, dotyczących warunku odnoszącego się do długości i pełnienia funkcji sołtysa, tj. wskazano, że okres ten powinien trwać nie krócej niż 90 miesięcy, a także warunku dotyczącego tego okresu, uwzględniającego pełnienie funkcji sołtysa przed i po wejściu w życie ustawy z dnia 8 marca 1990 r. o samorządzie gminnym",
+    "displayAddress": "Dz.U. 2024 poz. 1246",
+    "documentDate": "2024-02-08",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [
+        {
+            "href": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001246",
+            "rel": "isap"
+        },
+        {
+            "href": "https://eli.gov.pl/eli/DU/2024/1246/ogl",
+            "rel": "eli"
+        },
+        {
+            "href": "https://api.sejm.gov.pl/eli/acts/DU/2024/1246",
+            "rel": "eli-api"
+        }
+    ],
+    "number": "211",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "printsConsideredJointly": [
+        "407"
+    ],
+    "processStartDate": "2024-02-08",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2024-02-08",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "211",
+            "stageType": "Start"
+        },
+        {
+            "date": "2024-02-15",
+            "stageName": "Opinia organizacji samorządowej",
+            "organ": "Organizacja samorządowa",
+            "stageType": "Opinion"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-02-20",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "STR",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-02-20",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "date": "2024-07-23",
+            "stageName": "I czytanie w komisjach",
+            "stageType": "Reading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-07-23",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "567",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "187",
+                    "rapporteurName": "Michał Krawczyk",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/567/567.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2024-07-23",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "date": "2024-07-23",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "decision": "niezwłocznie przystąpiono do III czytania",
+            "sittingNum": 16,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-07-24",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 0,
+                        "date": "2024-07-24T16:57:07",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/16/7/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 19,
+                        "no": 18,
+                        "notParticipating": 16,
+                        "present": 0,
+                        "sitting": 16,
+                        "sittingDay": 2,
+                        "term": 10,
+                        "title": "Pkt. 8 Sprawozdanie Komisji o:- poselskim projekcie ustawy o zmianie ustawy o świadczeniu pieniężnym z tytułu pełnienia funkcji sołtysa,- senackim projekcie ustawy o zmianie ustawy o świadczeniu pieniężnym z tytułu pełnienia funkcji sołtysa oraz ustawy o świadczeniu uzupełniającym dla osób niezdolnych do samodzielnej egzystencji (druki nr 211, 407 i 567)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 444,
+                        "votingNumber": 7,
+                        "yes": 426
+                    }
+                }
+            ],
+            "date": "2024-07-24",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "decision": "uchwalono",
+            "sittingNum": 16,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/211/attachment/211_u3.pdf"
+        },
+        {
+            "date": "2024-07-25",
+            "stageName": "Stanowisko Senatu",
+            "position": "nie wniósł poprawek",
+            "stageType": "SenatePosition"
+        },
+        {
+            "date": "2024-07-26",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "date": "2024-08-08",
+            "stageName": "Prezydent podpisał ustawę",
+            "omittedInconsistent": false,
+            "stageType": "PresidentSignature"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Poselski projekt ustawy o zmianie ustawy o świadczeniu pieniężnym z tytułu pełnienia funkcji sołtysa",
+    "titleFinal": "o zmianie ustawy o świadczeniu pieniężnym z tytułu pełnienia funkcji sołtysa oraz ustawy o świadczeniu uzupełniającym dla osób niezdolnych do samodzielnej egzystencji",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2024-08-21T10:01:14"
+}

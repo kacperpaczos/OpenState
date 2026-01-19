@@ -1,0 +1,54 @@
+{
+    "UE": "NO",
+    "changeDate": "2024-11-19T10:41:08",
+    "description": "projekt dotyczy wprowadzenia zakazu łączenia mandatu posła, senatora lub posła do Parlamentu Europejskiego ze stanowiskiem Dyrektora Generalnego i zastępcy Dyrektora Generalnego KOWR",
+    "documentDate": "2024-10-10",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "826",
+    "passed": false,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2024-10-10",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2024-10-10",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "826",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-11-19",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "RSP",
+                    "stageType": "Referral",
+                    "type": "OPINION"
+                },
+                {
+                    "date": "2024-11-19",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "RRW",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-11-19",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "date": "2025-03-14",
+            "stageName": "Wpłynęło stanowisko rządu",
+            "stageType": "GovermentPosition",
+            "title": "Stanowisko Rządu do druku nr 826"
+        }
+    ],
+    "term": 10,
+    "title": "Poselski projekt ustawy o zmianie ustawy o Krajowym Ośrodku Wsparcia Rolnictwa",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2024-11-19T10:41:21"
+}

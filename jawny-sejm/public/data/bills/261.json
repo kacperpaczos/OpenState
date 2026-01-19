@@ -1,0 +1,108 @@
+{
+    "UE": "NO",
+    "changeDate": "2024-05-08T13:55:47",
+    "comments": "Zmiana przedstawiciela wnioskodawców - w dniu 25.04.2024 r. posła Michała Kobosko zastąpił poseł Mirosław Suchoń a w dniu 17.10.2024 r. posła Mirosława Suchonia zastąpił poseł Ryszard Petru.",
+    "description": "projekt dotyczy podniesienia wymogów kwalifikacyjnych i zaostrzenia kryteriów wykluczających dla kandydatów do rad nadzorczych spółek z udziałem Skarbu Państwa",
+    "documentDate": "2024-02-29",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "261",
+    "passed": false,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2024-03-01",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2024-03-01",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "261",
+            "stageType": "Start"
+        },
+        {
+            "date": "2024-03-06",
+            "stageName": "Opinia organizacji samorządowej",
+            "organ": "Organizacja samorządowa",
+            "stageType": "Opinion"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-03-19",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "Sejm",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-03-19",
+            "stageName": "Skierowano do I czytania na posiedzeniu Sejmu",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "date": "2024-04-26",
+            "stageName": "I czytanie na posiedzeniu Sejmu",
+            "comment": "Marszałek Sejmu przeniósł na następne posiedzenie głosowanie nad wnioskiem o dodatkowe skierowanie projektu ustawy do Komisji Gospodarki i Rozwoju",
+            "decision": "niedokończone I czytanie",
+            "sittingNum": 10,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-05-08",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "ESK",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                },
+                {
+                    "date": "2024-05-08",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "GOR",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                },
+                {
+                    "date": "2024-05-08",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 0,
+                        "date": "2024-05-08T13:46:08",
+                        "description": "wniosek o dodatkowe skierowanie projektu ustawy do Komisji Gospodarki i Rozwoju",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/11/6/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 170,
+                        "no": 169,
+                        "notParticipating": 39,
+                        "present": 0,
+                        "sitting": 11,
+                        "sittingDay": 1,
+                        "term": 10,
+                        "title": "Pkt. 4 Pierwsze czytanie poselskiego projektu ustawy o zmianie niektórych ustaw w celu naprawy ładu korporacyjnego w spółkach z udziałem Skarbu Państwa (druk nr 261) - kontynuacja",
+                        "topic": "wniosek o dodatkowe skierowanie projektu ustawy do Komisji",
+                        "totalVoted": 420,
+                        "votingNumber": 6,
+                        "yes": 251
+                    }
+                }
+            ],
+            "date": "2024-05-08",
+            "stageName": "I czytanie na posiedzeniu Sejmu",
+            "sittingNum": 11,
+            "stageType": "SejmReading"
+        }
+    ],
+    "term": 10,
+    "title": "Poselski projekt ustawy o zmianie niektórych ustaw w celu naprawy ładu korporacyjnego w spółkach z udziałem Skarbu Państwa",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2024-09-20T08:27:08"
+}

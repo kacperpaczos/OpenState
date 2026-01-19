@@ -1,0 +1,190 @@
+{
+    "ELI": "DU/2025/1729",
+    "UE": "ENFORCEMENT",
+    "address": "WDU20250001729",
+    "changeDate": "2025-12-09T14:22:16",
+    "closureDate": "2025-11-07",
+    "description": "projekt dotyczy dostosowania polskiego prawa do przepisów dyrektywy PE i Rady (UE) 2023/977 w zakresie wymiany informacji między organami ścigania państw członkowskich Unii Europejskiej i usprawnienia wymiany informacji w celu wykrywania i ścigania sprawców przestępstw oraz zapobiegania przestępczości i jej zwalczania. Wymiana informacji będzie mogła się odbywać bezpośrednio pomiędzy uprawnionymi organami Polski i UE.",
+    "displayAddress": "Dz.U. 2025 poz. 1729",
+    "documentDate": "2025-07-30",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [
+        {
+            "href": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001729",
+            "rel": "isap"
+        },
+        {
+            "href": "https://eli.gov.pl/eli/DU/2025/1729/ogl",
+            "rel": "eli"
+        },
+        {
+            "href": "https://api.sejm.gov.pl/eli/acts/DU/2025/1729",
+            "rel": "eli-api"
+        }
+    ],
+    "number": "1605",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2025-07-30",
+    "rclLink": "https://legislacja.rcl.gov.pl/getIdFromLegislacja?number=RM-0610-21-25",
+    "rclNum": "RM-0610-21-25",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2025-07-30",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "1605",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-08-04",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "ASW",
+                    "reportDate": "2025-09-23",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-08-04",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "date": "2025-09-09",
+            "stageName": "I czytanie w komisjach",
+            "stageType": "Reading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-09-09",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "1668",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "83",
+                    "rapporteurName": "Konrad Frysztak",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1668/1668.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-09-09",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "date": "2025-09-24",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "decision": "niezwłocznie przystąpiono do III czytania",
+            "sittingNum": 41,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-09-26",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 191,
+                        "date": "2025-09-26T12:58:06",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/41/41/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 2,
+                        "no": 1,
+                        "notParticipating": 37,
+                        "present": 0,
+                        "sitting": 41,
+                        "sittingDay": 3,
+                        "term": 10,
+                        "title": "Pkt. 8 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o wymianie informacji z organami ścigania państw członkowskich Unii Europejskiej, państw trzecich, agencjami Unii Europejskiej oraz organizacjami międzynarodowymi (druki nr 1605 i 1668)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 423,
+                        "votingNumber": 41,
+                        "yes": 231
+                    }
+                }
+            ],
+            "date": "2025-09-26",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "decision": "uchwalono",
+            "sittingNum": 41,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/1605/attachment/1605_u3.pdf"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-10-17",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "ASW",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-10-16",
+            "stageName": "Stanowisko Senatu",
+            "position": "wniósł poprawki",
+            "printNumber": "1845",
+            "stageType": "SenatePosition"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-11-04",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "1878",
+                    "proposal": "przyjąć poprawki",
+                    "rapporteurID": "206",
+                    "rapporteurName": "Piotr Lachowicz",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1878/1878.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-11-04",
+            "stageName": "Praca w komisjach nad stanowiskiem Senatu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "date": "2025-11-07",
+            "stageName": "Rozpatrywanie na forum Sejmu stanowiska Senatu",
+            "decision": "przyjęto poprawki",
+            "sittingNum": 44,
+            "stageType": "SenatePositionConsideration"
+        },
+        {
+            "date": "2025-11-12",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "date": "2025-12-02",
+            "stageName": "Prezydent podpisał ustawę",
+            "omittedInconsistent": false,
+            "stageType": "PresidentSignature"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o zmianie ustawy o wymianie informacji z organami ścigania państw członkowskich Unii Europejskiej, państw trzecich, agencjami Unii Europejskiej oraz organizacjami międzynarodowymi",
+    "titleFinal": "o zmianie ustawy o wymianie informacji z organami ścigania państw członkowskich Unii Europejskiej, państw trzecich, agencjami Unii Europejskiej oraz organizacjami międzynarodowymi",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-12-09T14:22:26"
+}

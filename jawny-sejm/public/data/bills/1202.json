@@ -1,0 +1,199 @@
+{
+    "ELI": "DU/2025/1166",
+    "UE": "NO",
+    "address": "WDU20250001166",
+    "changeDate": "2025-08-26T08:42:38",
+    "closureDate": "2025-08-05",
+    "description": "projekt dotyczy wprowadzenia na stałe porad zdalnych, dostępnych dla wszystkich osób, które mogą korzystać z nieodpłatnej pomocy prawnej i nieodpłatnego poradnictwa obywatelskiego; zniesienia obowiązku składania oświadczeń o niemożności poniesienia kosztów odpłatnej pomocy prawnej przez osoby uprawnione oraz oświadczeń przedsiębiorców o niezatrudnianiu innych osób w ciągu ostatniego roku",
+    "displayAddress": "Dz.U. 2025 poz. 1166",
+    "documentDate": "2025-04-16",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [
+        {
+            "href": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001166",
+            "rel": "isap"
+        },
+        {
+            "href": "https://eli.gov.pl/eli/DU/2025/1166/ogl",
+            "rel": "eli"
+        },
+        {
+            "href": "https://api.sejm.gov.pl/eli/acts/DU/2025/1166",
+            "rel": "eli-api"
+        }
+    ],
+    "number": "1202",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2025-04-16",
+    "rclLink": "https://legislacja.rcl.gov.pl/getIdFromLegislacja?number=RM-0610-31-25",
+    "rclNum": "RM-0610-31-25",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2025-04-16",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "1202",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-04-24",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "SPC",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-04-24",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "date": "2025-06-23",
+            "stageName": "I czytanie w komisjach",
+            "stageType": "Reading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-07-10",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "1477",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "491",
+                    "rapporteurName": "Aleksandra Kot",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1477/1477.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-07-10",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-07-23",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "SPC",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-07-23",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "comment": "poprawka",
+            "decision": "skierowano ponownie do komisji w celu przedstawienia sprawozdania",
+            "sittingNum": 39,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-07-25",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 5,
+                        "date": "2025-07-25T15:54:14",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/39/63/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 16,
+                        "no": 15,
+                        "notParticipating": 29,
+                        "present": 0,
+                        "sitting": 39,
+                        "sittingDay": 4,
+                        "term": 10,
+                        "title": "Pkt. 29 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o nieodpłatnej pomocy prawnej, nieodpłatnym poradnictwie obywatelskim oraz edukacji prawnej (druki nr 1202 i 1477)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 431,
+                        "votingNumber": 63,
+                        "yes": 411
+                    }
+                }
+            ],
+            "date": "2025-07-25",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "decision": "uchwalono",
+            "sittingNum": 39,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/1202/attachment/1202_u3.pdf"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-08-01",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "SPC",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-07-31",
+            "stageName": "Stanowisko Senatu",
+            "position": "wniósł poprawki",
+            "printNumber": "1578",
+            "stageType": "SenatePosition"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-08-05",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "1597",
+                    "proposal": "przyjąć poprawki",
+                    "rapporteurID": "491",
+                    "rapporteurName": "Aleksandra Kot",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1597/1597.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-08-05",
+            "stageName": "Praca w komisjach nad stanowiskiem Senatu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "date": "2025-08-05",
+            "stageName": "Rozpatrywanie na forum Sejmu stanowiska Senatu",
+            "decision": "przyjęto poprawki",
+            "sittingNum": 39,
+            "stageType": "SenatePositionConsideration"
+        },
+        {
+            "date": "2025-08-06",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "date": "2025-08-21",
+            "stageName": "Prezydent podpisał ustawę",
+            "omittedInconsistent": false,
+            "stageType": "PresidentSignature"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o zmianie ustawy o nieodpłatnej pomocy prawnej, nieodpłatnym poradnictwie obywatelskim oraz edukacji prawnej",
+    "titleFinal": "o zmianie ustawy o nieodpłatnej pomocy prawnej, nieodpłatnym poradnictwie obywatelskim oraz edukacji prawnej",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-09-02T12:51:49"
+}

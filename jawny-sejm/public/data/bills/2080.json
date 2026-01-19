@@ -1,0 +1,27 @@
+{
+    "UE": "NO",
+    "changeDate": "2025-11-28T00:00:00",
+    "description": "projekt dotyczy zniesienia ograniczenia biernego prawa wyborczego w wyborach na wójta (burmistrza, prezydenta miasta), polegającego na obwarowaniu możliwości realizacji tego prawa limitem dwukrotnego wyboru na ten urząd w danej gminie (zasada ,,dwukadencyjności\"), wyrażonego w art. 11 § 4 z dnia 5 stycznia 2011 r. - Kodeks wyborczy",
+    "documentDate": "2025-11-28",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "2080",
+    "passed": false,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2025-11-28",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2025-11-28",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "2080",
+            "stageType": "Start"
+        }
+    ],
+    "term": 10,
+    "title": "Senacki projekt ustawy o zmianie ustawy - Kodeks wyborczy oraz ustawy o zmianie niektórych ustaw w celu zwiększenia udziału obywateli w procesie wybierania, funkcjonowania i kontrolowania niektórych organów publicznych",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-12-16T16:35:44"
+}

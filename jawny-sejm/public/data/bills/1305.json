@@ -1,0 +1,183 @@
+{
+    "ELI": "DU/2025/1161",
+    "UE": "NO",
+    "address": "WDU20250001161",
+    "changeDate": "2025-08-26T09:07:19",
+    "closureDate": "2025-07-09",
+    "description": "projekt dotyczy ułatwienia łączenia niepublicznych funduszy inwestycyjnych zamkniętych, których organem jest to samo towarzystwo funduszy inwestycyjnych. Dzięki przyjętemu rozwiązaniu, złagodzone zostaną warunki dotyczące uzyskiwania zgody zgromadzenia inwestorów na takie połączenie. Nowe przepisy realizują działania deregulacyjne rządu.",
+    "displayAddress": "Dz.U. 2025 poz. 1161",
+    "documentDate": "2025-05-20",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [
+        {
+            "href": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001161",
+            "rel": "isap"
+        },
+        {
+            "href": "https://eli.gov.pl/eli/DU/2025/1161/ogl",
+            "rel": "eli"
+        },
+        {
+            "href": "https://api.sejm.gov.pl/eli/acts/DU/2025/1161",
+            "rel": "eli-api"
+        }
+    ],
+    "number": "1305",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2025-05-20",
+    "rclLink": "https://legislacja.rcl.gov.pl/getIdFromLegislacja?number=RM-0610-63-25",
+    "rclNum": "RM-0610-63-25",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2025-05-20",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "1305",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-06-02",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "DER",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-06-02",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "date": "2025-06-23",
+            "stageName": "I czytanie w komisjach",
+            "stageType": "Reading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-06-23",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "1357",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "345",
+                    "rapporteurName": "Weronika Smarduch",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1357/1357.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-06-23",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-07-08",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "DER",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-07-08",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "comment": "poprawki",
+            "decision": "skierowano ponownie do komisji w celu przedstawienia sprawozdania",
+            "sittingNum": 38,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-07-09",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "1357-A",
+                    "proposal": "przyjąć część poprawek",
+                    "rapporteurID": "345",
+                    "rapporteurName": "Weronika Smarduch",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1357-A/1357-A.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-07-09",
+            "stageName": "Praca w komisjach po II czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-07-09",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 172,
+                        "date": "2025-07-09T21:26:29",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/38/19/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 1,
+                        "no": 0,
+                        "notParticipating": 29,
+                        "present": 0,
+                        "sitting": 38,
+                        "sittingDay": 2,
+                        "term": 10,
+                        "title": "Pkt. 3 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (druki nr 1305, 1357 i 1357-A)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 431,
+                        "votingNumber": 19,
+                        "yes": 259
+                    }
+                }
+            ],
+            "date": "2025-07-09",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "comment": "poprawki",
+            "decision": "uchwalono",
+            "sittingNum": 38,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/1305/attachment/1305_u3.pdf"
+        },
+        {
+            "date": "2025-07-31",
+            "stageName": "Stanowisko Senatu",
+            "position": "nie wniósł poprawek",
+            "stageType": "SenatePosition"
+        },
+        {
+            "date": "2025-08-04",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "date": "2025-08-21",
+            "stageName": "Prezydent podpisał ustawę",
+            "omittedInconsistent": false,
+            "stageType": "PresidentSignature"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o zmianie ustawy o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi",
+    "titleFinal": "o zmianie ustawy o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-09-02T12:51:49"
+}

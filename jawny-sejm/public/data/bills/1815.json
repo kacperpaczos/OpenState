@@ -1,0 +1,41 @@
+{
+    "UE": "NO",
+    "changeDate": "2025-10-15T09:28:47",
+    "description": "projekt dotyczy rezygnacji z dotychczasowej praktyki zmiany czasu oraz wprowadzenia całorocznego stosowania czasu letniego środkowoeuropejskiego jako obowiązującego czasu urzędowego na terytorium Rzeczypospolitej Polskiej",
+    "documentDate": "2025-04-01",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "1815",
+    "passed": false,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2025-04-02",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2025-04-02",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "1815",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-10-14",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "GOR",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-10-14",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        }
+    ],
+    "term": 10,
+    "title": "Poselski projekt ustawy o zmianie ustawy o czasie urzędowym na obszarze Rzeczypospolitej Polskiej",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-10-15T09:29:34"
+}

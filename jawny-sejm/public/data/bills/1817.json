@@ -1,0 +1,41 @@
+{
+    "UE": "NO",
+    "changeDate": "2025-11-07T18:29:27",
+    "description": "projekt dotyczy wprowadzenia pomocy finansowej dla rolników, którzy w związku z kryzysem rynkowym doświadczyli strat ekonomicznych wynikających z drastycznego spadku cen zbóż i nasion oleistych w drugiej połowie 2025 roku",
+    "documentDate": "2025-09-12",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "1817",
+    "passed": false,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2025-09-12",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2025-09-12",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "1817",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-11-07",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "RRW",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-11-07",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        }
+    ],
+    "term": 10,
+    "title": "Poselski projekt ustawy o szczególnym wsparciu dla producentów zbóż i nasion oleistych w 2025 roku",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-11-07T18:32:41"
+}

@@ -1,0 +1,48 @@
+{
+    "UE": "NO",
+    "changeDate": "2024-09-26T10:19:17",
+    "comments": "Zmiana przedstawiciela wnioskodawców - posła P. Zgorzelskiego zastąpił poseł H. Kiepura.",
+    "description": "projekt dotyczy ustanowienia Komisji Edukacji Narodowej jako organu eksperckiego, stabilizującego polski system edukacji; wprowadzenia nowych form edukacji obywatelskiej przygotowującej do odpowiedzialności za Ojczyznę oraz uwspółcześnienie zadań edukacyjnych i wychowawczych w szkołach\n\n",
+    "documentDate": "2024-08-14",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "671",
+    "passed": false,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2024-08-14",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2024-08-14",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "671",
+            "stageType": "Start"
+        },
+        {
+            "date": "2024-08-23",
+            "stageName": "Opinia organizacji samorządowej",
+            "organ": "Organizacja samorządowa",
+            "stageType": "Opinion"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-09-24",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "ENM",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-09-24",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        }
+    ],
+    "term": 10,
+    "title": "Poselski projekt ustawy o wychowaniu patriotycznym zmieniająca niektóre ustawy",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2024-09-26T10:19:35"
+}

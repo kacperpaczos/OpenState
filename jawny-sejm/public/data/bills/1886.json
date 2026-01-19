@@ -1,0 +1,153 @@
+{
+    "ELI": "DU/2025/1746",
+    "UE": "NO",
+    "address": "WDU20250001746",
+    "changeDate": "2025-12-15T10:53:37",
+    "closureDate": "2025-11-21",
+    "description": "projekt dotyczy uzupełnienia katalogu wydatków środków PFRON w art. 47 ust. 1 ustawy o rehabilitacji o przepis pozwalający na przeznaczenie środków PFRON na programy zatwierdzone przez Radę Nadzorczą, służące rehabilitacji społecznej i zawodowej osób niepełnosprawnych, realizowane przy współfinansowaniu ze środków pomocowych Unii Europejskiej",
+    "displayAddress": "Dz.U. 2025 poz. 1746",
+    "documentDate": "2025-10-30",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [
+        {
+            "href": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001746",
+            "rel": "isap"
+        },
+        {
+            "href": "https://eli.gov.pl/eli/DU/2025/1746/ogl",
+            "rel": "eli"
+        },
+        {
+            "href": "https://api.sejm.gov.pl/eli/acts/DU/2025/1746",
+            "rel": "eli-api"
+        }
+    ],
+    "number": "1886",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2025-10-30",
+    "rclLink": "https://legislacja.rcl.gov.pl/getIdFromLegislacja?number=RM-0610-203-25",
+    "rclNum": "RM-0610-203-25",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2025-10-30",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "1886",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-11-04",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "PSR",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-11-04",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "date": "2025-11-18",
+            "stageName": "I czytanie w komisjach",
+            "stageType": "Reading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-11-18",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "1974",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "264",
+                    "rapporteurName": "Maja Ewa Nowak",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1974/1974.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-11-18",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "date": "2025-11-18",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "decision": "niezwłocznie przystąpiono do III czytania",
+            "sittingNum": 45,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-11-21",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 0,
+                        "date": "2025-11-21T10:02:54",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/39/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 2,
+                        "no": 1,
+                        "notParticipating": 20,
+                        "present": 0,
+                        "sitting": 45,
+                        "sittingDay": 4,
+                        "term": 10,
+                        "title": "Pkt. 10 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (druki nr 1886 i 1974)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 440,
+                        "votingNumber": 39,
+                        "yes": 439
+                    }
+                }
+            ],
+            "date": "2025-11-21",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "decision": "uchwalono",
+            "sittingNum": 45,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/1886/attachment/1886_u3.pdf"
+        },
+        {
+            "date": "2025-11-27",
+            "stageName": "Stanowisko Senatu",
+            "position": "nie wniósł poprawek",
+            "stageType": "SenatePosition"
+        },
+        {
+            "date": "2025-11-28",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "date": "2025-12-05",
+            "stageName": "Prezydent podpisał ustawę",
+            "omittedInconsistent": false,
+            "stageType": "PresidentSignature"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o zmianie ustawy o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych",
+    "titleFinal": "o zmianie ustawy o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych oraz ustawy o rynku pracy i służbach zatrudnienia",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-12-19T00:10:17"
+}

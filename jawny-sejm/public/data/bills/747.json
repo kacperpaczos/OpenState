@@ -1,0 +1,158 @@
+{
+    "ELI": "DU/2024/1974",
+    "UE": "NO",
+    "address": "WDU20240001974",
+    "changeDate": "2025-01-03T14:34:55",
+    "closureDate": "2024-12-05",
+    "description": "projekt dotyczy zmian w przyznawaniu stypendium CEEPUS IV",
+    "displayAddress": "Dz.U. 2024 poz. 1974",
+    "documentDate": "2024-10-25",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [
+        {
+            "href": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001974",
+            "rel": "isap"
+        },
+        {
+            "href": "https://eli.gov.pl/eli/DU/2024/1974/ogl",
+            "rel": "eli"
+        },
+        {
+            "href": "https://api.sejm.gov.pl/eli/acts/DU/2024/1974",
+            "rel": "eli-api"
+        }
+    ],
+    "number": "747",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2024-10-25",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2024-10-25",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "747",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-10-25",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "SZA",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                },
+                {
+                    "date": "2024-10-25",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "ENM",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-10-25",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "date": "2024-11-06",
+            "stageName": "I czytanie w komisjach",
+            "stageType": "Reading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-11-07",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "792",
+                    "proposal": "uchwalić projekt ustawy bez poprawek",
+                    "rapporteurID": "314",
+                    "rapporteurName": "Wiesław Różyński",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/792/792.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2024-11-07",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "date": "2024-12-05",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "decision": "niezwłocznie przystąpiono do III czytania",
+            "sittingNum": 23,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-12-05",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 16,
+                        "date": "2024-12-05T17:49:40",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/23/5/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 3,
+                        "no": 2,
+                        "notParticipating": 16,
+                        "present": 0,
+                        "sitting": 23,
+                        "sittingDay": 2,
+                        "term": 10,
+                        "title": "Pkt. 14 Sprawozdanie Komisji o rządowym projekcie ustawy o ratyfikacji Porozumienia w sprawie Środkowoeuropejskiego Programu Wymiany Uniwersyteckiej (\"CEEPUS IV\"), podpisanego w Warszawie dnia 20 września 2023 r. (druki nr 747 i 792)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 444,
+                        "votingNumber": 5,
+                        "yes": 426
+                    }
+                }
+            ],
+            "date": "2024-12-05",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "decision": "uchwalono",
+            "sittingNum": 23,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/747/attachment/747_u3.pdf"
+        },
+        {
+            "date": "2024-12-18",
+            "stageName": "Stanowisko Senatu",
+            "position": "nie wniósł poprawek",
+            "stageType": "SenatePosition"
+        },
+        {
+            "date": "2024-12-19",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "date": "2024-12-28",
+            "stageName": "Prezydent podpisał ustawę",
+            "omittedInconsistent": false,
+            "stageType": "PresidentSignature"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o ratyfikacji Porozumienia w sprawie Środkowoeuropejskiego Programu Wymiany Uniwersyteckiej (\"CEEPUS IV\"), podpisanego w Warszawie dnia 20 września 2023 r.",
+    "titleFinal": "o ratyfikacji Porozumienia w sprawie Środkowoeuropejskiego Programu Wymiany Uniwersyteckiej (\"CEEPUS IV\"), podpisanego w Warszawie dnia 20 września 2023 r.",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-01-09T14:37:56"
+}

@@ -1,0 +1,41 @@
+{
+    "UE": "NO",
+    "changeDate": "2025-10-15T08:46:23",
+    "description": "projekt dotyczy nałożenia na producentów i dystrybutorów napojów alkoholowych obowiązku umieszczania na naczyniach, w których sprzedawane są napoje alkoholowe informacji o szkodliwości spożywania alkoholu przez kobiety w ciąży lub karmiące piersią oraz rozszerzenia zakresu informowania o szkodliwości spożywania alkoholu przez kobiety w ciąży lub karmiące piersią poprzez objęcie obowiązkiem informacyjnym przekazów reklamowych i promocyjnych piwa",
+    "documentDate": "2025-08-08",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "1809",
+    "passed": false,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2025-08-08",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2025-08-08",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "1809",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-10-14",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "ZDR",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-10-14",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        }
+    ],
+    "term": 10,
+    "title": "Senacki projekt ustawy o zmianie ustawy o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-10-15T08:51:18"
+}

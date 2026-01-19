@@ -1,0 +1,148 @@
+{
+    "ELI": "DU/2024/1855",
+    "UE": "ENFORCEMENT",
+    "address": "WDU20240001855",
+    "changeDate": "2024-12-23T11:10:32",
+    "closureDate": "2024-11-21",
+    "description": "projekt dotyczy m.in dopuszczenia wykonywania transportu drogowego rzeczy oraz niezarobkowego przewozu drogowego rzeczy przez przedsiębiorcę posiadającego siedzibę w Rzeczypospolitej Polskiej pojazdem najmowanym zarejestrowanym lub dopuszczonym do ruchu zgodnie z prawem innego państwa członkowskiego- pod warunkami czasowymi",
+    "displayAddress": "Dz.U. 2024 poz. 1855",
+    "documentDate": "2024-10-23",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [
+        {
+            "href": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001855",
+            "rel": "isap"
+        },
+        {
+            "href": "https://eli.gov.pl/eli/DU/2024/1855/ogl",
+            "rel": "eli"
+        },
+        {
+            "href": "https://api.sejm.gov.pl/eli/acts/DU/2024/1855",
+            "rel": "eli-api"
+        }
+    ],
+    "number": "752",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2024-10-23",
+    "rclLink": "https://legislacja.rcl.gov.pl/getIdFromLegislacja?number=RM-0610-86-24",
+    "rclNum": "RM-0610-86-24",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2024-10-23",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "752",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-10-29",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "INF",
+                    "reportDate": "2024-11-18",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-10-29",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "date": "2024-11-08",
+            "stageName": "I czytanie w komisjach",
+            "stageType": "Reading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-11-08",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "798",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "359",
+                    "rapporteurName": "Mirosław Suchoń",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/798/798.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2024-11-08",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "date": "2024-11-19",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "decision": "niezwłocznie przystąpiono do III czytania",
+            "sittingNum": 22,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-11-21",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 2,
+                        "date": "2024-11-21T18:47:42",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/25/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 1,
+                        "no": 0,
+                        "notParticipating": 14,
+                        "present": 0,
+                        "sitting": 22,
+                        "sittingDay": 3,
+                        "term": 10,
+                        "title": "Pkt. 8 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o transporcie drogowym (druki nr 752 i 798)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 446,
+                        "votingNumber": 25,
+                        "yes": 444
+                    }
+                }
+            ],
+            "date": "2024-11-21",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "decision": "uchwalono",
+            "sittingNum": 22,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/752/attachment/752_u3.pdf"
+        },
+        {
+            "date": "2024-12-05",
+            "stageName": "Stanowisko Senatu",
+            "position": "nie wniósł poprawek",
+            "stageType": "SenatePosition"
+        },
+        {
+            "date": "2024-12-06",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o zmianie ustawy o transporcie drogowym",
+    "titleFinal": "o zmianie ustawy o transporcie drogowym",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-01-02T08:14:19"
+}

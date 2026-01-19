@@ -1,0 +1,163 @@
+{
+    "ELI": "DU/2024/1635",
+    "UE": "NO",
+    "address": "WDU20240001635",
+    "changeDate": "2024-11-15T09:32:22",
+    "closureDate": "2024-10-18",
+    "description": "projekt dotyczy dostosowania przepisów niektórych ustaw do zmian wynikających z wejścia w życie z dniem 1 stycznia 2024 r. rozporządzenia Komisji (UE) 2023/2831 oraz rozporządzenia Komisji (UE) 2023/2832; w poszczególnych ustawach zostaną wprowadzone zmiany polegające na aktualizacji odesłań do nieobowiązujących już rozporządzeń przez wskazanie, że pomoc de minimis będzie udzielana w zakresie i na zasadach określonych w bezpośrednio obowiązujących akrach prawa Unii Europejskiej dotyczących pomocy w ramach zasady de minimis i dostosowaniu okresu, za który powinny być przedstawiane zaświadczenia lub oświadczenia o pomocy de minimis, do obowiązujących przepisów",
+    "displayAddress": "Dz.U. 2024 poz. 1635",
+    "documentDate": "2024-08-08",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [
+        {
+            "href": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001635",
+            "rel": "isap"
+        },
+        {
+            "href": "https://eli.gov.pl/eli/DU/2024/1635/ogl",
+            "rel": "eli"
+        },
+        {
+            "href": "https://api.sejm.gov.pl/eli/acts/DU/2024/1635",
+            "rel": "eli-api"
+        }
+    ],
+    "number": "600",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2024-08-08",
+    "rclLink": "https://legislacja.rcl.gov.pl/getIdFromLegislacja?number=RM-0610-57-24",
+    "rclNum": "RM-0610-57-24",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2024-08-08",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "600",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-08-26",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "Sejm",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-08-26",
+            "stageName": "Skierowano do I czytania na posiedzeniu Sejmu",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-09-12",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "GOR",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-09-12",
+            "stageName": "I czytanie na posiedzeniu Sejmu",
+            "sittingNum": 17,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-10-09",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "697",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "478",
+                    "rapporteurName": "Jerzy Meysztowicz",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/697/697.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2024-10-09",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "date": "2024-10-16",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "decision": "niezwłocznie przystąpiono do III czytania",
+            "sittingNum": 20,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-10-18",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 16,
+                        "date": "2024-10-18T09:27:11",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/20/9/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 179,
+                        "no": 178,
+                        "notParticipating": 32,
+                        "present": 0,
+                        "sitting": 20,
+                        "sittingDay": 3,
+                        "term": 10,
+                        "title": "Pkt. 5 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie niektórych ustaw związanych z udzielaniem pomocy de minimis (druki nr 600 i 697)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 427,
+                        "votingNumber": 9,
+                        "yes": 233
+                    }
+                }
+            ],
+            "date": "2024-10-18",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "decision": "uchwalono",
+            "sittingNum": 20,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/600/attachment/600_u3.pdf"
+        },
+        {
+            "date": "2024-10-30",
+            "stageName": "Stanowisko Senatu",
+            "position": "nie wniósł poprawek",
+            "stageType": "SenatePosition"
+        },
+        {
+            "date": "2024-10-31",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "date": "2024-11-05",
+            "stageName": "Prezydent podpisał ustawę",
+            "omittedInconsistent": false,
+            "stageType": "PresidentSignature"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o zmianie niektórych ustaw związanych z udzielaniem pomocy de minimis",
+    "titleFinal": "o zmianie niektórych ustaw związanych z udzielaniem pomocy de minimis",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2024-11-18T08:08:25"
+}

@@ -1,0 +1,169 @@
+{
+    "ELI": "DU/2024/1827",
+    "UE": "NO",
+    "address": "WDU20240001827",
+    "changeDate": "2024-12-16T12:28:19",
+    "closureDate": "2024-11-21",
+    "description": "projekt dotyczy podniesienia wysokości świadczenia z funduszu alimentacyjnego z 500 zł do 1000 zł",
+    "displayAddress": "Dz.U. 2024 poz. 1827",
+    "documentDate": "2024-03-19",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [
+        {
+            "href": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001827",
+            "rel": "isap"
+        },
+        {
+            "href": "https://eli.gov.pl/eli/DU/2024/1827/ogl",
+            "rel": "eli"
+        },
+        {
+            "href": "https://api.sejm.gov.pl/eli/acts/DU/2024/1827",
+            "rel": "eli-api"
+        }
+    ],
+    "number": "326",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "printsConsideredJointly": [
+        "800"
+    ],
+    "processStartDate": "2024-03-19",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2024-03-19",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "326",
+            "stageType": "Start"
+        },
+        {
+            "date": "2024-03-29",
+            "stageName": "Opinia organizacji samorządowej",
+            "organ": "Organizacja samorządowa",
+            "stageType": "Opinion"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-04-24",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "PSR",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                },
+                {
+                    "date": "2024-11-14",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "DIM",
+                    "stageType": "Referral",
+                    "type": "ADDITIONAL"
+                }
+            ],
+            "date": "2024-04-24",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "date": "2024-11-19",
+            "stageName": "I czytanie w komisjach",
+            "stageType": "Reading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-11-19",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "833",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "402",
+                    "rapporteurName": "Katarzyna Ueberhan",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/833/833.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2024-11-19",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "date": "2024-11-21",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "comment": "poprawka",
+            "decision": "niezwłocznie przystąpiono do III czytania",
+            "sittingNum": 22,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-11-21",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 2,
+                        "date": "2024-11-21T20:30:05",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/116/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 6,
+                        "no": 5,
+                        "notParticipating": 20,
+                        "present": 0,
+                        "sitting": 22,
+                        "sittingDay": 3,
+                        "term": 10,
+                        "title": "Pkt. 21 Sprawozdanie Komisji o rządowym oraz poselskim projektach ustaw o zmianie ustawy o pomocy osobom uprawnionym do alimentów (druki nr 800, 326 i 833)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 440,
+                        "votingNumber": 116,
+                        "yes": 433
+                    }
+                }
+            ],
+            "date": "2024-11-21",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "comment": "poprawka",
+            "decision": "uchwalono",
+            "sittingNum": 22,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/326/attachment/326_u3.pdf"
+        },
+        {
+            "date": "2024-12-05",
+            "stageName": "Stanowisko Senatu",
+            "position": "nie wniósł poprawek",
+            "stageType": "SenatePosition"
+        },
+        {
+            "date": "2024-12-06",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "date": "2024-12-09",
+            "stageName": "Prezydent podpisał ustawę",
+            "omittedInconsistent": false,
+            "stageType": "PresidentSignature"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Poselski projekt ustawy o zmianie ustawy o pomocy osobom uprawnionym do alimentów",
+    "titleFinal": "o zmianie ustawy o pomocy osobom uprawnionym do alimentów",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2024-12-18T08:27:39"
+}

@@ -1,0 +1,220 @@
+{
+    "ELI": "DU/2025/1085",
+    "UE": "ENFORCEMENT",
+    "address": "WDU20250001085",
+    "changeDate": "2025-08-12T14:34:11",
+    "closureDate": "2025-07-25",
+    "description": "projekt dotyczy dostosowania polskiego prawa do przepisów Unii Europejskiej w sprawie ujednolicenia regulacji dotyczących postępowań restrukturyzacyjnych; postępowanie takie ma umożliwić przedsiębiorcom, którzy znajdują się w trudnej sytuacji, kontynuowanie prowadzonej działalności i ma przeciwdziałać likwidacji miejsc prac w danym zakładzie",
+    "displayAddress": "Dz.U. 2025 poz. 1085",
+    "documentDate": "2025-05-14",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [
+        {
+            "href": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001085",
+            "rel": "isap"
+        },
+        {
+            "href": "https://eli.gov.pl/eli/DU/2025/1085/ogl",
+            "rel": "eli"
+        },
+        {
+            "href": "https://api.sejm.gov.pl/eli/acts/DU/2025/1085",
+            "rel": "eli-api"
+        }
+    ],
+    "number": "1263",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2025-05-14",
+    "rclLink": "https://legislacja.rcl.gov.pl/getIdFromLegislacja?number=RM-0610-51-25",
+    "rclNum": "RM-0610-51-25",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2025-05-14",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "1263",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-05-19",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "SPC",
+                    "reportDate": "2025-06-24",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-05-19",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "date": "2025-06-23",
+            "stageName": "I czytanie w komisjach",
+            "stageType": "Reading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-06-23",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 1,
+                    "printNumber": "1354",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "63",
+                    "rapporteurName": "Sławomir Ćwik",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1354/1354.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-06-23",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-06-25",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "SPC",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-06-25",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "comment": "poprawki",
+            "decision": "skierowano ponownie do komisji w celu przedstawienia sprawozdania",
+            "sittingNum": 37,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-06-25",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "1354-A",
+                    "proposal": "odrzucić poprawki",
+                    "rapporteurID": "63",
+                    "rapporteurName": "Sławomir Ćwik",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1354-A/1354-A.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-06-25",
+            "stageName": "Praca w komisjach po II czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-06-25",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 16,
+                        "date": "2025-06-25T22:37:54",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/37/67/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 3,
+                        "no": 2,
+                        "notParticipating": 31,
+                        "present": 0,
+                        "sitting": 37,
+                        "sittingDay": 2,
+                        "term": 10,
+                        "title": "Pkt. 24 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Prawo restrukturyzacyjne oraz niektórych innych ustaw (druki nr 1263, 1354 i 1354-A)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 429,
+                        "votingNumber": 67,
+                        "yes": 411
+                    }
+                }
+            ],
+            "date": "2025-06-25",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "comment": "poprawki; wniosek mniejszości został wycofany",
+            "decision": "uchwalono",
+            "sittingNum": 37,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/1263/attachment/1263_u3.pdf"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-07-18",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "SPC",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-07-17",
+            "stageName": "Stanowisko Senatu",
+            "position": "wniósł poprawki",
+            "printNumber": "1494",
+            "stageType": "SenatePosition"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-07-22",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "1512",
+                    "proposal": "przyjąć poprawki",
+                    "rapporteurID": "63",
+                    "rapporteurName": "Sławomir Ćwik",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1512/1512.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-07-22",
+            "stageName": "Praca w komisjach nad stanowiskiem Senatu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "date": "2025-07-25",
+            "stageName": "Rozpatrywanie na forum Sejmu stanowiska Senatu",
+            "decision": "przyjęto poprawki",
+            "sittingNum": 39,
+            "stageType": "SenatePositionConsideration"
+        },
+        {
+            "date": "2025-07-28",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "date": "2025-08-05",
+            "stageName": "Prezydent podpisał ustawę",
+            "omittedInconsistent": false,
+            "stageType": "PresidentSignature"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o zmianie ustawy - Prawo restrukturyzacyjne oraz niektórych innych ustaw",
+    "titleFinal": "o zmianie ustawy - Prawo restrukturyzacyjne, ustawy - Prawo upadłościowe oraz ustawy o Krajowym Rejestrze Zadłużonych",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-08-12T14:34:21"
+}

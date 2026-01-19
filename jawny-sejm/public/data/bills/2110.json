@@ -1,0 +1,43 @@
+{
+    "UE": "NO",
+    "changeDate": "2025-12-31T11:36:51",
+    "description": "projekt dotyczy uregulowania kwestii związków nieformalnych; osoby żyjące w takich związkach będą mogły zawrzeć przed notariuszem umowę cywilnoprawną, która następnie zostanie zarejestrowana w urzędzie stanu cywilnego i dzięki której zyskają możliwość kształtowania wzajemnych praw i obowiązków w sferze majątkowej, rodzinnej i osobistej m. in. będą mogły razem rozliczać PIT, zyskają dostęp do informacji i dokumentacji medycznej partnera oraz uprawnienia dotyczące ubezpieczenia zdrowotnego, renty rodzinnej, prawa do pochówku czy zasiłku opiekuńczego. Będą także uprawnione do dziedziczenia testamentowego. Nowe przepisy zwiększą też ochronę osób tworzących niesformalizowane związki, niezależnie od płci.",
+    "documentDate": "2025-12-30",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "2110",
+    "passed": false,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2025-12-30",
+    "rclLink": "https://legislacja.rcl.gov.pl/getIdFromLegislacja?number=RM-0610-242-25",
+    "rclNum": "RM-0610-242-25",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2025-12-30",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "2110",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-12-31",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "Sejm",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-12-31",
+            "stageName": "Skierowano do I czytania na posiedzeniu Sejmu",
+            "stageType": "ReadingReferral"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o statusie osoby najbliższej w związku i umowie o wspólnym pożyciu",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-12-31T11:41:19"
+}

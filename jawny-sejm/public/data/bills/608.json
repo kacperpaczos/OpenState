@@ -1,0 +1,282 @@
+{
+    "UE": "NO",
+    "changeDate": "2025-12-17T19:31:27",
+    "closureDate": "2025-12-17",
+    "description": "projekt dotyczy wprowadzenia całkowitego zakazu trzymania psów na uwięzi",
+    "documentDate": "2024-07-16",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "608",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2024-07-16",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2024-07-16",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "608",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-08-26",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "RRW",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                },
+                {
+                    "date": "2024-12-05",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "RRW",
+                    "stageType": "Referral",
+                    "type": "WITHDRAWAL"
+                },
+                {
+                    "date": "2024-12-05",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "NOZ",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-08-26",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "date": "2025-09-09",
+            "stageName": "I czytanie w komisjach",
+            "stageType": "Reading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-09-23",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "1662",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "291",
+                    "rapporteurName": "Katarzyna Maria Piekarska",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1662/1662.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-09-23",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-09-24",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "NOZ",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-09-24",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "comment": "poprawki",
+            "decision": "skierowano ponownie do komisji w celu przedstawienia sprawozdania",
+            "sittingNum": 41,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-09-25",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "1662-A",
+                    "proposal": "przyjąć część poprawek",
+                    "rapporteurID": "291",
+                    "rapporteurName": "Katarzyna Maria Piekarska",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1662-A/1662-A.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-09-25",
+            "stageName": "Praca w komisjach po II czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-09-26",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 30,
+                        "date": "2025-09-26T13:17:41",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/41/68/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 106,
+                        "no": 105,
+                        "notParticipating": 45,
+                        "present": 0,
+                        "sitting": 41,
+                        "sittingDay": 3,
+                        "term": 10,
+                        "title": "Pkt. 11 Sprawozdanie Komisji o poselskim projekcie ustawy o zmianie ustawy o ochronie zwierząt (druki nr 608, 1662 i 1662-A)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 415,
+                        "votingNumber": 68,
+                        "yes": 280
+                    }
+                }
+            ],
+            "date": "2025-09-26",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "comment": "poprawki",
+            "decision": "uchwalono",
+            "sittingNum": 41,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/608/attachment/608_u3.pdf"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-10-17",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "NOZ",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-10-16",
+            "stageName": "Stanowisko Senatu",
+            "position": "wniósł poprawki",
+            "printNumber": "1846",
+            "stageType": "SenatePosition"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-11-05",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "1904",
+                    "proposal": "przyjąć część poprawek",
+                    "rapporteurID": "291",
+                    "rapporteurName": "Katarzyna Maria Piekarska",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1904/1904.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-11-05",
+            "stageName": "Praca w komisjach nad stanowiskiem Senatu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "date": "2025-11-07",
+            "stageName": "Rozpatrywanie na forum Sejmu stanowiska Senatu",
+            "decision": "przyjęto część poprawek",
+            "sittingNum": 44,
+            "stageType": "SenatePositionConsideration"
+        },
+        {
+            "date": "2025-11-12",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-12-03",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "NOZ",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-12-02",
+            "stageName": "Wniosek Prezydenta (VETO)",
+            "printNumber": "2049",
+            "stageType": "Veto"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-12-16",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "2065",
+                    "proposal": "uchwalić ponownie",
+                    "rapporteurID": "258",
+                    "rapporteurName": "Dorota Niedziela",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/2065/2065.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-12-16",
+            "stageName": "Praca w komisjach nad wnioskiem Prezydenta",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-12-17",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 0,
+                        "date": "2025-12-17T18:45:06",
+                        "description": "wniosek o ponowne uchwalenie ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/48/8/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "MAJORITY_THREE_FIFTHS",
+                        "majorityVotes": 263,
+                        "no": 192,
+                        "notParticipating": 22,
+                        "present": 0,
+                        "sitting": 48,
+                        "sittingDay": 1,
+                        "term": 10,
+                        "title": "Pkt. 6 Sprawozdanie Komisji Nadzwyczajnej o wniosku Prezydenta Rzeczypospolitej Polskiej o ponowne rozpatrzenie ustawy z dnia 7 listopada 2025 r. o zmianie ustawy o ochronie zwierząt (druki nr 2049 i 2065)",
+                        "topic": "głosowanie nad wnioskiem o ponowne uchwalenie ustawy w brzmieniu dotychczasowym",
+                        "totalVoted": 438,
+                        "votingNumber": 8,
+                        "yes": 246
+                    }
+                }
+            ],
+            "date": "2025-12-17",
+            "stageName": "Rozpatrywanie na forum Sejmu wniosku Prezydenta",
+            "decision": "nie uchwalona ponownie",
+            "sittingNum": 48,
+            "stageType": "PresidentMotionConsideration"
+        },
+        {
+            "stageName": "nie uchwalona ponownie po wecie Prezydenta",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Poselski projekt ustawy o zmianie ustawy o ochronie zwierząt",
+    "titleFinal": "o zmianie ustawy o ochronie zwierząt",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-12-17T23:40:27"
+}

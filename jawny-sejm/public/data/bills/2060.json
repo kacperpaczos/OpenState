@@ -1,0 +1,44 @@
+{
+    "UE": "ENFORCEMENT",
+    "changeDate": "2025-12-05T12:51:22",
+    "description": "projekt dotyczy dostosowania polskiego prawa do unijnych przepisów dotyczących zarządzania danymi. Chodzi m.in. o ponowne wykorzystywanie niektórych kategorii chronionych danych, które są w posiadaniu administracji. Dotyczy to danych chronionych ze względu na np. poufność informacji handlowych lub statystycznych, a także ochronę praw własności intelektualnej. Zgodnie z przepisami UE, część tych danych będzie można ponownie wykorzystywać. W sprawie uzyskania dostępu do chronionych danych zwracać się będzie można do poszczególnych urzędów za pośrednictwem tzw. punktu informacyjnego, który prowadzi Minister Cyfryzacji.",
+    "documentDate": "2025-12-02",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "2060",
+    "passed": false,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2025-12-02",
+    "rclLink": "https://legislacja.rcl.gov.pl/getIdFromLegislacja?number=RM-0610-185-25",
+    "rclNum": "RM-0610-185-25",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2025-12-02",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "2060",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-12-05",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "CNT",
+                    "reportDate": "2026-02-09",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-12-05",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o zarządzaniu danymi",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-12-05T12:51:36"
+}

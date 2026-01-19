@@ -1,0 +1,199 @@
+{
+    "ELI": "DU/2025/758",
+    "UE": "NO",
+    "address": "WDU20250000758",
+    "changeDate": "2025-06-23T11:56:33",
+    "closureDate": "2025-05-21",
+    "description": "projekt dotyczy nałożenia na deweloperów, a także na inne podmioty oferujące sprzedaż nieruchomości powstałych w ramach inwestycji deweloperskich: obowiązku prowadzenia własnej strony internetowej, na której podawane są ceny od początku rozpoczęcia sprzedaży wraz ze wszystkimi zmianami ich dotyczącymi, obowiązku podawania wszystkich składników ostatecznej ceny sprzedaży z uwzględnieniem wszelkich świadczeń pieniężnych jakie nabywca będzie musiał zapłacić w przypadku zawarcia umowy, sankcji za nieprzestrzeganie obowiązków wprowadzonych nowelizacją",
+    "displayAddress": "Dz.U. 2025 poz. 758",
+    "documentDate": "2025-02-20",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [
+        {
+            "href": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000758",
+            "rel": "isap"
+        },
+        {
+            "href": "https://eli.gov.pl/eli/DU/2025/758/ogl",
+            "rel": "eli"
+        },
+        {
+            "href": "https://api.sejm.gov.pl/eli/acts/DU/2025/758",
+            "rel": "eli-api"
+        }
+    ],
+    "number": "1112",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2025-02-20",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2025-02-20",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "1112",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-04-01",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "Sejm",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-04-01",
+            "stageName": "Skierowano do I czytania na posiedzeniu Sejmu",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-04-03",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "INF",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-04-03",
+            "stageName": "I czytanie na posiedzeniu Sejmu",
+            "sittingNum": 32,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-04-22",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 3,
+                    "printNumber": "1180",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "272",
+                    "rapporteurName": "Barbara Oliwiecka",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1180/1180.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-04-22",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "date": "2025-04-24",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "comment": "poprawki",
+            "decision": "niezwłocznie przystąpiono do III czytania",
+            "sittingNum": 33,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-04-24",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 2,
+                        "date": "2025-04-24T14:08:59",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/33/20/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 1,
+                        "no": 0,
+                        "notParticipating": 40,
+                        "present": 0,
+                        "sitting": 33,
+                        "sittingDay": 2,
+                        "term": 10,
+                        "title": "Pkt. 5 Sprawozdanie Komisji o poselskim projekcie ustawy o zmianie ustawy o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym oraz ustawy o ochronie konkurencji i konsumentów (druki nr 1112 i 1180)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 420,
+                        "votingNumber": 20,
+                        "yes": 418
+                    }
+                }
+            ],
+            "date": "2025-04-24",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "comment": "wnioski mniejszości, poprawki",
+            "decision": "uchwalono",
+            "sittingNum": 33,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/1112/attachment/1112_u3.pdf"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-05-16",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "INF",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-05-14",
+            "stageName": "Stanowisko Senatu",
+            "position": "wniósł poprawki",
+            "printNumber": "1248",
+            "stageType": "SenatePosition"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-05-20",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "1260",
+                    "proposal": "przyjąć poprawki",
+                    "rapporteurID": "272",
+                    "rapporteurName": "Barbara Oliwiecka",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1260/1260.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-05-20",
+            "stageName": "Praca w komisjach nad stanowiskiem Senatu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "date": "2025-05-21",
+            "stageName": "Rozpatrywanie na forum Sejmu stanowiska Senatu",
+            "decision": "przyjęto poprawki",
+            "sittingNum": 35,
+            "stageType": "SenatePositionConsideration"
+        },
+        {
+            "date": "2025-05-22",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "date": "2025-06-05",
+            "stageName": "Prezydent podpisał ustawę",
+            "omittedInconsistent": false,
+            "stageType": "PresidentSignature"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Poselski projekt ustawy o zmianie ustawy o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym oraz ustawy o ochronie konkurencji i konsumentów",
+    "titleFinal": "o zmianie ustawy o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-07-07T15:27:11"
+}

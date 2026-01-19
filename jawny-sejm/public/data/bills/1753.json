@@ -1,0 +1,216 @@
+{
+    "UE": "NO",
+    "changeDate": "2025-12-03T09:58:16",
+    "closureDate": "2025-10-17",
+    "description": "projekt dotyczy doprecyzowania i uszczelnienia przepisów podatkowych dotyczących fundacji rodzinnych. Nowe przepisy mają zabezpieczyć działanie fundacji rodzinnych w zgodzie z ich pierwotnym celem, jakim jest zarządzanie majątkiem i planowanie sukcesji. Chodzi o to, aby uniknąć realizacji agresywnych strategii podatkowych.",
+    "documentDate": "2025-10-01",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "1753",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2025-10-01",
+    "rclLink": "https://legislacja.rcl.gov.pl/getIdFromLegislacja?number=RM-0610-181-25",
+    "rclNum": "RM-0610-181-25",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2025-10-01",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "1753",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-10-02",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "Sejm",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-10-02",
+            "stageName": "Skierowano do I czytania na posiedzeniu Sejmu",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-10-09",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "FPB",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                },
+                {
+                    "date": "2025-10-09",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 2,
+                        "date": "2025-10-09T16:36:45",
+                        "description": "wniosek o odrzucenie projektu ustawy w pierwszym czytaniu",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/42/11/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 238,
+                        "no": 237,
+                        "notParticipating": 21,
+                        "present": 0,
+                        "sitting": 42,
+                        "sittingDay": 3,
+                        "term": 10,
+                        "title": "Pkt. 17 Pierwsze czytanie rządowego projektu ustawy o zmianie ustawy o podatku dochodowym od osób prawnych (druk nr 1753)",
+                        "topic": "wniosek o odrzucenie projektu w pierwszym czytaniu.",
+                        "totalVoted": 439,
+                        "votingNumber": 11,
+                        "yes": 200
+                    }
+                }
+            ],
+            "date": "2025-10-09",
+            "stageName": "I czytanie na posiedzeniu Sejmu",
+            "sittingNum": 42,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-10-14",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "1801",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "60",
+                    "rapporteurName": "Zofia Czernow",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1801/1801.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-10-14",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-10-15",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "FPB",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-10-15",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "comment": "wniosek o odrzucenie",
+            "decision": "skierowano ponownie do komisji w celu przedstawienia sprawozdania",
+            "sittingNum": 43,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-10-16",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "1801-A",
+                    "proposal": "odrzucić wniosek o odrzucenie",
+                    "rapporteurID": "60",
+                    "rapporteurName": "Zofia Czernow",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1801-A/1801-A.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-10-16",
+            "stageName": "Praca w komisjach po II czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-10-17",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 3,
+                        "date": "2025-10-17T10:05:20",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/43/49/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 200,
+                        "no": 199,
+                        "notParticipating": 25,
+                        "present": 0,
+                        "sitting": 43,
+                        "sittingDay": 3,
+                        "term": 10,
+                        "title": "Pkt. 10 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o podatku dochodowym od osób prawnych (druki nr 1753, 1801 i 1801-A)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 435,
+                        "votingNumber": 49,
+                        "yes": 233
+                    }
+                }
+            ],
+            "date": "2025-10-17",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "comment": "wniosek o odrzucenie",
+            "decision": "uchwalono",
+            "sittingNum": 43,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/1753/attachment/1753_u3.pdf"
+        },
+        {
+            "date": "2025-11-06",
+            "stageName": "Stanowisko Senatu",
+            "position": "nie wniósł poprawek",
+            "stageType": "SenatePosition"
+        },
+        {
+            "date": "2025-11-07",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-12-02",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "FPB",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-11-27",
+            "stageName": "Wniosek Prezydenta (VETO)",
+            "printNumber": "2040",
+            "stageType": "Veto"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o zmianie ustawy o podatku dochodowym od osób prawnych",
+    "titleFinal": "o zmianie ustawy o podatku dochodowym od osób prawnych",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-12-03T09:58:59"
+}

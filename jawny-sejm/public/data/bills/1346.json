@@ -1,0 +1,154 @@
+{
+    "UE": "NO",
+    "changeDate": "2026-01-12T09:49:26",
+    "closureDate": "2026-01-09",
+    "description": "projekt dotyczy nadania statusu języka regionalnego etnolektowi śląskiemu",
+    "documentDate": "2025-05-21",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "1346",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2025-05-21",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2025-05-21",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "1346",
+            "stageType": "Start"
+        },
+        {
+            "date": "2025-05-27",
+            "stageName": "Opinia organizacji samorządowej",
+            "organ": "Organizacja samorządowa",
+            "stageType": "Opinion"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-06-23",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "MNE",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-06-23",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "date": "2025-11-18",
+            "stageName": "I czytanie w komisjach",
+            "stageType": "Reading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-11-18",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "1988",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "313",
+                    "rapporteurName": "Monika Rosa",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1988/1988.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-11-18",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2026-01-08",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "MNE",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2026-01-08",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "comment": "wniosek o odrzucenie projektu",
+            "decision": "skierowano ponownie do komisji w celu przedstawienia sprawozdania",
+            "sittingNum": 49,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2026-01-09",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "1988-A",
+                    "proposal": "odrzucić wniosek o odrzucenie",
+                    "rapporteurID": "313",
+                    "rapporteurName": "Monika Rosa",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1988-A/1988-A.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2026-01-09",
+            "stageName": "Praca w komisjach po II czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2026-01-09",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 2,
+                        "date": "2026-01-09T17:06:43",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/49/26/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 197,
+                        "no": 196,
+                        "notParticipating": 18,
+                        "present": 0,
+                        "sitting": 49,
+                        "sittingDay": 2,
+                        "term": 10,
+                        "title": "Pkt. 3 Sprawozdanie Komisji o poselskim projekcie ustawy o zmianie ustawy o mniejszościach narodowych i etnicznych oraz o języku regionalnym oraz niektórych innych ustaw (druki nr 1346, 1988 i 1988-A)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 442,
+                        "votingNumber": 26,
+                        "yes": 244
+                    }
+                }
+            ],
+            "date": "2026-01-09",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "comment": "wniosek o odrzucenie projektu ustawy w drugim czytaniu",
+            "decision": "uchwalono",
+            "sittingNum": 49,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/1346/attachment/1346_u3.pdf"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Poselski projekt ustawy o zmianie ustawy o mniejszościach narodowych i etnicznych oraz o języku regionalnym oraz niektórych innych ustaw",
+    "titleFinal": "o zmianie ustawy o mniejszościach narodowych i etnicznych oraz o języku regionalnym oraz niektórych innych ustaw",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2026-01-12T09:49:49"
+}

@@ -1,0 +1,53 @@
+{
+    "UE": "NO",
+    "changeDate": "2025-02-20T11:40:39",
+    "description": "projekt dotyczy zapewnienia gwarancji bezpieczeństwa prowadzenia i rozwoju działalności rolniczej na terenach wiejskich",
+    "documentDate": "2025-01-10",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "1000",
+    "passed": false,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2025-01-13",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2025-01-13",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "1000",
+            "stageType": "Start"
+        },
+        {
+            "date": "2025-01-16",
+            "stageName": "Opinia organizacji samorządowej",
+            "organ": "Organizacja samorządowa",
+            "stageType": "Opinion"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-02-20",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "RRW",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-02-20",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "date": "2025-08-19",
+            "stageName": "Wpłynęło stanowisko rządu",
+            "stageType": "GovermentPosition",
+            "title": "Stanowisko Rządu do druku nr 1000"
+        }
+    ],
+    "term": 10,
+    "title": "Poselski projekt ustawy o zmianie ustawy o kształtowaniu ustroju rolnego",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-02-20T11:40:54"
+}

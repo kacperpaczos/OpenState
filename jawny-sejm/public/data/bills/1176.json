@@ -1,0 +1,193 @@
+{
+    "ELI": "DU/2025/680",
+    "UE": "NO",
+    "address": "WDU20250000680",
+    "changeDate": "2025-05-30T08:58:36",
+    "closureDate": "2025-05-09",
+    "description": "projekt dotyczy udzielenia dodatkowego wsparcia mieszkańcom i przedsiębiorcom poszkodowanym w wyniku powodzi z września 2024 roku; wykupu zniszczonych nieruchomości przez Skarb Państwa, zamiany mieszkań lub domów jednorodzinnych na lokale komunalne, premie remontowe; uproszczenia procedur odbudowy domów oraz wsparcia dla przedsiębiorców; uproszczenia inwestycji przeciwpowodziowych",
+    "displayAddress": "Dz.U. 2025 poz. 680",
+    "documentDate": "2025-04-18",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [
+        {
+            "href": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000680",
+            "rel": "isap"
+        },
+        {
+            "href": "https://eli.gov.pl/eli/DU/2025/680/ogl",
+            "rel": "eli"
+        },
+        {
+            "href": "https://api.sejm.gov.pl/eli/acts/DU/2025/680",
+            "rel": "eli-api"
+        }
+    ],
+    "number": "1176",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2025-04-18",
+    "rclLink": "https://legislacja.rcl.gov.pl/getIdFromLegislacja?number=RM-0610-34-25",
+    "rclNum": "RM-0610-34-25",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2025-04-18",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "1176",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-04-22",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "Sejm",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-04-22",
+            "stageName": "Skierowano do I czytania na posiedzeniu Sejmu",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-04-24",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "NSP",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-04-24",
+            "stageName": "I czytanie na posiedzeniu Sejmu",
+            "sittingNum": 33,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-04-24",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 3,
+                    "printNumber": "1200",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "359",
+                    "rapporteurName": "Mirosław Suchoń",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1200/1200.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-04-24",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-05-07",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "NSP",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-05-07",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "comment": "poprawki",
+            "decision": "skierowano ponownie do komisji w celu przedstawienia sprawozdania",
+            "sittingNum": 34,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-05-08",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "1200-A",
+                    "proposal": "przyjąć część poprawek",
+                    "rapporteurID": "359",
+                    "rapporteurName": "Mirosław Suchoń",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1200-A/1200-A.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-05-08",
+            "stageName": "Praca w komisjach po II czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-05-09",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 0,
+                        "date": "2025-05-09T10:05:21",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/34/43/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 1,
+                        "no": 0,
+                        "notParticipating": 35,
+                        "present": 0,
+                        "sitting": 34,
+                        "sittingDay": 3,
+                        "term": 10,
+                        "title": "Pkt. 4 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw (druki nr 1176, 1200 i 1200-A)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 425,
+                        "votingNumber": 43,
+                        "yes": 425
+                    }
+                }
+            ],
+            "date": "2025-05-09",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "comment": "wnioski mniejszości, poprawki",
+            "decision": "uchwalono",
+            "sittingNum": 34,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/1176/attachment/1176_u3.pdf"
+        },
+        {
+            "date": "2025-05-14",
+            "stageName": "Stanowisko Senatu",
+            "position": "nie wniósł poprawek",
+            "stageType": "SenatePosition"
+        },
+        {
+            "date": "2025-05-15",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "date": "2025-05-20",
+            "stageName": "Prezydent podpisał ustawę",
+            "omittedInconsistent": false,
+            "stageType": "PresidentSignature"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw",
+    "titleFinal": "o zmianie ustawy o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi oraz niektórych innych ustaw",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-05-30T08:58:51"
+}

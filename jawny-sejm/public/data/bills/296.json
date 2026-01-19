@@ -1,0 +1,213 @@
+{
+    "UE": "NO",
+    "changeDate": "2024-06-26T18:12:26",
+    "closureDate": "2024-06-14",
+    "description": "projekt dotyczy wprowadzenia możliwości głosowania korespondencyjnego dla wszystkich wyborców",
+    "documentDate": "2024-03-06",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "296",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2024-03-06",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2024-03-06",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "296",
+            "stageType": "Start"
+        },
+        {
+            "date": "2024-03-13",
+            "stageName": "Opinia organizacji samorządowej",
+            "organ": "Organizacja samorządowa",
+            "stageType": "Opinion"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-04-10",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "Sejm",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-04-10",
+            "stageName": "Skierowano do I czytania na posiedzeniu Sejmu",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-05-09",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "NKK",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                },
+                {
+                    "date": "2024-05-09",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 0,
+                        "date": "2024-05-09T20:51:49",
+                        "description": "Wniosek o odrzucenie projektu ustawy w pierwszym czytaniu",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/11/17/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 238,
+                        "no": 237,
+                        "notParticipating": 19,
+                        "present": 0,
+                        "sitting": 11,
+                        "sittingDay": 2,
+                        "term": 10,
+                        "title": "Pkt. 9 Pierwsze czytanie poselskiego projektu ustawy o zmianie ustawy - Kodeks wyborczy (druk nr 296)",
+                        "topic": "wniosek o odrzucenie projektu w pierwszym czytaniu.",
+                        "totalVoted": 440,
+                        "votingNumber": 17,
+                        "yes": 203
+                    }
+                }
+            ],
+            "date": "2024-05-09",
+            "stageName": "I czytanie na posiedzeniu Sejmu",
+            "sittingNum": 11,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-05-21",
+                    "stageName": "Sprawozdanie podkomisji",
+                    "minorityMotions": 0,
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/processes/296/attachment/spr_296.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": true
+                },
+                {
+                    "date": "2024-05-23",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "392",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "427",
+                    "rapporteurName": "Mariusz Witczak",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/392/392.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2024-05-21",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-06-12",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "NKK",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-06-12",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "comment": "wniosek o odrzucenie w całości projektu ustawy, poprawki",
+            "decision": "skierowano ponownie do komisji w celu przedstawienia sprawozdania",
+            "sittingNum": 13,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-06-12",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "392-A",
+                    "proposal": "przyjąć część poprawek",
+                    "rapporteurID": "427",
+                    "rapporteurName": "Mariusz Witczak",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/392-A/392-A.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2024-06-12",
+            "stageName": "Praca w komisjach po II czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-06-14",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 1,
+                        "date": "2024-06-14T09:39:42",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/13/24/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 8,
+                        "no": 7,
+                        "notParticipating": 203,
+                        "present": 0,
+                        "sitting": 13,
+                        "sittingDay": 3,
+                        "term": 10,
+                        "title": "Pkt. 2 Sprawozdanie Komisji o poselskim projekcie ustawy o zmianie ustawy - Kodeks wyborczy (druki nr 296, 392 i 392-A)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 231,
+                        "votingNumber": 24,
+                        "yes": 223
+                    }
+                }
+            ],
+            "date": "2024-06-14",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "comment": "wniosek o odrzucenie w całości projektu ustawy, poprawki",
+            "decision": "uchwalono",
+            "sittingNum": 13,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/296/attachment/296_u3.pdf"
+        },
+        {
+            "date": "2024-06-26",
+            "stageName": "Stanowisko Senatu",
+            "position": "nie wniósł poprawek",
+            "stageType": "SenatePosition"
+        },
+        {
+            "date": "2024-06-27",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Poselski projekt ustawy o zmianie ustawy - Kodeks wyborczy",
+    "titleFinal": "o zmianie ustawy - Kodeks wyborczy",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2024-06-26T18:12:50"
+}

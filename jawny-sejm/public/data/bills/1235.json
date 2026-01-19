@@ -1,0 +1,65 @@
+{
+    "UE": "NO",
+    "changeDate": "2025-05-21T17:20:59",
+    "description": "projekt dotyczy wprowadzenia 6-miesięcznego okresu vacatio legis dla projektów ustaw podatkowych, co ma zwiększyć stabilność prawa podatkowego oraz zapewnić odpowiedni czas na dostosowanie się podatników do zmian podatkowych. Nowe przepisy realizują działania deregulacyjne rządu.",
+    "documentDate": "2025-05-06",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "1235",
+    "passed": false,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2025-05-06",
+    "rclLink": "https://legislacja.rcl.gov.pl/getIdFromLegislacja?number=RM-0610-43-25",
+    "rclNum": "RM-0610-43-25",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2025-05-06",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "1235",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-05-08",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "Sejm",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-05-08",
+            "stageName": "Skierowano do I czytania na posiedzeniu Sejmu",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-05-21",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "FPB",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                },
+                {
+                    "date": "2025-05-21",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "DER",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-05-21",
+            "stageName": "I czytanie na posiedzeniu Sejmu",
+            "sittingNum": 35,
+            "stageType": "SejmReading"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o zmianie ustawy - Ordynacja podatkowa",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-05-21T17:26:22"
+}

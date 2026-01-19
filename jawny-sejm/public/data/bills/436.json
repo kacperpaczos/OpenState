@@ -1,0 +1,47 @@
+{
+    "UE": "NO",
+    "changeDate": "2024-06-17T12:04:57",
+    "description": "projekt dotyczy ustawowego zagwarantowania środków finansowych na funkcjonowanie wojewódzkich społecznych rad do spraw osób niepełnosprawnych i powiatowych społecznych rad do spraw osób niepełnosprawnych",
+    "documentDate": "2024-05-09",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "436",
+    "passed": false,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2024-05-16",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2024-05-16",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "436",
+            "stageType": "Start"
+        },
+        {
+            "date": "2024-05-22",
+            "stageName": "Opinia organizacji samorządowej",
+            "organ": "Organizacja samorządowa",
+            "stageType": "Opinion"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-06-11",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "STR",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-06-11",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        }
+    ],
+    "term": 10,
+    "title": "Komisyjny projekt ustawy o zmianie ustawy o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2024-06-17T12:05:53"
+}

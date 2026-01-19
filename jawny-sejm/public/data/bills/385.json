@@ -1,0 +1,54 @@
+{
+    "UE": "NO",
+    "changeDate": "2024-05-20T10:29:19",
+    "description": "projekt dotyczy wsparcia przedsięwzięć prośrodowiskowych prowadzonych zarówno na szczeblu centralnym jak i samorządowym, w szczególności mając na uwadze działania dotyczące adaptacji do zmian klimatu, poprawy jakości powietrza oraz usprawnienia systemu zarządzania emisjami",
+    "documentDate": "2024-03-19",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "385",
+    "passed": false,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2024-03-19",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2024-03-19",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "385",
+            "stageType": "Start"
+        },
+        {
+            "date": "2024-03-22",
+            "stageName": "Opinia organizacji samorządowej",
+            "organ": "Organizacja samorządowa",
+            "stageType": "Opinion"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-05-14",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "STR",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                },
+                {
+                    "date": "2024-05-14",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "OSZ",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-05-14",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        }
+    ],
+    "term": 10,
+    "title": "Poselski projekt ustawy o zmianie ustawy - Prawo ochrony środowiska oraz niektórych innych ustaw",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2024-05-20T10:29:38"
+}

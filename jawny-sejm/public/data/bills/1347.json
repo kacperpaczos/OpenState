@@ -1,0 +1,60 @@
+{
+    "UE": "NO",
+    "changeDate": "2025-06-24T09:11:33",
+    "description": "projekt dotyczy ustanowienia regulacji, w myśl których zadania w zakresie prowadzenia działań związanych z poprawą stanu środowiska na wielkoobszarowym terenie zdegradowanym, z wyjątkiem działań prowadzonych na terenach zamkniętych, będą stanowić zadania zlecone gminie z zakresu administracji rządowej oraz że koszty tych działań będą finansowane w formie dotacji celowej z budżetu państwa lub z budżetu państwa z części, której dysponentem jest minister właściwy do spraw środowiska",
+    "documentDate": "2025-05-22",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "1347",
+    "passed": false,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2025-05-22",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2025-05-22",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "1347",
+            "stageType": "Start"
+        },
+        {
+            "date": "2025-05-27",
+            "stageName": "Opinia organizacji samorządowej",
+            "organ": "Organizacja samorządowa",
+            "stageType": "Opinion"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-06-23",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "STR",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                },
+                {
+                    "date": "2025-06-23",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "OSZ",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-06-23",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "date": "2025-10-08",
+            "stageName": "Wpłynęło stanowisko rządu",
+            "stageType": "GovermentPosition",
+            "title": "Stanowisko Rządu do druku nr 1347"
+        }
+    ],
+    "term": 10,
+    "title": "Poselski projekt ustawy o zmianie ustawy o wielkoobszarowych terenach zdegradowanych oraz ustawy - Prawo ochrony środowiska",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-06-24T09:16:04"
+}

@@ -1,0 +1,48 @@
+{
+    "UE": "NO",
+    "changeDate": "2024-06-11T19:24:57",
+    "description": "projekt dotyczy uzupełnienia składu Zespołu do spraw przygotowania i realizacji zabezpieczenia granicy państwowej RP z Republiką Białorusi oraz Federacją Rosyjską oraz określenia terminu obowiązku opracowania i przedstawienia przez ten Zespół założeń oraz propozycji działań w wyżej wymienionym zakresie",
+    "documentDate": "2024-05-22",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "431",
+    "passed": false,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2024-05-22",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2024-05-22",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "431",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-06-11",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "OBN",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                },
+                {
+                    "date": "2024-06-11",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "ASW",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-06-11",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        }
+    ],
+    "term": 10,
+    "title": "Poselski projekt ustawy o zmianie ustawy o budowie zabezpieczenia granicy państwowej",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2024-06-11T19:25:24"
+}

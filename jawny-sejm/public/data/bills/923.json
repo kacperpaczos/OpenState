@@ -1,0 +1,215 @@
+{
+    "UE": "NO",
+    "changeDate": "2025-03-19T08:53:54",
+    "closureDate": "2025-01-24",
+    "comments": "W dniu 7 stycznia 2025 r. Pan Poseł Michał Gramatyka został wskazany jako dodatkowy przedstawiciel wnioskodawców. W dniu 12 lutego 2025 r. Pani Poseł Ewa Szymanowska została wskazana jako dodatkowy przedstawiciel wnioskodawców.",
+    "description": "projekt dotyczy zapewnienia stabilności funkcjonowania Rzeczypospolitej zwłaszcza w kontekście wyborów Prezydenta Rzeczypospolitej Polskiej oraz wyborów uzupełniających do Senatu Rzeczypospolitej Polskiej, zarządzonych w 2025 r.",
+    "documentDate": "2024-12-23",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "923",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2024-12-23",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2024-12-23",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "923",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-01-07",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "Sejm",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-01-07",
+            "stageName": "Skierowano do I czytania na posiedzeniu Sejmu",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-01-09",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "SPC",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                },
+                {
+                    "date": "2025-01-09",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 38,
+                        "date": "2025-01-09T18:06:53",
+                        "description": "wniosek o odrzucenie projektu ustawy w pierwszym czytaniu",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/26/14/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 219,
+                        "no": 218,
+                        "notParticipating": 26,
+                        "present": 0,
+                        "sitting": 26,
+                        "sittingDay": 2,
+                        "term": 10,
+                        "title": "Pkt. 2 Pierwsze czytanie poselskiego projektu ustawy o szczególnych rozwiązaniach w zakresie rozpoznawania przez Sąd Najwyższy spraw, związanych z wyborami Prezydenta Rzeczypospolitej Polskiej oraz wyborami uzupełniającymi do Senatu Rzeczypospolitej Polskiej, zarządzonymi w 2025 r. (druk nr 923)",
+                        "topic": "wniosek o odrzucenie projektu w pierwszym czytaniu.",
+                        "totalVoted": 434,
+                        "votingNumber": 14,
+                        "yes": 178
+                    }
+                }
+            ],
+            "date": "2025-01-09",
+            "stageName": "I czytanie na posiedzeniu Sejmu",
+            "sittingNum": 26,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-01-21",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "943",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "63",
+                    "rapporteurName": "Sławomir Ćwik",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/943/943.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-01-21",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-01-22",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "SPC",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-01-22",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "comment": "wniosek o odrzucenie, poprawki",
+            "decision": "skierowano ponownie do komisji w celu przedstawienia sprawozdania",
+            "sittingNum": 27,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-01-22",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "943-A",
+                    "proposal": "przyjąć część poprawek",
+                    "rapporteurID": "63",
+                    "rapporteurName": "Sławomir Ćwik",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/943-A/943-A.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-01-22",
+            "stageName": "Praca w komisjach po II czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-01-24",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 20,
+                        "date": "2025-01-24T09:51:24",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/27/15/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 205,
+                        "no": 204,
+                        "notParticipating": 16,
+                        "present": 0,
+                        "sitting": 27,
+                        "sittingDay": 3,
+                        "term": 10,
+                        "title": "Pkt. 1 Sprawozdanie Komisji o poselskim projekcie ustawy o szczególnych rozwiązaniach w zakresie rozpoznawania przez Sąd Najwyższy spraw, związanych z wyborami Prezydenta Rzeczypospolitej Polskiej oraz wyborami uzupełniającymi do Senatu Rzeczypospolitej Polskiej, zarządzonymi w 2025 r. (druki nr 923, 943 i 943-A)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 444,
+                        "votingNumber": 15,
+                        "yes": 220
+                    }
+                }
+            ],
+            "date": "2025-01-24",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "comment": "wniosek o odrzucenie, poprawki",
+            "decision": "uchwalono",
+            "sittingNum": 27,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/923/attachment/923_u3.pdf"
+        },
+        {
+            "date": "2025-02-12",
+            "stageName": "Stanowisko Senatu",
+            "position": "nie wniósł poprawek",
+            "stageType": "SenatePosition"
+        },
+        {
+            "date": "2025-02-17",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-03-18",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "SPC",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-03-08",
+            "stageName": "Wniosek Prezydenta (VETO)",
+            "printNumber": "1117",
+            "stageType": "Veto"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Poselski projekt ustawy o szczególnych rozwiązaniach w zakresie rozpoznawania przez Sąd Najwyższy spraw, związanych z wyborami Prezydenta Rzeczypospolitej Polskiej oraz wyborami uzupełniającymi do Senatu Rzeczypospolitej Polskiej, zarządzonymi w 2025 r.",
+    "titleFinal": "o szczególnych rozwiązaniach w zakresie rozpoznawania przez Sąd Najwyższy spraw związanych z wyborami Prezydenta Rzeczypospolitej Polskiej oraz wyborami uzupełniającymi do Senatu Rzeczypospolitej Polskiej zarządzonymi w 2025 r.",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-03-19T08:54:09"
+}

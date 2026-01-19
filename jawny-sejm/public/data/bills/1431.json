@@ -1,0 +1,162 @@
+{
+    "ELI": "DU/2025/1413",
+    "UE": "NO",
+    "address": "WDU20250001413",
+    "changeDate": "2025-11-19T10:18:58",
+    "closureDate": "2025-09-12",
+    "description": "projekt dotyczy uproszczenia udostępniania danych z konta płatnika składek w ZUS. Nowe przepisy realizują działania deregulacyjne rządu.",
+    "displayAddress": "Dz.U. 2025 poz. 1413",
+    "documentDate": "2025-06-25",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [
+        {
+            "href": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001413",
+            "rel": "isap"
+        },
+        {
+            "href": "https://eli.gov.pl/eli/DU/2025/1413/ogl",
+            "rel": "eli"
+        },
+        {
+            "href": "https://api.sejm.gov.pl/eli/acts/DU/2025/1413",
+            "rel": "eli-api"
+        }
+    ],
+    "number": "1431",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2025-06-25",
+    "rclLink": "https://legislacja.rcl.gov.pl/getIdFromLegislacja?number=RM-0610-103-25",
+    "rclNum": "RM-0610-103-25",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2025-06-25",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "1431",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-07-07",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "PSR",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                },
+                {
+                    "date": "2025-07-07",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "DER",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-07-07",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "date": "2025-08-04",
+            "stageName": "I czytanie w komisjach",
+            "stageType": "Reading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-08-04",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "1571",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "402",
+                    "rapporteurName": "Katarzyna Ueberhan",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1571/1571.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-08-04",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "date": "2025-09-12",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "comment": "poprawka",
+            "decision": "niezwłocznie przystąpiono do III czytania",
+            "sittingNum": 40,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-09-12",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 1,
+                        "date": "2025-09-12T20:13:46",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/40/77/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 199,
+                        "no": 198,
+                        "notParticipating": 31,
+                        "present": 0,
+                        "sitting": 40,
+                        "sittingDay": 4,
+                        "term": 10,
+                        "title": "Pkt. 9 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o systemie ubezpieczeń społecznych (druki nr 1431 i 1571)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 429,
+                        "votingNumber": 77,
+                        "yes": 230
+                    }
+                }
+            ],
+            "date": "2025-09-12",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "comment": "poprawka",
+            "decision": "uchwalono",
+            "sittingNum": 40,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/1431/attachment/1431_u3.pdf"
+        },
+        {
+            "date": "2025-09-24",
+            "stageName": "Stanowisko Senatu",
+            "position": "nie wniósł poprawek",
+            "stageType": "SenatePosition"
+        },
+        {
+            "date": "2025-09-26",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "date": "2025-10-15",
+            "stageName": "Prezydent podpisał ustawę",
+            "omittedInconsistent": false,
+            "stageType": "PresidentSignature"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o zmianie ustawy o systemie ubezpieczeń społecznych",
+    "titleFinal": "o zmianie ustawy o systemie ubezpieczeń społecznych",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-11-19T10:19:11"
+}

@@ -1,0 +1,85 @@
+{
+    "UE": "NO",
+    "changeDate": "2025-01-10T09:18:13",
+    "closureDate": "2025-01-09",
+    "description": "projekt dotyczy nałożenia na osoby posiadające pozwolenia na posiadanie broni w celach łowieckich obowiązku okresowych badań lekarskich i psychologicznych potwierdzających spełnianie kryteriów zdrowotnych związanych z posiadaniem broni oraz zwiększenia częstotliwości, tj. raz na 2 lata badań dla osób w wieku powyżej 70 lat",
+    "documentDate": "2024-11-06",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "867",
+    "passed": false,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2024-11-06",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2024-11-06",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "867",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-12-18",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "Sejm",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-12-18",
+            "stageName": "Skierowano do I czytania na posiedzeniu Sejmu",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-01-09",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 1,
+                        "date": "2025-01-09T18:13:37",
+                        "description": "wniosek o odrzucenie projektu ustawy w pierwszym czytaniu",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/26/18/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 204,
+                        "no": 203,
+                        "notParticipating": 31,
+                        "present": 0,
+                        "sitting": 26,
+                        "sittingDay": 2,
+                        "term": 10,
+                        "title": "Pkt. 12 Pierwsze czytanie poselskiego projektu ustawy o zmianie ustawy o broni i amunicji (druk nr 867)",
+                        "topic": "wniosek o odrzucenie projektu w pierwszym czytaniu.",
+                        "totalVoted": 429,
+                        "votingNumber": 18,
+                        "yes": 225
+                    }
+                }
+            ],
+            "date": "2025-01-09",
+            "stageName": "I czytanie na posiedzeniu Sejmu",
+            "decision": "odrzucony",
+            "sittingNum": 26,
+            "stageType": "SejmReading"
+        },
+        {
+            "stageName": "Odrzucono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Poselski projekt ustawy o zmianie ustawy o broni i amunicji",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-01-10T09:18:30"
+}

@@ -1,0 +1,205 @@
+{
+    "UE": "NO",
+    "changeDate": "2025-10-10T11:31:31",
+    "closureDate": "2025-10-09",
+    "description": "projekt dotyczy wprowadzenia zmian w 27 ustawach w celu ograniczenia biurokracji",
+    "documentDate": "2024-02-09",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "558",
+    "otherDocuments": [
+        {
+            "documentDate": "2024-11-07",
+            "number": "558-A",
+            "registeredDate": "2024-11-07",
+            "title": "Autopoprawka do poselskiego projektu ustawy o ograniczeniu biurokracji i barier prawnych"
+        }
+    ],
+    "passed": false,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2024-02-09",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2024-02-09",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "otherDocuments": [
+                {
+                    "documentDate": "2024-11-07",
+                    "number": "558-A",
+                    "registeredDate": "2024-11-07",
+                    "title": "Autopoprawka do poselskiego projektu ustawy o ograniczeniu biurokracji i barier prawnych"
+                }
+            ],
+            "printNumber": "558",
+            "stageType": "Start"
+        },
+        {
+            "date": "2024-02-15",
+            "stageName": "Opinia organizacji samorządowej",
+            "organ": "Organizacja samorządowa",
+            "stageType": "Opinion"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-07-22",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "Sejm",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-07-22",
+            "stageName": "Skierowano do I czytania na posiedzeniu Sejmu",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-12-05",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "GOR",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-12-05",
+            "stageName": "I czytanie na posiedzeniu Sejmu",
+            "sittingNum": 23,
+            "stageType": "SejmReading"
+        },
+        {
+            "date": "2025-04-04",
+            "stageName": "Wpłynęło stanowisko rządu",
+            "stageType": "GovermentPosition",
+            "title": "Stanowisko Rządu do druku nr 558"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-04-23",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "DER",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                },
+                {
+                    "date": "2025-04-23",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "GOR",
+                    "stageType": "Referral",
+                    "type": "WITHDRAWAL"
+                }
+            ],
+            "date": "2025-04-23",
+            "stageName": "I czytanie na posiedzeniu Sejmu",
+            "sittingNum": 33,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-08-05",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "1420",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "344",
+                    "rapporteurName": "Waldemar Sługocki",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1420/1420.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-08-05",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-09-24",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "DER",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-09-24",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "comment": "poprawki",
+            "decision": "skierowano ponownie do komisji w celu przedstawienia sprawozdania",
+            "sittingNum": 41,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-09-25",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "1420-A",
+                    "proposal": "przyjąć część poprawek",
+                    "rapporteurID": "344",
+                    "rapporteurName": "Waldemar Sługocki",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1420-A/1420-A.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-09-25",
+            "stageName": "Praca w komisjach po II czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-10-09",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 5,
+                        "date": "2025-10-09T17:12:13",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/42/52/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 232,
+                        "no": 231,
+                        "notParticipating": 25,
+                        "present": 0,
+                        "sitting": 42,
+                        "sittingDay": 3,
+                        "term": 10,
+                        "title": "Pkt. 26 Sprawozdanie Komisji o poselskim projekcie ustawy o ograniczeniu biurokracji i barier prawnych (druki nr 558, 558-A, 1420 i 1420-A) - trzecie czytanie",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 435,
+                        "votingNumber": 52,
+                        "yes": 199
+                    }
+                }
+            ],
+            "date": "2025-10-09",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "decision": "odrzucono",
+            "sittingNum": 42,
+            "stageType": "SejmReading"
+        },
+        {
+            "stageName": "Odrzucono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Poselski projekt ustawy o ograniczeniu biurokracji i barier prawnych",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-10-10T11:32:35"
+}

@@ -1,0 +1,221 @@
+{
+    "UE": "ENFORCEMENT",
+    "changeDate": "2026-01-09T11:05:33",
+    "closureDate": "2025-12-18",
+    "documentDate": "2025-12-10",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "2064",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2025-12-10",
+    "rclLink": "https://legislacja.rcl.gov.pl/getIdFromLegislacja?number=RM-0610-231-25",
+    "rclNum": "RM-0610-231-25",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2025-12-10",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "2064",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-12-10",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "Sejm",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-12-10",
+            "stageName": "Skierowano do I czytania na posiedzeniu Sejmu",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-12-17",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "GOR",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                },
+                {
+                    "date": "2025-12-17",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "FPB",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                },
+                {
+                    "date": "2025-12-17",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 1,
+                        "date": "2025-12-17T18:46:28",
+                        "description": "wniosek o odrzucenie projektu ustawy w pierwszym czytaniu",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/48/9/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 246,
+                        "no": 245,
+                        "notParticipating": 22,
+                        "present": 0,
+                        "sitting": 48,
+                        "sittingDay": 1,
+                        "term": 10,
+                        "title": "Pkt. 5 Pierwsze czytanie rządowego projektu ustawy o rynku kryptoaktywów (druk nr 2064)",
+                        "topic": "wniosek o odrzucenie projektu w pierwszym czytaniu.",
+                        "totalVoted": 438,
+                        "votingNumber": 9,
+                        "yes": 192
+                    }
+                },
+                {
+                    "date": "2025-12-17",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 2,
+                        "date": "2025-12-17T18:47:47",
+                        "description": "wniosek o skierowanie projektu ustawy jedynie do Komisji Finansów Publicznych",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/48/10/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 435,
+                        "no": 434,
+                        "notParticipating": 24,
+                        "present": 0,
+                        "sitting": 48,
+                        "sittingDay": 1,
+                        "term": 10,
+                        "title": "Pkt. 5 Pierwsze czytanie rządowego projektu ustawy o rynku kryptoaktywów (druk nr 2064)",
+                        "topic": "wniosek o wyłączne skierowanie projektu ustawy do Komisji Finansów Publicznych",
+                        "totalVoted": 436,
+                        "votingNumber": 10,
+                        "yes": 0
+                    }
+                }
+            ],
+            "date": "2025-12-17",
+            "stageName": "I czytanie na posiedzeniu Sejmu",
+            "sittingNum": 48,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-12-18",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 5,
+                    "printNumber": "2093",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "342",
+                    "rapporteurName": "Krystyna Skowrońska",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/2093/2093.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-12-18",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "date": "2025-12-18",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "comment": "wniosek o odrzucenie, poprawki",
+            "decision": "niezwłocznie przystąpiono do III czytania",
+            "sittingNum": 48,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-12-18",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 1,
+                        "date": "2025-12-18T20:18:22",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/48/36/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 184,
+                        "no": 183,
+                        "notParticipating": 35,
+                        "present": 0,
+                        "sitting": 48,
+                        "sittingDay": 2,
+                        "term": 10,
+                        "title": "Pkt. 15 Sprawozdanie Komisji o rządowym projekcie ustawy o rynku kryptoaktywów (druki nr 2064 i 2093)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 425,
+                        "votingNumber": 36,
+                        "yes": 241
+                    }
+                }
+            ],
+            "date": "2025-12-18",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "comment": "wniosek o odrzucenie, wnioski mniejszości, poprawki",
+            "decision": "uchwalono",
+            "sittingNum": 48,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/2064/attachment/2064_u3.pdf"
+        },
+        {
+            "children": [
+                {
+                    "date": "2026-01-09",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "GOR",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                },
+                {
+                    "date": "2026-01-09",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "FPB",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2026-01-08",
+            "stageName": "Stanowisko Senatu",
+            "position": "wniósł poprawkę",
+            "printNumber": "2143",
+            "stageType": "SenatePosition"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o rynku kryptoaktywów",
+    "titleFinal": "o rynku kryptoaktywów",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2026-01-09T11:05:50"
+}

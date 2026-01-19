@@ -1,0 +1,153 @@
+{
+    "ELI": "DU/2025/295",
+    "UE": "NO",
+    "address": "WDU20250000295",
+    "changeDate": "2025-03-18T13:37:03",
+    "closureDate": "2025-02-06",
+    "description": "projekt dotyczy przywrócenia historycznego wzoru proporca marynarki wojennej określonego Dekretem Prezydenta Rzeczypospolitej z dnia 24 listopada 1937 r. o znakach wojska i marynarki wojennej (Dz. U. z 1938 r. poz. 32) oraz wprowadzenia znaku szachownicy lotniczej w wersji o niskiej widzialności. Pozostałe zmiany mają na celu uporządkowanie oraz doprecyzowanie dotychczas funkcjonujących regulacji.",
+    "displayAddress": "Dz.U. 2025 poz. 295",
+    "documentDate": "2024-12-27",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [
+        {
+            "href": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000295",
+            "rel": "isap"
+        },
+        {
+            "href": "https://eli.gov.pl/eli/DU/2025/295/ogl",
+            "rel": "eli"
+        },
+        {
+            "href": "https://api.sejm.gov.pl/eli/acts/DU/2025/295",
+            "rel": "eli-api"
+        }
+    ],
+    "number": "932",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2024-12-27",
+    "rclLink": "https://legislacja.rcl.gov.pl/getIdFromLegislacja?number=RM-0610-130-24",
+    "rclNum": "RM-0610-130-24",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2024-12-27",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "932",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-01-07",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "OBN",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-01-07",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "date": "2025-01-22",
+            "stageName": "I czytanie w komisjach",
+            "stageType": "Reading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-01-22",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "963",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "120",
+                    "rapporteurName": "Andrzej Grzyb",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/963/963.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-01-22",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "date": "2025-02-05",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "decision": "niezwłocznie przystąpiono do III czytania",
+            "sittingNum": 28,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-02-06",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 1,
+                        "date": "2025-02-06T12:05:23",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/28/7/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 1,
+                        "no": 0,
+                        "notParticipating": 30,
+                        "present": 0,
+                        "sitting": 28,
+                        "sittingDay": 2,
+                        "term": 10,
+                        "title": "Pkt. 4 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o znakach Sił Zbrojnych Rzeczypospolitej Polskiej (druki nr 932 i 963)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 430,
+                        "votingNumber": 7,
+                        "yes": 429
+                    }
+                }
+            ],
+            "date": "2025-02-06",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "decision": "uchwalono",
+            "sittingNum": 28,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/932/attachment/932_u3.pdf"
+        },
+        {
+            "date": "2025-02-27",
+            "stageName": "Stanowisko Senatu",
+            "position": "nie wniósł poprawek",
+            "stageType": "SenatePosition"
+        },
+        {
+            "date": "2025-02-28",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "date": "2025-03-06",
+            "stageName": "Prezydent podpisał ustawę",
+            "omittedInconsistent": false,
+            "stageType": "PresidentSignature"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o zmianie ustawy o znakach Sił Zbrojnych Rzeczypospolitej Polskiej",
+    "titleFinal": "o zmianie ustawy o znakach Sił Zbrojnych Rzeczypospolitej Polskiej",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-03-18T13:55:46"
+}

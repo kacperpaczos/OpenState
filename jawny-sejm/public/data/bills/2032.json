@@ -1,0 +1,54 @@
+{
+    "UE": "NO",
+    "changeDate": "2026-01-09T17:05:45",
+    "description": "projekt dotyczy przywrócenia dodatkowego wynagrodzenia rocznego w instytucjach kultury",
+    "documentDate": "2025-11-18",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "2032",
+    "passed": false,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2025-11-18",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2025-11-18",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "2032",
+            "stageType": "Start"
+        },
+        {
+            "date": "2025-11-24",
+            "stageName": "Opinia organizacji samorządowej",
+            "organ": "Organizacja samorządowa",
+            "stageType": "Opinion"
+        },
+        {
+            "children": [
+                {
+                    "date": "2026-01-09",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "FPB",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                },
+                {
+                    "date": "2026-01-09",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "KSP",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2026-01-09",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        }
+    ],
+    "term": 10,
+    "title": "Poselski projekt ustawy o zmianie ustawy o organizowaniu i prowadzeniu działalności kulturalnej",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2026-01-09T17:10:43"
+}

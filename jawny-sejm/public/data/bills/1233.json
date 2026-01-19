@@ -1,0 +1,200 @@
+{
+    "ELI": "DU/2025/1074",
+    "UE": "NO",
+    "address": "WDU20250001074",
+    "changeDate": "2025-08-12T14:30:57",
+    "closureDate": "2025-06-25",
+    "description": "projekt dotyczy likwidacji obowiązku sporządzania i publikowania informacji o realizowanej strategii podatkowej przez największych podatników CIT. Nowe przepisy realizują działania deregulacyjne rządu.",
+    "displayAddress": "Dz.U. 2025 poz. 1074",
+    "documentDate": "2025-05-06",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [
+        {
+            "href": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001074",
+            "rel": "isap"
+        },
+        {
+            "href": "https://eli.gov.pl/eli/DU/2025/1074/ogl",
+            "rel": "eli"
+        },
+        {
+            "href": "https://api.sejm.gov.pl/eli/acts/DU/2025/1074",
+            "rel": "eli-api"
+        }
+    ],
+    "number": "1233",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2025-05-06",
+    "rclLink": "https://legislacja.rcl.gov.pl/getIdFromLegislacja?number=RM-0610-45-25",
+    "rclNum": "RM-0610-45-25",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2025-05-06",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "1233",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-05-08",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "Sejm",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-05-08",
+            "stageName": "Skierowano do I czytania na posiedzeniu Sejmu",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-05-21",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "DER",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                },
+                {
+                    "date": "2025-05-21",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "FPB",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                },
+                {
+                    "date": "2025-05-21",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 0,
+                        "date": "2025-05-21T18:38:39",
+                        "description": "wniosek o odrzucenie projektu ustawy w pierwszym czytaniu",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/35/28/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 224,
+                        "no": 223,
+                        "notParticipating": 32,
+                        "present": 0,
+                        "sitting": 35,
+                        "sittingDay": 2,
+                        "term": 10,
+                        "title": "Pkt. 13 Pierwsze czytanie rządowego projektu ustawy o zmianie ustawy o podatku dochodowym od osób prawnych (druk nr 1233)",
+                        "topic": "wniosek o odrzucenie projektu w pierwszym czytaniu.",
+                        "totalVoted": 428,
+                        "votingNumber": 28,
+                        "yes": 205
+                    }
+                }
+            ],
+            "date": "2025-05-21",
+            "stageName": "I czytanie na posiedzeniu Sejmu",
+            "sittingNum": 35,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-06-04",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "1336",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "112",
+                    "rapporteurName": "Piotr Górnikiewicz",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1336/1336.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-06-04",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "date": "2025-06-24",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "decision": "niezwłocznie przystąpiono do III czytania",
+            "sittingNum": 37,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-06-25",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 1,
+                        "date": "2025-06-25T21:55:26",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/37/45/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 199,
+                        "no": 198,
+                        "notParticipating": 34,
+                        "present": 0,
+                        "sitting": 37,
+                        "sittingDay": 2,
+                        "term": 10,
+                        "title": "Pkt. 13 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o podatku dochodowym od osób prawnych (druki nr 1233 i 1336)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 426,
+                        "votingNumber": 45,
+                        "yes": 227
+                    }
+                }
+            ],
+            "date": "2025-06-25",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "decision": "uchwalono",
+            "sittingNum": 37,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/1233/attachment/1233_u3.pdf"
+        },
+        {
+            "date": "2025-07-17",
+            "stageName": "Stanowisko Senatu",
+            "position": "nie wniósł poprawek",
+            "stageType": "SenatePosition"
+        },
+        {
+            "date": "2025-07-21",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "date": "2025-08-05",
+            "stageName": "Prezydent podpisał ustawę",
+            "omittedInconsistent": false,
+            "stageType": "PresidentSignature"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o zmianie ustawy o podatku dochodowym od osób prawnych",
+    "titleFinal": "o zmianie ustawy o podatku dochodowym od osób prawnych",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-08-12T14:31:07"
+}

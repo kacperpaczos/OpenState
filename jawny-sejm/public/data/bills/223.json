@@ -1,0 +1,87 @@
+{
+    "UE": "NO",
+    "changeDate": "2024-04-15T09:33:33",
+    "comments": "Zmiana reprezentanta wnioskodawców - poseł W. Tomczak zastąpiła poseł A. Buczyńska",
+    "description": "projekt dotyczy zgodnie z uzasadnieniem - realizacji zobowiązania programowego dotyczącego odwrócenia skutków orzeczenia Trybunału Konstytucyjnego z 2020 r. w sprawie dopuszczalności przerywania ciąży",
+    "documentDate": "2024-02-23",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "223",
+    "passed": false,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2024-02-23",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2024-02-23",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "223",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-02-28",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "Sejm",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-02-28",
+            "stageName": "Skierowano do I czytania na posiedzeniu Sejmu",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-04-12",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "NPC",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                },
+                {
+                    "date": "2024-04-12",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 23,
+                        "date": "2024-04-12T14:39:52",
+                        "description": "wniosek o odrzucenie projektu ustawy w pierwszym czytaniu",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/9/30/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 245,
+                        "no": 244,
+                        "notParticipating": 19,
+                        "present": 0,
+                        "sitting": 9,
+                        "sittingDay": 3,
+                        "term": 10,
+                        "title": "Pkt. 10., 11., 12. i 13 Pierwsze czytanie poselskiego projektu ustawy o zmianie ustawy - Kodeks karny (druk nr 176)Pierwsze czytanie poselskiego projektu ustawy o bezpiecznym przerywaniu ciąży (druk nr 177)Pierwsze czytanie poselskiego projektu ustawy o zmianie ustawy o planowaniu rodziny, ochronie płodu ludzkiego i warunkach dopuszczalności przerywania ciąży (druk nr 223)Pierwsze czytanie poselskiego projektu ustawy o świadomym rodzicielstwie (druk nr 224)",
+                        "topic": "wniosek o odrzucenie projektu z druku nr 223 w pierwszym czytaniu.",
+                        "totalVoted": 438,
+                        "votingNumber": 30,
+                        "yes": 171
+                    }
+                }
+            ],
+            "date": "2024-04-12",
+            "stageName": "I czytanie na posiedzeniu Sejmu",
+            "sittingNum": 9,
+            "stageType": "SejmReading"
+        }
+    ],
+    "term": 10,
+    "title": "Poselski projekt ustawy o zmianie ustawy o planowaniu rodziny, ochronie płodu ludzkiego i warunkach dopuszczalności przerywania ciąży",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2024-04-15T13:22:54"
+}

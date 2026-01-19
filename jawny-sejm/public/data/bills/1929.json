@@ -1,0 +1,58 @@
+{
+    "UE": "NO",
+    "changeDate": "2025-11-24T11:10:48",
+    "description": "projekt dotyczy systemowego uregulowania usługi asystencji osobistej jako obligatoryjnego i powszechnie dostępnego, w wybranej przez osobę z niepełnosprawnością formie, instrumentu wsparcia w codziennym funkcjonowaniu  m.in. przemieszczaniu się, prowadzeniu domu, załatwianiu spraw urzędowych, a także w pracy, nauce i kontaktach społecznych",
+    "documentDate": "2025-11-04",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "1929",
+    "passed": false,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2025-11-04",
+    "rclLink": "https://legislacja.rcl.gov.pl/getIdFromLegislacja?number=RM-0610-188-25",
+    "rclNum": "RM-0610-188-25",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2025-11-04",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "1929",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-11-07",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "Sejm",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-11-07",
+            "stageName": "Skierowano do I czytania na posiedzeniu Sejmu",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-11-21",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "PSR",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-11-21",
+            "stageName": "I czytanie na posiedzeniu Sejmu",
+            "sittingNum": 45,
+            "stageType": "SejmReading"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o asystencji osobistej osób z niepełnosprawnościami",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-12-21T15:58:58"
+}

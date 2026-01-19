@@ -1,0 +1,41 @@
+{
+    "UE": "NO",
+    "changeDate": "2025-11-17T19:42:25",
+    "description": "projekt dotyczy umożliwienia osobom, które uzyskały pozwolenie na broń, na podstawie art. 10 ust. 3a ustawy o broni i amunicji, zachowania go po zakończeniu służby w formacjach w nim wymienionych",
+    "documentDate": "2025-10-16",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "1893",
+    "passed": false,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2025-10-16",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2025-10-16",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "1893",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-11-17",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "ASW",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-11-17",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        }
+    ],
+    "term": 10,
+    "title": "Poselski projekt ustawy o zmianie ustawy o broni i amunicji",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-11-17T19:42:48"
+}

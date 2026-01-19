@@ -1,0 +1,145 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    /* LIGHT MODE (High Contrast & Material Inspired) */
+    --bg-color: #ffffff;
+    --surface-color: rgba(255, 255, 255, 0.95);
+    --surface-color-heavy: #ffffff;
+    --surface-border: rgba(0, 0, 0, 0.1);
+    --glass-highlight: rgba(255, 255, 255, 1);
+
+    --text-primary: #111827;
+    /* Gray 900 */
+    --text-secondary: #4b5563;
+    /* Gray 600 */
+
+    --accent-blue: #0284c7;
+    /* Sky 600 */
+
+    --glass-blur: 12px;
+    --shadow-liquid: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+
+    /* Clean Subtle Gradient check */
+    --gradient-bg: #f3f4f6;
+    /* Gray 100 flat for high contrast */
+  }
+
+  .dark {
+    /* DARK MODE (Original Deep Liquid) */
+    --bg-color: #050505;
+    --surface-color: rgba(255, 255, 255, 0.05);
+    --surface-color-heavy: rgba(255, 255, 255, 0.08);
+    --surface-border: rgba(255, 255, 255, 0.15);
+    --glass-highlight: rgba(255, 255, 255, 0.2);
+
+    --text-primary: #f0f0f0;
+    --text-secondary: #a0a0a0;
+
+    --accent-blue: #3b82f6;
+
+    --glass-blur: 50px;
+    --shadow-liquid: 0 8px 32px 0 rgba(0, 0, 0, 0.5);
+
+    --gradient-bg: linear-gradient(135deg, #050505 0%, #0a0a0a 100%);
+  }
+}
+
+body {
+  background: var(--gradient-bg);
+  background-attachment: fixed;
+  color: var(--text-primary);
+  font-family: var(--font-inter), -apple-system, BlinkMacSystemFont, "SF Pro Text", sans-serif;
+  overflow: hidden;
+  height: 100vh;
+  transition: background 0.5s ease, color 0.5s ease;
+}
+
+/* Liquid Metal Background (Dark Mode Only) */
+.dark .mesh-background {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -2;
+  background: linear-gradient(135deg, #050505 0%, rgba(100, 100, 100, 0.05) 50%, #050505 100%);
+  background-size: 400% 400%;
+  animation: liquidMetal 20s ease infinite;
+}
+
+@keyframes liquidMetal {
+  0% {
+    background-position: 0% 50%;
+  }
+
+  50% {
+    background-position: 100% 50%;
+  }
+
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+/* Glass Card */
+.glass-card {
+  background: var(--surface-color);
+  backdrop-filter: blur(var(--glass-blur));
+  -webkit-backdrop-filter: blur(var(--glass-blur));
+  border: 1px solid var(--surface-border);
+  border-top: 1px solid var(--glass-highlight);
+  border-radius: 20px;
+  padding: 24px;
+  transition: all 0.3s cubic-bezier(0.2, 0.8, 0.2, 1);
+  position: relative;
+  box-shadow: var(--shadow-liquid);
+}
+
+.glass-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.08);
+  /* Lighter shadow for light mode */
+}
+
+.dark .glass-card:hover {
+  box-shadow: 0 15px 40px rgba(0, 0, 0, 0.2);
+  /* Stronger shadow for dark mode */
+  border-color: var(--glass-highlight);
+}
+
+/* Typography Utils */
+.text-gradient {
+  background: linear-gradient(135deg, var(--text-primary) 30%, var(--accent-blue));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+/* Scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(0, 0, 0, 0.1);
+  /* Light mode default */
+  border-radius: 10px;
+}
+
+.dark ::-webkit-scrollbar-thumb {
+  background: var(--surface-border);
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(0, 0, 0, 0.2);
+}
+
+.dark ::-webkit-scrollbar-thumb:hover {
+  background: var(--glass-highlight);
+}

@@ -1,0 +1,151 @@
+{
+    "ELI": "DU/2023/2699",
+    "UE": "NO",
+    "address": "WDU20230002699",
+    "changeDate": "2023-12-20T12:40:03",
+    "closureDate": "2023-12-12",
+    "description": "projekt dotyczy zgodnie z uzasadnieniem: przesunięcia daty wdrożenia środków technicznych umożliwiających realizację przepisu ustawy poza aktualnie obowiązującą datę graniczną tj. 31 grudnia 2023 r.",
+    "displayAddress": "Dz.U. 2023 poz. 2699",
+    "documentDate": "2023-12-06",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [
+        {
+            "href": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002699",
+            "rel": "isap"
+        },
+        {
+            "href": "https://eli.gov.pl/eli/DU/2023/2699/ogl",
+            "rel": "eli"
+        },
+        {
+            "href": "https://api.sejm.gov.pl/eli/acts/DU/2023/2699",
+            "rel": "eli-api"
+        }
+    ],
+    "number": "92",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2023-12-06",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2023-12-06",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "92",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2023-12-08",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "CNT",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2023-12-08",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "date": "2023-12-11",
+            "stageName": "I czytanie w komisjach",
+            "stageType": "Reading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2023-12-11",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "94",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "117",
+                    "rapporteurName": "Michał Gramatyka",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/94/94.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2023-12-11",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "date": "2023-12-12",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "decision": "niezwłocznie przystąpiono do III czytania",
+            "sittingNum": 1,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2023-12-12",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 5,
+                        "date": "2023-12-12T22:11:41",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/1/107/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 13,
+                        "no": 12,
+                        "notParticipating": 11,
+                        "present": 0,
+                        "sitting": 1,
+                        "sittingDay": 10,
+                        "term": 10,
+                        "title": "Pkt. 42 Sprawozdanie Komisji o poselskim projekcie ustawy o zmianie ustawy o doręczeniach elektronicznych (druki nr 92 i 94)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 448,
+                        "votingNumber": 107,
+                        "yes": 431
+                    }
+                }
+            ],
+            "date": "2023-12-12",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "decision": "uchwalono",
+            "sittingNum": 1,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/92/attachment/92_u3.pdf"
+        },
+        {
+            "date": "2023-12-13",
+            "stageName": "Stanowisko Senatu",
+            "position": "nie wniósł poprawek",
+            "stageType": "SenatePosition"
+        },
+        {
+            "date": "2023-12-14",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "date": "2023-12-15",
+            "stageName": "Prezydent podpisał ustawę",
+            "omittedInconsistent": false,
+            "stageType": "PresidentSignature"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Poselski projekt ustawy o zmianie ustawy o doręczeniach elektronicznych",
+    "titleFinal": "o zmianie ustawy o doręczeniach elektronicznych",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2024-01-22T09:36:31"
+}

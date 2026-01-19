@@ -1,0 +1,159 @@
+{
+    "ELI": "DU/2025/1188",
+    "UE": "NO",
+    "address": "WDU20250001188",
+    "changeDate": "2025-09-03T10:04:34",
+    "closureDate": "2025-07-25",
+    "description": "projekt dotyczy wprowadzenia ułatwień w zatrudnianiu nauczycieli specjalistów w niepublicznych jednostkach systemu oświaty poprzez zniesienie ograniczenia (do 4 h tygodniowo) możliwości zatrudniania nauczycieli specjalistów. Nowe przepisy realizują działania deregulacyjne rządu.",
+    "displayAddress": "Dz.U. 2025 poz. 1188",
+    "documentDate": "2025-07-08",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [
+        {
+            "href": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001188",
+            "rel": "isap"
+        },
+        {
+            "href": "https://eli.gov.pl/eli/DU/2025/1188/ogl",
+            "rel": "eli"
+        },
+        {
+            "href": "https://api.sejm.gov.pl/eli/acts/DU/2025/1188",
+            "rel": "eli-api"
+        }
+    ],
+    "number": "1481",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2025-07-08",
+    "rclLink": "https://legislacja.rcl.gov.pl/getIdFromLegislacja?number=RM-0610-131-25",
+    "rclNum": "RM-0610-131-25",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2025-07-08",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "1481",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-07-10",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "ENM",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                },
+                {
+                    "date": "2025-07-10",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "DER",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-07-10",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "date": "2025-07-21",
+            "stageName": "I czytanie w komisjach",
+            "stageType": "Reading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-07-21",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "1511",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "308",
+                    "rapporteurName": "Renata Rak",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1511/1511.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-07-21",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "date": "2025-07-23",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "decision": "niezwłocznie przystąpiono do III czytania",
+            "sittingNum": 39,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-07-25",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 0,
+                        "date": "2025-07-25T15:39:40",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/39/47/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 194,
+                        "no": 193,
+                        "notParticipating": 32,
+                        "present": 0,
+                        "sitting": 39,
+                        "sittingDay": 4,
+                        "term": 10,
+                        "title": "Pkt. 24 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Karta Nauczyciela (druki nr 1481 i 1511)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 428,
+                        "votingNumber": 47,
+                        "yes": 235
+                    }
+                }
+            ],
+            "date": "2025-07-25",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "decision": "uchwalono",
+            "sittingNum": 39,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/1481/attachment/1481_u3.pdf"
+        },
+        {
+            "date": "2025-07-31",
+            "stageName": "Stanowisko Senatu",
+            "position": "nie wniósł poprawek",
+            "stageType": "SenatePosition"
+        },
+        {
+            "date": "2025-08-04",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "date": "2025-08-25",
+            "stageName": "Prezydent podpisał ustawę",
+            "omittedInconsistent": false,
+            "stageType": "PresidentSignature"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o zmianie ustawy - Karta Nauczyciela",
+    "titleFinal": "o zmianie ustawy - Karta Nauczyciela",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-09-03T11:13:12"
+}

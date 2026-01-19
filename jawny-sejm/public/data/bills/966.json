@@ -1,0 +1,56 @@
+{
+    "UE": "NO",
+    "changeDate": "2025-03-06T09:54:26",
+    "description": "projekt dotyczy podwyższenia progu zwolnienia od podatku dla drobnych przedsiębiorców z 200 tys. zł na 240 tys. zł",
+    "documentDate": "2024-12-20",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "966",
+    "passed": false,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2024-12-20",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2024-12-20",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "966",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-01-21",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "Sejm",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-01-21",
+            "stageName": "Skierowano do I czytania na posiedzeniu Sejmu",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-03-05",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "FPB",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-03-05",
+            "stageName": "I czytanie na posiedzeniu Sejmu",
+            "sittingNum": 30,
+            "stageType": "SejmReading"
+        }
+    ],
+    "term": 10,
+    "title": "Poselski projekt ustawy o zmianie ustawy o podatku od towarów i usług",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-03-11T13:24:57"
+}

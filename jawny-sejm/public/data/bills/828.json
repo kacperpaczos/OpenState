@@ -1,0 +1,46 @@
+{
+    "UE": "NO",
+    "changeDate": "2024-11-19T11:09:53",
+    "description": "projekt dotyczy ograniczenia uprawnień kontrolno-nadzorczych ministra właściwego do spraw środowiska w odniesieniu do Polskiego Związku Łowieckiego, a także modyfikacji dotyczących funkcjonowania i organizacji PZŁ w kierunku zwiększenia samorządności i lokalnego nadzoru",
+    "documentDate": "2024-10-30",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "828",
+    "passed": false,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2024-10-30",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2024-10-30",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "828",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-11-19",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "OSZ",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-11-19",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "date": "2025-03-19",
+            "stageName": "I czytanie w komisjach",
+            "stageType": "Reading"
+        }
+    ],
+    "term": 10,
+    "title": "Poselski projekt ustawy o zmianie ustawy - Prawo łowieckie",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2024-11-19T11:10:22"
+}

@@ -1,0 +1,183 @@
+{
+    "ELI": "DU/2024/414",
+    "UE": "NO",
+    "address": "WDU20240000414",
+    "changeDate": "2024-03-25T08:27:50",
+    "closureDate": "2024-02-22",
+    "description": "projekt dotyczy przesunięcia do dnia 1 kwietnia 2025 r. terminu przekazywania danych o sprawowanej opiece onkologicznej przez podmioty, które wchodzą w skład Krajowej Sieci Onkologicznej",
+    "displayAddress": "Dz.U. 2024 poz. 414",
+    "documentDate": "2024-02-14",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [
+        {
+            "href": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000414",
+            "rel": "isap"
+        },
+        {
+            "href": "https://eli.gov.pl/eli/DU/2024/414/ogl",
+            "rel": "eli"
+        },
+        {
+            "href": "https://api.sejm.gov.pl/eli/acts/DU/2024/414",
+            "rel": "eli-api"
+        }
+    ],
+    "number": "199",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2024-02-14",
+    "rclLink": "https://legislacja.rcl.gov.pl/getIdFromLegislacja?number=RM-0610-6-24",
+    "rclNum": "RM-0610-6-24",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2024-02-14",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "199",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-02-16",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "ZDR",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-02-16",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "date": "2024-02-20",
+            "stageName": "I czytanie w komisjach",
+            "stageType": "Reading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-02-20",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "200",
+                    "proposal": "uchwalić projekt ustawy bez poprawek",
+                    "rapporteurID": "132",
+                    "rapporteurName": "Marek Tomasz Hok",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/200/200.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2024-02-20",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-02-21",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "ZDR",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-02-21",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "comment": "poprawka",
+            "decision": "skierowano ponownie do komisji w celu przedstawienia sprawozdania",
+            "sittingNum": 6,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-02-21",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "200-A",
+                    "proposal": "odrzucić poprawkę",
+                    "rapporteurID": "132",
+                    "rapporteurName": "Marek Tomasz Hok",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/200-A/200-A.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2024-02-21",
+            "stageName": "Praca w komisjach po II czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-02-22",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 18,
+                        "date": "2024-02-22T15:33:25",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/6/8/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 4,
+                        "no": 3,
+                        "notParticipating": 37,
+                        "present": 0,
+                        "sitting": 6,
+                        "sittingDay": 2,
+                        "term": 10,
+                        "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Krajowej Sieci Onkologicznej (druki nr 199 i 200)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 421,
+                        "votingNumber": 8,
+                        "yes": 400
+                    }
+                }
+            ],
+            "date": "2024-02-22",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "comment": "poprawka",
+            "decision": "uchwalono",
+            "sittingNum": 6,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/199/attachment/199_u3.pdf"
+        },
+        {
+            "date": "2024-03-06",
+            "stageName": "Stanowisko Senatu",
+            "position": "nie wniósł poprawek",
+            "stageType": "SenatePosition"
+        },
+        {
+            "date": "2024-03-08",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "date": "2024-03-18",
+            "stageName": "Prezydent podpisał ustawę",
+            "omittedInconsistent": false,
+            "stageType": "PresidentSignature"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o zmianie ustawy o Krajowej Sieci Onkologicznej",
+    "titleFinal": "o zmianie ustawy o Krajowej Sieci Onkologicznej",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2024-03-25T08:28:32"
+}

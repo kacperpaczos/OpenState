@@ -1,0 +1,166 @@
+{
+    "ELI": "DU/2025/1668",
+    "UE": "NO",
+    "address": "WDU20250001668",
+    "changeDate": "2025-12-09T14:16:08",
+    "closureDate": "2025-11-05",
+    "description": "projekt dotyczy usprawnienia trwających w gminach prac nad sporządzaniem planu ogólnego gminy (np. zastosowanie wyłącznie formy opiniowania projektu z właściwymi organami, czasowe zawieszenie kar za nieterminowe wydanie decyzji o warunkach zabudowy i zagospodarowania terenu)",
+    "displayAddress": "Dz.U. 2025 poz. 1668",
+    "documentDate": "2025-09-30",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [
+        {
+            "href": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001668",
+            "rel": "isap"
+        },
+        {
+            "href": "https://eli.gov.pl/eli/DU/2025/1668/ogl",
+            "rel": "eli"
+        },
+        {
+            "href": "https://api.sejm.gov.pl/eli/acts/DU/2025/1668",
+            "rel": "eli-api"
+        }
+    ],
+    "number": "1839",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2025-09-30",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2025-09-30",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "1839",
+            "stageType": "Start"
+        },
+        {
+            "date": "2025-10-06",
+            "stageName": "Opinia organizacji samorządowej",
+            "organ": "Organizacja samorządowa",
+            "stageType": "Opinion"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-10-30",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "STR",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                },
+                {
+                    "date": "2025-10-30",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "INF",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-10-30",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "date": "2025-11-04",
+            "stageName": "I czytanie w komisjach",
+            "stageType": "Reading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-11-04",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 1,
+                    "printNumber": "1879",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "312",
+                    "rapporteurName": "Bartosz Romowicz",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1879/1879.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-11-04",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "date": "2025-11-05",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "comment": "poprawki",
+            "decision": "niezwłocznie przystąpiono do III czytania",
+            "sittingNum": 44,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-11-05",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 4,
+                        "date": "2025-11-05T18:21:14",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/44/24/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 195,
+                        "no": 194,
+                        "notParticipating": 25,
+                        "present": 0,
+                        "sitting": 44,
+                        "sittingDay": 1,
+                        "term": 10,
+                        "title": "Pkt. 4 Sprawozdanie Komisji o poselskim projekcie ustawy o zmianie ustawy o planowaniu i zagospodarowaniu przestrzennym oraz niektórych innych ustaw (druki nr 1839 i 1879)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 435,
+                        "votingNumber": 24,
+                        "yes": 237
+                    }
+                }
+            ],
+            "date": "2025-11-05",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "comment": "wniosek mniejszości, poprawki",
+            "decision": "uchwalono",
+            "sittingNum": 44,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/1839/attachment/1839_u3.pdf"
+        },
+        {
+            "date": "2025-11-06",
+            "stageName": "Stanowisko Senatu",
+            "position": "nie wniósł poprawek",
+            "stageType": "SenatePosition"
+        },
+        {
+            "date": "2025-11-07",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "date": "2025-11-27",
+            "stageName": "Prezydent podpisał ustawę",
+            "omittedInconsistent": false,
+            "stageType": "PresidentSignature"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Poselski projekt ustawy o zmianie ustawy o planowaniu i  zagospodarowaniu przestrzennym oraz niektórych innych ustaw",
+    "titleFinal": "o zmianie ustawy o planowaniu i  zagospodarowaniu przestrzennym oraz niektórych innych ustaw",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-12-09T14:16:20"
+}

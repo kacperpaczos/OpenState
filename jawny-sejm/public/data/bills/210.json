@@ -1,0 +1,75 @@
+{
+    "UE": "NO",
+    "changeDate": "2024-10-01T17:08:58",
+    "description": "projekt dotyczy uniemożliwienia karania rolników za prowadzenie prac w godzinach nocnych w gospodarstwie",
+    "documentDate": "2024-02-08",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "210",
+    "passed": false,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2024-02-08",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2024-02-08",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "210",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-02-20",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "Sejm",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-02-20",
+            "stageName": "Skierowano do I czytania na posiedzeniu Sejmu",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-03-07",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "NKK",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-03-07",
+            "stageName": "I czytanie na posiedzeniu Sejmu",
+            "sittingNum": 7,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-09-26",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "684",
+                    "proposal": "odrzucić projekt ustawy",
+                    "rapporteurID": "63",
+                    "rapporteurName": "Sławomir Ćwik",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/684/684.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2024-09-26",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        }
+    ],
+    "term": 10,
+    "title": "Poselski projekt ustawy o zmianie ustawy - Kodeks wykroczeń",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2024-10-01T17:09:48"
+}

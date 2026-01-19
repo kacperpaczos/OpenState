@@ -1,0 +1,118 @@
+{
+    "UE": "NO",
+    "changeDate": "2026-01-12T09:53:42",
+    "closureDate": "2026-01-09",
+    "description": "projekt dotyczy uzupełnienia istniejącego stanu prawnego o wyraźne wskazanie organu, wobec którego Rzecznik Praw Dziecka powinien składać oświadczenia o działalności gospodarczej prowadzonej przez małżonka oraz oświadczenia o swoim stanie majątkowym",
+    "documentDate": "2025-09-11",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "1763",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2025-09-11",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2025-09-11",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "1763",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-10-14",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "SPC",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-10-14",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "date": "2025-12-03",
+            "stageName": "I czytanie w komisjach",
+            "stageType": "Reading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-12-03",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "2046",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "491",
+                    "rapporteurName": "Aleksandra Kot",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/2046/2046.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-12-03",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "date": "2026-01-08",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "decision": "niezwłocznie przystąpiono do III czytania",
+            "sittingNum": 49,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2026-01-09",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 0,
+                        "date": "2026-01-09T17:09:55",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/49/29/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 2,
+                        "no": 1,
+                        "notParticipating": 20,
+                        "present": 0,
+                        "sitting": 49,
+                        "sittingDay": 2,
+                        "term": 10,
+                        "title": "Pkt. 5 Sprawozdanie Komisji o komisyjnym projekcie ustawy o zmianie ustawy o ograniczeniu prowadzenia działalności gospodarczej przez osoby pełniące funkcje publiczne (druki nr 1763 i 2046)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 440,
+                        "votingNumber": 29,
+                        "yes": 439
+                    }
+                }
+            ],
+            "date": "2026-01-09",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "decision": "uchwalono",
+            "sittingNum": 49,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/1763/attachment/1763_u3.pdf"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Komisyjny projekt ustawy o zmianie ustawy o ograniczeniu prowadzenia działalności gospodarczej przez osoby pełniące funkcje publiczne",
+    "titleFinal": "o zmianie ustawy o ograniczeniu prowadzenia działalności gospodarczej przez osoby pełniące funkcje publiczne",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2026-01-12T09:53:59"
+}

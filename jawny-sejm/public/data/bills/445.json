@@ -1,0 +1,159 @@
+{
+    "ELI": "DU/2024/1761",
+    "UE": "NO",
+    "address": "WDU20240001761",
+    "changeDate": "2024-12-09T08:14:38",
+    "closureDate": "2024-11-08",
+    "description": "projekt dotyczy rozszerzenia kręgu podmiotów pożytku publicznego uprawnionych do prowadzenia uproszczonej ewidencji przychodów i kosztów",
+    "displayAddress": "Dz.U. 2024 poz. 1761",
+    "documentDate": "2024-05-09",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [
+        {
+            "href": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001761",
+            "rel": "isap"
+        },
+        {
+            "href": "https://eli.gov.pl/eli/DU/2024/1761/ogl",
+            "rel": "eli"
+        },
+        {
+            "href": "https://api.sejm.gov.pl/eli/acts/DU/2024/1761",
+            "rel": "eli-api"
+        }
+    ],
+    "number": "445",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2024-05-16",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2024-05-16",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "445",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-06-11",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "PSR",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-06-11",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "date": "2024-07-11",
+            "stageName": "I czytanie w komisjach",
+            "stageType": "Reading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-10-08",
+                    "stageName": "Sprawozdanie podkomisji",
+                    "minorityMotions": 0,
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/processes/445/attachment/spr_445.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": true
+                },
+                {
+                    "date": "2024-10-16",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "733",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "389",
+                    "rapporteurName": "Tadeusz Tomaszewski",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/733/733.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2024-10-08",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "date": "2024-11-06",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "decision": "niezwłocznie przystąpiono do III czytania",
+            "sittingNum": 21,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-11-08",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 0,
+                        "date": "2024-11-08T18:08:26",
+                        "description": "Całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/21/30/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 2,
+                        "no": 1,
+                        "notParticipating": 12,
+                        "present": 0,
+                        "sitting": 21,
+                        "sittingDay": 3,
+                        "term": 10,
+                        "title": "Pkt. 8 Sprawozdanie Komisji o komisyjnym projekcie ustawy o zmianie ustawy o działalności pożytku publicznego i o wolontariacie (druki nr 445 i 733)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 448,
+                        "votingNumber": 30,
+                        "yes": 447
+                    }
+                }
+            ],
+            "date": "2024-11-08",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "decision": "uchwalono",
+            "sittingNum": 21,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/445/attachment/445_u3.pdf"
+        },
+        {
+            "date": "2024-11-21",
+            "stageName": "Stanowisko Senatu",
+            "position": "nie wniósł poprawek",
+            "stageType": "SenatePosition"
+        },
+        {
+            "date": "2024-11-22",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "date": "2024-11-27",
+            "stageName": "Prezydent podpisał ustawę",
+            "omittedInconsistent": false,
+            "stageType": "PresidentSignature"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Komisyjny projekt ustawy o zmianie ustawy o działalności pożytku publicznego i o wolontariacie",
+    "titleFinal": "o zmianie ustawy o działalności pożytku publicznego i o wolontariacie oraz ustawy o kołach gospodyń wiejskich",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2024-12-12T16:26:01"
+}

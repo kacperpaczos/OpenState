@@ -1,0 +1,63 @@
+{
+    "UE": "NO",
+    "changeDate": "2025-11-24T11:11:20",
+    "comments": "Zmiana przedstawiciela wnioskodawców - posłankę Maję Nowak zastąpiła posłanka Barbara Oliwiecka",
+    "description": "projekt dotyczy systemowego uregulowania dostępu do formy wsparcia, jaką jest asystencja osobista",
+    "documentDate": "2025-10-16",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "1933",
+    "passed": false,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2025-10-16",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2025-10-16",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "1933",
+            "stageType": "Start"
+        },
+        {
+            "date": "2025-10-27",
+            "stageName": "Opinia organizacji samorządowej",
+            "organ": "Organizacja samorządowa",
+            "stageType": "Opinion"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-11-07",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "Sejm",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-11-07",
+            "stageName": "Skierowano do I czytania na posiedzeniu Sejmu",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-11-21",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "PSR",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-11-21",
+            "stageName": "I czytanie na posiedzeniu Sejmu",
+            "sittingNum": 45,
+            "stageType": "SejmReading"
+        }
+    ],
+    "term": 10,
+    "title": "Poselski projekt ustawy o asystencji osobistej osób z niepełnosprawnościami",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-11-25T10:55:48"
+}

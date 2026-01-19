@@ -1,0 +1,158 @@
+{
+    "ELI": "DU/2024/851",
+    "UE": "NO",
+    "address": "WDU20240000851",
+    "changeDate": "2024-06-11T10:39:53",
+    "closureDate": "2024-05-15",
+    "description": "projekt dotyczy geograficznego rozszerzenia regionu operacji Banku o kraje Afryki Subsaharyjskiej i Irak oraz ograniczonego i stopniowego uruchomienia środków finansowych przeznaczonych na operacje na nowych obszarach",
+    "displayAddress": "Dz.U. 2024 poz. 851",
+    "documentDate": "2024-04-09",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [
+        {
+            "href": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000851",
+            "rel": "isap"
+        },
+        {
+            "href": "https://eli.gov.pl/eli/DU/2024/851/ogl",
+            "rel": "eli"
+        },
+        {
+            "href": "https://api.sejm.gov.pl/eli/acts/DU/2024/851",
+            "rel": "eli-api"
+        }
+    ],
+    "number": "303",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2024-04-09",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2024-04-09",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "303",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-04-10",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "SZA",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                },
+                {
+                    "date": "2024-04-10",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "FPB",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-04-10",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "date": "2024-04-24",
+            "stageName": "I czytanie w komisjach",
+            "stageType": "Reading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-04-24",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "314",
+                    "proposal": "uchwalić projekt ustawy bez poprawek",
+                    "rapporteurID": "164",
+                    "rapporteurName": "Agnieszka Maria Kłopotek",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/314/314.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2024-04-24",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "date": "2024-05-15",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "decision": "niezwłocznie przystąpiono do III czytania",
+            "sittingNum": 11,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-05-15",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 0,
+                        "date": "2024-05-15T18:55:02",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/11/23/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 16,
+                        "no": 15,
+                        "notParticipating": 36,
+                        "present": 0,
+                        "sitting": 11,
+                        "sittingDay": 3,
+                        "term": 10,
+                        "title": "Pkt. 19 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie zakresu obowiązywania Umowy o utworzeniu Europejskiego Banku Odbudowy i Rozwoju, sporządzonej w Paryżu dnia 29 maja 1990 r. (druki nr 303 i 314)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 422,
+                        "votingNumber": 23,
+                        "yes": 407
+                    }
+                }
+            ],
+            "date": "2024-05-15",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "decision": "uchwalono",
+            "sittingNum": 11,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/303/attachment/303_u3.pdf"
+        },
+        {
+            "date": "2024-05-23",
+            "stageName": "Stanowisko Senatu",
+            "position": "nie wniósł poprawek",
+            "stageType": "SenatePosition"
+        },
+        {
+            "date": "2024-05-24",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "date": "2024-06-05",
+            "stageName": "Prezydent podpisał ustawę",
+            "omittedInconsistent": false,
+            "stageType": "PresidentSignature"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o zmianie zakresu obowiązywania Umowy o utworzeniu Europejskiego Banku Odbudowy i Rozwoju, sporządzonej w Paryżu dnia 29 maja 1990 r.",
+    "titleFinal": "o zmianie zakresu obowiązywania Umowy o utworzeniu Europejskiego Banku Odbudowy i Rozwoju, sporządzonej w Paryżu dnia 29 maja 1990 r.",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2024-06-11T11:50:38"
+}

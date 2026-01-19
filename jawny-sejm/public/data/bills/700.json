@@ -1,0 +1,98 @@
+{
+    "UE": "NO",
+    "changeDate": "2024-12-02T12:47:20",
+    "description": "projekt dotyczy m. in. poprawy dobrostanu zwierząt oraz doprecyzowania i rozszerzenia zakresu ochrony zwierząt, redukcji problemu bezdomności zwierząt domowych i kontroli ich populacji, zapewnienia identyfikowalności zwierząt domowych, poprawy standardów funkcjonowania schronisk dla bezdomnych zwierząt, utworzenia Rejestru Stowarzyszeń Hodowców Psów i Kotów oraz Systemu Informacji o Schroniskach",
+    "documentDate": "2024-09-24",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "700",
+    "passed": false,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2024-09-24",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2024-09-24",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "700",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-10-08",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "Sejm",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-10-08",
+            "stageName": "Skierowano do I czytania na posiedzeniu Sejmu",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "date": "2024-10-08",
+            "stageName": "Opinia organizacji samorządowej",
+            "organ": "Organizacja samorządowa",
+            "stageType": "Opinion"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-11-27",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "NOZ",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                },
+                {
+                    "date": "2024-11-27",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 111,
+                        "date": "2024-11-27T21:19:24",
+                        "description": "wniosek o odrzucenie projektu ustawy w pierwszym czytaniu",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/150/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 214,
+                        "no": 213,
+                        "notParticipating": 33,
+                        "present": 0,
+                        "sitting": 22,
+                        "sittingDay": 5,
+                        "term": 10,
+                        "title": "Pkt. 32 Pierwsze czytanie obywatelskiego projektu ustawy o zmianie ustawy o ochronie zwierząt oraz zmianie niektórych innych ustaw (druk nr 700)",
+                        "topic": "wniosek o odrzucenie projektu w pierwszym czytaniu.",
+                        "totalVoted": 427,
+                        "votingNumber": 150,
+                        "yes": 103
+                    }
+                }
+            ],
+            "date": "2024-11-27",
+            "stageName": "I czytanie na posiedzeniu Sejmu",
+            "sittingNum": 22,
+            "stageType": "SejmReading"
+        },
+        {
+            "date": "2025-02-24",
+            "stageName": "Wpłynęło stanowisko rządu",
+            "stageType": "GovermentPosition",
+            "title": "Stanowisko Rządu do druku nr 700"
+        }
+    ],
+    "term": 10,
+    "title": "Obywatelski projekt ustawy o zmianie ustawy o ochronie zwierząt oraz zmianie niektórych innych ustaw",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-05-22T08:08:28"
+}

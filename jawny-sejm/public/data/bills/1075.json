@@ -1,0 +1,153 @@
+{
+    "ELI": "DU/2025/631",
+    "UE": "NO",
+    "address": "WDU20250000631",
+    "changeDate": "2025-05-15T09:45:26",
+    "closureDate": "2025-04-04",
+    "description": "projekt dotyczy zastąpienia regulacji zawartych w dotychczasowych przepisach wykonawczych wydawanych na podstawie art. 10 ust. 2 ustawy, który stanowi upoważnienie dla ministra właściwego do spraw szkolnictwa wyższego i nauki, do określenia, w drodze rozporządzenia, szczegółowych warunków wynagradzania zastępców Dyrektora Narodowego Centrum Nauki",
+    "displayAddress": "Dz.U. 2025 poz. 631",
+    "documentDate": "2025-02-26",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [
+        {
+            "href": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000631",
+            "rel": "isap"
+        },
+        {
+            "href": "https://eli.gov.pl/eli/DU/2025/631/ogl",
+            "rel": "eli"
+        },
+        {
+            "href": "https://api.sejm.gov.pl/eli/acts/DU/2025/631",
+            "rel": "eli-api"
+        }
+    ],
+    "number": "1075",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2025-02-26",
+    "rclLink": "https://legislacja.rcl.gov.pl/getIdFromLegislacja?number=RM-0610-6-25",
+    "rclNum": "RM-0610-6-25",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2025-02-26",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "1075",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-03-05",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "ENM",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-03-05",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "date": "2025-03-18",
+            "stageName": "I czytanie w komisjach",
+            "stageType": "Reading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-03-18",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "1104",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "273",
+                    "rapporteurName": "Dorota Olko",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1104/1104.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-03-18",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "date": "2025-04-02",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "decision": "niezwłocznie przystąpiono do III czytania",
+            "sittingNum": 32,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-04-04",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 195,
+                        "date": "2025-04-04T09:15:22",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/32/8/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 2,
+                        "no": 1,
+                        "notParticipating": 27,
+                        "present": 0,
+                        "sitting": 32,
+                        "sittingDay": 3,
+                        "term": 10,
+                        "title": "Pkt. 4 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Narodowym Centrum Nauki (druki nr 1075 i 1104)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 433,
+                        "votingNumber": 8,
+                        "yes": 237
+                    }
+                }
+            ],
+            "date": "2025-04-04",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "decision": "uchwalono",
+            "sittingNum": 32,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/1075/attachment/1075_u3.pdf"
+        },
+        {
+            "date": "2025-04-23",
+            "stageName": "Stanowisko Senatu",
+            "position": "nie wniósł poprawek",
+            "stageType": "SenatePosition"
+        },
+        {
+            "date": "2025-04-24",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "date": "2025-05-07",
+            "stageName": "Prezydent podpisał ustawę",
+            "omittedInconsistent": false,
+            "stageType": "PresidentSignature"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o zmianie ustawy o Narodowym Centrum Nauki",
+    "titleFinal": "o zmianie ustawy o Narodowym Centrum Nauki",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-05-15T09:45:36"
+}

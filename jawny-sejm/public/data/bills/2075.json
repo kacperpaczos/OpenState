@@ -1,0 +1,58 @@
+{
+    "UE": "ENFORCEMENT",
+    "changeDate": "2026-01-08T19:24:04",
+    "description": "projekt dotyczy ułatwienia wymiany informacji o wyrokach karnych wydanych wobec obywateli państw trzecich, czyli osób spoza UE, a także bezpaństwowców. Przyjęte rozwiązania pozwolą na szybsze ustalenie, które państwa członkowskie posiadają dane o tych osobach w rejestrach karnych.",
+    "documentDate": "2025-12-04",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "2075",
+    "passed": false,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2025-12-04",
+    "rclLink": "https://legislacja.rcl.gov.pl/getIdFromLegislacja?number=RM-0610-224-25",
+    "rclNum": "RM-0610-224-25",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2025-12-04",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "2075",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-12-16",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "Sejm",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-12-16",
+            "stageName": "Skierowano do I czytania na posiedzeniu Sejmu",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "children": [
+                {
+                    "date": "2026-01-08",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "SPC",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2026-01-08",
+            "stageName": "I czytanie na posiedzeniu Sejmu",
+            "sittingNum": 49,
+            "stageType": "SejmReading"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o zmianie ustawy o Krajowym Rejestrze Karnym oraz niektórych innych ustaw",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2026-01-08T19:24:18"
+}

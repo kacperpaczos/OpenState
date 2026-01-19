@@ -1,0 +1,183 @@
+{
+    "ELI": "DU/2025/1187",
+    "UE": "NO",
+    "address": "WDU20250001187",
+    "changeDate": "2025-09-03T10:06:35",
+    "closureDate": "2025-07-25",
+    "description": "projekt dotyczy wydłużenia terminów na dostosowanie miejsc do przechowywania nawozów naturalnych: do końca 2027 roku: dla mniejszych gospodarstw, posiadających do 20 DJP (jednostki przeliczeniowe inwentarza) oraz do końca 2025 roku - dla gospodarstw posiadających więcej niż 20, ale nie więcej niż 210 DJP; uproszczenia przepisów dotyczących budowy miejsc do przechowywania nawozów naturalnych: do końca 2027 roku nie będzie wymagane uzyskanie decyzji o warunkach zabudowy i zagospodarowania terenu dla płyt do składowania obornika oraz szczelnych zbiorników na gnojówkę i gnojowicę.",
+    "displayAddress": "Dz.U. 2025 poz. 1187",
+    "documentDate": "2025-06-25",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [
+        {
+            "href": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001187",
+            "rel": "isap"
+        },
+        {
+            "href": "https://eli.gov.pl/eli/DU/2025/1187/ogl",
+            "rel": "eli"
+        },
+        {
+            "href": "https://api.sejm.gov.pl/eli/acts/DU/2025/1187",
+            "rel": "eli-api"
+        }
+    ],
+    "number": "1433",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2025-06-25",
+    "rclLink": "https://legislacja.rcl.gov.pl/getIdFromLegislacja?number=RM-0610-83-25",
+    "rclNum": "RM-0610-83-25",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2025-06-25",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "1433",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-07-07",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "RRW",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-07-07",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "date": "2025-07-22",
+            "stageName": "I czytanie w komisjach",
+            "stageType": "Reading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-07-22",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "1518",
+                    "proposal": "uchwalić projekt ustawy bez poprawek",
+                    "rapporteurID": "102",
+                    "rapporteurName": "Piotr Głowski",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1518/1518.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-07-22",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-07-23",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "RRW",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-07-23",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "comment": "poprawka",
+            "decision": "skierowano ponownie do komisji w celu przedstawienia sprawozdania",
+            "sittingNum": 39,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-07-24",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "1518-A",
+                    "proposal": "odrzucić poprawkę",
+                    "rapporteurID": "221",
+                    "rapporteurName": "Alicja Łepkowska-Gołaś",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1518-A/1518-A.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-07-24",
+            "stageName": "Praca w komisjach po II czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-07-25",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 1,
+                        "date": "2025-07-25T15:41:36",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/39/49/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 172,
+                        "no": 171,
+                        "notParticipating": 29,
+                        "present": 0,
+                        "sitting": 39,
+                        "sittingDay": 4,
+                        "term": 10,
+                        "title": "Pkt. 25 Sprawozdanie Komisji o rządowym projekcie ustawy o szczególnych rozwiązaniach w zakresie przechowywania nawozów naturalnych (druki nr 1433, 1518 i 1518-A)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 431,
+                        "votingNumber": 49,
+                        "yes": 259
+                    }
+                }
+            ],
+            "date": "2025-07-25",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "comment": "poprawka",
+            "decision": "uchwalono",
+            "sittingNum": 39,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/1433/attachment/1433_u3.pdf"
+        },
+        {
+            "date": "2025-07-31",
+            "stageName": "Stanowisko Senatu",
+            "position": "nie wniósł poprawek",
+            "stageType": "SenatePosition"
+        },
+        {
+            "date": "2025-08-04",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "date": "2025-08-25",
+            "stageName": "Prezydent podpisał ustawę",
+            "omittedInconsistent": false,
+            "stageType": "PresidentSignature"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o szczególnych rozwiązaniach w zakresie przechowywania nawozów naturalnych",
+    "titleFinal": "o szczególnych rozwiązaniach w zakresie przechowywania nawozów naturalnych",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-09-03T11:13:12"
+}

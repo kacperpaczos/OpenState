@@ -1,0 +1,183 @@
+{
+    "ELI": "DU/2024/1933",
+    "UE": "NO",
+    "address": "WDU20240001933",
+    "changeDate": "2025-01-03T14:09:41",
+    "closureDate": "2024-11-21",
+    "description": "projekt dotyczy wprowadzenia zmian dotyczących m.in. przeprowadzania egzaminów zewnętrznych: egzaminu maturalnego oraz egzaminu zawodowego polegających m.in. na przedłużeniu odstąpienia od warunku uzyskania 30% punktów możliwych do uzyskania z jednego wybranego przedmiotu dodatkowego na egzaminie maturalnym, wprowadzenia funkcji egzaminatora-weryfikatora, zapewnienia cyfrowego odzwierciedlenia wszystkich podręczników dopuszczonych do użytku szkolnego w postaci papierowej, możliwości wnoszenia urządzeń telekomunikacyjnych, które wyposażone są w aplikację monitorującą stan zdrowia osoby zdającej",
+    "displayAddress": "Dz.U. 2024 poz. 1933",
+    "documentDate": "2024-10-30",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [
+        {
+            "href": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001933",
+            "rel": "isap"
+        },
+        {
+            "href": "https://eli.gov.pl/eli/DU/2024/1933/ogl",
+            "rel": "eli"
+        },
+        {
+            "href": "https://api.sejm.gov.pl/eli/acts/DU/2024/1933",
+            "rel": "eli-api"
+        }
+    ],
+    "number": "759",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2024-10-31",
+    "rclLink": "https://legislacja.rcl.gov.pl/getIdFromLegislacja?number=RM-0610-95-24",
+    "rclNum": "RM-0610-95-24",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2024-10-31",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "759",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-10-31",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "ENM",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-10-31",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "date": "2024-11-08",
+            "stageName": "I czytanie w komisjach",
+            "stageType": "Reading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-11-08",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 3,
+                    "printNumber": "807",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "88",
+                    "rapporteurName": "Elżbieta Gapińska",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/807/807.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2024-11-08",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-11-19",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "ENM",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-11-20",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "comment": "poprawka",
+            "decision": "skierowano ponownie do komisji w celu przedstawienia sprawozdania",
+            "sittingNum": 22,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-11-21",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "807-A",
+                    "proposal": "przyjąć poprawkę",
+                    "rapporteurID": "88",
+                    "rapporteurName": "Elżbieta Gapińska",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/807-A/807-A.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2024-11-21",
+            "stageName": "Praca w komisjach po II czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-11-21",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 0,
+                        "date": "2024-11-21T19:03:38",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/39/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 203,
+                        "no": 202,
+                        "notParticipating": 16,
+                        "present": 0,
+                        "sitting": 22,
+                        "sittingDay": 3,
+                        "term": 10,
+                        "title": "Pkt. 11 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw (druki nr 759, 807 i 807-A)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 444,
+                        "votingNumber": 39,
+                        "yes": 242
+                    }
+                }
+            ],
+            "date": "2024-11-21",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "comment": "wnioski mniejszości, poprawka",
+            "decision": "uchwalono",
+            "sittingNum": 22,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/759/attachment/759_u3.pdf"
+        },
+        {
+            "date": "2024-12-05",
+            "stageName": "Stanowisko Senatu",
+            "position": "nie wniósł poprawek",
+            "stageType": "SenatePosition"
+        },
+        {
+            "date": "2024-12-06",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "date": "2024-12-19",
+            "stageName": "Prezydent podpisał ustawę",
+            "omittedInconsistent": false,
+            "stageType": "PresidentSignature"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw",
+    "titleFinal": "o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-01-09T14:37:56"
+}

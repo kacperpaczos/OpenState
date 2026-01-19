@@ -1,0 +1,46 @@
+{
+    "UE": "NO",
+    "changeDate": "2025-11-18T08:33:27",
+    "description": "projekt dotyczy zmian w zakresie finansowania działalności samorządu adwokackiego i gospodarki finansowej jego organów, zadań samorządu i kompetencji jego organów, obowiązków adwokatów i aplikantów adwokackich dotyczących świadczenia pomocy prawnej, obowiązków adwokatów związanych z członkostwem w samorządzie i ich odpowiedzialności dyscyplinarnej",
+    "documentDate": "2025-10-16",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "1962",
+    "passed": false,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2025-10-17",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2025-10-17",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "1962",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-11-17",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "SPC",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-11-17",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "date": "2025-12-17",
+            "stageName": "I czytanie w komisjach",
+            "stageType": "Reading"
+        }
+    ],
+    "term": 10,
+    "title": "Komisyjny projekt ustawy o zmianie ustawy - Prawo o adwokaturze",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-11-18T08:34:05"
+}

@@ -1,0 +1,71 @@
+{
+    "UE": "NO",
+    "changeDate": "2025-12-18T20:42:50",
+    "description": "projekt dotyczy uchylenia art. 10 ust. 1e ustawy z dnia 7 kwietnia 1989 r. - Prawo o stowarzyszeniach i umożliwienia stosowania stowarzyszeniom i fundacjom środków komunikacji elektronicznej podczas posiedzeń i poza posiedzeniami władz fundacji i stowarzyszeń, w tym do przeprowadzania głosowań, niezależnie od obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii - bez konieczności zmiany statutu organizacji",
+    "documentDate": "2025-09-25",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "1808",
+    "passed": false,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2025-09-25",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2025-09-25",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "1808",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-11-04",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "SPC",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-11-04",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "date": "2025-12-17",
+            "stageName": "I czytanie w komisjach",
+            "stageType": "Reading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-12-17",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "2047",
+                    "proposal": "uchwalić projekt ustawy bez poprawek",
+                    "rapporteurID": "475",
+                    "rapporteurName": "Katarzyna Królak",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/2047/2047.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-12-17",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "date": "2025-12-23",
+            "stageName": "Wpłynęło stanowisko rządu",
+            "stageType": "GovermentPosition",
+            "title": "Stanowisko Rządu do druku nr 1808"
+        }
+    ],
+    "term": 10,
+    "title": "Senacki projekt ustawy o zmianie ustawy o fundacjach oraz ustawy - Prawo o stowarzyszeniach",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-12-18T20:43:11"
+}

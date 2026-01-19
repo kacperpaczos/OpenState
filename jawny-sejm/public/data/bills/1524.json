@@ -1,0 +1,151 @@
+{
+    "ELI": "DU/2025/1563",
+    "UE": "NO",
+    "address": "WDU20250001563",
+    "changeDate": "2025-11-24T11:00:00",
+    "closureDate": "2025-09-26",
+    "description": "projekt dotyczy kodeksu postępowania w relacjach międzypaństwowych opartego na zasadzie pokojowej i przyjaznej współpracy. TAC ma charakter polityczny i wyraża wolę zacieśniania współpracy między stronami, w oparciu o ogólnie przyjęte zasady prawa międzynarodowego. TAC w szczególności potwierdza zasadę pokojowego rozwiązywania sporów między Stronami oraz zobowiązuje do powstrzymania się od groźby lub stosowania siły, a także zobowiązuje jego Strony do nieuczestniczenia w żaden sposób i w żadnej formie w działaniach, które stanowią zagrożenie dla politycznej i gospodarczej stabilności, suwerenności lub integralności terytorialnej którejś z jego Stron.",
+    "displayAddress": "Dz.U. 2025 poz. 1563",
+    "documentDate": "2025-07-15",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [
+        {
+            "href": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001563",
+            "rel": "isap"
+        },
+        {
+            "href": "https://eli.gov.pl/eli/DU/2025/1563/ogl",
+            "rel": "eli"
+        },
+        {
+            "href": "https://api.sejm.gov.pl/eli/acts/DU/2025/1563",
+            "rel": "eli-api"
+        }
+    ],
+    "number": "1524",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2025-07-15",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2025-07-15",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "1524",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-07-22",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "SZA",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-07-22",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "date": "2025-09-09",
+            "stageName": "I czytanie w komisjach",
+            "stageType": "Reading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-09-09",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "1671",
+                    "proposal": "uchwalić projekt ustawy bez poprawek",
+                    "rapporteurID": "425",
+                    "rapporteurName": "Aleksandra Karolina Uznańska-Wiśniewska",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1671/1671.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-09-09",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "date": "2025-09-25",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "decision": "niezwłocznie przystąpiono do III czytania",
+            "sittingNum": 41,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-09-26",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 0,
+                        "date": "2025-09-26T13:41:00",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/41/97/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 1,
+                        "no": 0,
+                        "notParticipating": 36,
+                        "present": 0,
+                        "sitting": 41,
+                        "sittingDay": 3,
+                        "term": 10,
+                        "title": "Pkt. 35 Sprawozdanie Komisji o rządowym projekcie ustawy o ratyfikacji Traktatu o wzajemnych stosunkach i współpracy w Azji Południowo-Wschodniej, sporządzonego w Denpasarze dnia 24 lutego 1976 r., wraz z Protokołami zmieniającymi (druki nr 1524 i 1671)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 424,
+                        "votingNumber": 97,
+                        "yes": 424
+                    }
+                }
+            ],
+            "date": "2025-09-26",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "decision": "uchwalono",
+            "sittingNum": 41,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/1524/attachment/1524_u3.pdf"
+        },
+        {
+            "date": "2025-10-16",
+            "stageName": "Stanowisko Senatu",
+            "position": "nie wniósł poprawek",
+            "stageType": "SenatePosition"
+        },
+        {
+            "date": "2025-10-17",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "date": "2025-11-04",
+            "stageName": "Prezydent podpisał ustawę",
+            "omittedInconsistent": false,
+            "stageType": "PresidentSignature"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o ratyfikacji Traktatu o wzajemnych stosunkach i współpracy w Azji Południowo-Wschodniej, sporządzonego w Denpasarze dnia 24 lutego 1976 r., wraz z Protokołami zmieniającymi",
+    "titleFinal": "o ratyfikacji Traktatu o wzajemnych stosunkach i współpracy w Azji Południowo-Wschodniej, sporządzonego w Denpasarze dnia 24 lutego 1976 r., wraz z Protokołami zmieniającymi",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-11-25T10:55:48"
+}

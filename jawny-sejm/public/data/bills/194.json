@@ -1,0 +1,98 @@
+{
+    "UE": "NO",
+    "changeDate": "2024-06-12T10:13:13",
+    "closureDate": "2024-06-10",
+    "description": "projekt dotyczy zgodnie z uzasadnieniem - podniesienia kwoty wolnej od podatku dla wszystkich do wysokości równej dwunastokrotności minimalnego wynagrodzenia za pracę, ale nie mniejszej niż 60 000 zł",
+    "documentDate": "2023-11-13",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "194",
+    "passed": false,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2023-11-13",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2023-11-13",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "194",
+            "stageType": "Start"
+        },
+        {
+            "date": "2023-11-16",
+            "stageName": "Opinia organizacji samorządowej",
+            "organ": "Organizacja samorządowa",
+            "stageType": "Opinion"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-02-07",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "Sejm",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-02-07",
+            "stageName": "Skierowano do I czytania na posiedzeniu Sejmu",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-03-20",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "FPB",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                },
+                {
+                    "date": "2024-03-20",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 0,
+                        "date": "2024-03-20T18:45:32",
+                        "description": "wniosek o wyznaczenie terminu na przedstawienie sprawozdania przez Komisję",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/8/19/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 239,
+                        "no": 238,
+                        "notParticipating": 25,
+                        "present": 0,
+                        "sitting": 8,
+                        "sittingDay": 1,
+                        "term": 10,
+                        "title": "Pkt. 6 Pierwsze czytanie poselskiego projektu ustawy o zmianie ustawy o podatku dochodowym od osób fizycznych (druk nr 194)",
+                        "topic": "wniosek o wyznaczenie terminu na przedstawienie sprawozdania (art. 39 ust. 3 regulaminu Sejmu)",
+                        "totalVoted": 434,
+                        "votingNumber": 19,
+                        "yes": 196
+                    }
+                }
+            ],
+            "date": "2024-03-20",
+            "stageName": "I czytanie na posiedzeniu Sejmu",
+            "sittingNum": 8,
+            "stageType": "SejmReading"
+        },
+        {
+            "date": "2024-06-10",
+            "stageName": "Wycofano",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Poselski projekt ustawy o zmianie ustawy o podatku dochodowym od osób fizycznych",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2024-06-12T10:13:29"
+}

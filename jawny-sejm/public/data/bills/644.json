@@ -1,0 +1,41 @@
+{
+    "UE": "NO",
+    "changeDate": "2024-09-11T10:57:11",
+    "description": "projekt dotyczy przekazania skarbowych papierów wartościowych o łącznej wartości 1667 mln zł na rzecz wskazanych w projekcie 14 uczelni oraz szpitala klinicznego",
+    "documentDate": "2024-05-15",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "644",
+    "passed": false,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2024-05-15",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2024-05-15",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "644",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-09-11",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "FPB",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-09-11",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        }
+    ],
+    "term": 10,
+    "title": "Poselski projekt ustawy o zmianie ustawy o szczególnych rozwiązaniach służących realizacji ustawy budżetowej na rok 2024",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2024-09-11T10:57:35"
+}

@@ -1,0 +1,48 @@
+{
+    "UE": "NO",
+    "changeDate": "2025-05-06T16:06:21",
+    "description": "projekt dotyczy wprowadzenia do systemu emerytalnego nowej uprzywilejowanej grupy zawodowej - tancerzy zawodowych; projekt umożliwia przejście na emeryturę przez tancerzy zawodowych w wieku 40 lat w przypadku kobiet i 45 lat w przypadku mężczyzn, po przepracowaniu co najmniej 20 lat w zawodzie",
+    "documentDate": "2025-03-13",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "1141",
+    "passed": false,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2025-03-14",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2025-03-14",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "1141",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-05-06",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "KSP",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                },
+                {
+                    "date": "2025-05-06",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "PSR",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-05-06",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        }
+    ],
+    "term": 10,
+    "title": "Senacki projekt ustawy o zmianie ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych oraz ustawy o emeryturach pomostowych",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-07-15T09:17:23"
+}

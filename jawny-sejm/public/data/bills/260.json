@@ -1,0 +1,77 @@
+{
+    "UE": "NO",
+    "changeDate": "2024-12-05T18:15:10",
+    "description": "projekt dotyczy m. in. usprawnienia procesu wydawania lekarzom weterynarii zaświadczeń o prawie wykonywania zawodu lekarza weterynarii oraz dyplomów lekarzom weterynarii, wprowadzenia zmian dotyczących opieki nad zwierzętami, głównie w zakresie postępowań w przedmiocie odbierania zwierząt oraz rozróżnienia pomiędzy \"znęcaniem się nad zwierzęciem\" a \"uchybieniami w standardach pielęgnacji\"",
+    "documentDate": "2024-02-15",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "260",
+    "otherDocuments": [
+        {
+            "documentDate": "2024-05-22",
+            "number": "260-A",
+            "registeredDate": "2024-05-22",
+            "title": "Autopoprawka do poselskiego projektu ustawy o szczególnych rozwiązaniach mających na celu poprawę nadzoru nad zdrowiem i ochroną zwierząt"
+        }
+    ],
+    "passed": false,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2024-02-15",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2024-02-15",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "otherDocuments": [
+                {
+                    "documentDate": "2024-05-22",
+                    "number": "260-A",
+                    "registeredDate": "2024-05-22",
+                    "title": "Autopoprawka do poselskiego projektu ustawy o szczególnych rozwiązaniach mających na celu poprawę nadzoru nad zdrowiem i ochroną zwierząt"
+                }
+            ],
+            "printNumber": "260",
+            "stageType": "Start"
+        },
+        {
+            "date": "2024-02-23",
+            "stageName": "Opinia organizacji samorządowej",
+            "organ": "Organizacja samorządowa",
+            "stageType": "Opinion"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-03-19",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "RRW",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                },
+                {
+                    "date": "2024-12-05",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "NOZ",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                },
+                {
+                    "date": "2024-12-05",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "RRW",
+                    "stageType": "Referral",
+                    "type": "WITHDRAWAL"
+                }
+            ],
+            "date": "2024-03-19",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        }
+    ],
+    "term": 10,
+    "title": "Poselski projekt ustawy o szczególnych rozwiązaniach mających na celu poprawę nadzoru nad zdrowiem i ochroną zwierząt",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2024-12-05T18:15:24"
+}

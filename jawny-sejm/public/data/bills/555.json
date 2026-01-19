@@ -1,0 +1,47 @@
+{
+    "UE": "NO",
+    "changeDate": "2024-07-22T19:34:00",
+    "description": "projekt dotyczy przyznania pracownikom Służby Parku Narodowego, używającym własnych pojazdów do celów służbowych w jazdach lokalnych, prawa do zwrotu kosztów związanych z używaniem tych pojazdów",
+    "documentDate": "2024-06-28",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "555",
+    "passed": false,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2024-06-28",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2024-06-28",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "555",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-07-22",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "OSZ",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-07-22",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "date": "2025-04-03",
+            "stageName": "Wpłynęło stanowisko rządu",
+            "stageType": "GovermentPosition",
+            "title": "Stanowisko Rządu do druku nr 555"
+        }
+    ],
+    "term": 10,
+    "title": "Poselski projekt ustawy o zmianie ustawy o ochronie przyrody",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2024-07-22T19:34:16"
+}

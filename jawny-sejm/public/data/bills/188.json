@@ -1,0 +1,222 @@
+{
+    "ELI": "DU/2024/232",
+    "UE": "ENFORCEMENT",
+    "address": "WDU20240000232",
+    "changeDate": "2024-02-28T09:25:34",
+    "closureDate": "2024-02-09",
+    "displayAddress": "Dz.U. 2024 poz. 232",
+    "documentDate": "2024-02-06",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [
+        {
+            "href": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000232",
+            "rel": "isap"
+        },
+        {
+            "href": "https://eli.gov.pl/eli/DU/2024/232/ogl",
+            "rel": "eli"
+        },
+        {
+            "href": "https://api.sejm.gov.pl/eli/acts/DU/2024/232",
+            "rel": "eli-api"
+        }
+    ],
+    "number": "188",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2024-02-06",
+    "rclLink": "https://legislacja.rcl.gov.pl/getIdFromLegislacja?number=RM-0610-5-24",
+    "rclNum": "RM-0610-5-24",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2024-02-06",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "188",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-02-06",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "Sejm",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-02-06",
+            "stageName": "Skierowano do I czytania na posiedzeniu Sejmu",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-02-07",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "FPB",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                },
+                {
+                    "date": "2024-02-07",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 0,
+                        "date": "2024-02-07T12:33:49",
+                        "description": "wniosek o odrzucenie projektu ustawy w pierwszym czytaniu",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/5/4/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 392,
+                        "no": 391,
+                        "notParticipating": 51,
+                        "present": 0,
+                        "sitting": 5,
+                        "sittingDay": 1,
+                        "term": 10,
+                        "title": "Pkt. 1 Pierwsze czytanie rządowego projektu ustawy o zmianie ustawy o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa, ustawy o podatku dochodowym od osób fizycznych oraz ustawy o podatku dochodowym od osób prawnych (druk nr 188)",
+                        "topic": "wniosek o odrzucenie projektu w pierwszym czytaniu.",
+                        "totalVoted": 407,
+                        "votingNumber": 4,
+                        "yes": 16
+                    }
+                }
+            ],
+            "date": "2024-02-07",
+            "stageName": "I czytanie na posiedzeniu Sejmu",
+            "sittingNum": 5,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-02-07",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "196",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "334",
+                    "rapporteurName": "Krystyna Sibińska",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/196/196.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2024-02-07",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-02-08",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "FPB",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-02-08",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "comment": "wniosek o odrzucenie, poprawki",
+            "decision": "skierowano ponownie do komisji w celu przedstawienia sprawozdania",
+            "sittingNum": 5,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-02-08",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "196-A",
+                    "proposal": "odrzucić poprawki",
+                    "rapporteurID": "334",
+                    "rapporteurName": "Krystyna Sibińska",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/196-A/196-A.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2024-02-08",
+            "stageName": "Praca w komisjach po II czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-02-09",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 1,
+                        "date": "2024-02-09T09:42:51",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/5/28/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 16,
+                        "no": 15,
+                        "notParticipating": 28,
+                        "present": 0,
+                        "sitting": 5,
+                        "sittingDay": 3,
+                        "term": 10,
+                        "title": "Pkt. 9 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa, ustawy o podatku dochodowym od osób fizycznych oraz ustawy o podatku dochodowym od osób prawnych (druki nr 188, 196 i 196-A)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 430,
+                        "votingNumber": 28,
+                        "yes": 414
+                    }
+                }
+            ],
+            "date": "2024-02-09",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "comment": "wniosek o odrzucenie, poprawki",
+            "decision": "uchwalono",
+            "sittingNum": 5,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/188/attachment/188_u3.pdf"
+        },
+        {
+            "date": "2024-02-15",
+            "stageName": "Stanowisko Senatu",
+            "position": "nie wniósł poprawek",
+            "stageType": "SenatePosition"
+        },
+        {
+            "date": "2024-02-16",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "date": "2024-02-19",
+            "stageName": "Prezydent podpisał ustawę",
+            "omittedInconsistent": false,
+            "stageType": "PresidentSignature"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o zmianie ustawy o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa, ustawy o podatku dochodowym od osób fizycznych oraz ustawy o podatku dochodowym od osób prawnych",
+    "titleFinal": "o zmianie ustawy o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa, ustawy o podatku dochodowym od osób fizycznych oraz ustawy o podatku dochodowym od osób prawnych",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2024-03-08T08:30:48"
+}

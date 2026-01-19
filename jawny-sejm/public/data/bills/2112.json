@@ -1,0 +1,125 @@
+{
+    "UE": "NO",
+    "changeDate": "2026-01-12T10:01:11",
+    "closureDate": "2026-01-09",
+    "description": "projekt dotyczy wprowadzenia kluczowej zmiany legislacyjnej, która zapewni stabilne i przewidywalne ramy prawne dla dalszego funkcjonowania istniejących, rynkowych systemów zwrotu szklanych butelek wielokrotnego użytku.",
+    "documentDate": "2025-12-19",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "2112",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2025-12-19",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2025-12-19",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "2112",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-12-31",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "OSZ",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                },
+                {
+                    "date": "2025-12-31",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "GOR",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-12-31",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "date": "2026-01-08",
+            "stageName": "I czytanie w komisjach",
+            "stageType": "Reading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2026-01-08",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "2138",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "209",
+                    "rapporteurName": "Gabriela Lenartowicz",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/2138/2138.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2026-01-08",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "date": "2026-01-08",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "decision": "niezwłocznie przystąpiono do III czytania",
+            "sittingNum": 49,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2026-01-09",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 191,
+                        "date": "2026-01-09T17:12:50",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/49/32/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 10,
+                        "no": 9,
+                        "notParticipating": 19,
+                        "present": 0,
+                        "sitting": 49,
+                        "sittingDay": 2,
+                        "term": 10,
+                        "title": "Pkt. 9 Sprawozdanie Komisji o poselskim projekcie ustawy o zmianie ustawy o gospodarce opakowaniami i odpadami opakowaniowymi oraz ustawy o zmianie ustawy o gospodarce opakowaniami i odpadami opakowaniowymi oraz niektórych innych ustaw (druki nr 2112 i 2138)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 441,
+                        "votingNumber": 32,
+                        "yes": 241
+                    }
+                }
+            ],
+            "date": "2026-01-09",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "decision": "uchwalono",
+            "sittingNum": 49,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/2112/attachment/2112_u3.pdf"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Poselski projekt ustawy o zmianie ustawy o gospodarce opakowaniami i odpadami opakowaniowymi oraz ustawy o zmianie ustawy o gospodarce opakowaniami i odpadami opakowaniowymi oraz niektórych innych ustaw",
+    "titleFinal": "o zmianie ustawy o gospodarce opakowaniami i odpadami opakowaniowymi, ustawy o odpadach oraz ustawy o zmianie ustawy o gospodarce opakowaniami i odpadami opakowaniowymi oraz niektórych innych ustaw",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2026-01-12T10:01:23"
+}

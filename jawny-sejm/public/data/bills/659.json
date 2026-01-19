@@ -1,0 +1,81 @@
+{
+    "UE": "NO",
+    "changeDate": "2025-07-23T19:10:01",
+    "description": "projekt dotyczy wprowadzenia zerowej stawki akcyzy na cydr i perry o rzeczywistej objętościowej mocy alkoholu nieprzekraczającej 5,0% objętości, zamiast obecnie obowiązującej stawki - 97,00 zł od 1 hektolitra gotowego wyrobu",
+    "documentDate": "2024-07-19",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "659",
+    "passed": false,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2024-07-19",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2024-07-19",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "659",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-09-13",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "Sejm",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-09-13",
+            "stageName": "Skierowano do I czytania na posiedzeniu Sejmu",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-10-17",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "FPB",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-10-17",
+            "stageName": "I czytanie na posiedzeniu Sejmu",
+            "sittingNum": 20,
+            "stageType": "SejmReading"
+        },
+        {
+            "date": "2024-11-21",
+            "stageName": "Wpłynęło stanowisko rządu",
+            "stageType": "GovermentPosition",
+            "title": "Stanowisko Rządu do druku nr 659"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-07-22",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "1536",
+                    "proposal": "odrzucić projekt ustawy",
+                    "rapporteurID": "462",
+                    "rapporteurName": "Magdalena Łośko",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1536/1536.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-07-22",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        }
+    ],
+    "term": 10,
+    "title": "Poselski projekt ustawy o zmianie ustawy o podatku akcyzowym",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-07-23T19:10:17"
+}

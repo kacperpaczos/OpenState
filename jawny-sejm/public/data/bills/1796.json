@@ -1,0 +1,158 @@
+{
+    "ELI": "DU/2025/1841",
+    "UE": "NO",
+    "address": "WDU20250001841",
+    "changeDate": "2026-01-02T12:46:08",
+    "closureDate": "2025-11-21",
+    "description": "projekt dotyczy możliwości zatrudniania lokalnych pracowników cywilnych na terytorium Rzeczypospolitej Polskiej przez siły zbrojne Stanów Zjednoczonych Ameryki i organizacje prowadzące wojskową działalność usługową",
+    "displayAddress": "Dz.U. 2025 poz. 1841",
+    "documentDate": "2025-10-03",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [
+        {
+            "href": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001841",
+            "rel": "isap"
+        },
+        {
+            "href": "https://eli.gov.pl/eli/DU/2025/1841/ogl",
+            "rel": "eli"
+        },
+        {
+            "href": "https://api.sejm.gov.pl/eli/acts/DU/2025/1841",
+            "rel": "eli-api"
+        }
+    ],
+    "number": "1796",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2025-10-06",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2025-10-06",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "1796",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-10-08",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "SZA",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                },
+                {
+                    "date": "2025-10-08",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "PSR",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-10-08",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "date": "2025-11-05",
+            "stageName": "I czytanie w komisjach",
+            "stageType": "Reading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-11-05",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "1841",
+                    "proposal": "uchwalić projekt ustawy bez poprawek",
+                    "rapporteurID": "425",
+                    "rapporteurName": "Aleksandra Karolina Uznańska-Wiśniewska",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1841/1841.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-11-05",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "date": "2025-11-20",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "decision": "niezwłocznie przystąpiono do III czytania",
+            "sittingNum": 45,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-11-21",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 1,
+                        "date": "2025-11-21T11:05:28",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/45/111/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 1,
+                        "no": 0,
+                        "notParticipating": 27,
+                        "present": 0,
+                        "sitting": 45,
+                        "sittingDay": 4,
+                        "term": 10,
+                        "title": "Pkt. 27 Sprawozdanie Komisji o rządowym projekcie ustawy o ratyfikacji Porozumienia wykonawczego między Rządem Rzeczypospolitej Polskiej a Rządem Stanów Zjednoczonych Ameryki do Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Stanów Zjednoczonych Ameryki o wzmocnionej współpracy obronnej w sprawie zatrudniania lokalnych pracowników cywilnych, podpisanego w Warszawie dnia 20 lutego 2025 r. oraz w Stuttgarcie dnia 3 kwietnia 2025 r. (druki nr 1796 i 1841)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 433,
+                        "votingNumber": 111,
+                        "yes": 432
+                    }
+                }
+            ],
+            "date": "2025-11-21",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "decision": "uchwalono",
+            "sittingNum": 45,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/1796/attachment/1796_u3.pdf"
+        },
+        {
+            "date": "2025-12-10",
+            "stageName": "Stanowisko Senatu",
+            "position": "nie wniósł poprawek",
+            "stageType": "SenatePosition"
+        },
+        {
+            "date": "2025-12-11",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "date": "2025-12-18",
+            "stageName": "Prezydent podpisał ustawę",
+            "omittedInconsistent": false,
+            "stageType": "PresidentSignature"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o ratyfikacji Porozumienia wykonawczego między Rządem Rzeczypospolitej Polskiej a Rządem Stanów Zjednoczonych Ameryki do Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Stanów Zjednoczonych Ameryki o wzmocnionej współpracy obronnej w sprawie zatrudniania lokalnych pracowników cywilnych, podpisanego w Warszawie dnia 20 lutego 2025 r. oraz w Stuttgarcie dnia 3 kwietnia 2025 r.",
+    "titleFinal": "o ratyfikacji Porozumienia wykonawczego między Rządem Rzeczypospolitej Polskiej a Rządem Stanów Zjednoczonych Ameryki do Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Stanów Zjednoczonych Ameryki o wzmocnionej współpracy obronnej w sprawie zatrudniania lokalnych pracowników cywilnych, podpisanego w Warszawie dnia 20 lutego 2025 r. oraz w Stuttgarcie dnia 3 kwietnia 2025 r.",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2026-01-07T08:26:26"
+}

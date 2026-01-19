@@ -1,0 +1,43 @@
+{
+    "UE": "NO",
+    "changeDate": "2025-12-30T15:15:00",
+    "description": "projekt dotyczy utworzenia Uniwersytetu Bezpieczeństwa Narodowego, który powstanie w wyniku przekształcenia istniejącej Akademii Sztuki Wojennej; transformacji Akademii w uczelnię, która poprzez swoją działalność dydaktyczną i naukowo-badawczą będzie wiodącym, również w wymiarze międzynarodowym, ośrodkiem rozwoju myśli strategicznej, innowacji technologicznych oraz interdyscyplinarnych badań nad bezpieczeństwem. Przekształcenie to umożliwi realizację zaawansowanych programów badawczych w obszarze obronności i bezpieczeństwa, inżynierii bezpieczeństwa oraz kształcenie wojskowe i cywilne na najwyższym poziomie we współpracy z uniwersytetami obrony państw sojuszniczych",
+    "documentDate": "2025-12-19",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "2109",
+    "passed": false,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2025-12-22",
+    "rclLink": "https://legislacja.rcl.gov.pl/getIdFromLegislacja?number=RM-0610-221-25",
+    "rclNum": "RM-0610-221-25",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2025-12-22",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "2109",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-12-30",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "OBN",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-12-30",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o utworzeniu Uniwersytetu Bezpieczeństwa Narodowego",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-12-30T15:15:17"
+}

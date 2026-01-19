@@ -1,0 +1,183 @@
+{
+    "ELI": "DU/2024/1826",
+    "UE": "NO",
+    "address": "WDU20240001826",
+    "changeDate": "2024-12-16T12:23:27",
+    "closureDate": "2024-11-27",
+    "description": "projekt dotyczy umożliwienia dokapitalizowania podmiotów polskiego przemysłu zbrojeniowego w celu realizacji przedsięwzięć związanych ze zwiększeniem zdolności produkcji amunicji",
+    "displayAddress": "Dz.U. 2024 poz. 1826",
+    "documentDate": "2024-11-19",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [
+        {
+            "href": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001826",
+            "rel": "isap"
+        },
+        {
+            "href": "https://eli.gov.pl/eli/DU/2024/1826/ogl",
+            "rel": "eli"
+        },
+        {
+            "href": "https://api.sejm.gov.pl/eli/acts/DU/2024/1826",
+            "rel": "eli-api"
+        }
+    ],
+    "number": "839",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2024-11-19",
+    "rclLink": "https://legislacja.rcl.gov.pl/getIdFromLegislacja?number=RM-0610-106-24",
+    "rclNum": "RM-0610-106-24",
+    "shortenProcedure": true,
+    "stages": [
+        {
+            "date": "2024-11-19",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "839",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-11-19",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "FPB",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-11-19",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "date": "2024-11-26",
+            "stageName": "I czytanie w komisjach",
+            "stageType": "Reading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-11-26",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "858",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "334",
+                    "rapporteurName": "Krystyna Sibińska",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/858/858.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2024-11-26",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-11-27",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "FPB",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-11-27",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "comment": "poprawka",
+            "decision": "skierowano ponownie do komisji w celu przedstawienia sprawozdania",
+            "sittingNum": 22,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-11-27",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "858-A",
+                    "proposal": "odrzucić poprawkę",
+                    "rapporteurID": "334",
+                    "rapporteurName": "Krystyna Sibińska",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/858-A/858-A.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2024-11-27",
+            "stageName": "Praca w komisjach po II czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-11-27",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 0,
+                        "date": "2024-11-27T21:10:15",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/140/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 1,
+                        "no": 0,
+                        "notParticipating": 36,
+                        "present": 0,
+                        "sitting": 22,
+                        "sittingDay": 5,
+                        "term": 10,
+                        "title": "Pkt. 38 Sprawozdanie Komisji o rządowym projekcie ustawy o zapewnieniu finansowania działań zmierzających do zwiększenia zdolności produkcji amunicji (druki nr 839, 858 i 858-A)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 424,
+                        "votingNumber": 140,
+                        "yes": 424
+                    }
+                }
+            ],
+            "date": "2024-11-27",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "comment": "poprawka",
+            "decision": "uchwalono",
+            "sittingNum": 22,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/839/attachment/839_u3.pdf"
+        },
+        {
+            "date": "2024-12-04",
+            "stageName": "Stanowisko Senatu",
+            "position": "nie wniósł poprawek",
+            "stageType": "SenatePosition"
+        },
+        {
+            "date": "2024-12-05",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "date": "2024-12-09",
+            "stageName": "Prezydent podpisał ustawę",
+            "omittedInconsistent": false,
+            "stageType": "PresidentSignature"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o zapewnieniu finansowania działań zmierzających do zwiększenia zdolności produkcji amunicji",
+    "titleFinal": "o finansowaniu działań zmierzających do zwiększenia zdolności produkcji amunicji",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2024-12-18T08:27:39"
+}

@@ -1,0 +1,74 @@
+{
+    "UE": "NO",
+    "changeDate": "2025-12-05T11:33:44",
+    "description": "projekt dotyczy skrócenia czasu rozpatrzenia przez urząd wniosku o wycinkę drzewa do maksymalnie 60 dni. Nowe przepisy realizują działania deregulacyjne rządu.",
+    "documentDate": "2025-07-02",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "1447",
+    "passed": false,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2025-07-02",
+    "rclLink": "https://legislacja.rcl.gov.pl/getIdFromLegislacja?number=RM-0610-119-25",
+    "rclNum": "RM-0610-119-25",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2025-07-02",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "1447",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-07-07",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "DER",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                },
+                {
+                    "date": "2025-07-07",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "STR",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-07-07",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "date": "2025-07-30",
+            "stageName": "I czytanie w komisjach",
+            "stageType": "Reading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-12-04",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 2,
+                    "printNumber": "1564",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "220",
+                    "rapporteurName": "Artur Jarosław Łącki",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1564/1564.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-12-04",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o zmianie ustawy o ochronie przyrody",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-12-05T11:34:06"
+}

@@ -1,0 +1,41 @@
+{
+    "UE": "NO",
+    "changeDate": "2025-03-05T11:13:09",
+    "description": "projekt dotyczy usunięcia przepisów pozwalających na uprzywilejowane traktowanie obywateli Ukrainy względem obywateli Rzeczypospolitej Polskiej w zakresie dostępu do określonych świadczeń socjalnych oraz w zakresie możliwości zatrudnienia ich odpowiednio w jednostkach naukowych oraz innych jednostkach organizacyjnych PAN, instytucie badawczym oraz Centrum Łukasiewicz lub instytucie działającym w ramach Sieci Badawczej Łukasiewicz bez przeprowadzania konkursu",
+    "documentDate": "2025-01-23",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "1039",
+    "passed": false,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2025-01-23",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2025-01-23",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "1039",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-03-05",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "PSR",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-03-05",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        }
+    ],
+    "term": 10,
+    "title": "Poselski projekt ustawy o zmianie ustawy o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-03-05T11:13:28"
+}

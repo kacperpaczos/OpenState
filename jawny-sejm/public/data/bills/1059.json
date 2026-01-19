@@ -1,0 +1,94 @@
+{
+    "UE": "NO",
+    "changeDate": "2025-11-07T09:56:45",
+    "closureDate": "2025-03-06",
+    "description": "projekt dotyczy uporządkowania obowiązujących norm prawnych dotyczących funkcjonowania administracji rządowej, w celu usprawnienia funkcjonowania Rady Ministrów oraz jednostek tworzących administrację rządową",
+    "documentDate": "2025-02-19",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "1059",
+    "passed": false,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2025-02-19",
+    "rclLink": "https://legislacja.rcl.gov.pl/getIdFromLegislacja?number=RM-0610-10-25",
+    "rclNum": "RM-0610-10-25",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2025-02-19",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "1059",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-02-26",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "Sejm",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-02-26",
+            "stageName": "Skierowano do I czytania na posiedzeniu Sejmu",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-03-07",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "ASW",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                },
+                {
+                    "date": "2025-03-07",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 0,
+                        "date": "2025-03-07T12:57:16",
+                        "description": "wniosek o odrzucenie projektu ustawy w pierwszym czytaniu",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/30/29/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 252,
+                        "no": 251,
+                        "notParticipating": 30,
+                        "present": 0,
+                        "sitting": 30,
+                        "sittingDay": 3,
+                        "term": 10,
+                        "title": "Pkt. 15 Pierwsze czytanie rządowego projektu ustawy o zmianie ustawy o Radzie Ministrów oraz niektórych innych ustaw (druk nr 1059)",
+                        "topic": "wniosek o odrzucenie projektu w pierwszym czytaniu.",
+                        "totalVoted": 430,
+                        "votingNumber": 29,
+                        "yes": 179
+                    }
+                }
+            ],
+            "date": "2025-03-07",
+            "stageName": "I czytanie na posiedzeniu Sejmu",
+            "sittingNum": 30,
+            "stageType": "SejmReading"
+        },
+        {
+            "date": "2025-03-06",
+            "stageName": "Wycofano",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o zmianie ustawy o Radzie Ministrów oraz niektórych innych ustaw",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-11-07T09:59:25"
+}

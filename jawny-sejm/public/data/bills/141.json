@@ -1,0 +1,204 @@
+{
+    "ELI": "DU/2024/124",
+    "UE": "NO",
+    "address": "WDU20240000124",
+    "changeDate": "2024-02-06T09:43:32",
+    "closureDate": "2024-01-16",
+    "description": "projekt dotyczy wydłużenia maksymalnego terminu prowadzenia studiów doktoranckich - z dnia 31 grudnia 2023 r. na dzień 31 grudnia 2024 r.",
+    "displayAddress": "Dz.U. 2024 poz. 124",
+    "documentDate": "2023-12-28",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [
+        {
+            "href": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000124",
+            "rel": "isap"
+        },
+        {
+            "href": "https://eli.gov.pl/eli/DU/2024/124/ogl",
+            "rel": "eli"
+        },
+        {
+            "href": "https://api.sejm.gov.pl/eli/acts/DU/2024/124",
+            "rel": "eli-api"
+        }
+    ],
+    "number": "141",
+    "otherDocuments": [
+        {
+            "documentDate": "2024-01-12",
+            "number": "141-A",
+            "registeredDate": "2024-01-12",
+            "title": "Autopoprawka do projektu ustawy o zmianie ustawy - Przepisy wprowadzające ustawę - Prawo o szkolnictwie wyższym i nauce"
+        }
+    ],
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2023-12-28",
+    "rclLink": "https://legislacja.rcl.gov.pl/getIdFromLegislacja?number=RM-0610-140-23",
+    "rclNum": "RM-0610-140-23",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2023-12-28",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "otherDocuments": [
+                {
+                    "documentDate": "2024-01-12",
+                    "number": "141-A",
+                    "registeredDate": "2024-01-12",
+                    "title": "Autopoprawka do projektu ustawy o zmianie ustawy - Przepisy wprowadzające ustawę - Prawo o szkolnictwie wyższym i nauce"
+                }
+            ],
+            "printNumber": "141",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2023-12-29",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "ENM",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2023-12-29",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "date": "2024-01-15",
+            "stageName": "I czytanie w komisjach",
+            "stageType": "Reading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-01-15",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "153",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "237",
+                    "rapporteurName": "Katarzyna Matusik-Lipiec",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/153/153.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2024-01-15",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-01-16",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "ENM",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-01-16",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "comment": "poprawki",
+            "decision": "skierowano ponownie do komisji w celu przedstawienia sprawozdania",
+            "sittingNum": 2,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-01-16",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "153-A",
+                    "proposal": "odrzucić poprawki",
+                    "rapporteurID": "237",
+                    "rapporteurName": "Katarzyna Matusik-Lipiec",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/153-A/153-A.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2024-01-16",
+            "stageName": "Praca w komisjach po II czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-01-16",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 0,
+                        "date": "2024-01-16T19:11:27",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/2/10/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 186,
+                        "no": 185,
+                        "notParticipating": 31,
+                        "present": 0,
+                        "sitting": 2,
+                        "sittingDay": 1,
+                        "term": 10,
+                        "title": "Pkt. 3 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Przepisy wprowadzające ustawę - Prawo o szkolnictwie wyższym i nauce (druki nr 141, 141-A, 153 i 153-A)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 426,
+                        "votingNumber": 10,
+                        "yes": 241
+                    }
+                }
+            ],
+            "date": "2024-01-16",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "comment": "poprawki",
+            "decision": "uchwalono",
+            "sittingNum": 2,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/141/attachment/141_u3.pdf"
+        },
+        {
+            "date": "2024-01-17",
+            "stageName": "Stanowisko Senatu",
+            "position": "nie wniósł poprawek",
+            "stageType": "SenatePosition"
+        },
+        {
+            "date": "2024-01-18",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "date": "2024-01-31",
+            "stageName": "Prezydent skierował ustawę do Trybunału Konstytucyjnego",
+            "stageType": "PresidentToTribunal"
+        },
+        {
+            "date": "2024-01-31",
+            "stageName": "Prezydent podpisał ustawę",
+            "omittedInconsistent": false,
+            "stageType": "PresidentSignature"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o zmianie ustawy - Przepisy wprowadzające ustawę - Prawo o szkolnictwie wyższym i nauce",
+    "titleFinal": "o zmianie ustawy - Przepisy wprowadzające ustawę - Prawo o szkolnictwie wyższym i nauce oraz ustawy - Prawo o szkolnictwie wyższym i nauce",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2024-02-06T09:43:44"
+}

@@ -1,0 +1,183 @@
+{
+    "ELI": "DU/2025/1160",
+    "UE": "NO",
+    "address": "WDU20250001160",
+    "changeDate": "2025-09-03T10:00:18",
+    "closureDate": "2025-07-25",
+    "description": "projekt dotyczy m.in.: zwiększenia np. wysokość nagrody jubileuszowej za 40 lat pracy i podniesiona zostanie wysokość odpraw; ograniczenia realizacji zastępstw w czasie zajęć obowiązkowych. Nowe przepisy przewidują umożliwienie przedłużenia pełnienia stanowiska dyrektora szkoły na jedną następną kadencję.",
+    "displayAddress": "Dz.U. 2025 poz. 1160",
+    "documentDate": "2025-07-08",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [
+        {
+            "href": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001160",
+            "rel": "isap"
+        },
+        {
+            "href": "https://eli.gov.pl/eli/DU/2025/1160/ogl",
+            "rel": "eli"
+        },
+        {
+            "href": "https://api.sejm.gov.pl/eli/acts/DU/2025/1160",
+            "rel": "eli-api"
+        }
+    ],
+    "number": "1472",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2025-07-08",
+    "rclLink": "https://legislacja.rcl.gov.pl/getIdFromLegislacja?number=RM-0610-128-25",
+    "rclNum": "RM-0610-128-25",
+    "shortenProcedure": true,
+    "stages": [
+        {
+            "date": "2025-07-08",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "1472",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-07-09",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "ENM",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-07-09",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "date": "2025-07-10",
+            "stageName": "I czytanie w komisjach",
+            "stageType": "Reading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-07-10",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 1,
+                    "printNumber": "1476",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "195",
+                    "rapporteurName": "Adam Krzemiński",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1476/1476.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-07-10",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-07-23",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "ENM",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-07-23",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "comment": "poprawki",
+            "decision": "skierowano ponownie do komisji w celu przedstawienia sprawozdania",
+            "sittingNum": 39,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-07-24",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "1476-A",
+                    "proposal": "odrzucić poprawki",
+                    "rapporteurID": "195",
+                    "rapporteurName": "Adam Krzemiński",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1476-A/1476-A.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-07-24",
+            "stageName": "Praca w komisjach po II czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-07-25",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 3,
+                        "date": "2025-07-25T15:36:45",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/39/45/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 1,
+                        "no": 0,
+                        "notParticipating": 27,
+                        "present": 0,
+                        "sitting": 39,
+                        "sittingDay": 4,
+                        "term": 10,
+                        "title": "Pkt. 22 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Karta Nauczyciela oraz niektórych innych ustaw (druki nr 1472, 1476 i 1476-A)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 433,
+                        "votingNumber": 45,
+                        "yes": 430
+                    }
+                }
+            ],
+            "date": "2025-07-25",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "comment": "wniosek mniejszości, poprawki",
+            "decision": "uchwalono",
+            "sittingNum": 39,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/1472/attachment/1472_u3.pdf"
+        },
+        {
+            "date": "2025-07-31",
+            "stageName": "Stanowisko Senatu",
+            "position": "nie wniósł poprawek",
+            "stageType": "SenatePosition"
+        },
+        {
+            "date": "2025-08-04",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "date": "2025-08-21",
+            "stageName": "Prezydent podpisał ustawę",
+            "omittedInconsistent": false,
+            "stageType": "PresidentSignature"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o zmianie ustawy - Karta Nauczyciela oraz niektórych innych ustaw",
+    "titleFinal": "o zmianie ustawy - Karta Nauczyciela oraz niektórych innych ustaw",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-09-03T11:13:12"
+}

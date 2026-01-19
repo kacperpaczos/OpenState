@@ -1,0 +1,183 @@
+{
+    "ELI": "DU/2025/1609",
+    "UE": "NO",
+    "address": "WDU20250001609",
+    "changeDate": "2025-12-09T14:07:53",
+    "closureDate": "2025-10-09",
+    "description": "projekt dotyczy umożliwienia asesorom sądowym orzekania we wszystkich kategoriach spraw, którymi zajmują się wydziały rodzinne i nieletnich w sądach rejonowych",
+    "displayAddress": "Dz.U. 2025 poz. 1609",
+    "documentDate": "2025-09-03",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [
+        {
+            "href": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001609",
+            "rel": "isap"
+        },
+        {
+            "href": "https://eli.gov.pl/eli/DU/2025/1609/ogl",
+            "rel": "eli"
+        },
+        {
+            "href": "https://api.sejm.gov.pl/eli/acts/DU/2025/1609",
+            "rel": "eli-api"
+        }
+    ],
+    "number": "1678",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2025-09-03",
+    "rclLink": "https://legislacja.rcl.gov.pl/getIdFromLegislacja?number=RM-0610-161-25",
+    "rclNum": "RM-0610-161-25",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2025-09-03",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "1678",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-09-09",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "SPC",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-09-09",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "date": "2025-09-24",
+            "stageName": "I czytanie w komisjach",
+            "stageType": "Reading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-09-24",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 2,
+                    "printNumber": "1718",
+                    "proposal": "uchwalić projekt ustawy bez poprawek",
+                    "rapporteurID": "465",
+                    "rapporteurName": "Dominik Jaśkowiec",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1718/1718.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-09-24",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-10-07",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "SPC",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-10-07",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "comment": "wniosek o odrzucenie",
+            "decision": "skierowano ponownie do komisji w celu przedstawienia sprawozdania",
+            "sittingNum": 42,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-10-07",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "1718-A",
+                    "proposal": "odrzucić wniosek o odrzucenie",
+                    "rapporteurID": "382",
+                    "rapporteurName": "Paweł Śliz",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1718-A/1718-A.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-10-07",
+            "stageName": "Praca w komisjach po II czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-10-09",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 0,
+                        "date": "2025-10-09T16:55:37",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/42/30/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 183,
+                        "no": 182,
+                        "notParticipating": 20,
+                        "present": 0,
+                        "sitting": 42,
+                        "sittingDay": 3,
+                        "term": 10,
+                        "title": "Pkt. 6 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Prawo o ustroju sądów powszechnych (druki nr 1678, 1718 i 1718-A)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 440,
+                        "votingNumber": 30,
+                        "yes": 258
+                    }
+                }
+            ],
+            "date": "2025-10-09",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "comment": "wniosek o odrzucenie, wnioski mniejszości",
+            "decision": "uchwalono",
+            "sittingNum": 42,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/1678/attachment/1678_u3.pdf"
+        },
+        {
+            "date": "2025-10-29",
+            "stageName": "Stanowisko Senatu",
+            "position": "nie wniósł poprawek",
+            "stageType": "SenatePosition"
+        },
+        {
+            "date": "2025-10-30",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "date": "2025-11-18",
+            "stageName": "Prezydent podpisał ustawę",
+            "omittedInconsistent": false,
+            "stageType": "PresidentSignature"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o zmianie ustawy - Prawo o ustroju sądów powszechnych",
+    "titleFinal": "o zmianie ustawy - Prawo o ustroju sądów powszechnych",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-12-09T14:08:04"
+}

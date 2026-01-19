@@ -1,0 +1,219 @@
+{
+    "ELI": "DU/2025/1709",
+    "UE": "NO",
+    "address": "WDU20250001709",
+    "changeDate": "2025-12-09T14:24:56",
+    "closureDate": "2025-11-07",
+    "description": "projekt dotyczy wprowadzenia rozwiązań, które zwiększą nadzór nad sprzedażą szczególnie niebezpiecznych środków ochrony roślin przeznaczonych do fumigacji (gazowe zwalczanie szkodników), tak aby preparaty te nie trafiały do osób, które nie posiadają wymaganych kwalifikacji do ich stosowania oraz wprowadza ułatwienia dla firm przy eksporcie i imporcie towarów objętych przepisami fitosanitarnymi",
+    "displayAddress": "Dz.U. 2025 poz. 1709",
+    "documentDate": "2025-07-18",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [
+        {
+            "href": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001709",
+            "rel": "isap"
+        },
+        {
+            "href": "https://eli.gov.pl/eli/DU/2025/1709/ogl",
+            "rel": "eli"
+        },
+        {
+            "href": "https://api.sejm.gov.pl/eli/acts/DU/2025/1709",
+            "rel": "eli-api"
+        }
+    ],
+    "number": "1561",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2025-07-18",
+    "rclLink": "https://legislacja.rcl.gov.pl/getIdFromLegislacja?number=RM-0610-109-25",
+    "rclNum": "RM-0610-109-25",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2025-07-18",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "1561",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-07-25",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "RRW",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-07-25",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "date": "2025-09-23",
+            "stageName": "I czytanie w komisjach",
+            "stageType": "Reading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-09-23",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "1723",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "102",
+                    "rapporteurName": "Piotr Głowski",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1723/1723.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-09-23",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-10-07",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "RRW",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-10-07",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "comment": "poprawki",
+            "decision": "skierowano ponownie do komisji w celu przedstawienia sprawozdania",
+            "sittingNum": 42,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-10-09",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "1723-A",
+                    "proposal": "przyjąć poprawki",
+                    "rapporteurID": "102",
+                    "rapporteurName": "Piotr Głowski",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1723-A/1723-A.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-10-09",
+            "stageName": "Praca w komisjach po II czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-10-09",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 23,
+                        "date": "2025-10-09T16:43:48",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/42/17/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 2,
+                        "no": 1,
+                        "notParticipating": 20,
+                        "present": 0,
+                        "sitting": 42,
+                        "sittingDay": 3,
+                        "term": 10,
+                        "title": "Pkt. 3 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o ochronie roślin przed agrofagami oraz niektórych innych ustaw (druki nr 1561, 1723 i 1723-A)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 440,
+                        "votingNumber": 17,
+                        "yes": 416
+                    }
+                }
+            ],
+            "date": "2025-10-09",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "comment": "poprawki",
+            "decision": "uchwalono",
+            "sittingNum": 42,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/1561/attachment/1561_u3.pdf"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-10-30",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "RRW",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-10-29",
+            "stageName": "Stanowisko Senatu",
+            "position": "wniósł poprawki",
+            "printNumber": "1869",
+            "stageType": "SenatePosition"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-11-06",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "1908",
+                    "proposal": "przyjąć poprawki",
+                    "rapporteurID": "102",
+                    "rapporteurName": "Piotr Głowski",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1908/1908.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-11-06",
+            "stageName": "Praca w komisjach nad stanowiskiem Senatu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "date": "2025-11-07",
+            "stageName": "Rozpatrywanie na forum Sejmu stanowiska Senatu",
+            "decision": "przyjęto poprawki",
+            "sittingNum": 44,
+            "stageType": "SenatePositionConsideration"
+        },
+        {
+            "date": "2025-11-12",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "date": "2025-12-01",
+            "stageName": "Prezydent podpisał ustawę",
+            "omittedInconsistent": false,
+            "stageType": "PresidentSignature"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o zmianie ustawy o ochronie roślin przed agrofagami oraz niektórych innych ustaw",
+    "titleFinal": "o zmianie ustawy o ochronie roślin przed agrofagami oraz niektórych innych ustaw",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-12-09T14:25:08"
+}

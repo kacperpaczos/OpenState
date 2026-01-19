@@ -1,0 +1,53 @@
+{
+    "UE": "NO",
+    "changeDate": "2026-01-02T12:20:19",
+    "closureDate": "2025-12-31",
+    "description": "projekt dotyczy zachowania spójności systemu prawnego poprzez dostosowanie obowiązujących ustaw do rozwiązań zawartych w projekcie ustawy o związkach partnerskich, a także określenia w jakim terminie zmiany te mają wejść w życie",
+    "documentDate": "2025-06-10",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "1458",
+    "passed": false,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2025-06-11",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2025-06-11",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "1458",
+            "stageType": "Start"
+        },
+        {
+            "date": "2025-06-24",
+            "stageName": "Opinia organizacji samorządowej",
+            "organ": "Organizacja samorządowa",
+            "stageType": "Opinion"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-07-10",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "Sejm",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-07-10",
+            "stageName": "Skierowano do I czytania na posiedzeniu Sejmu",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "date": "2025-12-31",
+            "stageName": "Wycofano",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Poselski projekt ustawy - Przepisy wprowadzające ustawę o związkach partnerskich",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2026-01-02T12:20:35"
+}

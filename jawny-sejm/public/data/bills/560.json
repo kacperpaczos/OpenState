@@ -1,0 +1,151 @@
+{
+    "ELI": "DU/2025/28",
+    "UE": "NO",
+    "address": "WDU20250000028",
+    "changeDate": "2025-01-10T12:12:42",
+    "closureDate": "2024-12-05",
+    "description": "projekt dotyczy przyznania medalistom Igrzysk Dobrej Woli tzw. \"emerytur olimpijskich\", nazywanych zgodnie z ustawą o sporcie, świadczeniem pieniężnym dla reprezentantów Polski",
+    "displayAddress": "Dz.U. 2025 poz. 28",
+    "documentDate": "2024-07-12",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [
+        {
+            "href": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000028",
+            "rel": "isap"
+        },
+        {
+            "href": "https://eli.gov.pl/eli/DU/2025/28/ogl",
+            "rel": "eli"
+        },
+        {
+            "href": "https://api.sejm.gov.pl/eli/acts/DU/2025/28",
+            "rel": "eli-api"
+        }
+    ],
+    "number": "560",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2024-07-12",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2024-07-12",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "560",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-07-22",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "KFS",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-07-22",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "date": "2024-09-25",
+            "stageName": "I czytanie w komisjach",
+            "stageType": "Reading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-11-19",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "822",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "389",
+                    "rapporteurName": "Tadeusz Tomaszewski",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/822/822.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2024-11-19",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "date": "2024-12-05",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "decision": "niezwłocznie przystąpiono do III czytania",
+            "sittingNum": 23,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-12-05",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 0,
+                        "date": "2024-12-05T18:07:13",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/23/20/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 20,
+                        "no": 19,
+                        "notParticipating": 17,
+                        "present": 0,
+                        "sitting": 23,
+                        "sittingDay": 2,
+                        "term": 10,
+                        "title": "Pkt. 9 Sprawozdanie Komisji o poselskim projekcie ustawy o zmianie ustawy o sporcie (druki nr 560 i 822)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 443,
+                        "votingNumber": 20,
+                        "yes": 424
+                    }
+                }
+            ],
+            "date": "2024-12-05",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "decision": "uchwalono",
+            "sittingNum": 23,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/560/attachment/560_u3.pdf"
+        },
+        {
+            "date": "2024-12-18",
+            "stageName": "Stanowisko Senatu",
+            "position": "nie wniósł poprawek",
+            "stageType": "SenatePosition"
+        },
+        {
+            "date": "2024-12-19",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "date": "2025-01-07",
+            "stageName": "Prezydent podpisał ustawę",
+            "omittedInconsistent": false,
+            "stageType": "PresidentSignature"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Poselski projekt ustawy o zmianie ustawy o sporcie",
+    "titleFinal": "o zmianie ustawy o sporcie",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-01-14T08:12:40"
+}

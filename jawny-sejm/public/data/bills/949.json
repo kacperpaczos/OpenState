@@ -1,0 +1,261 @@
+{
+    "ELI": "DU/2025/621",
+    "UE": "ENFORCEMENT",
+    "address": "WDU20250000621",
+    "changeDate": "2025-05-15T09:48:38",
+    "closureDate": "2025-03-20",
+    "description": "projekt dotyczy zatrudniania cudzoziemców w Polsce; nowe rozwiązania zakładają m.in. wyższe kary za nielegalne powierzanie im pracy, usprawnienie procedur, zmniejszenie zaległości w urzędach oraz pełną elektronizację postępowań",
+    "displayAddress": "Dz.U. 2025 poz. 621",
+    "documentDate": "2025-01-07",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [
+        {
+            "href": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000621",
+            "rel": "isap"
+        },
+        {
+            "href": "https://eli.gov.pl/eli/DU/2025/621/ogl",
+            "rel": "eli"
+        },
+        {
+            "href": "https://api.sejm.gov.pl/eli/acts/DU/2025/621",
+            "rel": "eli-api"
+        }
+    ],
+    "number": "949",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2025-01-07",
+    "rclLink": "https://legislacja.rcl.gov.pl/getIdFromLegislacja?number=RM-0610-126-24",
+    "rclNum": "RM-0610-126-24",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2025-01-07",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "949",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-01-09",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "Sejm",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-01-09",
+            "stageName": "Skierowano do I czytania na posiedzeniu Sejmu",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-01-24",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "NZC",
+                    "remarks": "Prolongata do dnia 19-02-2025 r.",
+                    "reportDate": "2025-02-04",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                },
+                {
+                    "date": "2025-01-24",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 19,
+                        "date": "2025-01-24T09:29:16",
+                        "description": "wniosek o skierowanie do Komisji Nadzwyczajnej, która zostanie powołana",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/27/12/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 186,
+                        "no": 185,
+                        "notParticipating": 19,
+                        "present": 0,
+                        "sitting": 27,
+                        "sittingDay": 3,
+                        "term": 10,
+                        "title": "Pkt. 11 Pierwsze czytanie rządowego projektu ustawy o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (druk nr 949)",
+                        "topic": "głosowanie nad skierowaniem projektu ustawy do Komisji Nadzwyczajnej, która zostanie powołana",
+                        "totalVoted": 441,
+                        "votingNumber": 12,
+                        "yes": 237
+                    }
+                }
+            ],
+            "date": "2025-01-24",
+            "stageName": "I czytanie na posiedzeniu Sejmu",
+            "sittingNum": 27,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-02-19",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 5,
+                    "printNumber": "1022",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "82",
+                    "rapporteurName": "Joanna Frydrych",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1022/1022.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-02-19",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-02-21",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "NZC",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-02-21",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "comment": "wniosek o odrzucenie, poprawki",
+            "decision": "skierowano ponownie do komisji w celu przedstawienia sprawozdania",
+            "sittingNum": 29,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-02-21",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "1022-A",
+                    "proposal": "przyjąć część poprawek",
+                    "rapporteurID": "82",
+                    "rapporteurName": "Joanna Frydrych",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1022-A/1022-A.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-02-21",
+            "stageName": "Praca w komisjach po II czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-02-21",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 0,
+                        "date": "2025-02-21T19:38:29",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/29/71/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 197,
+                        "no": 196,
+                        "notParticipating": 33,
+                        "present": 0,
+                        "sitting": 29,
+                        "sittingDay": 2,
+                        "term": 10,
+                        "title": "Pkt. 18 Sprawozdanie Komisji o rządowym projekcie ustawy o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (druki nr 949, 1022 i 1022-A)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 427,
+                        "votingNumber": 71,
+                        "yes": 231
+                    }
+                }
+            ],
+            "date": "2025-02-21",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "comment": "wniosek o odrzucenie, wnioski mniejszości, poprawki",
+            "decision": "uchwalono",
+            "sittingNum": 29,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/949/attachment/949_u3.pdf"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-03-14",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "NZC",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-03-13",
+            "stageName": "Stanowisko Senatu",
+            "position": "wniósł poprawki",
+            "printNumber": "1091",
+            "stageType": "SenatePosition"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-03-19",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "1099",
+                    "proposal": "przyjąć część poprawek",
+                    "rapporteurID": "82",
+                    "rapporteurName": "Joanna Frydrych",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1099/1099.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-03-19",
+            "stageName": "Praca w komisjach nad stanowiskiem Senatu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "date": "2025-03-20",
+            "stageName": "Rozpatrywanie na forum Sejmu stanowiska Senatu",
+            "decision": "przyjęto część poprawek",
+            "sittingNum": 31,
+            "stageType": "SenatePositionConsideration"
+        },
+        {
+            "date": "2025-03-21",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "date": "2025-04-10",
+            "stageName": "Prezydent podpisał ustawę",
+            "omittedInconsistent": false,
+            "stageType": "PresidentSignature"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej",
+    "titleFinal": "o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-05-15T09:48:48"
+}

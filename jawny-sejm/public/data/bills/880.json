@@ -1,0 +1,217 @@
+{
+    "ELI": "DU/2025/641",
+    "UE": "NO",
+    "address": "WDU20250000641",
+    "changeDate": "2025-05-19T10:14:02",
+    "closureDate": "2025-04-04",
+    "description": "projekt dotyczy wprowadzenia zmiany stawek opłat za postój pojazdów w strefie płatnego parkowania",
+    "displayAddress": "Dz.U. 2025 poz. 641",
+    "documentDate": "2024-11-21",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [
+        {
+            "href": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000641",
+            "rel": "isap"
+        },
+        {
+            "href": "https://eli.gov.pl/eli/DU/2025/641/ogl",
+            "rel": "eli"
+        },
+        {
+            "href": "https://api.sejm.gov.pl/eli/acts/DU/2025/641",
+            "rel": "eli-api"
+        }
+    ],
+    "number": "880",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2024-11-21",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2024-11-21",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "880",
+            "stageType": "Start"
+        },
+        {
+            "date": "2024-12-02",
+            "stageName": "Opinia organizacji samorządowej",
+            "organ": "Organizacja samorządowa",
+            "stageType": "Opinion"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-01-07",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "Sejm",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-01-07",
+            "stageName": "Skierowano do I czytania na posiedzeniu Sejmu",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-01-10",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "STR",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                },
+                {
+                    "date": "2025-01-10",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "INF",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-01-10",
+            "stageName": "I czytanie na posiedzeniu Sejmu",
+            "sittingNum": 26,
+            "stageType": "SejmReading"
+        },
+        {
+            "date": "2025-03-14",
+            "stageName": "Wpłynęło stanowisko rządu",
+            "stageType": "GovermentPosition",
+            "title": "Stanowisko Rządu do druku nr 880"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-04-01",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "1134",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "135",
+                    "rapporteurName": "Łukasz Horbatowski",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1134/1134.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-04-01",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-04-02",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "INF",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                },
+                {
+                    "date": "2025-04-02",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "STR",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-04-02",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "comment": "wniosek o odrzucenie, poprawka",
+            "decision": "skierowano ponownie do komisji w celu przedstawienia sprawozdania",
+            "sittingNum": 32,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-04-03",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "1134-A",
+                    "proposal": "odrzucić poprawki",
+                    "rapporteurID": "135",
+                    "rapporteurName": "Łukasz Horbatowski",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1134-A/1134-A.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-04-03",
+            "stageName": "Praca w komisjach po II czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-04-04",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 1,
+                        "date": "2025-04-04T10:18:07",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/32/35/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 195,
+                        "no": 194,
+                        "notParticipating": 32,
+                        "present": 0,
+                        "sitting": 32,
+                        "sittingDay": 3,
+                        "term": 10,
+                        "title": "Pkt. 9 Sprawozdanie Komisji o poselskim projekcie ustawy o zmianie ustawy o drogach publicznych (druki nr 880, 1134 i 1134-A)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 428,
+                        "votingNumber": 35,
+                        "yes": 233
+                    }
+                }
+            ],
+            "date": "2025-04-04",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "comment": "wniosek o odrzucenie, poprawka",
+            "decision": "uchwalono",
+            "sittingNum": 32,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/880/attachment/880_u3.pdf"
+        },
+        {
+            "date": "2025-04-23",
+            "stageName": "Stanowisko Senatu",
+            "position": "nie wniósł poprawek",
+            "stageType": "SenatePosition"
+        },
+        {
+            "date": "2025-04-24",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "date": "2025-05-14",
+            "stageName": "Prezydent podpisał ustawę",
+            "omittedInconsistent": false,
+            "stageType": "PresidentSignature"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Poselski projekt ustawy o zmianie ustawy o drogach publicznych",
+    "titleFinal": "o zmianie ustawy o drogach publicznych",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-05-19T15:59:42"
+}

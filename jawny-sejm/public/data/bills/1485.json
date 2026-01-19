@@ -1,0 +1,158 @@
+{
+    "ELI": "DU/2025/1407",
+    "UE": "NO",
+    "address": "WDU20250001407",
+    "changeDate": "2025-10-23T14:52:47",
+    "closureDate": "2025-09-12",
+    "description": "projekt dotyczy uporządkowania statusu prawnego umowy tworzącej Międzynarodowy Bank Odbudowy i Rozwoju i właściwego jej usytuowania w polskim porządku prawnym",
+    "displayAddress": "Dz.U. 2025 poz. 1407",
+    "documentDate": "2025-07-07",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [
+        {
+            "href": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001407",
+            "rel": "isap"
+        },
+        {
+            "href": "https://eli.gov.pl/eli/DU/2025/1407/ogl",
+            "rel": "eli"
+        },
+        {
+            "href": "https://api.sejm.gov.pl/eli/acts/DU/2025/1407",
+            "rel": "eli-api"
+        }
+    ],
+    "number": "1485",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2025-07-07",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2025-07-07",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "1485",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-07-10",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "SZA",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                },
+                {
+                    "date": "2025-07-10",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "FPB",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-07-10",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "date": "2025-07-22",
+            "stageName": "I czytanie w komisjach",
+            "stageType": "Reading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-07-22",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "1515",
+                    "proposal": "uchwalić projekt ustawy bez poprawek",
+                    "rapporteurID": "431",
+                    "rapporteurName": "Anna Wojciechowska",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1515/1515.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-07-22",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "date": "2025-09-10",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "decision": "niezwłocznie przystąpiono do III czytania",
+            "sittingNum": 40,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-09-12",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 182,
+                        "date": "2025-09-12T20:51:38",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/40/115/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 7,
+                        "no": 6,
+                        "notParticipating": 35,
+                        "present": 0,
+                        "sitting": 40,
+                        "sittingDay": 4,
+                        "term": 10,
+                        "title": "Pkt. 28 Sprawozdanie Komisji o rządowym projekcie ustawy o ratyfikacji Umowy o Międzynarodowym Banku Odbudowy i Rozwoju, sporządzonej w Bretton Woods dnia 22 lipca 1944 r. wraz z poprawkami, tj. Rezolucjami Rady Gubernatorów Międzynarodowego Banku Odbudowy i Rozwoju o numerach 221, 417, 596, 696, przyjętymi odpowiednio dnia 25 sierpnia 1965 r., 30 czerwca 1987 r., 30 stycznia 2009 r. oraz 10 lipca 2023 r. (druki nr 1485 i 1515)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 425,
+                        "votingNumber": 115,
+                        "yes": 237
+                    }
+                }
+            ],
+            "date": "2025-09-12",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "decision": "uchwalono",
+            "sittingNum": 40,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/1485/attachment/1485_u3.pdf"
+        },
+        {
+            "date": "2025-09-24",
+            "stageName": "Stanowisko Senatu",
+            "position": "nie wniósł poprawek",
+            "stageType": "SenatePosition"
+        },
+        {
+            "date": "2025-09-26",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "date": "2025-10-15",
+            "stageName": "Prezydent podpisał ustawę",
+            "omittedInconsistent": false,
+            "stageType": "PresidentSignature"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o ratyfikacji Umowy o Międzynarodowym Banku Odbudowy i Rozwoju, sporządzonej w Bretton Woods dnia 22 lipca 1944 r. wraz z poprawkami, tj. Rezolucjami Rady Gubernatorów Międzynarodowego Banku Odbudowy i Rozwoju o numerach 221, 417,596, 696, przyjętymi odpowiednio dnia 25 sierpnia 1965 r., 30 czerwca 1987 r., 30 stycznia 2009 r. oraz 10 lipca 2023 r.",
+    "titleFinal": "o ratyfikacji Umowy o Międzynarodowym Banku Odbudowy i Rozwoju, sporządzonej w Bretton Woods dnia 22 lipca 1944 r., wraz z poprawkami, tj. Rezolucjami Rady Gubernatorów Międzynarodowego Banku Odbudowy i Rozwoju o numerach 221, 417,596, 696, przyjętymi odpowiednio dnia 25 sierpnia 1965 r., 30 czerwca 1987 r., 30 stycznia 2009 r. oraz 10 lipca 2023 r.",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-10-24T08:53:56"
+}

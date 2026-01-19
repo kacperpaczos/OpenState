@@ -1,0 +1,67 @@
+{
+    "UE": "NO",
+    "changeDate": "2023-11-27T18:35:53",
+    "description": "projekt dotyczy ustanowienia niedzieli 24 grudnia 2023 r. dniem objętym zakazem handlu oraz wykonywania czynności związanych z handlem oraz powierzania pracownikowi lub zatrudnionemu wykonywania pracy w handlu oraz wykonywania czynności związanych z handlem",
+    "documentDate": "2023-11-20",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "59",
+    "passed": false,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2023-11-20",
+    "rclLink": "https://legislacja.rcl.gov.pl/getIdFromLegislacja?number=RM-0610-102-23",
+    "rclNum": "RM-0610-102-23",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2023-11-20",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "59",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2023-11-23",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "GOR",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2023-11-23",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "date": "2023-11-27",
+            "stageName": "I czytanie w komisjach",
+            "stageType": "Reading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2023-11-27",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "66",
+                    "proposal": "odrzucić projekt ustawy",
+                    "rapporteurID": "141",
+                    "rapporteurName": "Michał Jaros",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/66/66.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2023-11-27",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o zmianie ustawy o ograniczeniu handlu w niedziele i święta oraz w niektóre inne dni",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2023-11-27T18:36:16"
+}

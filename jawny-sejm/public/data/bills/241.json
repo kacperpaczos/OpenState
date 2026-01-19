@@ -1,0 +1,252 @@
+{
+    "ELI": "DU/2024/731",
+    "UE": "ENFORCEMENT",
+    "address": "WDU20240000731",
+    "changeDate": "2024-05-17T12:52:51",
+    "closureDate": "2024-04-26",
+    "description": "projekt dotyczy zapewnienia większego dostępu do najpowszechniejszych produktów i usług dla osób z niepełnosprawnościami;  dostosowania do przepisów Unii Europejskiej wymogów dostępności produktów i usług (tzw. Europejski Akt o Dostępności)",
+    "displayAddress": "Dz.U. 2024 poz. 731",
+    "documentDate": "2024-03-04",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [
+        {
+            "href": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000731",
+            "rel": "isap"
+        },
+        {
+            "href": "https://eli.gov.pl/eli/DU/2024/731/ogl",
+            "rel": "eli"
+        },
+        {
+            "href": "https://api.sejm.gov.pl/eli/acts/DU/2024/731",
+            "rel": "eli-api"
+        }
+    ],
+    "number": "241",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2024-03-04",
+    "rclLink": "https://legislacja.rcl.gov.pl/getIdFromLegislacja?number=RM-0610-10-24",
+    "rclNum": "RM-0610-10-24",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2024-03-04",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "241",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-03-06",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "PSR",
+                    "remarks": "Prolongata do dnia 10-04-2024.",
+                    "reportDate": "2024-03-19",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                },
+                {
+                    "date": "2024-03-06",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "GOR",
+                    "remarks": "Prolongata do dnia 10-04-2024.",
+                    "reportDate": "2024-03-19",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-03-06",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "date": "2024-03-19",
+            "stageName": "I czytanie w komisjach",
+            "stageType": "Reading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-04-04",
+                    "stageName": "Sprawozdanie podkomisji",
+                    "minorityMotions": 0,
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/processes/241/attachment/spr_241.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": true
+                },
+                {
+                    "date": "2024-04-09",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "288",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "233",
+                    "rapporteurName": "Dorota Marek",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/288/288.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2024-04-04",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-04-10",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "PSR",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                },
+                {
+                    "date": "2024-04-10",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "GOR",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-04-10",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "comment": "wniosek o odrzucenie, poprawki",
+            "decision": "skierowano ponownie do komisji w celu przedstawienia sprawozdania",
+            "sittingNum": 9,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-04-11",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "288-A",
+                    "proposal": "przyjąć część poprawek",
+                    "rapporteurID": "233",
+                    "rapporteurName": "Dorota Marek",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/288-A/288-A.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2024-04-11",
+            "stageName": "Praca w komisjach po II czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-04-12",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 0,
+                        "date": "2024-04-12T14:34:34",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/9/25/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 15,
+                        "no": 14,
+                        "notParticipating": 15,
+                        "present": 0,
+                        "sitting": 9,
+                        "sittingDay": 3,
+                        "term": 10,
+                        "title": "Pkt. 6 Sprawozdanie Komisji o rządowym projekcie ustawy o zapewnianiu spełniania wymagań dostępności niektórych produktów i usług przez podmioty gospodarcze (druki nr 241, 288 i 288-A)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 442,
+                        "votingNumber": 25,
+                        "yes": 428
+                    }
+                }
+            ],
+            "date": "2024-04-12",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "comment": "wniosek o odrzucenie, poprawki",
+            "decision": "uchwalono",
+            "sittingNum": 9,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/241/attachment/241_u3.pdf"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-04-19",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "PSR",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                },
+                {
+                    "date": "2024-04-19",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "GOR",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-04-18",
+            "stageName": "Stanowisko Senatu",
+            "position": "wniósł poprawki",
+            "printNumber": "309",
+            "stageType": "SenatePosition"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-04-24",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "334",
+                    "proposal": "przyjąć poprawki",
+                    "rapporteurID": "233",
+                    "rapporteurName": "Dorota Marek",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/334/334.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2024-04-24",
+            "stageName": "Praca w komisjach nad stanowiskiem Senatu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "date": "2024-04-26",
+            "stageName": "Rozpatrywanie na forum Sejmu stanowiska Senatu",
+            "decision": "przyjęto poprawki",
+            "sittingNum": 10,
+            "stageType": "SenatePositionConsideration"
+        },
+        {
+            "date": "2024-04-29",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "date": "2024-05-09",
+            "stageName": "Prezydent podpisał ustawę",
+            "omittedInconsistent": false,
+            "stageType": "PresidentSignature"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o zapewnianiu spełniania wymagań dostępności niektórych produktów i usług przez podmioty gospodarcze",
+    "titleFinal": "o zapewnianiu spełniania wymagań dostępności niektórych produktów i usług przez podmioty gospodarcze",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2024-05-17T12:53:07"
+}

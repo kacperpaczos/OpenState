@@ -1,0 +1,154 @@
+{
+    "ELI": "DU/2025/172",
+    "UE": "ENFORCEMENT",
+    "address": "WDU20250000172",
+    "changeDate": "2025-02-14T09:34:04",
+    "closureDate": "2025-01-09",
+    "description": "projekt dotyczy zapewnienia spójności rozwiązań krajowych z prawem unijnym oraz kompleksowego uszczelnienia systemu sankcyjnego wobec Rosji i Białorusi w celu wywarcia wpływu na ograniczenie lub zaprzestanie prowadzenia przez Rosję działań wojennych na terytorium Ukrainy",
+    "displayAddress": "Dz.U. 2025 poz. 172",
+    "documentDate": "2024-11-28",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [
+        {
+            "href": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000172",
+            "rel": "isap"
+        },
+        {
+            "href": "https://eli.gov.pl/eli/DU/2025/172/ogl",
+            "rel": "eli"
+        },
+        {
+            "href": "https://api.sejm.gov.pl/eli/acts/DU/2025/172",
+            "rel": "eli-api"
+        }
+    ],
+    "number": "878",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2024-11-28",
+    "rclLink": "https://legislacja.rcl.gov.pl/getIdFromLegislacja?number=RM-0610-113-24",
+    "rclNum": "RM-0610-113-24",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2024-11-28",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "878",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-12-04",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "FPB",
+                    "reportDate": "2025-01-07",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-12-04",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "date": "2024-12-18",
+            "stageName": "I czytanie w komisjach",
+            "stageType": "Reading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-12-18",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "905",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "334",
+                    "rapporteurName": "Krystyna Sibińska",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/905/905.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2024-12-18",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "date": "2025-01-08",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "decision": "niezwłocznie przystąpiono do III czytania",
+            "sittingNum": 26,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-01-09",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 1,
+                        "date": "2025-01-09T18:01:25",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/26/7/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 20,
+                        "no": 19,
+                        "notParticipating": 29,
+                        "present": 0,
+                        "sitting": 26,
+                        "sittingDay": 2,
+                        "term": 10,
+                        "title": "Pkt. 3 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o szczególnych rozwiązaniach w zakresie przeciwdziałania wspieraniu agresji na Ukrainę oraz służących ochronie bezpieczeństwa narodowego, ustawy o Krajowej Administracji Skarbowej oraz ustawy o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (druki nr 878 i 905)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 431,
+                        "votingNumber": 7,
+                        "yes": 411
+                    }
+                }
+            ],
+            "date": "2025-01-09",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "decision": "uchwalono",
+            "sittingNum": 26,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/878/attachment/878_u3.pdf"
+        },
+        {
+            "date": "2025-01-22",
+            "stageName": "Stanowisko Senatu",
+            "position": "nie wniósł poprawek",
+            "stageType": "SenatePosition"
+        },
+        {
+            "date": "2025-01-23",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "date": "2025-02-06",
+            "stageName": "Prezydent podpisał ustawę",
+            "omittedInconsistent": false,
+            "stageType": "PresidentSignature"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o zmianie ustawy o szczególnych rozwiązaniach w zakresie przeciwdziałania wspieraniu agresji na Ukrainę oraz służących ochronie bezpieczeństwa narodowego, ustawy o Krajowej Administracji Skarbowej oraz ustawy o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu",
+    "titleFinal": "o zmianie ustawy o szczególnych rozwiązaniach w zakresie przeciwdziałania wspieraniu agresji na Ukrainę oraz służących ochronie bezpieczeństwa narodowego, ustawy o Krajowej Administracji Skarbowej oraz ustawy o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-02-14T09:34:10"
+}

@@ -1,0 +1,153 @@
+{
+    "ELI": "DU/2025/290",
+    "UE": "NO",
+    "address": "WDU20250000290",
+    "changeDate": "2025-03-18T13:45:23",
+    "closureDate": "2025-02-21",
+    "description": "projekt dotyczy wprowadzenia aukcji dogrywkowych w ramach rynku mocy co  pozwoli m.in. na ponowne przeprowadzenie aukcji głównej w przypadku, gdy jej wyniki nie zapewnią możliwości utrzymania bezpieczeństwa dostaw energii elektrycznej i umożliwi m.in. stabilne dostawy energii do gospodarstw domowych",
+    "displayAddress": "Dz.U. 2025 poz. 290",
+    "documentDate": "2025-02-04",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [
+        {
+            "href": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000290",
+            "rel": "isap"
+        },
+        {
+            "href": "https://eli.gov.pl/eli/DU/2025/290/ogl",
+            "rel": "eli"
+        },
+        {
+            "href": "https://api.sejm.gov.pl/eli/acts/DU/2025/290",
+            "rel": "eli-api"
+        }
+    ],
+    "number": "1008",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2025-02-04",
+    "rclLink": "https://legislacja.rcl.gov.pl/getIdFromLegislacja?number=RM-0610-7-25",
+    "rclNum": "RM-0610-7-25",
+    "shortenProcedure": true,
+    "stages": [
+        {
+            "date": "2025-02-04",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "1008",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-02-05",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "ESK",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-02-05",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "date": "2025-02-20",
+            "stageName": "I czytanie w komisjach",
+            "stageType": "Reading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-02-20",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "1031",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "171",
+                    "rapporteurName": "Rafał Komarewicz",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1031/1031.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-02-20",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "date": "2025-02-21",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "decision": "niezwłocznie przystąpiono do III czytania",
+            "sittingNum": 29,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-02-21",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 2,
+                        "date": "2025-02-21T18:30:20",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/29/29/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 18,
+                        "no": 17,
+                        "notParticipating": 28,
+                        "present": 0,
+                        "sitting": 29,
+                        "sittingDay": 2,
+                        "term": 10,
+                        "title": "Pkt. 20 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o rynku mocy oraz niektórych innych ustaw (druki nr 1008 i 1031)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 432,
+                        "votingNumber": 29,
+                        "yes": 413
+                    }
+                }
+            ],
+            "date": "2025-02-21",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "decision": "uchwalono",
+            "sittingNum": 29,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/1008/attachment/1008_u3.pdf"
+        },
+        {
+            "date": "2025-02-27",
+            "stageName": "Stanowisko Senatu",
+            "position": "nie wniósł poprawek",
+            "stageType": "SenatePosition"
+        },
+        {
+            "date": "2025-02-28",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "date": "2025-03-06",
+            "stageName": "Prezydent podpisał ustawę",
+            "omittedInconsistent": false,
+            "stageType": "PresidentSignature"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o zmianie ustawy o rynku mocy oraz niektórych innych ustaw",
+    "titleFinal": "o zmianie ustawy o rynku mocy oraz niektórych innych ustaw",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-03-18T13:55:46"
+}

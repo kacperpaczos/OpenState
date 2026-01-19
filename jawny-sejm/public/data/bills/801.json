@@ -1,0 +1,183 @@
+{
+    "ELI": "DU/2024/1824",
+    "UE": "NO",
+    "address": "WDU20240001824",
+    "changeDate": "2024-12-16T12:27:49",
+    "closureDate": "2024-11-27",
+    "description": "projekt dotyczy wydłużenia do 31 grudnia 2027 r. terminu przejściowego, w którym została dopuszczona możliwość prowadzenia przez starostów mapy zasadniczej w postaci wektorowej lub w postaci rastrowej uzupełnianej systematycznie danymi wektorowymi, na zasadach stosowanych przed dniem 1 stycznia 2014 r. oraz przesunięcia terminu rozszerzenia zakresu danych przestrzennych dla planów miejscowych",
+    "displayAddress": "Dz.U. 2024 poz. 1824",
+    "documentDate": "2024-11-06",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [
+        {
+            "href": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001824",
+            "rel": "isap"
+        },
+        {
+            "href": "https://eli.gov.pl/eli/DU/2024/1824/ogl",
+            "rel": "eli"
+        },
+        {
+            "href": "https://api.sejm.gov.pl/eli/acts/DU/2024/1824",
+            "rel": "eli-api"
+        }
+    ],
+    "number": "801",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2024-11-06",
+    "rclLink": "https://legislacja.rcl.gov.pl/getIdFromLegislacja?number=RM-0610-104-24",
+    "rclNum": "RM-0610-104-24",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2024-11-06",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "801",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-11-08",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "INF",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-11-08",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "date": "2024-11-19",
+            "stageName": "I czytanie w komisjach",
+            "stageType": "Reading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-11-19",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "815",
+                    "proposal": "uchwalić projekt ustawy bez poprawek",
+                    "rapporteurID": "46",
+                    "rapporteurName": "Tadeusz Chrzan",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/815/815.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2024-11-19",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-11-22",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "INF",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-11-22",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "comment": "poprawka",
+            "decision": "skierowano ponownie do komisji w celu przedstawienia sprawozdania",
+            "sittingNum": 22,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-11-27",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "815-A",
+                    "proposal": "odrzucić poprawkę",
+                    "rapporteurID": "334",
+                    "rapporteurName": "Krystyna Sibińska",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/815-A/815-A.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2024-11-27",
+            "stageName": "Praca w komisjach po II czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-11-27",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 12,
+                        "date": "2024-11-27T21:25:07",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/155/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 1,
+                        "no": 0,
+                        "notParticipating": 33,
+                        "present": 0,
+                        "sitting": 22,
+                        "sittingDay": 5,
+                        "term": 10,
+                        "title": "Pkt. 34 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Prawo geodezyjne i kartograficzne oraz ustawy o zmianie ustawy o planowaniu i zagospodarowaniu przestrzennym oraz niektórych innych ustaw (druki nr 801, 815 i 815-A)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 427,
+                        "votingNumber": 155,
+                        "yes": 415
+                    }
+                }
+            ],
+            "date": "2024-11-27",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "comment": "poprawka",
+            "decision": "uchwalono",
+            "sittingNum": 22,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/801/attachment/801_u3.pdf"
+        },
+        {
+            "date": "2024-12-05",
+            "stageName": "Stanowisko Senatu",
+            "position": "nie wniósł poprawek",
+            "stageType": "SenatePosition"
+        },
+        {
+            "date": "2024-12-06",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "date": "2024-12-09",
+            "stageName": "Prezydent podpisał ustawę",
+            "omittedInconsistent": false,
+            "stageType": "PresidentSignature"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o zmianie ustawy - Prawo geodezyjne i kartograficzne oraz ustawy o zmianie ustawy o planowaniu i zagospodarowaniu przestrzennym oraz niektórych innych ustaw",
+    "titleFinal": "o zmianie ustawy - Prawo geodezyjne i kartograficzne oraz ustawy o zmianie ustawy o planowaniu i zagospodarowaniu przestrzennym oraz niektórych innych ustaw",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2024-12-18T08:27:39"
+}

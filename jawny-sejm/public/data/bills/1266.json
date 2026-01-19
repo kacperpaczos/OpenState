@@ -1,0 +1,153 @@
+{
+    "ELI": "DU/2025/924",
+    "UE": "NO",
+    "address": "WDU20250000924",
+    "changeDate": "2025-07-18T12:57:26",
+    "closureDate": "2025-06-24",
+    "description": "projekt dotyczy usunięcia obowiązku wskazywania przez firmę farmaceutyczną do Zintegrowanego Systemu Monitorowania Obrotu Produktami Leczniczymi informacji o planowanym miejscu dostawy produktów leczniczych, przeznaczonych do zbycia na terytorium Polski; Nowe przepisy realizują działania deregulacyjne rządu.",
+    "displayAddress": "Dz.U. 2025 poz. 924",
+    "documentDate": "2025-05-13",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [
+        {
+            "href": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000924",
+            "rel": "isap"
+        },
+        {
+            "href": "https://eli.gov.pl/eli/DU/2025/924/ogl",
+            "rel": "eli"
+        },
+        {
+            "href": "https://api.sejm.gov.pl/eli/acts/DU/2025/924",
+            "rel": "eli-api"
+        }
+    ],
+    "number": "1266",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2025-05-14",
+    "rclLink": "https://legislacja.rcl.gov.pl/getIdFromLegislacja?number=RM-0610-55-25",
+    "rclNum": "RM-0610-55-25",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2025-05-14",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "1266",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-05-19",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "DER",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-05-19",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "date": "2025-06-03",
+            "stageName": "I czytanie w komisjach",
+            "stageType": "Reading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-06-03",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "1293",
+                    "proposal": "uchwalić projekt ustawy bez poprawek",
+                    "rapporteurID": "345",
+                    "rapporteurName": "Weronika Smarduch",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1293/1293.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-06-03",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "date": "2025-06-11",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "decision": "zakończono II czytanie",
+            "sittingNum": 36,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-06-24",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 174,
+                        "date": "2025-06-24T10:37:20",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/37/11/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 2,
+                        "no": 1,
+                        "notParticipating": 43,
+                        "present": 0,
+                        "sitting": 37,
+                        "sittingDay": 1,
+                        "term": 10,
+                        "title": "Pkt. 4 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Prawo farmaceutyczne (druki nr 1266 i 1293) - trzecie czytanie",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 417,
+                        "votingNumber": 11,
+                        "yes": 242
+                    }
+                }
+            ],
+            "date": "2025-06-24",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "decision": "uchwalono",
+            "sittingNum": 37,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/1266/attachment/1266_u3.pdf"
+        },
+        {
+            "date": "2025-06-25",
+            "stageName": "Stanowisko Senatu",
+            "position": "nie wniósł poprawek",
+            "stageType": "SenatePosition"
+        },
+        {
+            "date": "2025-06-26",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "date": "2025-07-08",
+            "stageName": "Prezydent podpisał ustawę",
+            "omittedInconsistent": false,
+            "stageType": "PresidentSignature"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o zmianie ustawy - Prawo farmaceutyczne",
+    "titleFinal": "o zmianie ustawy - Prawo farmaceutyczne",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-07-18T14:24:08"
+}

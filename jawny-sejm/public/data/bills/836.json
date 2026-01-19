@@ -1,0 +1,47 @@
+{
+    "UE": "NO",
+    "changeDate": "2024-12-05T16:39:24",
+    "description": "projekt dotyczy realizacji obowiązku oznakowania oraz rejestracji psów i kotów, zasad działania ogólnodostępnej krajowej bazy danych psów i kotów oraz Centralnego Rejestru Psów i Kotów, wykonywania kastracji oraz sterylizacji psów i kotów",
+    "documentDate": "2024-10-18",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "836",
+    "passed": false,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2024-10-18",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2024-10-18",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "836",
+            "stageType": "Start"
+        },
+        {
+            "date": "2024-10-25",
+            "stageName": "Opinia organizacji samorządowej",
+            "organ": "Organizacja samorządowa",
+            "stageType": "Opinion"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-11-19",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "NOZ",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-11-19",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        }
+    ],
+    "term": 10,
+    "title": "Poselski projekt ustawy o zapobieganiu bezdomności psów i kotów",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2024-12-05T16:44:11"
+}

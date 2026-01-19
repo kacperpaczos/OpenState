@@ -1,0 +1,60 @@
+{
+    "UE": "NO",
+    "changeDate": "2024-06-17T12:04:01",
+    "description": "projekt dotyczy zwiększenia z obecnie obowiązującej 10-krotności do 15-krotności średniej krajowej dochodów na jednego mieszkańca limitu, od którego obowiązuje nakaz przekazywania przez gminy i powiaty nadwyżek z tytułu uzyskiwanych opłat i kar środowiskowych do wojewódzkich funduszy ochrony środowiska i gospodarki wodnej\n\n\n",
+    "documentDate": "2024-05-09",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "435",
+    "passed": false,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2024-05-16",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2024-05-16",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "435",
+            "stageType": "Start"
+        },
+        {
+            "date": "2024-05-22",
+            "stageName": "Opinia organizacji samorządowej",
+            "organ": "Organizacja samorządowa",
+            "stageType": "Opinion"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-06-11",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "STR",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                },
+                {
+                    "date": "2024-06-11",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "OSZ",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-06-11",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "date": "2024-09-27",
+            "stageName": "Wpłynęło stanowisko rządu",
+            "stageType": "GovermentPosition",
+            "title": "Stanowisko Rządu do druku nr 435"
+        }
+    ],
+    "term": 10,
+    "title": "Komisyjny projekt ustawy o zmianie ustawy - Prawo ochrony środowiska",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2024-06-17T12:04:20"
+}

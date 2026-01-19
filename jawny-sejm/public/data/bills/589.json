@@ -1,0 +1,158 @@
+{
+    "ELI": "DU/2024/1559",
+    "UE": "NO",
+    "address": "WDU20240001559",
+    "changeDate": "2024-10-22T10:25:16",
+    "closureDate": "2024-09-27",
+    "description": "projekt dotyczy zobowiązania państwa strony do uznania określonych zachowań osób fizycznych za przestępstwa i sankcjonowanie ich środkami właściwymi dla prawa karnego; konwencja nakłada na państwa strony obowiązek osądzenia i odpowiednio surowego ukarania nie tylko sprawców wymuszonych zaginięć, lecz również tego, kto zleca, namawia bądź nakłania do popełnienia, usiłuje popełnić, współdziała lub uczestniczy w wymuszonym zaginięciu, a także przełożonego, który wiedział lub świadomie zlekceważył informacje, które jasno wskazywały, że podwładni pozostający pod jego rzeczywistą władzą i kontrolą popełnili lub zmierzali do popełnienia przestępstwa wymuszonego zaginięcia",
+    "displayAddress": "Dz.U. 2024 poz. 1559",
+    "documentDate": "2024-07-31",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [
+        {
+            "href": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001559",
+            "rel": "isap"
+        },
+        {
+            "href": "https://eli.gov.pl/eli/DU/2024/1559/ogl",
+            "rel": "eli"
+        },
+        {
+            "href": "https://api.sejm.gov.pl/eli/acts/DU/2024/1559",
+            "rel": "eli-api"
+        }
+    ],
+    "number": "589",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2024-07-31",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "children": [
+                {
+                    "date": "2024-07-12",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "642",
+                    "proposal": "uchwalić projekt ustawy bez poprawek",
+                    "rapporteurID": "223",
+                    "rapporteurName": "Krystian Łuczak",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/642/642.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2024-07-12",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "date": "2024-07-31",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "589",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-07-31",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "SPC",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                },
+                {
+                    "date": "2024-07-31",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "SZA",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-07-31",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "date": "2024-09-12",
+            "stageName": "I czytanie w komisjach",
+            "stageType": "Reading"
+        },
+        {
+            "date": "2024-09-26",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "decision": "niezwłocznie przystąpiono do III czytania",
+            "sittingNum": 18,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-09-27",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 7,
+                        "date": "2024-09-27T09:12:31",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/18/27/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 8,
+                        "no": 7,
+                        "notParticipating": 31,
+                        "present": 0,
+                        "sitting": 18,
+                        "sittingDay": 3,
+                        "term": 10,
+                        "title": "Pkt. 20 Sprawozdanie Komisji o rządowym projekcie ustawy o ratyfikacji Międzynarodowej Konwencji w sprawie ochrony wszystkich osób przed wymuszonym zaginięciem, przyjętej w Nowym Jorku dnia 20 grudnia 2006 r. (druki nr 589 i 642)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 428,
+                        "votingNumber": 27,
+                        "yes": 414
+                    }
+                }
+            ],
+            "date": "2024-09-27",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "decision": "uchwalono",
+            "sittingNum": 18,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/589/attachment/589_u3.pdf"
+        },
+        {
+            "date": "2024-10-10",
+            "stageName": "Stanowisko Senatu",
+            "position": "nie wniósł poprawek",
+            "stageType": "SenatePosition"
+        },
+        {
+            "date": "2024-10-11",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "date": "2024-10-17",
+            "stageName": "Prezydent podpisał ustawę",
+            "omittedInconsistent": false,
+            "stageType": "PresidentSignature"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o ratyfikacji Międzynarodowej Konwencji w sprawie ochrony wszystkich osób przed wymuszonym zaginięciem, przyjętej w Nowym Jorku dnia 20 grudnia 2006 r.",
+    "titleFinal": "o ratyfikacji Międzynarodowej Konwencji w sprawie ochrony wszystkich osób przed wymuszonym zaginięciem, przyjętej w Nowym Jorku dnia 20 grudnia 2006 r.",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2024-10-22T13:08:30"
+}

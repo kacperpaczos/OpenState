@@ -1,0 +1,48 @@
+{
+    "UE": "NO",
+    "changeDate": "2023-12-05T13:11:30",
+    "closureDate": "2023-12-05",
+    "comments": "Zmiana przedstawiciela wnioskodawców - poseł Paulinę Hennig-Kloskę zastąpił poseł Rafał Kasprzyk.",
+    "description": "projekt dotyczy przedłużenia dotychczasowego ustawowego rozwiązania dotyczącego \"wakacji kredytowych\" - od 1 stycznia 2024 r. do 31 grudnia 2024 r. oraz wprowadzenia kryterium, które będzie uprawniało do zawieszenia spłaty kredytu.",
+    "documentDate": "2023-11-22",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "73",
+    "passed": false,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2023-11-28",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2023-11-28",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "73",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2023-11-29",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "FPB",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2023-11-29",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "date": "2023-12-05",
+            "stageName": "Wycofano",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Poselski projekt ustawy o zmianie ustawy o finansowym wsparciu społecznościowym dla przedsięwzięć gospodarczych i pomocy kredytobiorcom",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2024-01-08T09:43:44"
+}

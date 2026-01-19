@@ -1,0 +1,59 @@
+{
+    "UE": "NO",
+    "changeDate": "2025-04-23T12:09:11",
+    "description": "projekt dotyczy uwolnienia od odpowiedzialności karnej polskich obywateli, którzy wsparli obronę Ukrainy przez wstąpienie do ukraińskiej armii oraz pozyskanie przez organy wojskowe wiedzy o nabytych przez nich kwalifikacjach i doświadczeniu bojowym",
+    "documentDate": "2024-12-05",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "1196",
+    "passed": false,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2024-12-05",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2024-12-05",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "1196",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-04-23",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "SPC",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                },
+                {
+                    "date": "2025-04-23",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "OBN",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-04-23",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "date": "2025-08-18",
+            "stageName": "Wpłynęło stanowisko rządu",
+            "stageType": "GovermentPosition",
+            "title": "Stanowisko Rządu do druku nr 1196"
+        },
+        {
+            "date": "2025-10-07",
+            "stageName": "I czytanie w komisjach",
+            "stageType": "Reading"
+        }
+    ],
+    "term": 10,
+    "title": "Poselski projekt ustawy o niekaraniu ochotników broniących wolności i niepodległości Ukrainy",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-04-23T12:09:50"
+}

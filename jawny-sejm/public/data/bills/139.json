@@ -1,0 +1,47 @@
+{
+    "UE": "NO",
+    "changeDate": "2023-12-29T15:06:58",
+    "description": "projekt dotyczy dostosowania regulacji prawnych zawartych w wybranych ustawach do projektu ustawy budżetowej na rok 2024, z wyłączeniem zakwestionowanych przepisów dotyczących finansowania mediów publicznych",
+    "documentDate": "2023-12-27",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "139",
+    "passed": false,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2023-12-27",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2023-12-27",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "139",
+            "stageType": "Start"
+        },
+        {
+            "date": "2023-12-27",
+            "stageName": "Opinia organizacji samorządowej",
+            "organ": "Organizacja samorządowa",
+            "stageType": "Opinion"
+        },
+        {
+            "children": [
+                {
+                    "date": "2023-12-29",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "FPB",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2023-12-29",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        }
+    ],
+    "term": 10,
+    "title": "Przedstawiony przez Prezydenta Rzeczypospolitej Polskiej projekt ustawy o szczególnych rozwiązaniach służących realizacji ustawy budżetowej na rok 2024",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2023-12-29T15:07:23"
+}

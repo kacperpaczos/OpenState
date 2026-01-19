@@ -1,0 +1,229 @@
+{
+    "ELI": "DU/2025/1172",
+    "UE": "NO",
+    "address": "WDU20250001172",
+    "changeDate": "2025-09-03T09:59:44",
+    "closureDate": "2025-08-05",
+    "description": "projekt dotyczy umożliwienia dwustronnej komunikacji elektronicznej w postępowaniach przed sądami cywilnymi, co przyczyni się do przyspieszenia obiegu dokumentów, zmniejszenia kosztów oraz zwiększenia dostępności wymiaru sprawiedliwości. Projekt przewiduje także lepsze wykorzystanie w sądach alternatywnych metod rozwiązywania sporów, m.in. mediacji. Nowe przepisy realizują działania deregulacyjne rządu.",
+    "displayAddress": "Dz.U. 2025 poz. 1172",
+    "documentDate": "2025-05-21",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [
+        {
+            "href": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001172",
+            "rel": "isap"
+        },
+        {
+            "href": "https://eli.gov.pl/eli/DU/2025/1172/ogl",
+            "rel": "eli"
+        },
+        {
+            "href": "https://api.sejm.gov.pl/eli/acts/DU/2025/1172",
+            "rel": "eli-api"
+        }
+    ],
+    "number": "1304",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2025-05-21",
+    "rclLink": "https://legislacja.rcl.gov.pl/getIdFromLegislacja?number=RM-0610-64-25",
+    "rclNum": "RM-0610-64-25",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2025-05-21",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "1304",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-06-02",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "Sejm",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-06-02",
+            "stageName": "Skierowano do I czytania na posiedzeniu Sejmu",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-06-26",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "NKK",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-06-26",
+            "stageName": "I czytanie na posiedzeniu Sejmu",
+            "sittingNum": 37,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-07-09",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "1469",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "67",
+                    "rapporteurName": "Barbara Dolniak",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1469/1469.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-07-09",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-07-24",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "NKK",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-07-24",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "comment": "poprawki",
+            "decision": "skierowano ponownie do komisji w celu przedstawienia sprawozdania",
+            "sittingNum": 39,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-07-24",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "1469-A",
+                    "proposal": "przyjąć poprawki",
+                    "rapporteurID": "67",
+                    "rapporteurName": "Barbara Dolniak",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1469-A/1469-A.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-07-24",
+            "stageName": "Praca w komisjach po II czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-07-25",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 0,
+                        "date": "2025-07-25T16:02:34",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/39/71/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 1,
+                        "no": 0,
+                        "notParticipating": 30,
+                        "present": 0,
+                        "sitting": 39,
+                        "sittingDay": 4,
+                        "term": 10,
+                        "title": "Pkt. 36 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Kodeks postępowania cywilnego, ustawy - Kodeks cywilny oraz niektórych innych ustaw (druki nr 1304, 1469 i 1469-A)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 430,
+                        "votingNumber": 71,
+                        "yes": 430
+                    }
+                }
+            ],
+            "date": "2025-07-25",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "comment": "poprawki",
+            "decision": "uchwalono",
+            "sittingNum": 39,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/1304/attachment/1304_u3.pdf"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-08-01",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "NKK",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-07-31",
+            "stageName": "Stanowisko Senatu",
+            "position": "wniósł poprawki",
+            "printNumber": "1577",
+            "stageType": "SenatePosition"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-08-05",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "1602",
+                    "proposal": "przyjąć poprawki",
+                    "rapporteurID": "67",
+                    "rapporteurName": "Barbara Dolniak",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1602/1602.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-08-05",
+            "stageName": "Praca w komisjach nad stanowiskiem Senatu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "date": "2025-08-05",
+            "stageName": "Rozpatrywanie na forum Sejmu stanowiska Senatu",
+            "decision": "przyjęto poprawki",
+            "sittingNum": 39,
+            "stageType": "SenatePositionConsideration"
+        },
+        {
+            "date": "2025-08-06",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "date": "2025-08-21",
+            "stageName": "Prezydent podpisał ustawę",
+            "omittedInconsistent": false,
+            "stageType": "PresidentSignature"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o zmianie ustawy - Kodeks postępowania cywilnego, ustawy - Kodeks cywilny oraz niektórych innych ustaw",
+    "titleFinal": "o zmianie ustawy - Kodeks postępowania cywilnego, ustawy - Kodeks cywilny oraz niektórych innych ustaw",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-09-03T11:13:12"
+}

@@ -1,0 +1,190 @@
+{
+    "ELI": "DU/2025/159",
+    "UE": "ENFORCEMENT",
+    "address": "WDU20250000159",
+    "changeDate": "2025-02-07T13:08:04",
+    "closureDate": "2025-01-24",
+    "description": "projekt dotyczy wprowadzenia aukcji uzupełniających na rynku mocy od II połowy 2025 roku do 2028 roku; w aukcjach nabywana będzie dodatkowa moc na potrzeby zapewnienia bezpieczeństwa energetycznego w naszym kraju",
+    "displayAddress": "Dz.U. 2025 poz. 159",
+    "documentDate": "2024-12-31",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [
+        {
+            "href": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000159",
+            "rel": "isap"
+        },
+        {
+            "href": "https://eli.gov.pl/eli/DU/2025/159/ogl",
+            "rel": "eli"
+        },
+        {
+            "href": "https://api.sejm.gov.pl/eli/acts/DU/2025/159",
+            "rel": "eli-api"
+        }
+    ],
+    "number": "927",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2024-12-31",
+    "rclLink": "https://legislacja.rcl.gov.pl/getIdFromLegislacja?number=RM-0610-124-24",
+    "rclNum": "RM-0610-124-24",
+    "shortenProcedure": true,
+    "stages": [
+        {
+            "date": "2024-12-31",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "927",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-01-02",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "ESK",
+                    "reportDate": "2025-01-07",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-01-02",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "date": "2025-01-07",
+            "stageName": "I czytanie w komisjach",
+            "stageType": "Reading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-01-07",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "928",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "207",
+                    "rapporteurName": "Stanisław Lamczyk",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/928/928.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-01-07",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "date": "2025-01-08",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "decision": "niezwłocznie przystąpiono do III czytania",
+            "sittingNum": 26,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-01-09",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 3,
+                        "date": "2025-01-09T18:02:19",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/26/8/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 20,
+                        "no": 19,
+                        "notParticipating": 27,
+                        "present": 0,
+                        "sitting": 26,
+                        "sittingDay": 2,
+                        "term": 10,
+                        "title": "Pkt. 5 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o rynku mocy (druki nr 927 i 928)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 433,
+                        "votingNumber": 8,
+                        "yes": 411
+                    }
+                }
+            ],
+            "date": "2025-01-09",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "decision": "uchwalono",
+            "sittingNum": 26,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/927/attachment/927_u3.pdf"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-01-23",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "ESK",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-01-22",
+            "stageName": "Stanowisko Senatu",
+            "position": "wniósł poprawki",
+            "printNumber": "974",
+            "stageType": "SenatePosition"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-01-23",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "977",
+                    "proposal": "przyjąć poprawki",
+                    "rapporteurID": "478",
+                    "rapporteurName": "Jerzy Meysztowicz",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/977/977.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-01-23",
+            "stageName": "Praca w komisjach nad stanowiskiem Senatu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "date": "2025-01-24",
+            "stageName": "Rozpatrywanie na forum Sejmu stanowiska Senatu",
+            "decision": "przyjęto poprawki",
+            "sittingNum": 27,
+            "stageType": "SenatePositionConsideration"
+        },
+        {
+            "date": "2025-01-24",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "date": "2025-01-31",
+            "stageName": "Prezydent podpisał ustawę",
+            "omittedInconsistent": false,
+            "stageType": "PresidentSignature"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o zmianie ustawy o rynku mocy",
+    "titleFinal": "o zmianie ustawy o rynku mocy",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-02-17T09:41:04"
+}

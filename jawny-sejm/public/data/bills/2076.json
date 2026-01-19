@@ -1,0 +1,65 @@
+{
+    "UE": "NO",
+    "changeDate": "2026-01-12T09:39:56",
+    "description": "projekt dotyczy wprowadzenia ułatwień w zakładaniu i prowadzeniu firmy, także w aplikacji mObywatel. Od 2026 roku wnioski o rejestrację przedsiębiorstwa będą składane wyłącznie w formie elektronicznej. Celem zmian jest redukcja i uproszczenie procedur, poprawa bezpieczeństwa danych,  zmniejszenie liczby wymaganych dokumentów oraz zapewnienie przedsiębiorcom wygodnego i szybkiego sposobu załatwiania spraw online. Nowe przepisy realizują działania deregulacyjne rządu.",
+    "documentDate": "2025-12-08",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "2076",
+    "passed": false,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2025-12-08",
+    "rclLink": "https://legislacja.rcl.gov.pl/getIdFromLegislacja?number=RM-0610-226-25",
+    "rclNum": "RM-0610-226-25",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2025-12-08",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "2076",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-12-16",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "Sejm",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-12-16",
+            "stageName": "Skierowano do I czytania na posiedzeniu Sejmu",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "children": [
+                {
+                    "date": "2026-01-09",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "GOR",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                },
+                {
+                    "date": "2026-01-09",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "DER",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2026-01-09",
+            "stageName": "I czytanie na posiedzeniu Sejmu",
+            "sittingNum": 49,
+            "stageType": "SejmReading"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o zmianie ustawy o Centralnej Ewidencji i Informacji o Działalności Gospodarczej i Punkcie Informacji dla Przedsiębiorcy oraz niektórych innych ustaw",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2026-01-12T09:40:23"
+}

@@ -1,0 +1,155 @@
+{
+    "ELI": "DU/2025/531",
+    "UE": "NO",
+    "address": "WDU20250000531",
+    "changeDate": "2025-04-28T12:28:03",
+    "closureDate": "2025-04-04",
+    "description": "projekt dotyczy podwyższenia limitów wydatków budżetu państwa będących skutkiem finansowania ustawy o Narodowym Instytucie Wolności - Centrum Rozwoju Społeczeństwa Obywatelskiego, określenia limitów wydatków na kolejne 10 lat, a także umożliwienia zlecania Narodowemu Instytutowi zadań przez ministrów kierujących działami administracji rządowej",
+    "displayAddress": "Dz.U. 2025 poz. 531",
+    "documentDate": "2025-03-19",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [
+        {
+            "href": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000531",
+            "rel": "isap"
+        },
+        {
+            "href": "https://eli.gov.pl/eli/DU/2025/531/ogl",
+            "rel": "eli"
+        },
+        {
+            "href": "https://api.sejm.gov.pl/eli/acts/DU/2025/531",
+            "rel": "eli-api"
+        }
+    ],
+    "number": "1129",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2025-03-19",
+    "rclLink": "https://legislacja.rcl.gov.pl/getIdFromLegislacja?number=RM-0610-18-25",
+    "rclNum": "RM-0610-18-25",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2025-03-19",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "1129",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-03-20",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "ASW",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-03-20",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "date": "2025-04-01",
+            "stageName": "I czytanie w komisjach",
+            "stageType": "Reading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-04-01",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "1137",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "389",
+                    "rapporteurName": "Tadeusz Tomaszewski",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1137/1137.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-04-01",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "date": "2025-04-04",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "comment": "wniosek o odrzucenie",
+            "decision": "niezwłocznie przystąpiono do III czytania",
+            "sittingNum": 32,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-04-04",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 177,
+                        "date": "2025-04-04T10:06:29",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/32/26/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 18,
+                        "no": 17,
+                        "notParticipating": 30,
+                        "present": 0,
+                        "sitting": 32,
+                        "sittingDay": 3,
+                        "term": 10,
+                        "title": "Pkt. 7 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Narodowym Instytucie Wolności - Centrum Rozwoju Społeczeństwa Obywatelskiego (druki nr 1129 i 1137)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 430,
+                        "votingNumber": 26,
+                        "yes": 236
+                    }
+                }
+            ],
+            "date": "2025-04-04",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "comment": "wniosek o odrzucenie",
+            "decision": "uchwalono",
+            "sittingNum": 32,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/1129/attachment/1129_u3.pdf"
+        },
+        {
+            "date": "2025-04-09",
+            "stageName": "Stanowisko Senatu",
+            "position": "nie wniósł poprawek",
+            "stageType": "SenatePosition"
+        },
+        {
+            "date": "2025-04-11",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "date": "2025-04-22",
+            "stageName": "Prezydent podpisał ustawę",
+            "omittedInconsistent": false,
+            "stageType": "PresidentSignature"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o zmianie ustawy o Narodowym Instytucie Wolności - Centrum Rozwoju Społeczeństwa Obywatelskiego",
+    "titleFinal": "o zmianie ustawy o Narodowym Instytucie Wolności - Centrum Rozwoju Społeczeństwa Obywatelskiego",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-05-07T15:14:00"
+}

@@ -1,0 +1,153 @@
+{
+    "ELI": "DU/2025/1174",
+    "UE": "NO",
+    "address": "WDU20250001174",
+    "changeDate": "2025-09-03T10:03:12",
+    "closureDate": "2025-07-25",
+    "description": "Zgodnie z uzasadnieniem projekt dotyczy umożliwienia osobom zawierającym umowy obowiązkowego ubezpieczenia OC posiadaczy pojazdów mechanicznych wyrażania zgody na komunikację elektroniczną w całym okresie trwania umowy ubezpieczenia. Analogiczne uprawnienie będzie dotyczyło umów obowiązkowego ubezpieczenia OC rolników z tytułu posiadania gospodarstwa rolnego oraz umów obowiązkowego ubezpieczenia budynków wchodzących w skład gospodarstwa rolnego od ognia i innych zdarzeń losowych. Nowe przepisy realizują działania deregulacyjne rządu.",
+    "displayAddress": "Dz.U. 2025 poz. 1174",
+    "documentDate": "2025-06-17",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [
+        {
+            "href": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001174",
+            "rel": "isap"
+        },
+        {
+            "href": "https://eli.gov.pl/eli/DU/2025/1174/ogl",
+            "rel": "eli"
+        },
+        {
+            "href": "https://api.sejm.gov.pl/eli/acts/DU/2025/1174",
+            "rel": "eli-api"
+        }
+    ],
+    "number": "1380",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2025-06-17",
+    "rclLink": "https://legislacja.rcl.gov.pl/getIdFromLegislacja?number=RM-0610-90-25",
+    "rclNum": "RM-0610-90-25",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2025-06-17",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "1380",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-06-23",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "DER",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-06-23",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "date": "2025-07-07",
+            "stageName": "I czytanie w komisjach",
+            "stageType": "Reading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-07-07",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "1415",
+                    "proposal": "uchwalić projekt ustawy bez poprawek",
+                    "rapporteurID": "345",
+                    "rapporteurName": "Weronika Smarduch",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1415/1415.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-07-07",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "date": "2025-07-23",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "decision": "niezwłocznie przystąpiono do III czytania",
+            "sittingNum": 39,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-07-25",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 170,
+                        "date": "2025-07-25T15:21:35",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/39/35/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 3,
+                        "no": 2,
+                        "notParticipating": 31,
+                        "present": 0,
+                        "sitting": 39,
+                        "sittingDay": 4,
+                        "term": 10,
+                        "title": "Pkt. 17 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych (druki nr 1380 i 1415)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 429,
+                        "votingNumber": 35,
+                        "yes": 257
+                    }
+                }
+            ],
+            "date": "2025-07-25",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "decision": "uchwalono",
+            "sittingNum": 39,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/1380/attachment/1380_u3.pdf"
+        },
+        {
+            "date": "2025-07-31",
+            "stageName": "Stanowisko Senatu",
+            "position": "nie wniósł poprawek",
+            "stageType": "SenatePosition"
+        },
+        {
+            "date": "2025-08-04",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "date": "2025-08-21",
+            "stageName": "Prezydent podpisał ustawę",
+            "omittedInconsistent": false,
+            "stageType": "PresidentSignature"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o zmianie ustawy o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych",
+    "titleFinal": "o zmianie ustawy o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-09-03T11:13:12"
+}

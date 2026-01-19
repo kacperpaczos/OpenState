@@ -1,0 +1,47 @@
+{
+    "UE": "NO",
+    "changeDate": "2024-06-12T10:11:12",
+    "closureDate": "2024-06-10",
+    "description": "projekt dotyczy stopniowej likwidacji obowiązku opłaty składek na ubezpieczenie społeczne na rzecz wprowadzenia systemu dobrowolnych składek dla przedsiębiorców (w pierwszym roku jej obowiązywania dobrowolność ubezpieczeń miałaby objąć mikroprzedsiębiorców, w drugim małych i średnich, a od trzeciego wszystkich przedsiębiorców)",
+    "documentDate": "2023-11-13",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "154",
+    "passed": false,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2023-11-13",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2023-11-13",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "154",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-01-15",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "PSR",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-01-15",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "date": "2024-06-10",
+            "stageName": "Wycofano",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Poselski projekt ustawy o zmianie ustawy o systemie ubezpieczeń społecznych",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2024-06-12T10:12:43"
+}

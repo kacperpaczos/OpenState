@@ -1,0 +1,191 @@
+{
+    "ELI": "DU/2025/1795",
+    "UE": "ENFORCEMENT",
+    "address": "WDU20250001795",
+    "changeDate": "2026-01-02T12:51:20",
+    "closureDate": "2025-11-21",
+    "description": "projekt dotyczy określenia: zadań jednostek, które zajmują się ochroną zdrowia zwierząt oraz zwalczaniem chorób zwierząt w szczególności Inspekcji Weterynaryjnej; zasad szeroko pojętego zwalczania chorób zwierząt (w zakresie, w którym nie obejmują  przepisy unijne), w tym odszkodowań, które przyznawane są w związku ze zwalczaniem chorób zwierząt; rozwiązań, które podejmowane są w ramach zwalczania chorób zwierząt w odniesieniu do zwierząt dzikich; sankcji za naruszenie przepisów",
+    "displayAddress": "Dz.U. 2025 poz. 1795",
+    "documentDate": "2025-07-07",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [
+        {
+            "href": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001795",
+            "rel": "isap"
+        },
+        {
+            "href": "https://eli.gov.pl/eli/DU/2025/1795/ogl",
+            "rel": "eli"
+        },
+        {
+            "href": "https://api.sejm.gov.pl/eli/acts/DU/2025/1795",
+            "rel": "eli-api"
+        }
+    ],
+    "number": "1479",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2025-07-07",
+    "rclLink": "https://legislacja.rcl.gov.pl/getIdFromLegislacja?number=RM-0610-102-25",
+    "rclNum": "RM-0610-102-25",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2025-07-07",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "1479",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-07-10",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "RRW",
+                    "remarks": "Prolongata do dnia 14-10-2025 r.",
+                    "reportDate": "2025-09-09",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-07-10",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "date": "2025-09-08",
+            "stageName": "I czytanie w komisjach",
+            "stageType": "Reading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-10-14",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "1803",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "102",
+                    "rapporteurName": "Piotr Głowski",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1803/1803.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-10-14",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "date": "2025-10-15",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "decision": "niezwłocznie przystąpiono do III czytania",
+            "sittingNum": 43,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-10-17",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 2,
+                        "date": "2025-10-17T09:43:53",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/43/27/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 199,
+                        "no": 198,
+                        "notParticipating": 18,
+                        "present": 0,
+                        "sitting": 43,
+                        "sittingDay": 3,
+                        "term": 10,
+                        "title": "Pkt. 5 Sprawozdanie Komisji o rządowym projekcie ustawy o zdrowiu zwierząt (druki nr 1479 i 1803)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 442,
+                        "votingNumber": 27,
+                        "yes": 242
+                    }
+                }
+            ],
+            "date": "2025-10-17",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "decision": "uchwalono",
+            "sittingNum": 43,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/1479/attachment/1479_u3.pdf"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-11-07",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "RRW",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-11-06",
+            "stageName": "Stanowisko Senatu",
+            "position": "wniósł poprawki",
+            "printNumber": "1936",
+            "stageType": "SenatePosition"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-11-20",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "2000",
+                    "proposal": "przyjąć poprawki",
+                    "rapporteurID": "102",
+                    "rapporteurName": "Piotr Głowski",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/2000/2000.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-11-20",
+            "stageName": "Praca w komisjach nad stanowiskiem Senatu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "date": "2025-11-21",
+            "stageName": "Rozpatrywanie na forum Sejmu stanowiska Senatu",
+            "decision": "przyjęto poprawki",
+            "sittingNum": 45,
+            "stageType": "SenatePositionConsideration"
+        },
+        {
+            "date": "2025-11-21",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "date": "2025-12-12",
+            "stageName": "Prezydent podpisał ustawę",
+            "omittedInconsistent": false,
+            "stageType": "PresidentSignature"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o zdrowiu zwierząt",
+    "titleFinal": "o zdrowiu zwierząt",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2026-01-07T08:26:26"
+}

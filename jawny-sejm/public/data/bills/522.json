@@ -1,0 +1,62 @@
+{
+    "UE": "NO",
+    "changeDate": "2025-01-23T09:21:57",
+    "closureDate": "2025-01-21",
+    "description": "projekt dotyczy przywrócenia postulatu wydłużenia urlopów macierzyńskich w sposób spełniający standardy wynikające z prawa międzynarodowego przy jednoczesnym wypełnieniu specjalnych potrzeb dzieci przedwcześnie urodzonych i ich rodziców",
+    "documentDate": "2024-06-12",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "522",
+    "passed": false,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2024-06-14",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2024-06-14",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "522",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-07-10",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "Sejm",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-07-10",
+            "stageName": "Skierowano do I czytania na posiedzeniu Sejmu",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-09-12",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "NKK",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-09-12",
+            "stageName": "I czytanie na posiedzeniu Sejmu",
+            "sittingNum": 17,
+            "stageType": "SejmReading"
+        },
+        {
+            "date": "2025-01-21",
+            "stageName": "Wycofano",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Poselski projekt ustawy o zmianie ustawy - Kodeks pracy oraz niektórych innych ustaw",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-01-23T09:46:21"
+}

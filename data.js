@@ -126,10 +126,29 @@ const MOCK_LEGISLATION_DB = {
         { title: "Strategia Energetyczna PL", term: "II kw. 2026", progress: 35 },
         { title: "Cyfryzacja Służby Zdrowia 2.0", term: "I kw. 2026", progress: 70 }
     ],
+    // Existing mock vote (kept for dashboard consistency)
     voting: {
         title: "Nowelizacja Kodeksu Pracy 2026",
         date: "15.01.2026",
         stats: { yes: 235, no: 180, abstain: 45 }
+    },
+    // DETAILED Voting Records for the new tab
+    votingRecords: {
+        "vote_57_2025": {
+            id: "vote_57_2025",
+            title: "Ustawa o zmianie ustawy o ochronie zwierząt",
+            description: "Sprawozdanie Komisji o poselskich projektach ustaw (druki nr 703, 835, 1769). Głosowanie nad przyjęciem ustawy.",
+            date: "17.10.2025",
+            result: "Przyjęta",
+            totalVotes: 436,
+            stats: { yes: 339, no: 78, abstain: 19, absent: 24 },
+            
+            // We simulate the detailed list based on the search result logic:
+            // PiS: Divided/Against (Telus: Przeciw, Adamczyk: Za)
+            // KO: Mostly Za
+            // TD/Lewica: Za
+            votes: [] // Will be populated by a helper function below to save space
+        }
     },
     committees: [
         { name: "Komisja Cyfryzacji", topic: "Cyberbezpieczeństwo", live: true },
@@ -140,5 +159,46 @@ const MOCK_LEGISLATION_DB = {
     // Replaced single object with full list
     parliament: generateParliament()
 };
+
+// Helper to generate the specific voting list for the Animal Protection Act
+function generateDetailedVotesForAnimalAct() {
+    const votes = [];
+    const parliament = MOCK_LEGISLATION_DB.parliament;
+
+    parliament.forEach(mp => {
+        let vote = "Wstrzymał"; 
+        
+        // Logic based on research:
+        // Total: 339 Yes, 78 No, 19 Abstain
+        
+        if (mp.party === "KO" || mp.party === "Lewica" || mp.party === "TD") {
+            vote = Math.random() > 0.05 ? "Za" : "Nieobecny"; // Strong support
+        } else if (mp.party === "PiS") {
+            // Mixed. Let's say 60% Yes (Adamczyk), 30% No (Telus), 10% Abstain
+            // Note: Real world might be different but we follow the "Adamczyk: Za, Telus: Przeciw" hint
+            if (mp.name.includes("Robert Telus")) vote = "Przeciw";
+            else if (mp.name.includes("Adamczyk")) vote = "Za";
+            else {
+                const r = Math.random();
+                if (r > 0.4) vote = "Za";
+                else if (r > 0.1) vote = "Przeciw";
+                else vote = "Wstrzymał";
+            }
+        } else if (mp.party === "Konfederacja") {
+            vote = "Przeciw";
+        }
+
+        votes.push({
+            mpName: mp.name,
+            mpParty: mp.party,
+            vote: vote
+        });
+    });
+    
+    return votes;
+}
+
+// Hydrate the dataset
+MOCK_LEGISLATION_DB.votingRecords["vote_57_2025"].votes = generateDetailedVotesForAnimalAct();
 
 window.MOCK_LEGISLATION_DB = MOCK_LEGISLATION_DB;

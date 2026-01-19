@@ -1,0 +1,176 @@
+{
+    "UE": "NO",
+    "changeDate": "2024-04-10T10:16:29",
+    "closureDate": "2024-02-22",
+    "description": "projekt dotyczy wprowadzenia zmian w dostępności środków antykoncepcyjnych",
+    "documentDate": "2024-01-29",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "185",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2024-01-30",
+    "rclLink": "https://legislacja.rcl.gov.pl/getIdFromLegislacja?number=RM-0610-4-24",
+    "rclNum": "RM-0610-4-24",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2024-01-30",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "185",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-02-01",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "ZDR",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-02-01",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "date": "2024-02-08",
+            "stageName": "I czytanie w komisjach",
+            "stageType": "Reading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-02-08",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 4,
+                    "printNumber": "197",
+                    "proposal": "uchwalić projekt ustawy bez poprawek",
+                    "rapporteurID": "8",
+                    "rapporteurName": "Bartosz Arłukowicz",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/197/197.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2024-02-08",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-02-08",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "ZDR",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-02-08",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "comment": "wniosek o odrzucenie",
+            "decision": "skierowano ponownie do komisji w celu przedstawienia sprawozdania",
+            "sittingNum": 5,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-02-20",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "197-A",
+                    "proposal": "odrzucić wniosek o odrzucenie",
+                    "rapporteurID": "8",
+                    "rapporteurName": "Bartosz Arłukowicz",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/197-A/197-A.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2024-02-20",
+            "stageName": "Praca w komisjach po II czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-02-22",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 1,
+                        "date": "2024-02-22T15:43:25",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/6/14/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 197,
+                        "no": 196,
+                        "notParticipating": 37,
+                        "present": 0,
+                        "sitting": 6,
+                        "sittingDay": 2,
+                        "term": 10,
+                        "title": "Pkt. 9 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Prawo farmaceutyczne (druki nr 185, 197 i 197-A) - trzecie czytanie",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 421,
+                        "votingNumber": 14,
+                        "yes": 224
+                    }
+                }
+            ],
+            "date": "2024-02-22",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "comment": "wniosek o odrzucenie, wnioski mniejszości",
+            "decision": "uchwalono",
+            "sittingNum": 6,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/185/attachment/185_u3.pdf"
+        },
+        {
+            "date": "2024-03-06",
+            "stageName": "Stanowisko Senatu",
+            "position": "nie wniósł poprawek",
+            "stageType": "SenatePosition"
+        },
+        {
+            "date": "2024-03-08",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-04-09",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "ZDR",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-03-29",
+            "stageName": "Wniosek Prezydenta (VETO)",
+            "printNumber": "295",
+            "stageType": "Veto"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o zmianie ustawy - Prawo farmaceutyczne",
+    "titleFinal": "o zmianie ustawy - Prawo farmaceutyczne",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2024-04-10T10:16:45"
+}

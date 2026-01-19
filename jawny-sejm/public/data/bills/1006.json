@@ -1,0 +1,63 @@
+{
+    "UE": "NO",
+    "changeDate": "2025-03-06T17:38:22",
+    "description": "projekt dotyczy ograniczenia dostępu do pornografii dla osób poniżej 18 roku życia przez m. in. zobowiązanie administratorów stron pornograficznych do wprowadzenia skutecznej weryfikacji wieku użytkownika; za brak wdrożenia takich działań groziłaby blokada portali przez dostawców Internetu oraz uniemożliwienie im korzystania z usług płatniczych",
+    "documentDate": "2024-12-20",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "1006",
+    "passed": false,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2024-12-20",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2024-12-20",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "1006",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-02-04",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "Sejm",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-02-04",
+            "stageName": "Skierowano do I czytania na posiedzeniu Sejmu",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-03-06",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "DIM",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                },
+                {
+                    "date": "2025-03-06",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "CNT",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-03-06",
+            "stageName": "I czytanie na posiedzeniu Sejmu",
+            "sittingNum": 30,
+            "stageType": "SejmReading"
+        }
+    ],
+    "term": 10,
+    "title": "Obywatelski projekt ustawy o ochronie małoletnich przed treściami pornograficznymi w Internecie oraz o zmianie ustawy - Prawo telekomunikacyjne",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-03-11T13:24:57"
+}

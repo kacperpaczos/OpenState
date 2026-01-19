@@ -1,0 +1,41 @@
+{
+    "UE": "NO",
+    "changeDate": "2025-10-14T17:48:45",
+    "description": "projekt dotyczy wykreślenia przepisu przewidującego zniesienie ulgi na robotyzację z dniem 31 grudnia 2026 r. oraz podniesienia poziomu ulgi na robotyzację z 50% na 100% odliczenia kosztów uzyskania przychodów poniesionych na robotyzację od podstawy opodatkowania",
+    "documentDate": "2025-09-02",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "1708",
+    "passed": false,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2025-09-02",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2025-09-02",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "1708",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-10-14",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "Sejm",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-10-14",
+            "stageName": "Skierowano do I czytania na posiedzeniu Sejmu",
+            "stageType": "ReadingReferral"
+        }
+    ],
+    "term": 10,
+    "title": "Poselski projekt ustawy o zmianie ustawy o podatku dochodowym od osób prawnych oraz ustawy o podatku dochodowym od osób fizycznych",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-10-14T17:48:59"
+}

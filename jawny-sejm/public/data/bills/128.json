@@ -1,0 +1,199 @@
+{
+    "UE": "NO",
+    "changeDate": "2023-12-27T15:12:48",
+    "closureDate": "2023-12-21",
+    "comments": "W dniu 29.12.2023 r. Prezydent wyznaczył Panią Małgorzatę Paprocką, Sekretarza Stanu w Kancelarii Prezydenta RP, do reprezentowania swojego stanowiska do wniosku o ponowne rozpatrzenie ustawy (druk 138).",
+    "description": "projekt dotyczy dostosowania regulacji prawnych zawartych w wybranych ustawach do projektu ustawy budżetowej na rok 2024",
+    "documentDate": "2023-11-13",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "128",
+    "otherDocuments": [
+        {
+            "documentDate": "2023-12-04",
+            "number": "128-A",
+            "registeredDate": "2023-12-04",
+            "title": "Autopoprawka do rządowego projektu ustawy o szczególnych rozwiązaniach służących realizacji ustawy budżetowej na rok 2024"
+        },
+        {
+            "documentDate": "2023-12-11",
+            "number": "128-B",
+            "registeredDate": "2023-12-11",
+            "title": "Autopoprawka do rządowego projektu ustawy o szczególnych rozwiązaniach służących realizacji ustawy budżetowej na rok 2024"
+        },
+        {
+            "documentDate": "2023-12-19",
+            "number": "128-C",
+            "registeredDate": "2023-12-19",
+            "title": "Autopoprawka do rządowego projektu ustawy o szczególnych rozwiązaniach służących realizacji ustawy budżetowej  na rok 2024"
+        },
+        {
+            "documentDate": "2023-12-19",
+            "number": "128-BA",
+            "registeredDate": "2023-12-19",
+            "title": "Autopoprawka do autopoprawki do rządowego projektu ustawy o szczególnych rozwiązaniach służących realizacji ustawy budżetowej na rok 2024"
+        }
+    ],
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2023-11-13",
+    "rclLink": "https://legislacja.rcl.gov.pl/getIdFromLegislacja?number=RM-0610-100-23",
+    "rclNum": "RM-0610-100-23",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2023-11-13",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "otherDocuments": [
+                {
+                    "documentDate": "2023-12-04",
+                    "number": "128-A",
+                    "registeredDate": "2023-12-04",
+                    "title": "Autopoprawka do rządowego projektu ustawy o szczególnych rozwiązaniach służących realizacji ustawy budżetowej na rok 2024"
+                },
+                {
+                    "documentDate": "2023-12-11",
+                    "number": "128-B",
+                    "registeredDate": "2023-12-11",
+                    "title": "Autopoprawka do rządowego projektu ustawy o szczególnych rozwiązaniach służących realizacji ustawy budżetowej na rok 2024"
+                },
+                {
+                    "documentDate": "2023-12-19",
+                    "number": "128-C",
+                    "registeredDate": "2023-12-19",
+                    "title": "Autopoprawka do rządowego projektu ustawy o szczególnych rozwiązaniach służących realizacji ustawy budżetowej  na rok 2024"
+                },
+                {
+                    "documentDate": "2023-12-19",
+                    "number": "128-BA",
+                    "registeredDate": "2023-12-19",
+                    "title": "Autopoprawka do autopoprawki do rządowego projektu ustawy o szczególnych rozwiązaniach służących realizacji ustawy budżetowej na rok 2024"
+                }
+            ],
+            "printNumber": "128",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2023-12-19",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "FPB",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2023-12-19",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "date": "2023-12-20",
+            "stageName": "I czytanie w komisjach",
+            "stageType": "Reading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2023-12-20",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "131",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "60",
+                    "rapporteurName": "Zofia Czernow",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/131/131.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2023-12-20",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "date": "2023-12-20",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "decision": "niezwłocznie przystąpiono do III czytania",
+            "sittingNum": 1,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2023-12-21",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 11,
+                        "date": "2023-12-21T09:44:58",
+                        "description": "calość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/1/140/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 23,
+                        "no": 22,
+                        "notParticipating": 183,
+                        "present": 0,
+                        "sitting": 1,
+                        "sittingDay": 13,
+                        "term": 10,
+                        "title": "Pkt. 56 Sprawozdanie Komisji o rządowym projekcie ustawy o szczególnych rozwiązaniach służących realizacji ustawy budżetowej na rok 2024 (druki nr 128, 128-A, 128-B, 128-BA, 128-C i 131)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 277,
+                        "votingNumber": 140,
+                        "yes": 244
+                    }
+                }
+            ],
+            "date": "2023-12-21",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "decision": "uchwalono",
+            "sittingNum": 1,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/128/attachment/128_u3.pdf"
+        },
+        {
+            "date": "2023-12-22",
+            "stageName": "Stanowisko Senatu",
+            "position": "nie wniósł poprawek",
+            "stageType": "SenatePosition"
+        },
+        {
+            "date": "2023-12-22",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "children": [
+                {
+                    "date": "2023-12-27",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "FPB",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2023-12-27",
+            "stageName": "Wniosek Prezydenta (VETO)",
+            "printNumber": "138",
+            "stageType": "Veto"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o szczególnych rozwiązaniach służących realizacji ustawy budżetowej na rok 2024",
+    "titleFinal": "o szczególnych rozwiązaniach służących realizacji ustawy budżetowej na rok 2024",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2023-12-27T15:13:02"
+}

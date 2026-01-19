@@ -1,0 +1,215 @@
+{
+    "ELI": "DU/2024/1572",
+    "UE": "NO",
+    "address": "WDU20240001572",
+    "changeDate": "2024-10-31T12:45:32",
+    "closureDate": "2024-10-01",
+    "description": "projekt dotyczy zmiany w zakresie dochodów JST z tytułu udziału w podatkach dochodowych (podatku dochodowym od osób fizycznych oraz podatku dochodowym od osób prawnych); określenia potrzeb finansowych JST oraz oparcia ich finansowania na dochodach własnych; wydzielenia miast na prawach powiatu, jako oddzielnej kategorii JST w ramach systemu dochodów samorządu terytorialnego; wprowadzenia jednej rezerwy uzupełniającej dochody jednostek samorządu terytorialnego",
+    "displayAddress": "Dz.U. 2024 poz. 1572",
+    "documentDate": "2024-09-04",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [
+        {
+            "href": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001572",
+            "rel": "isap"
+        },
+        {
+            "href": "https://eli.gov.pl/eli/DU/2024/1572/ogl",
+            "rel": "eli"
+        },
+        {
+            "href": "https://api.sejm.gov.pl/eli/acts/DU/2024/1572",
+            "rel": "eli-api"
+        }
+    ],
+    "number": "622",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2024-09-04",
+    "rclLink": "https://legislacja.rcl.gov.pl/getIdFromLegislacja?number=RM-0610-62-24",
+    "rclNum": "RM-0610-62-24",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2024-09-04",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "622",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-09-04",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "Sejm",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-09-04",
+            "stageName": "Skierowano do I czytania na posiedzeniu Sejmu",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-09-13",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "STR",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                },
+                {
+                    "date": "2024-09-13",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "FPB",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-09-13",
+            "stageName": "I czytanie na posiedzeniu Sejmu",
+            "sittingNum": 17,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-09-24",
+                    "stageName": "Sprawozdanie podkomisji",
+                    "minorityMotions": 0,
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/processes/622/attachment/spr_622.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": true
+                },
+                {
+                    "date": "2024-09-26",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 18,
+                    "printNumber": "675",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "352",
+                    "rapporteurName": "Marek Sowa",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/675/675.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2024-09-24",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-09-27",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "STR",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                },
+                {
+                    "date": "2024-09-27",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "FPB",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-09-27",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "comment": "poprawka",
+            "decision": "skierowano ponownie do komisji w celu przedstawienia sprawozdania",
+            "sittingNum": 18,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-10-01",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "675-A",
+                    "proposal": "przyjąć poprawkę",
+                    "rapporteurID": "352",
+                    "rapporteurName": "Marek Sowa",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/675-A/675-A.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2024-10-01",
+            "stageName": "Praca w komisjach po II czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-10-01",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 184,
+                        "date": "2024-10-01T19:37:14",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/18/59/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 2,
+                        "no": 1,
+                        "notParticipating": 43,
+                        "present": 0,
+                        "sitting": 18,
+                        "sittingDay": 4,
+                        "term": 10,
+                        "title": "Pkt. 33 Sprawozdanie Komisji o rządowym projekcie ustawy o dochodach jednostek samorządu terytorialnego (druki nr 622, 675 i 675-A)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 416,
+                        "votingNumber": 59,
+                        "yes": 231
+                    }
+                }
+            ],
+            "date": "2024-10-01",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "comment": "wnioski mniejszości, poprawka",
+            "decision": "uchwalono",
+            "sittingNum": 18,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/622/attachment/622_u3.pdf"
+        },
+        {
+            "date": "2024-10-10",
+            "stageName": "Stanowisko Senatu",
+            "position": "nie wniósł poprawek",
+            "stageType": "SenatePosition"
+        },
+        {
+            "date": "2024-10-11",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "date": "2024-10-21",
+            "stageName": "Prezydent podpisał ustawę",
+            "omittedInconsistent": false,
+            "stageType": "PresidentSignature"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o dochodach jednostek samorządu terytorialnego",
+    "titleFinal": "o dochodach jednostek samorządu terytorialnego",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2024-11-04T13:28:45"
+}

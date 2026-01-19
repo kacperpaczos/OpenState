@@ -1,0 +1,67 @@
+{
+    "UE": "NO",
+    "changeDate": "2026-01-09T10:59:31",
+    "description": "projekt dotyczy umożliwienia wypłacania zapomóg doktorantom, którzy przejściowo znaleźli się w trudnej sytuacji życiowej. Świadczenia te będą finansowane ze środków własnych podmiotów prowadzących szkoły doktorskie, bez dodatkowych kosztów dla budżetu państwa. Rozwiązanie pozwoli doktorantom na uzyskanie wsparcia w wyjątkowych sytuacjach. Nowe przepisy realizują działania deregulacyjne rządu.",
+    "documentDate": "2025-12-10",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "2077",
+    "passed": false,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2025-12-10",
+    "rclLink": "https://legislacja.rcl.gov.pl/getIdFromLegislacja?number=RM-0610-229-25",
+    "rclNum": "RM-0610-229-25",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2025-12-10",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "2077",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-12-16",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "DER",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-12-16",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "date": "2026-01-09",
+            "stageName": "I czytanie w komisjach",
+            "stageType": "Reading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2026-01-09",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "2117",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "491",
+                    "rapporteurName": "Aleksandra Kot",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/2117/2117.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2026-01-09",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o zmianie ustawy - Prawo o szkolnictwie wyższym i nauce",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2026-01-09T11:00:08"
+}

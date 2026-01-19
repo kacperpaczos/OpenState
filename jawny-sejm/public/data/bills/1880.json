@@ -1,0 +1,164 @@
+{
+    "ELI": "DU/2025/1822",
+    "UE": "NO",
+    "address": "WDU20250001822",
+    "changeDate": "2026-01-02T12:56:41",
+    "closureDate": "2025-12-04",
+    "description": "projekt dotyczy umożliwienia spółkom górniczym stopniową likwidację kopalń przy wsparciu finansowym państwa. Dla pracowników sektora przewidziany jest pakiet świadczeń osłonowych, takich jak urlopy górnicze czy jednorazowe odprawy. Ponadto, przyjęte rozwiązania rozszerzają planowany system wsparcia państwa na rynek węgla kamiennego, w tym węgla koksującego.",
+    "displayAddress": "Dz.U. 2025 poz. 1822",
+    "documentDate": "2025-10-31",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [
+        {
+            "href": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001822",
+            "rel": "isap"
+        },
+        {
+            "href": "https://eli.gov.pl/eli/DU/2025/1822/ogl",
+            "rel": "eli"
+        },
+        {
+            "href": "https://api.sejm.gov.pl/eli/acts/DU/2025/1822",
+            "rel": "eli-api"
+        }
+    ],
+    "number": "1880",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2025-10-31",
+    "rclLink": "https://legislacja.rcl.gov.pl/getIdFromLegislacja?number=RM-0610-183-25",
+    "rclNum": "RM-0610-183-25",
+    "shortenProcedure": true,
+    "stages": [
+        {
+            "date": "2025-10-31",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "1880",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-11-04",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "Sejm",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-11-04",
+            "stageName": "Skierowano do I czytania na posiedzeniu Sejmu",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-11-07",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "ESK",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-11-07",
+            "stageName": "I czytanie na posiedzeniu Sejmu",
+            "sittingNum": 44,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-12-03",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 10,
+                    "printNumber": "1970",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "85",
+                    "rapporteurName": "Krzysztof Gadowski",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1970/1970.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-12-03",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "date": "2025-12-04",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "decision": "niezwłocznie przystąpiono do III czytania",
+            "sittingNum": 46,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-12-04",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 186,
+                        "date": "2025-12-04T20:06:11",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/46/45/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 7,
+                        "no": 6,
+                        "notParticipating": 27,
+                        "present": 0,
+                        "sitting": 46,
+                        "sittingDay": 2,
+                        "term": 10,
+                        "title": "Pkt. 10 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o funkcjonowaniu górnictwa węgla kamiennego oraz ustawy o podatku dochodowym od osób fizycznych (druki nr 1880 i 1970)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 433,
+                        "votingNumber": 45,
+                        "yes": 241
+                    }
+                }
+            ],
+            "date": "2025-12-04",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "comment": "wnioski mniejszości",
+            "decision": "uchwalono",
+            "sittingNum": 46,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/1880/attachment/1880_u3.pdf"
+        },
+        {
+            "date": "2025-12-10",
+            "stageName": "Stanowisko Senatu",
+            "position": "nie wniósł poprawek",
+            "stageType": "SenatePosition"
+        },
+        {
+            "date": "2025-12-10",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "date": "2025-12-15",
+            "stageName": "Prezydent podpisał ustawę",
+            "omittedInconsistent": false,
+            "stageType": "PresidentSignature"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o zmianie ustawy o funkcjonowaniu górnictwa węgla kamiennego oraz ustawy o podatku dochodowym od osób fizycznych",
+    "titleFinal": "o zmianie ustawy o funkcjonowaniu górnictwa węgla kamiennego oraz niektórych innych ustaw",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2026-01-07T08:26:26"
+}

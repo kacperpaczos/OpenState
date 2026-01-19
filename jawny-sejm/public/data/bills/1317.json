@@ -1,0 +1,41 @@
+{
+    "UE": "NO",
+    "changeDate": "2025-06-10T12:38:05",
+    "description": "projekt dotyczy przywrócenia emerytom urodzonym w innym roku niż 1953 pełnej podstawy obliczenia emerytury, pomniejszonej w 2012 r., o kwoty pobranych tzw. emerytur wcześniejszych pod warunkiem, że emeryci ci nie spełniali warunków nabycia prawa do emerytury powszechnej na podstawie art. 24 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych przed 1 stycznia 2013 r. Ustawa nie obejmuje tym samym osób, które spełniły wszystkie warunki do nabycia prawa do emerytury powszechnej na podstawie art. 24 tej ustawy przed 1 stycznia 2013 r., czyli w praktyce przed tą datą ukończyły: 60 lat - kobiety, 65 lat - mężczyźni",
+    "documentDate": "2025-04-29",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "1317",
+    "passed": false,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2025-04-29",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2025-04-29",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "1317",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-06-10",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "PSR",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-06-10",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        }
+    ],
+    "term": 10,
+    "title": "Poselski projekt ustawy o zmianie ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-06-10T12:38:25"
+}

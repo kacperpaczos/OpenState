@@ -1,0 +1,170 @@
+{
+    "ELI": "DU/2025/1008",
+    "UE": "NO",
+    "address": "WDU20250001008",
+    "changeDate": "2025-07-30T12:07:00",
+    "closureDate": "2025-06-25",
+    "description": "projekt dotyczy wypowiedzenia Konwencji ottawskiej dotyczącej zakazu użycia min przeciwpiechotnych jako środka walki zbrojnej",
+    "displayAddress": "Dz.U. 2025 poz. 1008",
+    "documentDate": "2025-05-16",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [
+        {
+            "href": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001008",
+            "rel": "isap"
+        },
+        {
+            "href": "https://eli.gov.pl/eli/DU/2025/1008/ogl",
+            "rel": "eli"
+        },
+        {
+            "href": "https://api.sejm.gov.pl/eli/acts/DU/2025/1008",
+            "rel": "eli-api"
+        }
+    ],
+    "number": "1261",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2025-05-16",
+    "rclLink": "https://legislacja.rcl.gov.pl/getIdFromLegislacja?number=RM-0610-60-25",
+    "rclNum": "RM-0610-60-25",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2025-05-16",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "1261",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-05-19",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "Sejm",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-05-19",
+            "stageName": "Skierowano do I czytania na posiedzeniu Sejmu",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-05-20",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "SZA",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                },
+                {
+                    "date": "2025-05-20",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "OBN",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-05-20",
+            "stageName": "I czytanie na posiedzeniu Sejmu",
+            "sittingNum": 35,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-06-03",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "1327",
+                    "proposal": "uchwalić projekt ustawy bez poprawek",
+                    "rapporteurID": "370",
+                    "rapporteurName": "Andrzej Szewiński",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1327/1327.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-06-03",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "date": "2025-06-25",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "decision": "niezwłocznie przystąpiono do III czytania",
+            "sittingNum": 37,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-06-25",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 3,
+                        "date": "2025-06-25T22:48:18",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/37/76/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 16,
+                        "no": 15,
+                        "notParticipating": 29,
+                        "present": 0,
+                        "sitting": 37,
+                        "sittingDay": 2,
+                        "term": 10,
+                        "title": "Pkt. 27 Sprawozdanie Komisji o rządowym projekcie ustawy o wypowiedzeniu Konwencji o zakazie użycia, składowania, produkcji i przekazywania min przeciwpiechotnych oraz o ich zniszczeniu, sporządzonej w Oslo dnia 18 września 1997 r. (druki nr 1261 i 1327)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 431,
+                        "votingNumber": 76,
+                        "yes": 413
+                    }
+                }
+            ],
+            "date": "2025-06-25",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "decision": "uchwalono",
+            "sittingNum": 37,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/1261/attachment/1261_u3.pdf"
+        },
+        {
+            "date": "2025-07-17",
+            "stageName": "Stanowisko Senatu",
+            "position": "nie wniósł poprawek",
+            "stageType": "SenatePosition"
+        },
+        {
+            "date": "2025-07-21",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "date": "2025-07-23",
+            "stageName": "Prezydent podpisał ustawę",
+            "omittedInconsistent": false,
+            "stageType": "PresidentSignature"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o wypowiedzeniu Konwencji o zakazie użycia, składowania, produkcji i przekazywania min przeciwpiechotnych oraz o ich zniszczeniu, sporządzonej w Oslo dnia 18 września 1997 r.",
+    "titleFinal": "o wypowiedzeniu Konwencji o zakazie użycia, składowania, produkcji i przekazywania min przeciwpiechotnych oraz o ich zniszczeniu, sporządzonej w Oslo dnia 18 września 1997 r.",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-07-30T12:07:29"
+}

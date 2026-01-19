@@ -1,0 +1,66 @@
+{
+    "UE": "NO",
+    "changeDate": "2026-01-08T17:10:44",
+    "comments": "Zmiana przedstawiciela wnioskodawców - posła M. Orlińskiego zastąpił poseł J. Rzepa.",
+    "description": "projekt dotyczy doprecyzowania przepisów ustawy z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa poprzez dodanie w art. 23c sformułowania, iż nadwyżka środków finansowych Krajowego Ośrodka Wsparcia Rolnictwa za 2022 rok może zostać wykorzystana w terminie do 31 grudnia 2027 roku",
+    "documentDate": "2025-09-05",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "1732",
+    "passed": false,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2025-09-05",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2025-09-05",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "1732",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-10-14",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "RRW",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-10-14",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "date": "2025-12-17",
+            "stageName": "I czytanie w komisjach",
+            "stageType": "Reading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2026-01-08",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "2092",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "320",
+                    "rapporteurName": "Jarosław Rzepa",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/2092/2092.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2026-01-08",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        }
+    ],
+    "term": 10,
+    "title": "Poselski projekt ustawy o zmianie ustawy o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2026-01-08T17:12:50"
+}

@@ -1,0 +1,61 @@
+{
+    "UE": "NO",
+    "changeDate": "2026-01-16T23:22:46",
+    "description": "projekt dotyczy wprowadzenia Karty Rodziny Mundurowej i związanych z nią uprawnień dla beneficjentów, przyznawanych przez podmioty publiczne i niepubliczne w dostępie do oferowanych przez nie dóbr i usług oraz ustanowienia Dnia Rodziny Mundurowej",
+    "documentDate": "2025-10-17",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "1964",
+    "passed": false,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2025-10-17",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2025-10-17",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "1964",
+            "stageType": "Start"
+        },
+        {
+            "date": "2025-10-24",
+            "stageName": "Opinia organizacji samorządowej",
+            "organ": "Organizacja samorządowa",
+            "stageType": "Opinion"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-12-02",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "OBN",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                },
+                {
+                    "date": "2025-12-02",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "ASW",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                },
+                {
+                    "date": "2026-01-15",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "Sejm",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-12-02",
+            "stageName": "Skierowano do I czytania na posiedzeniu Sejmu",
+            "stageType": "ReadingReferral"
+        }
+    ],
+    "term": 10,
+    "title": "Poselski projekt ustawy o Karcie Rodziny Mundurowej",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2026-01-19T09:18:55"
+}

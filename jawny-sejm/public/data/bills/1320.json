@@ -1,0 +1,62 @@
+{
+    "UE": "NO",
+    "changeDate": "2025-07-11T09:09:23",
+    "description": "projekt dotyczy zmiany w sposobie opodatkowania podatników wymienionych w art. 4 pkt 1-4 ustawy z 15 stycznia 2016 r. o podatku od niektórych instytucji finansowych; zdaniem wnioskodawców zmiana zawarta w projekcie polega na wprowadzeniu zwolnienia podatkowego dla tych kredytów, których oprocentowanie kształtuje się na poziomie 1% lub poniżej, przy jednoczesnym progresywnym podwyższeniu podatku dla tych aktywów, które ulokowane są w kredytach, dla których marża odsetkowa kształtuje się na wyższych poziomach",
+    "documentDate": "2025-04-28",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "1320",
+    "passed": false,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2025-04-28",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2025-04-28",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "1320",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-06-02",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "Sejm",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-06-02",
+            "stageName": "Skierowano do I czytania na posiedzeniu Sejmu",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-07-10",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "FPB",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-07-10",
+            "stageName": "I czytanie na posiedzeniu Sejmu",
+            "sittingNum": 38,
+            "stageType": "SejmReading"
+        },
+        {
+            "date": "2025-09-05",
+            "stageName": "Wpłynęło stanowisko rządu",
+            "stageType": "GovermentPosition",
+            "title": "Stanowisko Rządu do druku nr 1320"
+        }
+    ],
+    "term": 10,
+    "title": "Poselski projekt ustawy o zmianie ustawy o podatku od niektórych instytucji finansowych",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-07-11T09:09:48"
+}

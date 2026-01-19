@@ -1,0 +1,161 @@
+{
+    "ELI": "DU/2025/1167",
+    "UE": "NO",
+    "address": "WDU20250001167",
+    "changeDate": "2025-08-26T09:01:20",
+    "closureDate": "2025-07-09",
+    "description": "projekt dotyczy wprowadzenia do ustawy przepisu przesądzającego, że do wszystkich umów, których skutkiem ostatecznym jest przeniesienie własności nieruchomości powstałej w wyniku przedsięwzięcia deweloperskiego, stosuje się przepisy o rękojmi przy sprzedaży",
+    "displayAddress": "Dz.U. 2025 poz. 1167",
+    "documentDate": "2025-04-29",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [
+        {
+            "href": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001167",
+            "rel": "isap"
+        },
+        {
+            "href": "https://eli.gov.pl/eli/DU/2025/1167/ogl",
+            "rel": "eli"
+        },
+        {
+            "href": "https://api.sejm.gov.pl/eli/acts/DU/2025/1167",
+            "rel": "eli-api"
+        }
+    ],
+    "number": "1272",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2025-04-29",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2025-04-29",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "1272",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-06-04",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "Sejm",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-06-04",
+            "stageName": "Skierowano do I czytania na posiedzeniu Sejmu",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-06-11",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "INF",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-06-11",
+            "stageName": "I czytanie na posiedzeniu Sejmu",
+            "sittingNum": 36,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-07-07",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "1408",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "272",
+                    "rapporteurName": "Barbara Oliwiecka",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1408/1408.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-07-07",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "date": "2025-07-09",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "decision": "niezwłocznie przystąpiono do III czytania",
+            "sittingNum": 38,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-07-09",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 0,
+                        "date": "2025-07-09T22:30:51",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/38/49/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 1,
+                        "no": 0,
+                        "notParticipating": 26,
+                        "present": 0,
+                        "sitting": 38,
+                        "sittingDay": 2,
+                        "term": 10,
+                        "title": "Pkt. 18 Sprawozdanie Komisji o poselskim projekcie ustawy o zmianie ustawy o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym (druki nr 1272 i 1408)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 434,
+                        "votingNumber": 49,
+                        "yes": 434
+                    }
+                }
+            ],
+            "date": "2025-07-09",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "decision": "uchwalono",
+            "sittingNum": 38,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/1272/attachment/1272_u3.pdf"
+        },
+        {
+            "date": "2025-07-31",
+            "stageName": "Stanowisko Senatu",
+            "position": "nie wniósł poprawek",
+            "stageType": "SenatePosition"
+        },
+        {
+            "date": "2025-08-04",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "date": "2025-08-21",
+            "stageName": "Prezydent podpisał ustawę",
+            "omittedInconsistent": false,
+            "stageType": "PresidentSignature"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Poselski projekt ustawy o zmianie ustawy o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym",
+    "titleFinal": "o zmianie ustawy o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-09-02T12:51:49"
+}

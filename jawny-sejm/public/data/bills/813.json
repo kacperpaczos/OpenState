@@ -1,0 +1,199 @@
+{
+    "ELI": "DU/2024/1940",
+    "UE": "ENFORCEMENT",
+    "address": "WDU20240001940",
+    "changeDate": "2025-01-03T14:09:09",
+    "closureDate": "2024-11-27",
+    "description": "projekt dotyczy wprowadzenia rozwiązań służących wzmocnieniu środowiskowego wymiaru polityki miejskiej, w szczególności wzmocnienia aspektów transformacji ekologicznej miast, w tym poprawy jakości powietrza; projekt przewiduje obligatoryjne opracowywanie dla miast o liczbie mieszkańców powyżej 20 tys. miejskich planów adaptacji do zmian klimatu (MPA) oraz uwzględniania aspektu adaptacji do zmian klimatu w dokumentach o charakterze strategicznym, w tym dotyczących planowania przestrzennego miast oraz wprowadzenia przepisów, które usprawnią działanie programów finansowych \"Stop Smog\" i \"Czyste Powietrze\"",
+    "displayAddress": "Dz.U. 2024 poz. 1940",
+    "documentDate": "2024-11-14",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [
+        {
+            "href": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001940",
+            "rel": "isap"
+        },
+        {
+            "href": "https://eli.gov.pl/eli/DU/2024/1940/ogl",
+            "rel": "eli"
+        },
+        {
+            "href": "https://api.sejm.gov.pl/eli/acts/DU/2024/1940",
+            "rel": "eli-api"
+        }
+    ],
+    "number": "813",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2024-11-14",
+    "rclLink": "https://legislacja.rcl.gov.pl/getIdFromLegislacja?number=RM-0610-99-24",
+    "rclNum": "RM-0610-99-24",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2024-11-14",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "813",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-11-15",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "STR",
+                    "reportDate": "2024-12-03",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                },
+                {
+                    "date": "2024-11-15",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "OSZ",
+                    "reportDate": "2024-12-03",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-11-15",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "date": "2024-11-26",
+            "stageName": "I czytanie w komisjach",
+            "stageType": "Reading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-11-26",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 2,
+                    "printNumber": "863",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "237",
+                    "rapporteurName": "Katarzyna Matusik-Lipiec",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/863/863.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2024-11-26",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-11-27",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "STR",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                },
+                {
+                    "date": "2024-11-27",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "OSZ",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-11-27",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "comment": "poprawki",
+            "decision": "skierowano ponownie do komisji w celu przedstawienia sprawozdania",
+            "sittingNum": 22,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-11-27",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "863-A",
+                    "proposal": "przyjąć część poprawek",
+                    "rapporteurID": "237",
+                    "rapporteurName": "Katarzyna Matusik-Lipiec",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/863-A/863-A.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2024-11-27",
+            "stageName": "Praca w komisjach po II czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-11-27",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 168,
+                        "date": "2024-11-27T21:16:52",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/22/149/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 25,
+                        "no": 24,
+                        "notParticipating": 34,
+                        "present": 0,
+                        "sitting": 22,
+                        "sittingDay": 5,
+                        "term": 10,
+                        "title": "Pkt. 36 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Prawo ochrony środowiska oraz niektórych innych ustaw (druki nr 813, 863 i 863-A)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 426,
+                        "votingNumber": 149,
+                        "yes": 234
+                    }
+                }
+            ],
+            "date": "2024-11-27",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "comment": "wnioski mniejszości, poprawki",
+            "decision": "uchwalono",
+            "sittingNum": 22,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/813/attachment/813_u3.pdf"
+        },
+        {
+            "date": "2024-12-04",
+            "stageName": "Stanowisko Senatu",
+            "position": "nie wniósł poprawek",
+            "stageType": "SenatePosition"
+        },
+        {
+            "date": "2024-12-05",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "date": "2024-12-19",
+            "stageName": "Prezydent podpisał ustawę",
+            "omittedInconsistent": false,
+            "stageType": "PresidentSignature"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o zmianie ustawy - Prawo ochrony środowiska oraz niektórych innych ustaw",
+    "titleFinal": "o zmianie ustawy - Prawo ochrony środowiska oraz niektórych innych ustaw",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-01-09T14:37:56"
+}

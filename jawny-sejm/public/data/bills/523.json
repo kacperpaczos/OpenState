@@ -1,0 +1,65 @@
+{
+    "UE": "NO",
+    "changeDate": "2024-07-25T19:38:14",
+    "description": "projekt dotyczy uzupełnienia obowiązków publikacyjnych ministra właściwego ds. klimatu o informacje w danym roku: łączna liczba wydanych (bezpłatnych) uprawnień do emisji dla instalacji, łączna liczba uprawnień do emisji sprzedanych w drodze aukcji, całkowita wielkość emisji z instalacji",
+    "documentDate": "2024-06-17",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "523",
+    "passed": false,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2024-06-17",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2024-06-17",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "523",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-07-10",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "ESK",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-07-10",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "date": "2024-07-25",
+            "stageName": "I czytanie w komisjach",
+            "stageType": "Reading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-07-25",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "582",
+                    "proposal": "odrzucić projekt ustawy",
+                    "rapporteurID": "347",
+                    "rapporteurName": "Anna Sobolak",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/582/582.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2024-07-25",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        }
+    ],
+    "term": 10,
+    "title": "Poselski projekt ustawy o zmianie ustawy o systemie handlu uprawnieniami do emisji gazów cieplarnianych",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2024-07-25T19:38:35"
+}

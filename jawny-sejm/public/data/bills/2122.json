@@ -1,0 +1,50 @@
+{
+    "UE": "NO",
+    "changeDate": "2026-01-07T18:42:44",
+    "description": "projekt dotyczy uproszczenia zasad ubiegania się o zasiłek opiekuńczy. Nowe przepisy pozwolą na składanie elektronicznych wniosków do Zakładu Ubezpieczeń Społecznych za pośrednictwem pracodawców i biur rachunkowych. Nowe przepisy realizują działania deregulacyjne rządu.",
+    "documentDate": "2025-12-31",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "2122",
+    "passed": false,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2025-12-31",
+    "rclLink": "https://legislacja.rcl.gov.pl/getIdFromLegislacja?number=RM-0610-235-25",
+    "rclNum": "RM-0610-235-25",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2025-12-31",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "2122",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2026-01-07",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "DER",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                },
+                {
+                    "date": "2026-01-07",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "PSR",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2026-01-07",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o zmianie ustawy o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2026-01-07T18:43:05"
+}

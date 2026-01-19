@@ -1,0 +1,236 @@
+{
+    "ELI": "DU/2025/769",
+    "UE": "NO",
+    "address": "WDU20250000769",
+    "changeDate": "2025-06-23T11:56:09",
+    "closureDate": "2025-05-21",
+    "description": "projekt dotyczy wprowadzenia uproszczeń odnoszących się do etapu rozpoczynania działalności przez przedsiębiorcę oraz rozwoju przedsiębiorstwa w kolejnych latach",
+    "displayAddress": "Dz.U. 2025 poz. 769",
+    "documentDate": "2025-03-14",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [
+        {
+            "href": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000769",
+            "rel": "isap"
+        },
+        {
+            "href": "https://eli.gov.pl/eli/DU/2025/769/ogl",
+            "rel": "eli"
+        },
+        {
+            "href": "https://api.sejm.gov.pl/eli/acts/DU/2025/769",
+            "rel": "eli-api"
+        }
+    ],
+    "number": "1108",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2025-03-14",
+    "rclLink": "https://legislacja.rcl.gov.pl/getIdFromLegislacja?number=RM-0610-17-25",
+    "rclNum": "RM-0610-17-25",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2025-03-14",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "1108",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-03-18",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "Sejm",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-03-18",
+            "stageName": "Skierowano do I czytania na posiedzeniu Sejmu",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-04-03",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "DER",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-04-03",
+            "stageName": "I czytanie na posiedzeniu Sejmu",
+            "sittingNum": 32,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-04-15",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 20,
+                    "printNumber": "1168",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "286",
+                    "rapporteurName": "Ryszard Petru",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1168/1168.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-04-15",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-04-23",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "DER",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-04-23",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "comment": "poprawki",
+            "decision": "skierowano ponownie do komisji w celu przedstawienia sprawozdania",
+            "sittingNum": 33,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-04-24",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "otherDocuments": [
+                        {
+                            "documentDate": "2025-04-24",
+                            "registeredDate": "2025-04-24",
+                            "title": "Errata do druku nr 1168-A"
+                        }
+                    ],
+                    "printNumber": "1168-A",
+                    "proposal": "przyjąć część poprawek",
+                    "rapporteurID": "286",
+                    "rapporteurName": "Ryszard Petru",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1168-A/1168-A.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-04-24",
+            "stageName": "Praca w komisjach po II czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-04-24",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 0,
+                        "date": "2025-04-24T14:41:22",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/33/54/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 6,
+                        "no": 5,
+                        "notParticipating": 44,
+                        "present": 0,
+                        "sitting": 33,
+                        "sittingDay": 2,
+                        "term": 10,
+                        "title": "Pkt. 3 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie niektórych ustaw w celu deregulacji prawa gospodarczego i administracyjnego oraz doskonalenia zasad opracowywania prawa gospodarczego (druki nr 1108, 1168 i 1168-A)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 416,
+                        "votingNumber": 54,
+                        "yes": 411
+                    }
+                }
+            ],
+            "date": "2025-04-24",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "comment": "wnioski mniejszości, poprawki",
+            "decision": "uchwalono",
+            "sittingNum": 33,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/1108/attachment/1108_u3.pdf"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-05-16",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "DER",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-05-14",
+            "stageName": "Stanowisko Senatu",
+            "position": "wniósł poprawki",
+            "printNumber": "1247",
+            "stageType": "SenatePosition"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-05-20",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "1253",
+                    "proposal": "przyjąć część poprawek",
+                    "rapporteurID": "286",
+                    "rapporteurName": "Ryszard Petru",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1253/1253.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-05-20",
+            "stageName": "Praca w komisjach nad stanowiskiem Senatu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "date": "2025-05-21",
+            "stageName": "Rozpatrywanie na forum Sejmu stanowiska Senatu",
+            "decision": "przyjęto część poprawek",
+            "sittingNum": 35,
+            "stageType": "SenatePositionConsideration"
+        },
+        {
+            "date": "2025-05-22",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "date": "2025-06-05",
+            "stageName": "Prezydent podpisał ustawę",
+            "omittedInconsistent": false,
+            "stageType": "PresidentSignature"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o zmianie niektórych ustaw w celu deregulacji prawa gospodarczego i administracyjnego oraz doskonalenia zasad opracowywania prawa gospodarczego",
+    "titleFinal": "o zmianie niektórych ustaw w celu deregulacji prawa gospodarczego i administracyjnego oraz doskonalenia zasad opracowywania prawa gospodarczego",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-07-07T15:27:11"
+}

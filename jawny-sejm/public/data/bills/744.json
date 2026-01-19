@@ -1,0 +1,189 @@
+{
+    "ELI": "DU/2024/1847",
+    "UE": "NO",
+    "address": "WDU20240001847",
+    "changeDate": "2024-12-16T12:21:16",
+    "closureDate": "2024-11-27",
+    "description": "projekt dotyczy rozwoju energetyki prosumenckiej oraz dostosowania polskich przepisów do rozporządzeń i wytycznych Komisji Europejskiej;  rozwoju instalacji odnawialnych źródeł energii, w tym objętych systemami wsparcia",
+    "displayAddress": "Dz.U. 2024 poz. 1847",
+    "documentDate": "2024-10-21",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [
+        {
+            "href": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001847",
+            "rel": "isap"
+        },
+        {
+            "href": "https://eli.gov.pl/eli/DU/2024/1847/ogl",
+            "rel": "eli"
+        },
+        {
+            "href": "https://api.sejm.gov.pl/eli/acts/DU/2024/1847",
+            "rel": "eli-api"
+        }
+    ],
+    "number": "744",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2024-10-21",
+    "rclLink": "https://legislacja.rcl.gov.pl/getIdFromLegislacja?number=RM-0610-85-24",
+    "rclNum": "RM-0610-85-24",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2024-10-21",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "744",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-10-25",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "ESK",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-10-25",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "date": "2024-11-07",
+            "stageName": "I czytanie w komisjach",
+            "stageType": "Reading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-11-07",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "805",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "171",
+                    "rapporteurName": "Rafał Komarewicz",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/805/805.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2024-11-07",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "date": "2024-11-08",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "decision": "niezwłocznie przystąpiono do III czytania",
+            "sittingNum": 21,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-11-08",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 5,
+                        "date": "2024-11-08T19:00:17",
+                        "description": "Całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/21/69/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 16,
+                        "no": 15,
+                        "notParticipating": 14,
+                        "present": 0,
+                        "sitting": 21,
+                        "sittingDay": 3,
+                        "term": 10,
+                        "title": "Pkt. 21 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o odnawialnych źródłach energii oraz niektórych innych ustaw (druki nr 744 i 805)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 446,
+                        "votingNumber": 69,
+                        "yes": 426
+                    }
+                }
+            ],
+            "date": "2024-11-08",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "decision": "uchwalono",
+            "sittingNum": 21,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/744/attachment/744_u3.pdf"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-11-20",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "ESK",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-11-20",
+            "stageName": "Stanowisko Senatu",
+            "position": "wniósł poprawki",
+            "printNumber": "847",
+            "stageType": "SenatePosition"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-11-21",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "849",
+                    "proposal": "przyjąć część poprawek",
+                    "rapporteurID": "171",
+                    "rapporteurName": "Rafał Komarewicz",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/849/849.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2024-11-21",
+            "stageName": "Praca w komisjach nad stanowiskiem Senatu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "date": "2024-11-27",
+            "stageName": "Rozpatrywanie na forum Sejmu stanowiska Senatu",
+            "decision": "przyjęto część poprawek",
+            "sittingNum": 22,
+            "stageType": "SenatePositionConsideration"
+        },
+        {
+            "date": "2024-11-29",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "date": "2024-12-06",
+            "stageName": "Prezydent podpisał ustawę",
+            "omittedInconsistent": false,
+            "stageType": "PresidentSignature"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o zmianie ustawy o odnawialnych źródłach energii oraz niektórych innych ustaw",
+    "titleFinal": "o zmianie ustawy o odnawialnych źródłach energii oraz niektórych innych ustaw",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2024-12-18T08:27:39"
+}

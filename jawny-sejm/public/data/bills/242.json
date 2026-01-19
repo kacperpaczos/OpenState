@@ -1,0 +1,190 @@
+{
+    "ELI": "DU/2024/619",
+    "UE": "ENFORCEMENT",
+    "address": "WDU20240000619",
+    "changeDate": "2024-04-26T10:20:25",
+    "closureDate": "2024-04-12",
+    "description": "projekt dotyczy nałożenia na duże wielonarodowe przedsiębiorstwa obowiązku publicznego ujawnienia sprawozdania związanego z podatkiem dochodowym płaconym w poszczególnych krajach, w których prowadzą one działalność",
+    "displayAddress": "Dz.U. 2024 poz. 619",
+    "documentDate": "2024-03-04",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [
+        {
+            "href": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000619",
+            "rel": "isap"
+        },
+        {
+            "href": "https://eli.gov.pl/eli/DU/2024/619/ogl",
+            "rel": "eli"
+        },
+        {
+            "href": "https://api.sejm.gov.pl/eli/acts/DU/2024/619",
+            "rel": "eli-api"
+        }
+    ],
+    "number": "242",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2024-03-04",
+    "rclLink": "https://legislacja.rcl.gov.pl/getIdFromLegislacja?number=RM-0610-2-24",
+    "rclNum": "RM-0610-2-24",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2024-03-04",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "242",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-03-06",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "FPB",
+                    "reportDate": "2024-03-19",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-03-06",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "date": "2024-03-19",
+            "stageName": "I czytanie w komisjach",
+            "stageType": "Reading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-03-19",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "252",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "158",
+                    "rapporteurName": "Rafał Kasprzyk",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/252/252.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2024-03-19",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "date": "2024-03-20",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "decision": "niezwłocznie przystąpiono do III czytania",
+            "sittingNum": 8,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-03-20",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 0,
+                        "date": "2024-03-20T18:31:34",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/8/7/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 1,
+                        "no": 0,
+                        "notParticipating": 28,
+                        "present": 0,
+                        "sitting": 8,
+                        "sittingDay": 1,
+                        "term": 10,
+                        "title": "Pkt. 3 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o rachunkowości oraz niektórych innych ustaw (druki nr 242 i 252)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 431,
+                        "votingNumber": 7,
+                        "yes": 431
+                    }
+                }
+            ],
+            "date": "2024-03-20",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "decision": "uchwalono",
+            "sittingNum": 8,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/242/attachment/242_u3.pdf"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-04-05",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "FPB",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-04-04",
+            "stageName": "Stanowisko Senatu",
+            "position": "wniósł poprawkę",
+            "printNumber": "278",
+            "stageType": "SenatePosition"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-04-10",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "291",
+                    "proposal": "przyjąć poprawkę",
+                    "rapporteurID": "158",
+                    "rapporteurName": "Rafał Kasprzyk",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/291/291.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2024-04-10",
+            "stageName": "Praca w komisjach nad stanowiskiem Senatu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "date": "2024-04-12",
+            "stageName": "Rozpatrywanie na forum Sejmu stanowiska Senatu",
+            "decision": "przyjęto poprawkę",
+            "sittingNum": 9,
+            "stageType": "SenatePositionConsideration"
+        },
+        {
+            "date": "2024-04-15",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "date": "2024-04-16",
+            "stageName": "Prezydent podpisał ustawę",
+            "omittedInconsistent": false,
+            "stageType": "PresidentSignature"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o zmianie ustawy o rachunkowości oraz niektórych innych ustaw",
+    "titleFinal": "o zmianie ustawy o rachunkowości oraz niektórych innych ustaw",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2024-04-26T13:33:28"
+}

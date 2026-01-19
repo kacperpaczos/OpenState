@@ -1,0 +1,162 @@
+{
+    "ELI": "DU/2025/1652",
+    "UE": "ENFORCEMENT",
+    "address": "WDU20250001652",
+    "changeDate": "2025-12-09T14:10:36",
+    "closureDate": "2025-10-09",
+    "description": "projekt dotyczy dostosowania polskiego prawa do przepisów Unii Europejskiej dotyczących pomocy de minimis w rolnictwie tzn. zmiany sposobu ustalania czasu przyznania tej pomocy",
+    "displayAddress": "Dz.U. 2025 poz. 1652",
+    "documentDate": "2025-08-13",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [
+        {
+            "href": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001652",
+            "rel": "isap"
+        },
+        {
+            "href": "https://eli.gov.pl/eli/DU/2025/1652/ogl",
+            "rel": "eli"
+        },
+        {
+            "href": "https://api.sejm.gov.pl/eli/acts/DU/2025/1652",
+            "rel": "eli-api"
+        }
+    ],
+    "number": "1626",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2025-08-13",
+    "rclLink": "https://legislacja.rcl.gov.pl/getIdFromLegislacja?number=RM-0610-148-25",
+    "rclNum": "RM-0610-148-25",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2025-08-13",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "1626",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-09-05",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "GMZ",
+                    "reportDate": "2025-10-06",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                },
+                {
+                    "date": "2025-09-05",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "RRW",
+                    "reportDate": "2025-10-06",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-09-05",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "date": "2025-09-25",
+            "stageName": "I czytanie w komisjach",
+            "stageType": "Reading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-09-25",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "1725",
+                    "proposal": "uchwalić projekt ustawy bez poprawek",
+                    "rapporteurID": "66",
+                    "rapporteurName": "Zbigniew Dolata",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1725/1725.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-09-25",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "date": "2025-10-07",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "decision": "niezwłocznie przystąpiono do III czytania",
+            "sittingNum": 42,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-10-09",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 18,
+                        "date": "2025-10-09T16:40:45",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/42/13/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 1,
+                        "no": 0,
+                        "notParticipating": 20,
+                        "present": 0,
+                        "sitting": 42,
+                        "sittingDay": 3,
+                        "term": 10,
+                        "title": "Pkt. 2 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o postępowaniu w sprawach dotyczących pomocy publicznej (druki nr 1626 i 1725)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 440,
+                        "votingNumber": 13,
+                        "yes": 422
+                    }
+                }
+            ],
+            "date": "2025-10-09",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "decision": "uchwalono",
+            "sittingNum": 42,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/1626/attachment/1626_u3.pdf"
+        },
+        {
+            "date": "2025-10-29",
+            "stageName": "Stanowisko Senatu",
+            "position": "nie wniósł poprawek",
+            "stageType": "SenatePosition"
+        },
+        {
+            "date": "2025-10-30",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "date": "2025-11-18",
+            "stageName": "Prezydent podpisał ustawę",
+            "omittedInconsistent": false,
+            "stageType": "PresidentSignature"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o zmianie ustawy o postępowaniu w sprawach dotyczących pomocy publicznej",
+    "titleFinal": "o zmianie ustawy o postępowaniu w sprawach dotyczących pomocy publicznej",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-12-09T14:10:46"
+}

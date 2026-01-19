@@ -1,0 +1,183 @@
+{
+    "ELI": "DU/2025/289",
+    "UE": "NO",
+    "address": "WDU20250000289",
+    "changeDate": "2025-03-18T13:46:29",
+    "closureDate": "2025-02-21",
+    "description": "projekt dotyczy wprowadzenia zmian w Funduszu Promocji Roślin Oleistych, które mają na celu rozszerzenie katalogu roślin oleistych o słonecznik, i doprecyzowanie podmiotów, od których są naliczane i pobierane wpłaty na ten fundusz; ponadto rozszerzony zostanie katalog działań, które będą wspierane przez Fundusz Promocji Ziarna Zbóż i Przetworów zbożowych oraz Fundusz Promocji Roślin Oleistych",
+    "displayAddress": "Dz.U. 2025 poz. 289",
+    "documentDate": "2024-12-31",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [
+        {
+            "href": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000289",
+            "rel": "isap"
+        },
+        {
+            "href": "https://eli.gov.pl/eli/DU/2025/289/ogl",
+            "rel": "eli"
+        },
+        {
+            "href": "https://api.sejm.gov.pl/eli/acts/DU/2025/289",
+            "rel": "eli-api"
+        }
+    ],
+    "number": "953",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2024-12-31",
+    "rclLink": "https://legislacja.rcl.gov.pl/getIdFromLegislacja?number=RM-0610-133-24",
+    "rclNum": "RM-0610-133-24",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2024-12-31",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "953",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-01-09",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "RRW",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-01-09",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "date": "2025-02-04",
+            "stageName": "I czytanie w komisjach",
+            "stageType": "Reading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-02-04",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "987",
+                    "proposal": "uchwalić projekt ustawy bez poprawek",
+                    "rapporteurID": "293",
+                    "rapporteurName": "Lucjan Marek Pietrzczyk",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/987/987.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-02-04",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-02-20",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "RRW",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-02-20",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "comment": "poprawki",
+            "decision": "skierowano ponownie do komisji w celu przedstawienia sprawozdania",
+            "sittingNum": 29,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-02-21",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "987-A",
+                    "proposal": "przyjąć część poprawek",
+                    "rapporteurID": "293",
+                    "rapporteurName": "Lucjan Marek Pietrzczyk",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/987-A/987-A.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-02-21",
+            "stageName": "Praca w komisjach po II czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-02-21",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 9,
+                        "date": "2025-02-21T18:35:59",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/29/34/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 6,
+                        "no": 5,
+                        "notParticipating": 32,
+                        "present": 0,
+                        "sitting": 29,
+                        "sittingDay": 2,
+                        "term": 10,
+                        "title": "Pkt. 4 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o funduszach promocji produktów rolno-spożywczych (druki nr 953, 987 i 987-A)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 428,
+                        "votingNumber": 34,
+                        "yes": 414
+                    }
+                }
+            ],
+            "date": "2025-02-21",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "comment": "poprawki",
+            "decision": "uchwalono",
+            "sittingNum": 29,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/953/attachment/953_u3.pdf"
+        },
+        {
+            "date": "2025-02-27",
+            "stageName": "Stanowisko Senatu",
+            "position": "nie wniósł poprawek",
+            "stageType": "SenatePosition"
+        },
+        {
+            "date": "2025-02-28",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "date": "2025-03-06",
+            "stageName": "Prezydent podpisał ustawę",
+            "omittedInconsistent": false,
+            "stageType": "PresidentSignature"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o zmianie ustawy o funduszach promocji produktów rolno-spożywczych",
+    "titleFinal": "o zmianie ustawy o funduszach promocji produktów rolno-spożywczych",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-03-18T13:55:46"
+}

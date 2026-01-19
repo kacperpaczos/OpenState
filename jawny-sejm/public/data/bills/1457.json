@@ -1,0 +1,53 @@
+{
+    "UE": "NO",
+    "changeDate": "2026-01-02T12:18:50",
+    "closureDate": "2025-12-31",
+    "description": "projekt dotyczy wprowadzenia do polskiego porządku prawnego nowej instytucji - związku partnerskiego, określenia: zasad zawarcia związku partnerskiego, jego rozwiązania, ustania z innej przyczyny, lub unieważnienia, praw i obowiązków osób w związku partnerskim, a także stosunków majątkowych między tymi osobami",
+    "documentDate": "2025-06-10",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "1457",
+    "passed": false,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2025-06-10",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2025-06-10",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "1457",
+            "stageType": "Start"
+        },
+        {
+            "date": "2025-06-24",
+            "stageName": "Opinia organizacji samorządowej",
+            "organ": "Organizacja samorządowa",
+            "stageType": "Opinion"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-07-10",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "Sejm",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-07-10",
+            "stageName": "Skierowano do I czytania na posiedzeniu Sejmu",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "date": "2025-12-31",
+            "stageName": "Wycofano",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Poselski projekt ustawy o związkach partnerskich",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2026-01-02T12:19:11"
+}

@@ -1,0 +1,146 @@
+{
+    "ELI": "DU/2025/1021",
+    "UE": "NO",
+    "address": "WDU20250001021",
+    "changeDate": "2025-07-30T11:58:06",
+    "closureDate": "2025-07-09",
+    "description": "projekt dotyczy zapewnienia przez Kancelarię Sejmu obsługi merytorycznej i organizacyjno-prawnej dla wchodzących w skład Komisji Wspólnej Rządu i Mniejszości Narodowych przedstawicieli mniejszości narodowych i etnicznych oraz przedstawicieli społeczności, których członkowie posługują się językiem regionalnym",
+    "displayAddress": "Dz.U. 2025 poz. 1021",
+    "documentDate": "2025-02-20",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [
+        {
+            "href": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001021",
+            "rel": "isap"
+        },
+        {
+            "href": "https://eli.gov.pl/eli/DU/2025/1021/ogl",
+            "rel": "eli"
+        },
+        {
+            "href": "https://api.sejm.gov.pl/eli/acts/DU/2025/1021",
+            "rel": "eli-api"
+        }
+    ],
+    "number": "1076",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2025-02-21",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2025-02-21",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "1076",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-04-01",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "MNE",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-04-01",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-06-25",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "1401",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "313",
+                    "rapporteurName": "Monika Rosa",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1401/1401.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-06-25",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "date": "2025-07-09",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "decision": "niezwłocznie przystąpiono do III czytania",
+            "sittingNum": 38,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-07-09",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 177,
+                        "date": "2025-07-09T22:29:58",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/38/48/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 17,
+                        "no": 16,
+                        "notParticipating": 29,
+                        "present": 0,
+                        "sitting": 38,
+                        "sittingDay": 2,
+                        "term": 10,
+                        "title": "Pkt. 17 Sprawozdanie Komisji o poselskim projekcie ustawy o zmianie ustawy o mniejszościach narodowych i etnicznych oraz o języku regionalnym (druki nr 1076 i 1401)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 431,
+                        "votingNumber": 48,
+                        "yes": 238
+                    }
+                }
+            ],
+            "date": "2025-07-09",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "decision": "uchwalono",
+            "sittingNum": 38,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/1076/attachment/1076_u3.pdf"
+        },
+        {
+            "date": "2025-07-17",
+            "stageName": "Stanowisko Senatu",
+            "position": "nie wniósł poprawek",
+            "stageType": "SenatePosition"
+        },
+        {
+            "date": "2025-07-21",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "date": "2025-07-24",
+            "stageName": "Prezydent podpisał ustawę",
+            "omittedInconsistent": false,
+            "stageType": "PresidentSignature"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Poselski projekt ustawy o zmianie ustawy o mniejszościach narodowych i etnicznych oraz o języku regionalnym",
+    "titleFinal": "o zmianie ustawy o mniejszościach narodowych i etnicznych oraz o języku regionalnym",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-07-30T11:58:30"
+}

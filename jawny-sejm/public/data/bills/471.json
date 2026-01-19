@@ -1,0 +1,266 @@
+{
+    "ELI": "DU/2024/1248",
+    "UE": "NO",
+    "address": "WDU20240001248",
+    "changeDate": "2024-08-21T10:09:30",
+    "closureDate": "2024-07-26",
+    "description": "projekt dotyczy uregulowania kwestii użycia Sił Zbrojnych do samodzielnych działań w czasie pokoju oraz prawnej ochrony podejmowanych przez żołnierzy Wojska Polskiego działań",
+    "displayAddress": "Dz.U. 2024 poz. 1248",
+    "documentDate": "2024-06-21",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [
+        {
+            "href": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001248",
+            "rel": "isap"
+        },
+        {
+            "href": "https://eli.gov.pl/eli/DU/2024/1248/ogl",
+            "rel": "eli"
+        },
+        {
+            "href": "https://api.sejm.gov.pl/eli/acts/DU/2024/1248",
+            "rel": "eli-api"
+        }
+    ],
+    "number": "471",
+    "otherDocuments": [
+        {
+            "documentDate": "2024-06-25",
+            "number": "471-A",
+            "registeredDate": "2024-06-25",
+            "title": "Autopoprawka do rządowego projektu ustawy o zmianie niektórych ustaw w celu usprawnienia działań Sił Zbrojnych Rzeczypospolitej Polskiej, Policji oraz Straży Granicznej na wypadek zagrożenia bezpieczeństwa państwa"
+        }
+    ],
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2024-06-21",
+    "rclLink": "https://legislacja.rcl.gov.pl/getIdFromLegislacja?number=RM-0610-43-24",
+    "rclNum": "RM-0610-43-24",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2024-06-21",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "otherDocuments": [
+                {
+                    "documentDate": "2024-06-25",
+                    "number": "471-A",
+                    "registeredDate": "2024-06-25",
+                    "title": "Autopoprawka do rządowego projektu ustawy o zmianie niektórych ustaw w celu usprawnienia działań Sił Zbrojnych Rzeczypospolitej Polskiej, Policji oraz Straży Granicznej na wypadek zagrożenia bezpieczeństwa państwa"
+                }
+            ],
+            "printNumber": "471",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-06-25",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "Sejm",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-06-25",
+            "stageName": "Skierowano do I czytania na posiedzeniu Sejmu",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-06-26",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "SPC",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                },
+                {
+                    "date": "2024-06-26",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "OBN",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-06-26",
+            "stageName": "I czytanie na posiedzeniu Sejmu",
+            "sittingNum": 14,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-07-02",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 14,
+                    "printNumber": "505",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "361",
+                    "rapporteurName": "Paweł Suski",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/505/505.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2024-07-02",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-07-11",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "SPC",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                },
+                {
+                    "date": "2024-07-11",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "OBN",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-07-11",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "comment": "poprawki",
+            "decision": "skierowano ponownie do komisji w celu przedstawienia sprawozdania",
+            "sittingNum": 15,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-07-12",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "505-A",
+                    "proposal": "przyjąć część poprawek",
+                    "rapporteurID": "361",
+                    "rapporteurName": "Paweł Suski",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/505-A/505-A.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2024-07-12",
+            "stageName": "Praca w komisjach po II czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-07-12",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 17,
+                        "date": "2024-07-12T14:23:19",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/15/50/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 18,
+                        "no": 17,
+                        "notParticipating": 23,
+                        "present": 0,
+                        "sitting": 15,
+                        "sittingDay": 2,
+                        "term": 10,
+                        "title": "Pkt. 4 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie niektórych ustaw w celu usprawnienia działań Sił Zbrojnych Rzeczypospolitej Polskiej, Policji oraz Straży Granicznej na wypadek zagrożenia bezpieczeństwa państwa (druki nr 471, 471-A i 505)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 435,
+                        "votingNumber": 50,
+                        "yes": 401
+                    }
+                }
+            ],
+            "date": "2024-07-12",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "comment": "poprawki (7. 11. i 13. wycofane), wnioski mniejszości (6. wycofany)",
+            "decision": "uchwalono",
+            "sittingNum": 15,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/471/attachment/471_u3.pdf"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-07-25",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "SPC",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                },
+                {
+                    "date": "2024-07-25",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "OBN",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-07-25",
+            "stageName": "Stanowisko Senatu",
+            "position": "wniósł poprawki",
+            "printNumber": "584",
+            "stageType": "SenatePosition"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-07-26",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "587",
+                    "proposal": "przyjąć część poprawek",
+                    "rapporteurID": "361",
+                    "rapporteurName": "Paweł Suski",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/587/587.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2024-07-26",
+            "stageName": "Praca w komisjach nad stanowiskiem Senatu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "date": "2024-07-26",
+            "stageName": "Rozpatrywanie na forum Sejmu stanowiska Senatu",
+            "decision": "przyjęto część poprawek",
+            "sittingNum": 16,
+            "stageType": "SenatePositionConsideration"
+        },
+        {
+            "date": "2024-07-29",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "date": "2024-08-14",
+            "stageName": "Prezydent podpisał ustawę",
+            "omittedInconsistent": false,
+            "stageType": "PresidentSignature"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o zmianie niektórych ustaw w celu usprawnienia działań Sił Zbrojnych Rzeczypospolitej Polskiej, Policji oraz Straży Granicznej na wypadek zagrożenia bezpieczeństwa państwa",
+    "titleFinal": "o zmianie niektórych ustaw w celu usprawnienia działań Sił Zbrojnych Rzeczypospolitej Polskiej, Policji oraz Straży Granicznej na wypadek zagrożenia bezpieczeństwa państwa",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2024-08-21T10:09:37"
+}

@@ -1,0 +1,43 @@
+{
+    "UE": "NO",
+    "changeDate": "2025-12-30T15:18:12",
+    "description": "projekt dotyczy przywrócenia prawa do niezależnego i bezstronnego sądu ustanowionego na podstawie prawa przez uregulowanie skutków uchwał w sprawach indywidualnych podjętych przez Krajową Radę Sądownictwa, działającą w okresie od 7 marca 2018 r. do 13 maja 2026 r. Skład Krajowej Rady Sądownictwa w ww. okresie został ukształtowany na podstawie ustawy z dnia 8 grudnia 2017 r. o zmianie ustawy o Krajowej Radzie Sądownictwa oraz niektórych innych ustaw",
+    "documentDate": "2025-12-29",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "2107",
+    "passed": false,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2025-12-29",
+    "rclLink": "https://legislacja.rcl.gov.pl/getIdFromLegislacja?number=RM-0610-237-25",
+    "rclNum": "RM-0610-237-25",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2025-12-29",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "2107",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-12-30",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "Sejm",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-12-30",
+            "stageName": "Skierowano do I czytania na posiedzeniu Sejmu",
+            "stageType": "ReadingReferral"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o przywróceniu prawa do niezależnego i bezstronnego sądu ustanowionego na podstawie prawa przez uregulowanie skutków uchwał Krajowej Rady Sądownictwa podjętych w latach 2018-2025",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2025-12-30T15:23:30"
+}

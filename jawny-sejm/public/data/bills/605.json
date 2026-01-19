@@ -1,0 +1,190 @@
+{
+    "ELI": "DU/2024/1562",
+    "UE": "NO",
+    "address": "WDU20240001562",
+    "changeDate": "2024-10-22T10:23:57",
+    "closureDate": "2024-10-01",
+    "description": "projekt dotyczy zwiększenia efektywności postępowań kwalifikacyjnych do służby w Policji i Straży Granicznej poprzez m. in.: wprowadzenie odrębnych postępowań kwalifikacyjnych w stosunku do kandydatów, którzy złożyli podanie o przyjęcie do służby w Policji lub Straży Granicznej przed upływem 3 lat od ukończenia szkoły ponadpodstawowej w oddziale o profilu mundurowym (liceum ogólnokształcącego lub technikum), dla którego został określony odpowiedni program szkolenia, zmianę przepisów odnoszących się do byłych funkcjonariuszy, którzy postanowili ponownie wstąpić do służby w Policji lub Straży Granicznej (przygotowane zostaną dla nich nowe ścieżki postępowania kwalifikacyjnego) oraz wprowadzenie nowych rozwiązań dotyczących służby kontraktowej w Policji",
+    "displayAddress": "Dz.U. 2024 poz. 1562",
+    "documentDate": "2024-08-05",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [
+        {
+            "href": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001562",
+            "rel": "isap"
+        },
+        {
+            "href": "https://eli.gov.pl/eli/DU/2024/1562/ogl",
+            "rel": "eli"
+        },
+        {
+            "href": "https://api.sejm.gov.pl/eli/acts/DU/2024/1562",
+            "rel": "eli-api"
+        }
+    ],
+    "number": "605",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2024-08-05",
+    "rclLink": "https://legislacja.rcl.gov.pl/getIdFromLegislacja?number=RM-0610-51-24",
+    "rclNum": "RM-0610-51-24",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2024-08-05",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "605",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-08-26",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "KSS",
+                    "stageType": "Referral",
+                    "type": "OPINION"
+                },
+                {
+                    "date": "2024-08-26",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "ASW",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-08-26",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "date": "2024-09-11",
+            "stageName": "I czytanie w komisjach",
+            "stageType": "Reading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-09-11",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "649",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "190",
+                    "rapporteurName": "Wojciech Król",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/649/649.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2024-09-11",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-09-26",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "ASW",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2024-09-26",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "comment": "poprawki",
+            "decision": "skierowano ponownie do komisji w celu przedstawienia sprawozdania",
+            "sittingNum": 18,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-09-27",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "649-A",
+                    "proposal": "przyjąć poprawki",
+                    "rapporteurID": "190",
+                    "rapporteurName": "Wojciech Król",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/649-A/649-A.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2024-09-27",
+            "stageName": "Praca w komisjach po II czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2024-10-01",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 1,
+                        "date": "2024-10-01T19:12:50",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/18/51/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 2,
+                        "no": 1,
+                        "notParticipating": 47,
+                        "present": 0,
+                        "sitting": 18,
+                        "sittingDay": 4,
+                        "term": 10,
+                        "title": "Pkt. 17 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie niektórych ustaw w związku z utworzeniem oddziałów o profilu mundurowym oraz ułatwieniem powrotu do służby w Policji i Straży Granicznej (druki nr 605, 649 i 649-A)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 412,
+                        "votingNumber": 51,
+                        "yes": 410
+                    }
+                }
+            ],
+            "date": "2024-10-01",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "comment": "poprawki",
+            "decision": "uchwalono",
+            "sittingNum": 18,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/605/attachment/605_u3.pdf"
+        },
+        {
+            "date": "2024-10-10",
+            "stageName": "Stanowisko Senatu",
+            "position": "nie wniósł poprawek",
+            "stageType": "SenatePosition"
+        },
+        {
+            "date": "2024-10-11",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "date": "2024-10-14",
+            "stageName": "Prezydent podpisał ustawę",
+            "omittedInconsistent": false,
+            "stageType": "PresidentSignature"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o zmianie niektórych ustaw w związku z utworzeniem oddziałów o profilu mundurowym oraz ułatwieniem powrotu do służby w Policji i Straży Granicznej",
+    "titleFinal": "o zmianie niektórych ustaw w związku z utworzeniem oddziałów o profilu mundurowym oraz ułatwieniem powrotu do służby w Policji i Straży Granicznej",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2024-10-22T13:08:30"
+}
