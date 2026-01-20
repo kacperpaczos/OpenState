@@ -1,8 +1,9 @@
 import { getProcess } from "@/lib/processes";
 import ProcessTimeline from "./ProcessTimeline";
+import DiffViewer from "@/components/DiffViewer";
 import { notFound } from "next/navigation";
 import Link from "next/link";
-import { ArrowLeft, Calendar, FileText, Euro, MapPin } from "lucide-react";
+import { ArrowLeft, Calendar, FileText, Euro, MapPin, GitCompare } from "lucide-react";
 
 export default async function BillPage({ params }: { params: Promise<{ id: string }> }) {
     const { id } = await params;
@@ -13,7 +14,7 @@ export default async function BillPage({ params }: { params: Promise<{ id: strin
     }
 
     return (
-        <div className="max-w-5xl mx-auto pb-20 fade-in h-screen overflow-y-auto custom-scrollbar">
+        <div className="max-w-5xl mx-auto pb-20 fade-in">
             <Link href="/ustawy" className="inline-flex items-center gap-2 text-gray-500 hover:text-foreground mb-6 transition-colors font-medium">
                 <ArrowLeft size={18} /> Powrót do listy
             </Link>
@@ -81,6 +82,15 @@ export default async function BillPage({ params }: { params: Promise<{ id: strin
             </header>
 
             <ProcessTimeline process={process} />
+
+            {/* Version Comparison */}
+            <div className="mt-12">
+                <h2 className="text-headline font-semibold text-foreground mb-4 flex items-center gap-2">
+                    <GitCompare className="text-apple-blue" size={24} />
+                    Porównanie Wersji
+                </h2>
+                <DiffViewer billId={process.id} />
+            </div>
 
             <div className="mt-8 text-center text-gray-500 text-sm">
                 * Dane pochodzą z Systemu Informacyjnego Sejmu (API).

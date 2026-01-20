@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useMemo } from "react";
+import { useState, useMemo, useEffect } from "react";
 import { Search, User } from "lucide-react";
 import Link from "next/link";
 import { MP } from "@/lib/mps";
@@ -9,6 +9,22 @@ export default function MPsList({ initialMPs }: { initialMPs: MP[] }) {
     const [mps] = useState<MP[]>(initialMPs);
     const [filter, setFilter] = useState("");
     const [chamber, setChamber] = useState<"all" | "sejm" | "senat">("all");
+    const [headerHidden, setHeaderHidden] = useState(false);
+
+    useEffect(() => {
+        let lastScroll = 0;
+        const handleScroll = () => {
+            const currentScroll = window.scrollY;
+            if (currentScroll > 100 && currentScroll > lastScroll) {
+                setHeaderHidden(true);
+            } else if (currentScroll < lastScroll) {
+                setHeaderHidden(false);
+            }
+            lastScroll = currentScroll;
+        };
+        window.addEventListener('scroll', handleScroll, { passive: true });
+        return () => window.removeEventListener('scroll', handleScroll);
+    }, []);
 
     const filteredMps = useMemo(() => {
         let result = mps;
@@ -34,8 +50,14 @@ export default function MPsList({ initialMPs }: { initialMPs: MP[] }) {
     }, [mps, filter, chamber]);
 
     return (
-        <div className="max-w-7xl mx-auto pb-20 fade-in h-screen flex flex-col">
-            <header className="mb-6 flex flex-col md:flex-row md:items-center justify-between gap-4">
+        <div className="max-w-7xl mx-auto pb-20 fade-in">
+            <header
+                className="mb-6 flex flex-col md:flex-row md:items-center justify-between gap-4 transition-all duration-300"
+                style={{
+                    transform: headerHidden ? 'translateY(-150px)' : 'translateY(0)',
+                    opacity: headerHidden ? 0 : 1
+                }}
+            >
                 <div>
                     <h1 className="text-3xl font-bold text-foreground mb-2">Parlamentarzyści</h1>
                     <p className="text-gray-400">Posłowie X kadencji i Senatorowie XI kadencji</p>
@@ -79,23 +101,21 @@ export default function MPsList({ initialMPs }: { initialMPs: MP[] }) {
                 </div>
             </header>
 
-            <div className="flex-1 overflow-y-auto pr-2 custom-scrollbar">
-                <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
-                    {filteredMps.slice(0, 100).map((mp) => (
-                        <MPCard key={`${mp.chamber}-${mp.id}`} mp={mp} />
-                    ))}
-                </div>
-                {filteredMps.length > 100 && (
-                    <div className="text-center py-8 text-gray-500">
-                        i {filteredMps.length - 100} więcej... (Wpisz nazwisko aby znaleźć)
-                    </div>
-                )}
-                {filteredMps.length === 0 && (
-                    <div className="text-center py-8 text-gray-500">
-                        Nie znaleziono parlamentarzystów.
-                    </div>
-                )}
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4 pb-20">
+                {filteredMps.slice(0, 100).map((mp) => (
+                    <MPCard key={`${mp.chamber}-${mp.id}`} mp={mp} />
+                ))}
             </div>
+            {filteredMps.length > 100 && (
+                <div className="text-center py-8 text-gray-500">
+                    i {filteredMps.length - 100} więcej... (Wpisz nazwisko aby znaleźć)
+                </div>
+            )}
+            {filteredMps.length === 0 && (
+                <div className="text-center py-8 text-gray-500">
+                    Nie znaleziono parlamentarzystów.
+                </div>
+            )}
         </div>
     );
 }

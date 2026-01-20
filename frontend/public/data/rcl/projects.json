@@ -1,272 +1,272 @@
 [
-  {
-    "id": "12406250",
-    "title": "Projekt ustawy o zmianie ustawy - Prawo pocztowe",
-    "url": "https://legislacja.rcl.gov.pl/projekt/12406250",
-    "applicant": "Minister Aktywów Państwowych",
-    "number": "UDER97",
-    "date": "20-01-2026",
-    "status": "Opiniowanie"
-  },
-  {
-    "id": "12406202",
-    "title": "Projekt ustawy o zmianie ustawy pomocy społecznej",
-    "url": "https://legislacja.rcl.gov.pl/projekt/12406202",
-    "applicant": "Minister Rodziny, Pracy i Polityki Społecznej",
-    "number": "UD340",
-    "date": "19-01-2026",
-    "status": "Opiniowanie"
-  },
-  {
-    "id": "12406200",
-    "title": "Projekt ustawy o Finansowym Instrumencie Zwiększenia Bezpieczeństwa",
-    "url": "https://legislacja.rcl.gov.pl/projekt/12406200",
-    "applicant": "Minister Obrony Narodowej",
-    "number": "UD357",
-    "date": "19-01-2026",
-    "status": "Stały Komitet Rady Ministrów"
-  },
-  {
-    "id": "12406150",
-    "title": "Projekt ustawy o zmianie ustawy o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi oraz niektórych innych ustaw",
-    "url": "https://legislacja.rcl.gov.pl/projekt/12406150",
-    "applicant": "Minister Finansów i Gospodarki",
-    "number": "UDER103",
-    "date": "16-01-2026",
-    "status": "Opiniowanie"
-  },
-  {
-    "id": "12406100",
-    "title": "Projekt ustawy o zmianie ustawy o własności lokali",
-    "url": "https://legislacja.rcl.gov.pl/projekt/12406100",
-    "applicant": "Minister Rozwoju i Technologii",
-    "number": "UD312",
-    "date": "15-01-2026",
-    "status": "Opiniowanie"
-  },
-  {
-    "id": "12406053",
-    "title": "Projekt ustawy o zmianie ustawy o podatku od spadków i darowizn",
-    "url": "https://legislacja.rcl.gov.pl/projekt/12406053",
-    "applicant": "Minister Finansów i Gospodarki",
-    "number": "UD351",
-    "date": "14-01-2026",
-    "status": "Opiniowanie"
-  },
-  {
-    "id": "12406050",
-    "title": "Projekt ustawy o zmianie ustawy o biokomponentach i biopaliwach ciekłych oraz niektórych innych ustaw",
-    "url": "https://legislacja.rcl.gov.pl/projekt/12406050",
-    "applicant": "Minister Klimatu i Środowiska",
-    "number": "UC106",
-    "date": "14-01-2026",
-    "status": "Opiniowanie"
-  },
-  {
-    "id": "12406000",
-    "title": "Ustawa o uregulowaniu praw do gruntów zabudowanych przez spółdzielnie mieszkaniowe, o zmianie ustawy o gospodarce nieruchomościami oraz niektórych innych ustaw",
-    "url": "https://legislacja.rcl.gov.pl/projekt/12406000",
-    "applicant": "Minister Finansów i Gospodarki",
-    "number": "UD335",
-    "date": "13-01-2026",
-    "status": "Opiniowanie"
-  },
-  {
-    "id": "12405901",
-    "title": "Projekt ustawy o zmianie ustawy o rachunkowości",
-    "url": "https://legislacja.rcl.gov.pl/projekt/12405901",
-    "applicant": "Minister Finansów i Gospodarki",
-    "number": "UC136",
-    "date": "08-01-2026",
-    "status": "Konsultacje publiczne"
-  },
-  {
-    "id": "12405851",
-    "title": "Projekt ustawy o zmianie ustawy o systemie oświaty oraz ustawy o finansowaniu zadań oświatowych",
-    "url": "https://legislacja.rcl.gov.pl/projekt/12405851",
-    "applicant": "Minister Edukacji",
-    "number": "UD353",
-    "date": "07-01-2026",
-    "status": "Skierowanie projektu ustawy do Sejmu"
-  },
-  {
-    "id": "12405805",
-    "title": "Projekt ustawy o zmianie niektórych ustaw w związku z rozwojem rejestrów publicznych prowadzonych z wykorzystaniem systemu rejestrów państwowych",
-    "url": "https://legislacja.rcl.gov.pl/projekt/12405805",
-    "applicant": "Minister Cyfryzacji",
-    "number": "UD337",
-    "date": "05-01-2026",
-    "status": "Opiniowanie"
-  },
-  {
-    "id": "12405803",
-    "title": "Projekt ustawy o zmianie ustawy o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi oraz niektórych innych ustaw",
-    "url": "https://legislacja.rcl.gov.pl/projekt/12405803",
-    "applicant": "Minister Finansów i Gospodarki",
-    "number": "UC105",
-    "date": "05-01-2026",
-    "status": "Opiniowanie"
-  },
-  {
-    "id": "12405801",
-    "title": "Projekt ustawy o zmianie ustawy – Kodeks karny",
-    "url": "https://legislacja.rcl.gov.pl/projekt/12405801",
-    "applicant": "Minister Sprawiedliwości",
-    "number": "UD333",
-    "date": "05-01-2026",
-    "status": "Opiniowanie"
-  },
-  {
-    "id": "12405701",
-    "title": "Projekt ustawy o dzierżawie rolniczej",
-    "url": "https://legislacja.rcl.gov.pl/projekt/12405701",
-    "applicant": "Minister Rolnictwa i Rozwoju Wsi",
-    "number": "UD279",
-    "date": "31-12-2025",
-    "status": "Konsultacje publiczne"
-  },
-  {
-    "id": "12405700",
-    "title": "Projekt ustawy o zmianie ustawy o odnawialnych źródłach energii oraz niektórych innych ustaw",
-    "url": "https://legislacja.rcl.gov.pl/projekt/12405700",
-    "applicant": "Minister Klimatu i Środowiska",
-    "number": "UD332",
-    "date": "31-12-2025",
-    "status": "Stały Komitet Rady Ministrów"
-  },
-  {
-    "id": "12405609",
-    "title": "Projekt ustawy o wygaszeniu rozwiązań wynikających z ustawy o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa oraz o zmianie niektórych ustaw",
-    "url": "https://legislacja.rcl.gov.pl/projekt/12405609",
-    "applicant": "Minister Spraw Wewnętrznych i Administracji",
-    "number": "UD345",
-    "date": "29-12-2025",
-    "status": "Rada Ministrów"
-  },
-  {
-    "id": "12405605",
-    "title": "Projekt ustawy o zmianie ustawy o przeciwdziałaniu nieuczciwym praktykom rynkowym oraz ustawy o prawach konsumenta",
-    "url": "https://legislacja.rcl.gov.pl/projekt/12405605",
-    "applicant": "Prezes Urzędu Ochrony Konkurencji i Konsumentów",
-    "number": "UC111",
-    "date": "29-12-2025",
-    "status": "Opiniowanie"
-  },
-  {
-    "id": "12405602",
-    "title": "Projekt ustawy o zmianie ustawy o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko oraz niektórych innych ustaw",
-    "url": "https://legislacja.rcl.gov.pl/projekt/12405602",
-    "applicant": "Minister Klimatu i Środowiska",
-    "number": "UD224",
-    "date": "29-12-2025",
-    "status": "Opiniowanie"
-  },
-  {
-    "id": "12405554",
-    "title": "Projekt ustawy o zmianie ustawy o usługach hotelarskich oraz usługach pilotów wycieczek i przewodników turystycznych oraz niektórych innych ustaw",
-    "url": "https://legislacja.rcl.gov.pl/projekt/12405554",
-    "applicant": "Minister Sportu i Turystyki",
-    "number": "UC135",
-    "date": "23-12-2025",
-    "status": "Opiniowanie"
-  },
-  {
-    "id": "12405550",
-    "title": "Projekt ustawy o zmianie ustawy o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne oraz niektórych innych ustaw",
-    "url": "https://legislacja.rcl.gov.pl/projekt/12405550",
-    "applicant": "Minister Finansów i Gospodarki",
-    "number": "UD336",
-    "date": "23-12-2025",
-    "status": "Uzgodnienia"
-  },
-  {
-    "id": "12405505",
-    "title": "Projekt ustawy o zmianie ustawy o podatku akcyzowym",
-    "url": "https://legislacja.rcl.gov.pl/projekt/12405505",
-    "applicant": "Minister Finansów i Gospodarki",
-    "number": "UD 308",
-    "date": "22-12-2025",
-    "status": "Opiniowanie"
-  },
-  {
-    "id": "12405503",
-    "title": "projekt ustawy o zmianie ustawy - Kodeks karny oraz ustawy - Kodeks postępowania karnego",
-    "url": "https://legislacja.rcl.gov.pl/projekt/12405503",
-    "applicant": "Minister Sprawiedliwości",
-    "number": "UD344",
-    "date": "22-12-2025",
-    "status": "Opiniowanie"
-  },
-  {
-    "id": "12405453",
-    "title": "Projekt ustawy o Wojewódzkich Zespołach Koordynacji do spraw polityki umiejętności",
-    "url": "https://legislacja.rcl.gov.pl/projekt/12405453",
-    "applicant": "Minister Edukacji",
-    "number": "UD347",
-    "date": "19-12-2025",
-    "status": "Stały Komitet Rady Ministrów"
-  },
-  {
-    "id": "12405353",
-    "title": "Projekt ustawy o zmianie ustawy o podatku dochodowym od osób fizycznych, ustawy o podatku dochodowym od osób prawnych oraz ustawy o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne",
-    "url": "https://legislacja.rcl.gov.pl/projekt/12405353",
-    "applicant": "Minister Finansów i Gospodarki",
-    "number": "UD350",
-    "date": "17-12-2025",
-    "status": "Konsultacje publiczne"
-  },
-  {
-    "id": "12405352",
-    "title": "Projekt ustawy o zmianie ustawy - Kodeks spółek handlowych",
-    "url": "https://legislacja.rcl.gov.pl/projekt/12405352",
-    "applicant": "Minister Sprawiedliwości",
-    "number": "UDER98",
-    "date": "17-12-2025",
-    "status": "Opiniowanie"
-  },
-  {
-    "id": "12405351",
-    "title": "Projekt ustawy o zmianie ustawy – Kodeks postępowania karnego oraz ustawy o dokumentach paszportowych",
-    "url": "https://legislacja.rcl.gov.pl/projekt/12405351",
-    "applicant": "Minister Sprawiedliwości",
-    "number": "UD319",
-    "date": "17-12-2025",
-    "status": "Opiniowanie"
-  },
-  {
-    "id": "12405304",
-    "title": "Projekt ustawy o opiece długoterminowej",
-    "url": "https://legislacja.rcl.gov.pl/projekt/12405304",
-    "applicant": "Minister do Spraw Polityki Senioralnej",
-    "number": "UD326",
-    "date": "16-12-2025",
-    "status": "Opiniowanie"
-  },
-  {
-    "id": "12405302",
-    "title": "Ustawa o zmianie ustawy o postępowaniu w sprawach dotyczących pomocy publicznej oraz niektórych innych ustaw",
-    "url": "https://legislacja.rcl.gov.pl/projekt/12405302",
-    "applicant": "Prezes Rządowego Centrum Legislacji",
-    "number": "UDER101",
-    "date": "16-12-2025",
-    "status": "Opiniowanie"
-  },
-  {
-    "id": "12405300",
-    "title": "Projekt ustawy o wzmocnieniu stosowania prawa do jednakowego wynagrodzenia mężczyzn i kobiet za jednakową pracę lub za pracę o jednakowej wartości",
-    "url": "https://legislacja.rcl.gov.pl/projekt/12405300",
-    "applicant": "Minister Rodziny, Pracy i Polityki Społecznej",
-    "number": "UC127",
-    "date": "16-12-2025",
-    "status": "Opiniowanie"
-  },
-  {
-    "id": "12405202",
-    "title": "Projekt ustawy o zmianie ustawy – Prawo farmaceutyczne",
-    "url": "https://legislacja.rcl.gov.pl/projekt/12405202",
-    "applicant": "Minister Zdrowia",
-    "number": "UD291",
-    "date": "12-12-2025",
-    "status": "Konsultacje publiczne"
-  }
+    {
+        "id": "12406250",
+        "title": "Projekt ustawy o zmianie ustawy - Prawo pocztowe",
+        "url": "https://legislacja.rcl.gov.pl/projekt/12406250",
+        "applicant": "Minister Aktywów Państwowych",
+        "number": "UDER97",
+        "date": "20-01-2026",
+        "status": "Opiniowanie"
+    },
+    {
+        "id": "12406202",
+        "title": "Projekt ustawy o zmianie ustawy pomocy społecznej",
+        "url": "https://legislacja.rcl.gov.pl/projekt/12406202",
+        "applicant": "Minister Rodziny, Pracy i Polityki Społecznej",
+        "number": "UD340",
+        "date": "19-01-2026",
+        "status": "Opiniowanie"
+    },
+    {
+        "id": "12406200",
+        "title": "Projekt ustawy o Finansowym Instrumencie Zwiększenia Bezpieczeństwa",
+        "url": "https://legislacja.rcl.gov.pl/projekt/12406200",
+        "applicant": "Minister Obrony Narodowej",
+        "number": "UD357",
+        "date": "19-01-2026",
+        "status": "Stały Komitet Rady Ministrów"
+    },
+    {
+        "id": "12406150",
+        "title": "Projekt ustawy o zmianie ustawy o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi oraz niektórych innych ustaw",
+        "url": "https://legislacja.rcl.gov.pl/projekt/12406150",
+        "applicant": "Minister Finansów i Gospodarki",
+        "number": "UDER103",
+        "date": "16-01-2026",
+        "status": "Opiniowanie"
+    },
+    {
+        "id": "12406100",
+        "title": "Projekt ustawy o zmianie ustawy o własności lokali",
+        "url": "https://legislacja.rcl.gov.pl/projekt/12406100",
+        "applicant": "Minister Rozwoju i Technologii",
+        "number": "UD312",
+        "date": "15-01-2026",
+        "status": "Opiniowanie"
+    },
+    {
+        "id": "12406053",
+        "title": "Projekt ustawy o zmianie ustawy o podatku od spadków i darowizn",
+        "url": "https://legislacja.rcl.gov.pl/projekt/12406053",
+        "applicant": "Minister Finansów i Gospodarki",
+        "number": "UD351",
+        "date": "14-01-2026",
+        "status": "Opiniowanie"
+    },
+    {
+        "id": "12406050",
+        "title": "Projekt ustawy o zmianie ustawy o biokomponentach i biopaliwach ciekłych oraz niektórych innych ustaw",
+        "url": "https://legislacja.rcl.gov.pl/projekt/12406050",
+        "applicant": "Minister Klimatu i Środowiska",
+        "number": "UC106",
+        "date": "14-01-2026",
+        "status": "Opiniowanie"
+    },
+    {
+        "id": "12406000",
+        "title": "Ustawa o uregulowaniu praw do gruntów zabudowanych przez spółdzielnie mieszkaniowe, o zmianie ustawy o gospodarce nieruchomościami oraz niektórych innych ustaw",
+        "url": "https://legislacja.rcl.gov.pl/projekt/12406000",
+        "applicant": "Minister Finansów i Gospodarki",
+        "number": "UD335",
+        "date": "13-01-2026",
+        "status": "Opiniowanie"
+    },
+    {
+        "id": "12405901",
+        "title": "Projekt ustawy o zmianie ustawy o rachunkowości",
+        "url": "https://legislacja.rcl.gov.pl/projekt/12405901",
+        "applicant": "Minister Finansów i Gospodarki",
+        "number": "UC136",
+        "date": "08-01-2026",
+        "status": "Konsultacje publiczne"
+    },
+    {
+        "id": "12405851",
+        "title": "Projekt ustawy o zmianie ustawy o systemie oświaty oraz ustawy o finansowaniu zadań oświatowych",
+        "url": "https://legislacja.rcl.gov.pl/projekt/12405851",
+        "applicant": "Minister Edukacji",
+        "number": "UD353",
+        "date": "07-01-2026",
+        "status": "Skierowanie projektu ustawy do Sejmu"
+    },
+    {
+        "id": "12405805",
+        "title": "Projekt ustawy o zmianie niektórych ustaw w związku z rozwojem rejestrów publicznych prowadzonych z wykorzystaniem systemu rejestrów państwowych",
+        "url": "https://legislacja.rcl.gov.pl/projekt/12405805",
+        "applicant": "Minister Cyfryzacji",
+        "number": "UD337",
+        "date": "05-01-2026",
+        "status": "Opiniowanie"
+    },
+    {
+        "id": "12405803",
+        "title": "Projekt ustawy o zmianie ustawy o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi oraz niektórych innych ustaw",
+        "url": "https://legislacja.rcl.gov.pl/projekt/12405803",
+        "applicant": "Minister Finansów i Gospodarki",
+        "number": "UC105",
+        "date": "05-01-2026",
+        "status": "Opiniowanie"
+    },
+    {
+        "id": "12405801",
+        "title": "Projekt ustawy o zmianie ustawy – Kodeks karny",
+        "url": "https://legislacja.rcl.gov.pl/projekt/12405801",
+        "applicant": "Minister Sprawiedliwości",
+        "number": "UD333",
+        "date": "05-01-2026",
+        "status": "Opiniowanie"
+    },
+    {
+        "id": "12405701",
+        "title": "Projekt ustawy o dzierżawie rolniczej",
+        "url": "https://legislacja.rcl.gov.pl/projekt/12405701",
+        "applicant": "Minister Rolnictwa i Rozwoju Wsi",
+        "number": "UD279",
+        "date": "31-12-2025",
+        "status": "Konsultacje publiczne"
+    },
+    {
+        "id": "12405700",
+        "title": "Projekt ustawy o zmianie ustawy o odnawialnych źródłach energii oraz niektórych innych ustaw",
+        "url": "https://legislacja.rcl.gov.pl/projekt/12405700",
+        "applicant": "Minister Klimatu i Środowiska",
+        "number": "UD332",
+        "date": "31-12-2025",
+        "status": "Stały Komitet Rady Ministrów"
+    },
+    {
+        "id": "12405609",
+        "title": "Projekt ustawy o wygaszeniu rozwiązań wynikających z ustawy o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa oraz o zmianie niektórych ustaw",
+        "url": "https://legislacja.rcl.gov.pl/projekt/12405609",
+        "applicant": "Minister Spraw Wewnętrznych i Administracji",
+        "number": "UD345",
+        "date": "29-12-2025",
+        "status": "Rada Ministrów"
+    },
+    {
+        "id": "12405605",
+        "title": "Projekt ustawy o zmianie ustawy o przeciwdziałaniu nieuczciwym praktykom rynkowym oraz ustawy o prawach konsumenta",
+        "url": "https://legislacja.rcl.gov.pl/projekt/12405605",
+        "applicant": "Prezes Urzędu Ochrony Konkurencji i Konsumentów",
+        "number": "UC111",
+        "date": "29-12-2025",
+        "status": "Opiniowanie"
+    },
+    {
+        "id": "12405602",
+        "title": "Projekt ustawy o zmianie ustawy o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko oraz niektórych innych ustaw",
+        "url": "https://legislacja.rcl.gov.pl/projekt/12405602",
+        "applicant": "Minister Klimatu i Środowiska",
+        "number": "UD224",
+        "date": "29-12-2025",
+        "status": "Opiniowanie"
+    },
+    {
+        "id": "12405554",
+        "title": "Projekt ustawy o zmianie ustawy o usługach hotelarskich oraz usługach pilotów wycieczek i przewodników turystycznych oraz niektórych innych ustaw",
+        "url": "https://legislacja.rcl.gov.pl/projekt/12405554",
+        "applicant": "Minister Sportu i Turystyki",
+        "number": "UC135",
+        "date": "23-12-2025",
+        "status": "Opiniowanie"
+    },
+    {
+        "id": "12405550",
+        "title": "Projekt ustawy o zmianie ustawy o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne oraz niektórych innych ustaw",
+        "url": "https://legislacja.rcl.gov.pl/projekt/12405550",
+        "applicant": "Minister Finansów i Gospodarki",
+        "number": "UD336",
+        "date": "23-12-2025",
+        "status": "Uzgodnienia"
+    },
+    {
+        "id": "12405505",
+        "title": "Projekt ustawy o zmianie ustawy o podatku akcyzowym",
+        "url": "https://legislacja.rcl.gov.pl/projekt/12405505",
+        "applicant": "Minister Finansów i Gospodarki",
+        "number": "UD 308",
+        "date": "22-12-2025",
+        "status": "Opiniowanie"
+    },
+    {
+        "id": "12405503",
+        "title": "projekt ustawy o zmianie ustawy - Kodeks karny oraz ustawy - Kodeks postępowania karnego",
+        "url": "https://legislacja.rcl.gov.pl/projekt/12405503",
+        "applicant": "Minister Sprawiedliwości",
+        "number": "UD344",
+        "date": "22-12-2025",
+        "status": "Opiniowanie"
+    },
+    {
+        "id": "12405453",
+        "title": "Projekt ustawy o Wojewódzkich Zespołach Koordynacji do spraw polityki umiejętności",
+        "url": "https://legislacja.rcl.gov.pl/projekt/12405453",
+        "applicant": "Minister Edukacji",
+        "number": "UD347",
+        "date": "19-12-2025",
+        "status": "Stały Komitet Rady Ministrów"
+    },
+    {
+        "id": "12405353",
+        "title": "Projekt ustawy o zmianie ustawy o podatku dochodowym od osób fizycznych, ustawy o podatku dochodowym od osób prawnych oraz ustawy o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne",
+        "url": "https://legislacja.rcl.gov.pl/projekt/12405353",
+        "applicant": "Minister Finansów i Gospodarki",
+        "number": "UD350",
+        "date": "17-12-2025",
+        "status": "Konsultacje publiczne"
+    },
+    {
+        "id": "12405352",
+        "title": "Projekt ustawy o zmianie ustawy - Kodeks spółek handlowych",
+        "url": "https://legislacja.rcl.gov.pl/projekt/12405352",
+        "applicant": "Minister Sprawiedliwości",
+        "number": "UDER98",
+        "date": "17-12-2025",
+        "status": "Opiniowanie"
+    },
+    {
+        "id": "12405351",
+        "title": "Projekt ustawy o zmianie ustawy – Kodeks postępowania karnego oraz ustawy o dokumentach paszportowych",
+        "url": "https://legislacja.rcl.gov.pl/projekt/12405351",
+        "applicant": "Minister Sprawiedliwości",
+        "number": "UD319",
+        "date": "17-12-2025",
+        "status": "Opiniowanie"
+    },
+    {
+        "id": "12405304",
+        "title": "Projekt ustawy o opiece długoterminowej",
+        "url": "https://legislacja.rcl.gov.pl/projekt/12405304",
+        "applicant": "Minister do Spraw Polityki Senioralnej",
+        "number": "UD326",
+        "date": "16-12-2025",
+        "status": "Opiniowanie"
+    },
+    {
+        "id": "12405302",
+        "title": "Ustawa o zmianie ustawy o postępowaniu w sprawach dotyczących pomocy publicznej oraz niektórych innych ustaw",
+        "url": "https://legislacja.rcl.gov.pl/projekt/12405302",
+        "applicant": "Prezes Rządowego Centrum Legislacji",
+        "number": "UDER101",
+        "date": "16-12-2025",
+        "status": "Opiniowanie"
+    },
+    {
+        "id": "12405300",
+        "title": "Projekt ustawy o wzmocnieniu stosowania prawa do jednakowego wynagrodzenia mężczyzn i kobiet za jednakową pracę lub za pracę o jednakowej wartości",
+        "url": "https://legislacja.rcl.gov.pl/projekt/12405300",
+        "applicant": "Minister Rodziny, Pracy i Polityki Społecznej",
+        "number": "UC127",
+        "date": "16-12-2025",
+        "status": "Opiniowanie"
+    },
+    {
+        "id": "12405202",
+        "title": "Projekt ustawy o zmianie ustawy – Prawo farmaceutyczne",
+        "url": "https://legislacja.rcl.gov.pl/projekt/12405202",
+        "applicant": "Minister Zdrowia",
+        "number": "UD291",
+        "date": "12-12-2025",
+        "status": "Konsultacje publiczne"
+    }
 ]

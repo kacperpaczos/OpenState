@@ -10,7 +10,7 @@ python3 backend/fetch_mps.py
 
 # 2. Fetch Bills (List + Details)
 echo "📜 [2/7] Fetching Legislative Bills (Lists + Details)..."
-python3 backend/fetch_bills.py
+python3 backend/ingest.py --source sejm
 
 # 3. Fetch Votings
 echo "🗳️  [3/7] Fetching Votings (Sejm)..."

@@ -88,7 +88,7 @@
         "authorType": "Obywatelski",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001615",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/1615/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "31",
@@ -101,7 +101,7 @@
         "authorType": "Obywatelski",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002730",
         "eliLink": "https://eli.gov.pl/eli/DU/2023/2730/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "32",
@@ -114,7 +114,7 @@
         "authorType": "Obywatelski",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001243",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/1243/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "33",
@@ -153,7 +153,7 @@
         "authorType": "Poselski",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002626",
         "eliLink": "https://eli.gov.pl/eli/DU/2023/2626/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "65",
@@ -166,7 +166,7 @@
         "authorType": "Rządowy",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Komisje"
     },
     {
         "id": "71",
@@ -192,7 +192,7 @@
         "authorType": "Poselski",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002760",
         "eliLink": "https://eli.gov.pl/eli/DU/2023/2760/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "73",
@@ -205,7 +205,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Komisje"
     },
     {
         "id": "74",
@@ -218,7 +218,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002776",
         "eliLink": "https://eli.gov.pl/eli/DU/2023/2776/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "75",
@@ -231,7 +231,7 @@
         "authorType": "Poselski",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000721",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/721/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "92",
@@ -244,7 +244,7 @@
         "authorType": "Poselski",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002699",
         "eliLink": "https://eli.gov.pl/eli/DU/2023/2699/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "106",
@@ -257,7 +257,7 @@
         "authorType": "Poselski",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002768",
         "eliLink": "https://eli.gov.pl/eli/DU/2023/2768/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "123",
@@ -270,7 +270,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Komisje"
     },
     {
         "id": "124",
@@ -283,7 +283,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Komisje"
     },
     {
         "id": "125",
@@ -296,7 +296,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000122",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/122/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "127",
@@ -309,7 +309,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002778",
         "eliLink": "https://eli.gov.pl/eli/DU/2023/2778/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "128",
@@ -322,7 +322,7 @@
         "authorType": "Rządowy",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "139",
@@ -335,7 +335,7 @@
         "authorType": "Inny",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Komisje"
     },
     {
         "id": "141",
@@ -348,7 +348,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000124",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/124/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "142",
@@ -361,7 +361,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000123",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/123/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "154",
@@ -374,7 +374,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Komisje"
     },
     {
         "id": "155",
@@ -413,7 +413,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000227",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/227/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "176",
@@ -426,7 +426,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Głosowanie"
     },
     {
         "id": "177",
@@ -452,7 +452,7 @@
         "authorType": "Rządowy",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "187",
@@ -478,7 +478,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000232",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/232/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "194",
@@ -504,7 +504,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000414",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/414/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "201",
@@ -517,7 +517,7 @@
         "authorType": "Poselski",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000467",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/467/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "204",
@@ -530,7 +530,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000492",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/492/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "205",
@@ -556,7 +556,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Komisje"
     },
     {
         "id": "207",
@@ -569,7 +569,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Komisje"
     },
     {
         "id": "208",
@@ -582,7 +582,7 @@
         "authorType": "Poselski",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000653",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/653/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "209",
@@ -595,7 +595,7 @@
         "authorType": "Poselski",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001228",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/1228/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "210",
@@ -621,7 +621,7 @@
         "authorType": "Poselski",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001246",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/1246/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "216",
@@ -647,7 +647,7 @@
         "authorType": "Rządowy",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "223",
@@ -686,7 +686,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000653",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/653/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "231",
@@ -699,7 +699,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000651",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/651/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "232",
@@ -712,7 +712,7 @@
         "authorType": "Senacki",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001820",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1820/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "233",
@@ -725,7 +725,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "241",
@@ -738,7 +738,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000731",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/731/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "242",
@@ -751,7 +751,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000619",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/619/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "244",
@@ -764,7 +764,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Komisje"
     },
     {
         "id": "245",
@@ -790,7 +790,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000696",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/696/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "253",
@@ -803,7 +803,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "254",
@@ -816,7 +816,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "257",
@@ -829,7 +829,7 @@
         "authorType": "Poselski",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000647",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/647/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "258",
@@ -868,7 +868,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Komisje"
     },
     {
         "id": "261",
@@ -894,7 +894,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000850",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/850/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "269",
@@ -907,7 +907,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000834",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/834/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "274",
@@ -920,7 +920,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000743",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/743/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "275",
@@ -933,7 +933,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000863",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/863/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "276",
@@ -946,7 +946,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001092",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/1092/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "277",
@@ -959,7 +959,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000649",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/649/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "293",
@@ -972,7 +972,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000742",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/742/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "294",
@@ -985,7 +985,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001148",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/1148/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "296",
@@ -998,7 +998,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "303",
@@ -1011,7 +1011,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000851",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/851/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "311",
@@ -1024,7 +1024,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000879",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/879/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "316",
@@ -1050,7 +1050,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000928",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/928/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "318",
@@ -1063,7 +1063,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000878",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/878/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "319",
@@ -1076,7 +1076,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000858",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/858/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "320",
@@ -1089,7 +1089,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000862",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/862/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "321",
@@ -1099,10 +1099,10 @@
         "date": "",
         "status": "W toku",
         "documentType": "projekt ustawy",
-        "authorType": "Inny",
+        "authorType": "Komisyjny",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "322",
@@ -1128,7 +1128,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Inicjatywa"
     },
     {
         "id": "324",
@@ -1154,7 +1154,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Komisje"
     },
     {
         "id": "326",
@@ -1167,7 +1167,7 @@
         "authorType": "Poselski",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001827",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/1827/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "327",
@@ -1193,7 +1193,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000852",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/852/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "342",
@@ -1206,7 +1206,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000854",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/854/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "346",
@@ -1219,7 +1219,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000859",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/859/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "347",
@@ -1232,7 +1232,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001006",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/1006/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "348",
@@ -1245,7 +1245,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001090",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/1090/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "349",
@@ -1258,7 +1258,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Komisje"
     },
     {
         "id": "350",
@@ -1271,7 +1271,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Komisje"
     },
     {
         "id": "351",
@@ -1284,7 +1284,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "382",
@@ -1297,7 +1297,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000885",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/885/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "384",
@@ -1323,7 +1323,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Komisje"
     },
     {
         "id": "386",
@@ -1336,7 +1336,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Inicjatywa"
     },
     {
         "id": "405",
@@ -1362,7 +1362,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001254",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/1254/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "407",
@@ -1375,7 +1375,7 @@
         "authorType": "Senacki",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001246",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/1246/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "409",
@@ -1427,7 +1427,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001091",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/1091/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "423",
@@ -1440,7 +1440,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001221",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/1221/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "424",
@@ -1453,7 +1453,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001222",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/1222/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "430",
@@ -1466,7 +1466,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001081",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/1081/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "431",
@@ -1479,7 +1479,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Komisje"
     },
     {
         "id": "432",
@@ -1492,7 +1492,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Komisje"
     },
     {
         "id": "435",
@@ -1502,10 +1502,10 @@
         "date": "",
         "status": "W toku",
         "documentType": "projekt ustawy",
-        "authorType": "Inny",
+        "authorType": "Komisyjny",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Komisje"
     },
     {
         "id": "436",
@@ -1515,10 +1515,10 @@
         "date": "",
         "status": "W toku",
         "documentType": "projekt ustawy",
-        "authorType": "Inny",
+        "authorType": "Komisyjny",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Komisje"
     },
     {
         "id": "437",
@@ -1531,7 +1531,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001237",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/1237/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "438",
@@ -1554,10 +1554,10 @@
         "date": "",
         "status": "W toku",
         "documentType": "projekt ustawy",
-        "authorType": "Inny",
+        "authorType": "Komisyjny",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Komisje"
     },
     {
         "id": "440",
@@ -1567,10 +1567,10 @@
         "date": "",
         "status": "W toku",
         "documentType": "projekt ustawy",
-        "authorType": "Inny",
+        "authorType": "Komisyjny",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000479",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/479/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "441",
@@ -1580,7 +1580,7 @@
         "date": "",
         "status": "W toku",
         "documentType": "projekt ustawy",
-        "authorType": "Inny",
+        "authorType": "Komisyjny",
         "isapLink": null,
         "eliLink": null,
         "kanbanStage": "Sejm - I Czytanie"
@@ -1596,7 +1596,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Komisje"
     },
     {
         "id": "443",
@@ -1606,10 +1606,10 @@
         "date": "",
         "status": "W toku",
         "documentType": "projekt ustawy",
-        "authorType": "Inny",
+        "authorType": "Komisyjny",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Komisje"
     },
     {
         "id": "444",
@@ -1619,7 +1619,7 @@
         "date": "",
         "status": "W toku",
         "documentType": "projekt ustawy",
-        "authorType": "Inny",
+        "authorType": "Komisyjny",
         "isapLink": null,
         "eliLink": null,
         "kanbanStage": "Sejm - I Czytanie"
@@ -1632,10 +1632,10 @@
         "date": "",
         "status": "W toku",
         "documentType": "projekt ustawy",
-        "authorType": "Inny",
+        "authorType": "Komisyjny",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001761",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/1761/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "471",
@@ -1648,7 +1648,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001248",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/1248/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "472",
@@ -1661,7 +1661,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001089",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/1089/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "481",
@@ -1687,7 +1687,7 @@
         "authorType": "Obywatelski",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001831",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/1831/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "496",
@@ -1700,7 +1700,7 @@
         "authorType": "Poselski",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001672",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/1672/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "497",
@@ -1713,7 +1713,7 @@
         "authorType": "Poselski",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001230",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/1230/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "522",
@@ -1752,7 +1752,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Inicjatywa"
     },
     {
         "id": "528",
@@ -1778,7 +1778,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001166",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/1166/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "546",
@@ -1791,7 +1791,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001165",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/1165/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "547",
@@ -1804,7 +1804,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001155",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/1155/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "548",
@@ -1817,7 +1817,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001229",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/1229/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "552",
@@ -1843,7 +1843,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001565",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/1565/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "554",
@@ -1856,7 +1856,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001597",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/1597/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "555",
@@ -1869,7 +1869,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Komisje"
     },
     {
         "id": "556",
@@ -1882,7 +1882,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Senat - Głosowanie"
     },
     {
         "id": "558",
@@ -1895,7 +1895,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Głosowanie"
     },
     {
         "id": "559",
@@ -1908,7 +1908,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Komisje"
     },
     {
         "id": "560",
@@ -1921,7 +1921,7 @@
         "authorType": "Poselski",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000028",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/28/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "573",
@@ -1934,7 +1934,7 @@
         "authorType": "Poselski",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000031",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/31/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "589",
@@ -1947,7 +1947,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001559",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/1559/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "599",
@@ -1973,7 +1973,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001635",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/1635/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "601",
@@ -1986,7 +1986,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001593",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/1593/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "602",
@@ -1999,7 +1999,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001544",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/1544/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "603",
@@ -2012,7 +2012,7 @@
         "authorType": "Poselski",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001692",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/1692/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "604",
@@ -2038,7 +2038,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001562",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/1562/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "606",
@@ -2051,7 +2051,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001558",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/1558/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "607",
@@ -2064,7 +2064,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001674",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/1674/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "608",
@@ -2077,7 +2077,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "609",
@@ -2103,7 +2103,7 @@
         "authorType": "Poselski",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001436",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1436/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "611",
@@ -2129,7 +2129,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Komisje"
     },
     {
         "id": "613",
@@ -2142,7 +2142,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Komisje"
     },
     {
         "id": "622",
@@ -2155,7 +2155,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001572",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/1572/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "643",
@@ -2181,7 +2181,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Komisje"
     },
     {
         "id": "650",
@@ -2191,10 +2191,10 @@
         "date": "",
         "status": "W toku",
         "documentType": "projekt ustawy",
-        "authorType": "Inny",
+        "authorType": "Komisyjny",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001535",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/1535/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "655",
@@ -2207,7 +2207,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001560",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/1560/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "656",
@@ -2220,7 +2220,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001721",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/1721/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "659",
@@ -2246,7 +2246,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Komisje"
     },
     {
         "id": "661",
@@ -2259,7 +2259,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001684",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/1684/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "664",
@@ -2272,7 +2272,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001907",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/1907/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "665",
@@ -2285,7 +2285,7 @@
         "authorType": "Poselski",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001494",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/1494/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "669",
@@ -2311,7 +2311,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001781",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/1781/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "671",
@@ -2324,7 +2324,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Komisje"
     },
     {
         "id": "672",
@@ -2337,7 +2337,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001473",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/1473/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "673",
@@ -2350,7 +2350,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001585",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/1585/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "674",
@@ -2363,7 +2363,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001685",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/1685/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "687",
@@ -2376,7 +2376,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000063",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/63/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "690",
@@ -2402,7 +2402,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001681",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/1681/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "693",
@@ -2415,7 +2415,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001925",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/1925/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "698",
@@ -2467,7 +2467,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001762",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/1762/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "703",
@@ -2480,7 +2480,7 @@
         "authorType": "Poselski",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001696",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1696/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "722",
@@ -2493,7 +2493,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001688",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/1688/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "726",
@@ -2506,7 +2506,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001863",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/1863/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "727",
@@ -2519,7 +2519,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001764",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/1764/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "728",
@@ -2545,7 +2545,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Komisje"
     },
     {
         "id": "730",
@@ -2558,7 +2558,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Komisje"
     },
     {
         "id": "741",
@@ -2571,7 +2571,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001757",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/1757/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "742",
@@ -2584,7 +2584,7 @@
         "authorType": "Rządowy",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "743",
@@ -2597,7 +2597,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001881",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/1881/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "744",
@@ -2610,7 +2610,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001847",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/1847/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "745",
@@ -2623,7 +2623,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001976",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/1976/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "746",
@@ -2636,7 +2636,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001975",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/1975/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "747",
@@ -2649,7 +2649,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001974",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/1974/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "748",
@@ -2662,7 +2662,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "750",
@@ -2675,7 +2675,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000039",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/39/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "751",
@@ -2688,7 +2688,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001853",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/1853/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "752",
@@ -2701,7 +2701,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001855",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/1855/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "753",
@@ -2714,7 +2714,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001840",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/1840/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "754",
@@ -2727,7 +2727,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001754",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/1754/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "755",
@@ -2740,7 +2740,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001755",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/1755/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "756",
@@ -2753,7 +2753,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001756",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/1756/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "757",
@@ -2766,7 +2766,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001897",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/1897/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "759",
@@ -2779,7 +2779,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001933",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/1933/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "760",
@@ -2792,7 +2792,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001911",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/1911/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "761",
@@ -2805,7 +2805,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001841",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/1841/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "762",
@@ -2818,7 +2818,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001871",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/1871/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "763",
@@ -2831,7 +2831,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001823",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/1823/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "764",
@@ -2844,7 +2844,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001915",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/1915/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "765",
@@ -2857,7 +2857,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000146",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/146/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "766",
@@ -2870,7 +2870,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001834",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/1834/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "772",
@@ -2883,7 +2883,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Komisje"
     },
     {
         "id": "773",
@@ -2922,7 +2922,7 @@
         "authorType": "Poselski",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001965",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/1965/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "800",
@@ -2935,7 +2935,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001827",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/1827/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "801",
@@ -2948,7 +2948,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001824",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/1824/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "802",
@@ -2961,7 +2961,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001717",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/1717/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "803",
@@ -2974,7 +2974,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000129",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/129/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "804",
@@ -2987,7 +2987,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001836",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/1836/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "810",
@@ -3000,7 +3000,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000179",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/179/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "811",
@@ -3013,7 +3013,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001828",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/1828/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "812",
@@ -3026,7 +3026,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001914",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/1914/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "813",
@@ -3039,7 +3039,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001940",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/1940/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "823",
@@ -3052,7 +3052,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Inicjatywa"
     },
     {
         "id": "824",
@@ -3091,7 +3091,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Komisje"
     },
     {
         "id": "827",
@@ -3104,7 +3104,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Komisje"
     },
     {
         "id": "828",
@@ -3130,7 +3130,7 @@
         "authorType": "Poselski",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001088",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1088/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "830",
@@ -3156,7 +3156,7 @@
         "authorType": "Poselski",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001696",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1696/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "836",
@@ -3169,7 +3169,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Komisje"
     },
     {
         "id": "837",
@@ -3182,7 +3182,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Komisje"
     },
     {
         "id": "838",
@@ -3195,7 +3195,7 @@
         "authorType": "Rządowy",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "839",
@@ -3208,7 +3208,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001826",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/1826/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "840",
@@ -3221,7 +3221,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001926",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/1926/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "841",
@@ -3234,7 +3234,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001831",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/1831/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "842",
@@ -3247,7 +3247,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001964",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/1964/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "852",
@@ -3260,7 +3260,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001961",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/1961/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "864",
@@ -3322,7 +3322,7 @@
         "date": "",
         "status": "W toku",
         "documentType": "projekt ustawy",
-        "authorType": "Inny",
+        "authorType": "Komisyjny",
         "isapLink": null,
         "eliLink": null,
         "kanbanStage": "Sejm - I Czytanie"
@@ -3338,7 +3338,7 @@
         "authorType": "Rządowy",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "878",
@@ -3351,7 +3351,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000172",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/172/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "879",
@@ -3364,7 +3364,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000240",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/240/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "880",
@@ -3377,7 +3377,7 @@
         "authorType": "Poselski",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000641",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/641/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "895",
@@ -3390,7 +3390,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000216",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/216/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "896",
@@ -3403,7 +3403,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000222",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/222/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "897",
@@ -3416,7 +3416,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001946",
         "eliLink": "https://eli.gov.pl/eli/DU/2024/1946/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "906",
@@ -3429,7 +3429,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000304",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/304/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "907",
@@ -3468,7 +3468,7 @@
         "authorType": "Poselski",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001169",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1169/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "923",
@@ -3481,7 +3481,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "924",
@@ -3494,7 +3494,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000389",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/389/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "925",
@@ -3507,7 +3507,7 @@
         "authorType": "Poselski",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000165",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/165/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "926",
@@ -3520,7 +3520,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "927",
@@ -3533,7 +3533,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000159",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/159/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "932",
@@ -3546,7 +3546,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000295",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/295/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "933",
@@ -3559,7 +3559,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000409",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/409/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "934",
@@ -3572,7 +3572,7 @@
         "authorType": "Poselski",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000807",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/807/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "935",
@@ -3598,7 +3598,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000620",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/620/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "949",
@@ -3611,7 +3611,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000621",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/621/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "950",
@@ -3624,7 +3624,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000619",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/619/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "951",
@@ -3637,7 +3637,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000622",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/622/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "952",
@@ -3650,7 +3650,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000374",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/374/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "953",
@@ -3663,7 +3663,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000289",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/289/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "954",
@@ -3676,7 +3676,7 @@
         "authorType": "Poselski",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000413",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/413/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "955",
@@ -3689,7 +3689,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000393",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/393/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "956",
@@ -3702,7 +3702,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000303",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/303/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "962",
@@ -3728,7 +3728,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000497",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/497/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "965",
@@ -3767,7 +3767,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Komisje"
     },
     {
         "id": "981",
@@ -3780,7 +3780,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000340",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/340/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "982",
@@ -3793,7 +3793,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000427",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/427/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "983",
@@ -3806,7 +3806,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000799",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/799/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "988",
@@ -3819,7 +3819,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000526",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/526/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "989",
@@ -3832,7 +3832,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000368",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/368/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "992",
@@ -3845,7 +3845,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000352",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/352/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "993",
@@ -3858,7 +3858,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000820",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/820/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "994",
@@ -3871,7 +3871,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000524",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/524/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "995",
@@ -3884,7 +3884,7 @@
         "authorType": "Senacki",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000630",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/630/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "996",
@@ -3923,7 +3923,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Komisje"
     },
     {
         "id": "999",
@@ -3949,7 +3949,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Komisje"
     },
     {
         "id": "1006",
@@ -3975,7 +3975,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000290",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/290/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1009",
@@ -3988,7 +3988,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000321",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/321/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1034",
@@ -4001,7 +4001,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000525",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/525/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1035",
@@ -4053,7 +4053,7 @@
         "authorType": "Poselski",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000523",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/523/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1039",
@@ -4066,7 +4066,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Komisje"
     },
     {
         "id": "1040",
@@ -4079,7 +4079,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Komisje"
     },
     {
         "id": "1041",
@@ -4092,7 +4092,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Inicjatywa"
     },
     {
         "id": "1058",
@@ -4105,7 +4105,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000637",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/637/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1059",
@@ -4131,7 +4131,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000603",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/603/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1075",
@@ -4144,7 +4144,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000631",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/631/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1076",
@@ -4157,7 +4157,7 @@
         "authorType": "Poselski",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001021",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1021/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1077",
@@ -4183,7 +4183,7 @@
         "authorType": "Poselski",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001077",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1077/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1079",
@@ -4196,7 +4196,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Komisje"
     },
     {
         "id": "1080",
@@ -4209,7 +4209,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Komisje"
     },
     {
         "id": "1081",
@@ -4235,7 +4235,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000779",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/779/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1106",
@@ -4261,7 +4261,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001698",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1698/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1108",
@@ -4274,7 +4274,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000769",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/769/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1109",
@@ -4284,7 +4284,7 @@
         "date": "",
         "status": "W toku",
         "documentType": "projekt ustawy",
-        "authorType": "Inny",
+        "authorType": "Komisyjny",
         "isapLink": null,
         "eliLink": null,
         "kanbanStage": "Sejm - I Czytanie"
@@ -4297,7 +4297,7 @@
         "date": "",
         "status": "W toku",
         "documentType": "projekt ustawy",
-        "authorType": "Inny",
+        "authorType": "Komisyjny",
         "isapLink": null,
         "eliLink": null,
         "kanbanStage": "Sejm - I Czytanie"
@@ -4313,7 +4313,7 @@
         "authorType": "Poselski",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000758",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/758/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1113",
@@ -4339,7 +4339,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Komisje"
     },
     {
         "id": "1115",
@@ -4352,7 +4352,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Komisje"
     },
     {
         "id": "1129",
@@ -4365,7 +4365,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000531",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/531/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1130",
@@ -4378,7 +4378,7 @@
         "authorType": "Rządowy",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1131",
@@ -4404,7 +4404,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000537",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/537/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1133",
@@ -4417,7 +4417,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000527",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/527/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1141",
@@ -4430,7 +4430,7 @@
         "authorType": "Senacki",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Komisje"
     },
     {
         "id": "1142",
@@ -4443,7 +4443,7 @@
         "authorType": "Poselski",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000900",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/900/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1143",
@@ -4482,7 +4482,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000884",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/884/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1172",
@@ -4495,7 +4495,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000718",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/718/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1173",
@@ -4508,7 +4508,7 @@
         "authorType": "Rządowy",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Komisje"
     },
     {
         "id": "1174",
@@ -4521,7 +4521,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000794",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/794/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1175",
@@ -4534,7 +4534,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000565",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/565/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1176",
@@ -4547,7 +4547,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000680",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/680/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1184",
@@ -4560,7 +4560,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001235",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1235/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1185",
@@ -4573,7 +4573,7 @@
         "authorType": "Senacki",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Komisje"
     },
     {
         "id": "1186",
@@ -4599,7 +4599,7 @@
         "authorType": "Poselski",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001665",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1665/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1188",
@@ -4612,7 +4612,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Komisje"
     },
     {
         "id": "1196",
@@ -4638,7 +4638,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000921",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/921/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1202",
@@ -4651,7 +4651,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001166",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1166/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1203",
@@ -4664,7 +4664,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001080",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1080/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1204",
@@ -4674,7 +4674,7 @@
         "date": "",
         "status": "W toku",
         "documentType": "projekt ustawy",
-        "authorType": "Inny",
+        "authorType": "Komisyjny",
         "isapLink": null,
         "eliLink": null,
         "kanbanStage": "Sejm - I Czytanie"
@@ -4703,7 +4703,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001023",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1023/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1209",
@@ -4716,7 +4716,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000759",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/759/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1231",
@@ -4729,7 +4729,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000894",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/894/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1232",
@@ -4742,7 +4742,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000896",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/896/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1233",
@@ -4755,7 +4755,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001074",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1074/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1234",
@@ -4768,7 +4768,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000897",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/897/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1235",
@@ -4794,7 +4794,7 @@
         "authorType": "Inny",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Komisje"
     },
     {
         "id": "1238",
@@ -4807,7 +4807,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001017",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1017/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1239",
@@ -4820,7 +4820,7 @@
         "authorType": "Rządowy",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1240",
@@ -4833,7 +4833,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000905",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/905/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1241",
@@ -4846,7 +4846,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001019",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1019/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1242",
@@ -4859,7 +4859,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001157",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1157/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1243",
@@ -4872,7 +4872,7 @@
         "authorType": "Rządowy",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1244",
@@ -4885,7 +4885,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001018",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1018/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1246",
@@ -4898,7 +4898,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001083",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1083/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1261",
@@ -4911,7 +4911,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001008",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1008/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1262",
@@ -4924,7 +4924,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001069",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1069/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1263",
@@ -4937,7 +4937,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001085",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1085/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1264",
@@ -4950,7 +4950,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001178",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1178/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1265",
@@ -4963,7 +4963,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001417",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1417/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1266",
@@ -4976,7 +4976,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000924",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/924/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1267",
@@ -4989,7 +4989,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000935",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/935/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1268",
@@ -5002,7 +5002,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001006",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1006/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1269",
@@ -5015,7 +5015,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000923",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/923/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1270",
@@ -5028,7 +5028,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001014",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1014/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1271",
@@ -5041,7 +5041,7 @@
         "authorType": "Poselski",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000891",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/891/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1272",
@@ -5054,7 +5054,7 @@
         "authorType": "Poselski",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001167",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1167/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1273",
@@ -5067,7 +5067,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Komisje"
     },
     {
         "id": "1280",
@@ -5080,7 +5080,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001180",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1180/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1281",
@@ -5093,7 +5093,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001022",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1022/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1282",
@@ -5106,7 +5106,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001064",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1064/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1284",
@@ -5119,7 +5119,7 @@
         "authorType": "Rządowy",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1302",
@@ -5132,7 +5132,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001165",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1165/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1303",
@@ -5145,7 +5145,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001173",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1173/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1304",
@@ -5158,7 +5158,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001172",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1172/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1305",
@@ -5171,7 +5171,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001161",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1161/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1306",
@@ -5184,7 +5184,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001170",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1170/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1307",
@@ -5197,7 +5197,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001216",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1216/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1308",
@@ -5210,7 +5210,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001864",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1864/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1309",
@@ -5223,7 +5223,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001162",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1162/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1310",
@@ -5236,7 +5236,7 @@
         "authorType": "Rządowy",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1311",
@@ -5249,7 +5249,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001556",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1556/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1312",
@@ -5262,7 +5262,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001543",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1543/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1313",
@@ -5275,7 +5275,7 @@
         "authorType": "Rządowy",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1314",
@@ -5288,7 +5288,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001179",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1179/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1315",
@@ -5301,7 +5301,7 @@
         "authorType": "Poselski",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001056",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1056/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1316",
@@ -5327,7 +5327,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Komisje"
     },
     {
         "id": "1318",
@@ -5340,7 +5340,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - II Czytanie"
     },
     {
         "id": "1319",
@@ -5353,7 +5353,7 @@
         "authorType": "Poselski",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001077",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1077/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1320",
@@ -5379,7 +5379,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001171",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1171/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1343",
@@ -5392,7 +5392,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001176",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1176/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1344",
@@ -5405,7 +5405,7 @@
         "authorType": "Rządowy",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Głosowanie"
     },
     {
         "id": "1345",
@@ -5431,7 +5431,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Głosowanie"
     },
     {
         "id": "1347",
@@ -5444,7 +5444,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Komisje"
     },
     {
         "id": "1348",
@@ -5470,7 +5470,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001158",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1158/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1375",
@@ -5483,7 +5483,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001020",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1020/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1376",
@@ -5496,7 +5496,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001168",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1168/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1377",
@@ -5509,7 +5509,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001191",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1191/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1378",
@@ -5522,7 +5522,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001416",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1416/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1379",
@@ -5535,7 +5535,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001847",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1847/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1380",
@@ -5548,7 +5548,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001174",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1174/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1381",
@@ -5561,7 +5561,7 @@
         "authorType": "Rządowy",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1382",
@@ -5574,7 +5574,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001077",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1077/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1383",
@@ -5587,7 +5587,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000973",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/973/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1384",
@@ -5600,7 +5600,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001445",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1445/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1387",
@@ -5626,7 +5626,7 @@
         "authorType": "Poselski",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001218",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1218/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1389",
@@ -5639,7 +5639,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1390",
@@ -5665,7 +5665,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001420",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1420/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1404",
@@ -5678,7 +5678,7 @@
         "authorType": "Poselski",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001423",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1423/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1407",
@@ -5691,7 +5691,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001203",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1203/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1424",
@@ -5704,7 +5704,7 @@
         "authorType": "Rządowy",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1425",
@@ -5717,7 +5717,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001508",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1508/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1426",
@@ -5730,7 +5730,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001423",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1423/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1427",
@@ -5743,7 +5743,7 @@
         "authorType": "Rządowy",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1428",
@@ -5756,7 +5756,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001415",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1415/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1429",
@@ -5769,7 +5769,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001192",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1192/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1430",
@@ -5782,7 +5782,7 @@
         "authorType": "Rządowy",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1431",
@@ -5795,7 +5795,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001413",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1413/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1432",
@@ -5808,7 +5808,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001427",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1427/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1433",
@@ -5821,7 +5821,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001187",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1187/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1434",
@@ -5834,7 +5834,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001545",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1545/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1435",
@@ -5847,7 +5847,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001424",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1424/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1436",
@@ -5860,7 +5860,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001175",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1175/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1437",
@@ -5873,7 +5873,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001734",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1734/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1438",
@@ -5886,7 +5886,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001189",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1189/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1439",
@@ -5899,7 +5899,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001414",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1414/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1440",
@@ -5912,7 +5912,7 @@
         "authorType": "Rządowy",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1441",
@@ -5925,7 +5925,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001426",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1426/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1442",
@@ -5938,7 +5938,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001518",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1518/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1443",
@@ -5951,7 +5951,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001425",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1425/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1444",
@@ -5964,7 +5964,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001793",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1793/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1445",
@@ -5977,7 +5977,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001673",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1673/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1446",
@@ -5990,7 +5990,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001159",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1159/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1447",
@@ -6016,7 +6016,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001456",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1456/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1449",
@@ -6029,7 +6029,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001541",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1541/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1450",
@@ -6042,7 +6042,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001408",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1408/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1451",
@@ -6055,7 +6055,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001872",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1872/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1456",
@@ -6068,7 +6068,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Komisje"
     },
     {
         "id": "1457",
@@ -6081,7 +6081,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Inicjatywa"
     },
     {
         "id": "1458",
@@ -6094,7 +6094,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Inicjatywa"
     },
     {
         "id": "1459",
@@ -6107,7 +6107,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Komisje"
     },
     {
         "id": "1472",
@@ -6120,7 +6120,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001160",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1160/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1479",
@@ -6133,7 +6133,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001795",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1795/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1480",
@@ -6159,7 +6159,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001188",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1188/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1482",
@@ -6172,7 +6172,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001507",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1507/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1483",
@@ -6185,7 +6185,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001211",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1211/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1484",
@@ -6198,7 +6198,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001411",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1411/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1485",
@@ -6211,7 +6211,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001407",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1407/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1486",
@@ -6224,7 +6224,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001412",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1412/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1487",
@@ -6237,7 +6237,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001446",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1446/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1488",
@@ -6250,7 +6250,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Komisje"
     },
     {
         "id": "1492",
@@ -6263,7 +6263,7 @@
         "authorType": "Rządowy",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1522",
@@ -6276,7 +6276,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001409",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1409/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1523",
@@ -6289,7 +6289,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001169",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1169/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1524",
@@ -6302,7 +6302,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001563",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1563/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1525",
@@ -6315,7 +6315,7 @@
         "authorType": "Poselski",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001542",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1542/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1526",
@@ -6341,7 +6341,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Inicjatywa"
     },
     {
         "id": "1528",
@@ -6354,7 +6354,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Komisje"
     },
     {
         "id": "1529",
@@ -6367,7 +6367,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - II Czytanie"
     },
     {
         "id": "1560",
@@ -6380,7 +6380,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001705",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1705/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1561",
@@ -6393,7 +6393,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001709",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1709/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1600",
@@ -6419,7 +6419,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000025",
         "eliLink": "https://eli.gov.pl/eli/DU/2026/25/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1603",
@@ -6445,7 +6445,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001716",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1716/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1605",
@@ -6458,7 +6458,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001729",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1729/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1606",
@@ -6471,7 +6471,7 @@
         "authorType": "Rządowy",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1607",
@@ -6484,7 +6484,7 @@
         "authorType": "Rządowy",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1608",
@@ -6497,7 +6497,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000024",
         "eliLink": "https://eli.gov.pl/eli/DU/2026/24/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1609",
@@ -6510,7 +6510,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001537",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1537/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1610",
@@ -6523,7 +6523,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001533",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1533/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1611",
@@ -6536,7 +6536,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001564",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1564/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1612",
@@ -6549,7 +6549,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001540",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1540/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1613",
@@ -6575,7 +6575,7 @@
         "authorType": "Poselski",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WMP20260000012",
         "eliLink": "https://eli.gov.pl/eli/MP/2026/12/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - II Czytanie"
     },
     {
         "id": "1623",
@@ -6588,7 +6588,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001366",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1366/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1625",
@@ -6614,7 +6614,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001652",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1652/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1627",
@@ -6627,7 +6627,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001661",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1661/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1628",
@@ -6640,7 +6640,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001809",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1809/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1629",
@@ -6653,7 +6653,7 @@
         "authorType": "Rządowy",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Senat - Komisje"
     },
     {
         "id": "1630",
@@ -6666,7 +6666,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001794",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1794/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1631",
@@ -6705,7 +6705,7 @@
         "authorType": "Inny",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Komisje"
     },
     {
         "id": "1634",
@@ -6718,7 +6718,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001700",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1700/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1635",
@@ -6731,7 +6731,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001814",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1814/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1636",
@@ -6744,7 +6744,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001818",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1818/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1637",
@@ -6757,7 +6757,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001531",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1531/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1638",
@@ -6770,7 +6770,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001669",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1669/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1639",
@@ -6783,7 +6783,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001612",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1612/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1649",
@@ -6796,7 +6796,7 @@
         "authorType": "Senacki",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001679",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1679/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1650",
@@ -6809,7 +6809,7 @@
         "authorType": "Senacki",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Komisje"
     },
     {
         "id": "1651",
@@ -6822,7 +6822,7 @@
         "authorType": "Senacki",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Komisje"
     },
     {
         "id": "1652",
@@ -6861,7 +6861,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Komisje"
     },
     {
         "id": "1676",
@@ -6874,7 +6874,7 @@
         "authorType": "Inny",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Komisje"
     },
     {
         "id": "1677",
@@ -6887,7 +6887,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001676",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1676/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1678",
@@ -6900,7 +6900,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001609",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1609/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1679",
@@ -6913,7 +6913,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001608",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1608/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1683",
@@ -6926,7 +6926,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001303",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1303/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1684",
@@ -6939,7 +6939,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001302",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1302/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1685",
@@ -6952,7 +6952,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001301",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1301/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1708",
@@ -6965,7 +6965,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Inicjatywa"
     },
     {
         "id": "1721",
@@ -6978,7 +6978,7 @@
         "authorType": "Rządowy",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1726",
@@ -7004,7 +7004,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001610",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1610/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1728",
@@ -7017,7 +7017,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001811",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1811/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1729",
@@ -7030,7 +7030,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001882",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1882/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1730",
@@ -7043,7 +7043,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Senat - Głosowanie"
     },
     {
         "id": "1731",
@@ -7082,7 +7082,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001535",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1535/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1747",
@@ -7095,7 +7095,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001671",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1671/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1749",
@@ -7108,7 +7108,7 @@
         "authorType": "Rządowy",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1750",
@@ -7121,7 +7121,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001840",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1840/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1752",
@@ -7134,7 +7134,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001658",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1658/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1753",
@@ -7147,7 +7147,7 @@
         "authorType": "Rządowy",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1757",
@@ -7160,7 +7160,7 @@
         "authorType": "Rządowy",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1758",
@@ -7186,7 +7186,7 @@
         "authorType": "Inny",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Komisje"
     },
     {
         "id": "1760",
@@ -7199,7 +7199,7 @@
         "authorType": "Inny",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Inicjatywa"
     },
     {
         "id": "1761",
@@ -7212,7 +7212,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001826",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1826/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1762",
@@ -7225,7 +7225,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001806",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1806/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1763",
@@ -7235,10 +7235,10 @@
         "date": "",
         "status": "W toku",
         "documentType": "projekt ustawy",
-        "authorType": "Inny",
+        "authorType": "Komisyjny",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Głosowanie"
     },
     {
         "id": "1764",
@@ -7251,7 +7251,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Komisje"
     },
     {
         "id": "1765",
@@ -7264,7 +7264,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Komisje"
     },
     {
         "id": "1766",
@@ -7277,7 +7277,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Komisje"
     },
     {
         "id": "1767",
@@ -7290,7 +7290,7 @@
         "authorType": "Poselski",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000027",
         "eliLink": "https://eli.gov.pl/eli/DU/2026/27/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1768",
@@ -7303,7 +7303,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Inicjatywa"
     },
     {
         "id": "1796",
@@ -7316,7 +7316,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001841",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1841/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1797",
@@ -7329,7 +7329,7 @@
         "authorType": "Rządowy",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1798",
@@ -7342,7 +7342,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001817",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1817/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1804",
@@ -7355,7 +7355,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001812",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1812/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1805",
@@ -7368,7 +7368,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001837",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1837/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1806",
@@ -7381,7 +7381,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001792",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1792/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1807",
@@ -7394,7 +7394,7 @@
         "authorType": "Rządowy",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1808",
@@ -7420,7 +7420,7 @@
         "authorType": "Senacki",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Komisje"
     },
     {
         "id": "1810",
@@ -7433,7 +7433,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Komisje"
     },
     {
         "id": "1811",
@@ -7446,7 +7446,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Inicjatywa"
     },
     {
         "id": "1812",
@@ -7459,7 +7459,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Komisje"
     },
     {
         "id": "1813",
@@ -7472,7 +7472,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Komisje"
     },
     {
         "id": "1814",
@@ -7485,7 +7485,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Komisje"
     },
     {
         "id": "1815",
@@ -7498,7 +7498,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Komisje"
     },
     {
         "id": "1816",
@@ -7511,7 +7511,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - II Czytanie"
     },
     {
         "id": "1817",
@@ -7524,7 +7524,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Komisje"
     },
     {
         "id": "1824",
@@ -7537,7 +7537,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001659",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1659/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1825",
@@ -7550,7 +7550,7 @@
         "authorType": "Rządowy",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1826",
@@ -7563,7 +7563,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001657",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1657/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1835",
@@ -7576,7 +7576,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001858",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1858/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1836",
@@ -7589,7 +7589,7 @@
         "authorType": "Rządowy",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1837",
@@ -7602,7 +7602,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001854",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1854/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1838",
@@ -7615,7 +7615,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001838",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1838/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1839",
@@ -7628,7 +7628,7 @@
         "authorType": "Poselski",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001668",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1668/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1849",
@@ -7641,7 +7641,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Komisje"
     },
     {
         "id": "1850",
@@ -7654,7 +7654,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Komisje"
     },
     {
         "id": "1855",
@@ -7667,7 +7667,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001863",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1863/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1856",
@@ -7680,7 +7680,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000026",
         "eliLink": "https://eli.gov.pl/eli/DU/2026/26/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1857",
@@ -7693,7 +7693,7 @@
         "authorType": "Rządowy",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1858",
@@ -7706,7 +7706,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001820",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1820/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1859",
@@ -7719,7 +7719,7 @@
         "authorType": "Rządowy",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1860",
@@ -7732,7 +7732,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001810",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1810/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1861",
@@ -7745,7 +7745,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001807",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1807/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1862",
@@ -7758,7 +7758,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000050",
         "eliLink": "https://eli.gov.pl/eli/DU/2026/50/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1863",
@@ -7771,7 +7771,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001844",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1844/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1880",
@@ -7784,7 +7784,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001822",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1822/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1881",
@@ -7797,7 +7797,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001804",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1804/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1884",
@@ -7823,7 +7823,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001846",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1846/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1886",
@@ -7836,7 +7836,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001746",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1746/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1887",
@@ -7849,7 +7849,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000031",
         "eliLink": "https://eli.gov.pl/eli/DU/2026/31/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1888",
@@ -7888,7 +7888,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Komisje"
     },
     {
         "id": "1891",
@@ -7901,7 +7901,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Komisje"
     },
     {
         "id": "1892",
@@ -7914,7 +7914,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Inicjatywa"
     },
     {
         "id": "1893",
@@ -7927,7 +7927,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Komisje"
     },
     {
         "id": "1894",
@@ -7953,7 +7953,7 @@
         "authorType": "Inny",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Inicjatywa"
     },
     {
         "id": "1899",
@@ -7966,7 +7966,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Inicjatywa"
     },
     {
         "id": "1929",
@@ -7992,7 +7992,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001813",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1813/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1931",
@@ -8044,7 +8044,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000039",
         "eliLink": "https://eli.gov.pl/eli/DU/2026/39/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1939",
@@ -8057,7 +8057,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Głosowanie"
     },
     {
         "id": "1940",
@@ -8070,7 +8070,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Komisje"
     },
     {
         "id": "1941",
@@ -8096,7 +8096,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Komisje"
     },
     {
         "id": "1945",
@@ -8109,7 +8109,7 @@
         "authorType": "Poselski",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001849",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1849/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1950",
@@ -8122,7 +8122,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001697",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1697/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1951",
@@ -8135,7 +8135,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001823",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1823/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1955",
@@ -8161,7 +8161,7 @@
         "authorType": "Inny",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Inicjatywa"
     },
     {
         "id": "1962",
@@ -8171,7 +8171,7 @@
         "date": "",
         "status": "W toku",
         "documentType": "projekt ustawy",
-        "authorType": "Inny",
+        "authorType": "Komisyjny",
         "isapLink": null,
         "eliLink": null,
         "kanbanStage": "Sejm - I Czytanie"
@@ -8184,7 +8184,7 @@
         "date": "",
         "status": "W toku",
         "documentType": "projekt ustawy",
-        "authorType": "Inny",
+        "authorType": "Komisyjny",
         "isapLink": null,
         "eliLink": null,
         "kanbanStage": "Sejm - I Czytanie"
@@ -8200,7 +8200,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Inicjatywa"
     },
     {
         "id": "1985",
@@ -8213,7 +8213,7 @@
         "authorType": "Poselski",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001843",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1843/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1995",
@@ -8226,7 +8226,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001739",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1739/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "1996",
@@ -8239,7 +8239,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001881",
         "eliLink": "https://eli.gov.pl/eli/DU/2025/1881/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "2002",
@@ -8265,7 +8265,7 @@
         "authorType": "Senacki",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Komisje"
     },
     {
         "id": "2004",
@@ -8278,7 +8278,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Komisje"
     },
     {
         "id": "2005",
@@ -8291,7 +8291,7 @@
         "authorType": "Poselski",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000034",
         "eliLink": "https://eli.gov.pl/eli/DU/2026/34/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "2006",
@@ -8317,7 +8317,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Inicjatywa"
     },
     {
         "id": "2010",
@@ -8330,7 +8330,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Inicjatywa"
     },
     {
         "id": "2026",
@@ -8343,7 +8343,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000032",
         "eliLink": "https://eli.gov.pl/eli/DU/2026/32/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "2027",
@@ -8356,7 +8356,7 @@
         "authorType": "Rządowy",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Głosowanie"
     },
     {
         "id": "2028",
@@ -8369,7 +8369,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000035",
         "eliLink": "https://eli.gov.pl/eli/DU/2026/35/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "2029",
@@ -8379,10 +8379,10 @@
         "date": "",
         "status": "W toku",
         "documentType": "projekt ustawy",
-        "authorType": "Inny",
+        "authorType": "Komisyjny",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Komisje"
     },
     {
         "id": "2030",
@@ -8395,7 +8395,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Inicjatywa"
     },
     {
         "id": "2031",
@@ -8408,7 +8408,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Komisje"
     },
     {
         "id": "2032",
@@ -8421,7 +8421,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Komisje"
     },
     {
         "id": "2033",
@@ -8434,7 +8434,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Inicjatywa"
     },
     {
         "id": "2034",
@@ -8447,7 +8447,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Inicjatywa"
     },
     {
         "id": "2037",
@@ -8473,7 +8473,7 @@
         "authorType": "Rządowy",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Komisje"
     },
     {
         "id": "2061",
@@ -8486,7 +8486,7 @@
         "authorType": "Rządowy",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Komisje"
     },
     {
         "id": "2063",
@@ -8499,7 +8499,7 @@
         "authorType": "Senacki",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000041",
         "eliLink": "https://eli.gov.pl/eli/DU/2026/41/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "2064",
@@ -8512,7 +8512,7 @@
         "authorType": "Rządowy",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Senat - Głosowanie"
     },
     {
         "id": "2072",
@@ -8525,7 +8525,7 @@
         "authorType": "Rządowy",
         "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000036",
         "eliLink": "https://eli.gov.pl/eli/DU/2026/36/ogl",
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Prezydent"
     },
     {
         "id": "2075",
@@ -8603,7 +8603,7 @@
         "authorType": "Senacki",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Inicjatywa"
     },
     {
         "id": "2081",
@@ -8616,7 +8616,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Inicjatywa"
     },
     {
         "id": "2082",
@@ -8629,7 +8629,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Komisje"
     },
     {
         "id": "2101",
@@ -8642,7 +8642,7 @@
         "authorType": "Rządowy",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Komisje"
     },
     {
         "id": "2102",
@@ -8655,7 +8655,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Komisje"
     },
     {
         "id": "2105",
@@ -8668,7 +8668,7 @@
         "authorType": "Rządowy",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Głosowanie"
     },
     {
         "id": "2106",
@@ -8694,7 +8694,7 @@
         "authorType": "Rządowy",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Inicjatywa"
     },
     {
         "id": "2108",
@@ -8707,7 +8707,7 @@
         "authorType": "Rządowy",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Inicjatywa"
     },
     {
         "id": "2109",
@@ -8720,7 +8720,7 @@
         "authorType": "Rządowy",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Komisje"
     },
     {
         "id": "2110",
@@ -8733,7 +8733,7 @@
         "authorType": "Rządowy",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Inicjatywa"
     },
     {
         "id": "2111",
@@ -8746,7 +8746,7 @@
         "authorType": "Rządowy",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Inicjatywa"
     },
     {
         "id": "2112",
@@ -8759,7 +8759,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Głosowanie"
     },
     {
         "id": "2119",
@@ -8772,7 +8772,7 @@
         "authorType": "Rządowy",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Komisje"
     },
     {
         "id": "2120",
@@ -8785,7 +8785,7 @@
         "authorType": "Rządowy",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Komisje"
     },
     {
         "id": "2121",
@@ -8798,7 +8798,7 @@
         "authorType": "Rządowy",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Inicjatywa"
     },
     {
         "id": "2122",
@@ -8811,7 +8811,7 @@
         "authorType": "Rządowy",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Komisje"
     },
     {
         "id": "2126",
@@ -8824,7 +8824,7 @@
         "authorType": "Senacki",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Inicjatywa"
     },
     {
         "id": "2127",
@@ -8837,7 +8837,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Inicjatywa"
     },
     {
         "id": "2128",
@@ -8850,7 +8850,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Komisje"
     },
     {
         "id": "2129",
@@ -8863,7 +8863,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Inicjatywa"
     },
     {
         "id": "2130",
@@ -8876,7 +8876,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Komisje"
     },
     {
         "id": "2144",
@@ -8889,7 +8889,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Inicjatywa"
     },
     {
         "id": "2150",
@@ -8902,7 +8902,7 @@
         "authorType": "Rządowy",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Komisje"
     },
     {
         "id": "2159",
@@ -8915,7 +8915,7 @@
         "authorType": "Rządowy",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Inicjatywa"
     },
     {
         "id": "2160",
@@ -8928,7 +8928,7 @@
         "authorType": "Rządowy",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Komisje"
     },
     {
         "id": "2161",
@@ -8941,7 +8941,7 @@
         "authorType": "Rządowy",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Komisje"
     },
     {
         "id": "2162",
@@ -8954,7 +8954,7 @@
         "authorType": "Rządowy",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Komisje"
     },
     {
         "id": "2163",
@@ -8967,7 +8967,7 @@
         "authorType": "Rządowy",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Komisje"
     },
     {
         "id": "2164",
@@ -8980,7 +8980,7 @@
         "authorType": "Rządowy",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Sejm - Komisje"
     },
     {
         "id": "2165",
@@ -8993,7 +8993,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Inicjatywa"
     },
     {
         "id": "2168",
@@ -9006,6 +9006,6 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - I Czytanie"
+        "kanbanStage": "Inicjatywa"
     }
 ]

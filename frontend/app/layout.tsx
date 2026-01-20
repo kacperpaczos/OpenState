@@ -20,7 +20,7 @@ export default function RootLayout({
       <body className={inter.variable} suppressHydrationWarning>
         <div className="mesh-background" />
         <Navbar />
-        <main className="pt-20 px-6 h-screen overflow-hidden">
+        <main className="pt-20 px-6">
           {children}
         </main>
       </body>
