@@ -1,0 +1,56 @@
+{
+  "lastModified": "2025-01-08T15:06:47",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=6032",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DATBBQ",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/6032/body",
+      "rel": "body"
+    }
+  ],
+  "num": 6032,
+  "receiptDate": "2024-11-05",
+  "term": 10,
+  "title": "Interpelacja w sprawie emerytur byłych funkcjonariuszy służb mundurowych czasów PRL",
+  "answerDelayedDays": 0,
+  "from": [
+    "064"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister spraw wewnętrznych i administracji",
+      "sent": "2024-11-07"
+    }
+  ],
+  "replies": [
+    {
+      "from": "Sekretarz stanu Wiesław Szczepański",
+      "key": "DCQJKB",
+      "lastModified": "2025-01-08T15:06:47",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DCQJKB",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/6032/reply/DCQJKB/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2025-01-07"
+    }
+  ],
+  "sentDate": "2024-11-07",
+  "to": [
+    "minister spraw wewnętrznych i administracji"
+  ]
+}

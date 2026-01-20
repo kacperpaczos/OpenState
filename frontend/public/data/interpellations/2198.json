@@ -1,0 +1,71 @@
+{
+  "lastModified": "2024-04-24T15:14:49",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2198",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D3SJ2U",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2198/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2198,
+  "receiptDate": "2024-03-20",
+  "term": 10,
+  "title": "Interpelacja w sprawie egzekucji z minimalnego wynagrodzenia za pracę",
+  "answerDelayedDays": 0,
+  "from": [
+    "198"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rodziny, pracy i polityki społecznej",
+      "sent": "2024-03-28"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD4LJEK/i02198-o1.pdf",
+          "lastModified": "2024-04-23T22:00:04",
+          "name": "i02198-o1.pdf"
+        }
+      ],
+      "from": "Minister Agnieszka Dziemianowicz-Bąk",
+      "key": "D4LJEK",
+      "lastModified": "2024-04-23T22:00:04",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D4LJEK",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2198/reply/D4LJEK/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-04-22"
+    },
+    {
+      "from": "minister rodziny, pracy i polityki społecznej - Agnieszka Dziemianowicz-Bąk",
+      "lastModified": "2024-04-18T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-04-18"
+    }
+  ],
+  "sentDate": "2024-03-28",
+  "to": [
+    "minister rodziny, pracy i polityki społecznej"
+  ]
+}

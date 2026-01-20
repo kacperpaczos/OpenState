@@ -1,0 +1,71 @@
+{
+  "lastModified": "2024-09-25T22:00:19",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=4323",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D85HLK",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4323/body",
+      "rel": "body"
+    }
+  ],
+  "num": 4323,
+  "receiptDate": "2024-08-09",
+  "term": 10,
+  "title": "Interpelacja w sprawie linii kolejowej nr 33 na odcinku Kutno-Sierpc",
+  "answerDelayedDays": 0,
+  "from": [
+    "239"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister infrastruktury",
+      "sent": "2024-08-14"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD9FFSK/i04323-o1.pdf",
+          "lastModified": "2024-09-25T22:00:19",
+          "name": "i04323-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Piotr Malepszak",
+      "key": "D9FFSK",
+      "lastModified": "2024-09-25T22:00:19",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D9FFSK",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4323/reply/D9FFSK/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-09-24"
+    },
+    {
+      "from": "podsekretarz stanu w Ministerstwie Infrastruktury - Piotr Malepszak",
+      "lastModified": "2024-09-04T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-09-04"
+    }
+  ],
+  "sentDate": "2024-08-14",
+  "to": [
+    "minister infrastruktury"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "lastModified": "2024-08-26T22:00:17",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=4011",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D7HHMF",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4011/body",
+      "rel": "body"
+    }
+  ],
+  "num": 4011,
+  "receiptDate": "2024-07-23",
+  "term": 10,
+  "title": "Interpelacja w sprawie oceny i weryfikacji wniosków w ramach KPOiZO - tzw. małe przetwórstwo",
+  "answerDelayedDays": 0,
+  "from": [
+    "118"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rolnictwa i rozwoju wsi",
+      "sent": "2024-07-25"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD8HHX8/i04011-o1.pdf",
+          "lastModified": "2024-08-26T22:00:17",
+          "name": "i04011-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Adam Nowak",
+      "key": "D8HHX8",
+      "lastModified": "2024-08-26T22:00:17",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D8HHX8",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4011/reply/D8HHX8/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-08-23"
+    },
+    {
+      "from": "podsekretarz stanu w Ministerstwie Rolnictwa i Rozwoju Wsi - Adam Nowak",
+      "lastModified": "2024-08-16T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-08-16"
+    }
+  ],
+  "sentDate": "2024-07-25",
+  "to": [
+    "minister rolnictwa i rozwoju wsi"
+  ]
+}

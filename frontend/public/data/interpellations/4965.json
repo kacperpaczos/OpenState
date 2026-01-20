@@ -1,0 +1,71 @@
+{
+  "lastModified": "2024-11-20T22:00:11",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=4965",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D9W9BM",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4965/body",
+      "rel": "body"
+    }
+  ],
+  "num": 4965,
+  "receiptDate": "2024-09-21",
+  "term": 10,
+  "title": "Interpelacja w sprawie delegacji krajowych i zagranicznych pracowników oraz dyrekcji Ministerstwa Aktywów Państwowych, jednostek podległych lub nadzorowanych",
+  "answerDelayedDays": 0,
+  "from": [
+    "311"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister aktywów państwowych",
+      "sent": "2024-10-10"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDB7G4K/i04965-o1.pdf",
+          "lastModified": "2024-11-20T22:00:11",
+          "name": "i04965-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Robert Kropiwnicki",
+      "key": "DB7G4K",
+      "lastModified": "2024-11-20T22:00:11",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DB7G4K",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4965/reply/DB7G4K/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-11-18"
+    },
+    {
+      "from": "minister aktywów państwowych - Jakub Jaworowski",
+      "lastModified": "2024-10-31T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-10-31"
+    }
+  ],
+  "sentDate": "2024-10-10",
+  "to": [
+    "minister aktywów państwowych"
+  ]
+}

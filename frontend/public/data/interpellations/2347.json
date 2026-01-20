@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-04-22T15:47:24",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2347",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D3SJ85",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2347/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2347,
+  "receiptDate": "2024-03-22",
+  "term": 10,
+  "title": "Interpelacja w sprawie likwidacji szlaku przemytników przechodzących z Bliskiego Wschodu przez Białoruś do Polski i dalej do Unii Europejskiej",
+  "answerDelayedDays": 0,
+  "from": [
+    "146",
+    "150",
+    "154",
+    "202",
+    "224",
+    "234",
+    "311",
+    "404"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister spraw wewnętrznych i administracji",
+      "sent": "2024-03-28"
+    }
+  ],
+  "replies": [
+    {
+      "from": "Sekretarz stanu Czesław Mroczek",
+      "key": "D4KJ7N",
+      "lastModified": "2024-04-22T15:47:24",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D4KJ7N",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2347/reply/D4KJ7N/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-04-22"
+    }
+  ],
+  "sentDate": "2024-03-28",
+  "to": [
+    "minister spraw wewnętrznych i administracji"
+  ]
+}

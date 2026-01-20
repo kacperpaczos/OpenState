@@ -1,0 +1,56 @@
+{
+  "lastModified": "2024-12-24T11:44:09",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5097",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D9W9C9",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5097/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5097,
+  "receiptDate": "2024-09-27",
+  "term": 10,
+  "title": "Interpelacja w sprawie wsparcia psychologicznego w szkołach w woj. kujawsko-pomorskim",
+  "answerDelayedDays": 0,
+  "from": [
+    "481"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister edukacji",
+      "sent": "2024-10-10"
+    }
+  ],
+  "replies": [
+    {
+      "from": "Podsekretarz stanu Izabela Ziętka",
+      "key": "DC9ELP",
+      "lastModified": "2024-12-24T11:44:09",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DC9ELP",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5097/reply/DC9ELP/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-11-13"
+    }
+  ],
+  "sentDate": "2024-10-10",
+  "to": [
+    "minister edukacji"
+  ]
+}

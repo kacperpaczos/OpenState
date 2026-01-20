@@ -1,0 +1,71 @@
+{
+  "lastModified": "2024-02-15T22:00:10",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=769",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CZDATP",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/769/body",
+      "rel": "body"
+    }
+  ],
+  "num": 769,
+  "receiptDate": "2024-01-08",
+  "term": 10,
+  "title": "Interpelacja w sprawie podwykonawców branży budowlanej",
+  "answerDelayedDays": 0,
+  "from": [
+    "209"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister infrastruktury",
+      "sent": "2024-01-11"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD2GJWZ/i00769-o1.pdf",
+          "lastModified": "2024-02-15T22:00:10",
+          "name": "i00769-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Paweł Gancarz",
+      "key": "D2GJWZ",
+      "lastModified": "2024-02-15T22:00:10",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D2GJWZ",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/769/reply/D2GJWZ/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-02-14"
+    },
+    {
+      "from": "podsekretarz stanu w Ministerstwie Infrastruktury - Paweł Gancarz",
+      "lastModified": "2024-02-01T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-02-01"
+    }
+  ],
+  "sentDate": "2024-01-11",
+  "to": [
+    "minister infrastruktury"
+  ]
+}

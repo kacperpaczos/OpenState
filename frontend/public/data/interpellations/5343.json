@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-10-29T22:00:11",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5343",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DA2BYR",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5343/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5343,
+  "receiptDate": "2024-10-09",
+  "term": 10,
+  "title": "Interpelacja w sprawie pełnego dostępu do leczenia, diagnostyki i poradnictwa HIV także dla osób nieposiadających ubezpieczenia zdrowotnego",
+  "answerDelayedDays": 0,
+  "from": [
+    "277"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister zdrowia",
+      "sent": "2024-10-14"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDAHK2N/i05343-o1.pdf",
+          "lastModified": "2024-10-29T22:00:11",
+          "name": "i05343-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Wojciech Konieczny",
+      "key": "DAHK2N",
+      "lastModified": "2024-10-29T22:00:11",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAHK2N",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5343/reply/DAHK2N/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-10-25"
+    }
+  ],
+  "sentDate": "2024-10-14",
+  "to": [
+    "minister zdrowia"
+  ]
+}

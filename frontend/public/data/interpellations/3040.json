@@ -1,0 +1,102 @@
+{
+  "lastModified": "2024-07-17T22:00:51",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=3040",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D65ARA",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3040/body",
+      "rel": "body"
+    }
+  ],
+  "num": 3040,
+  "receiptDate": "2024-06-02",
+  "term": 10,
+  "title": "Interpelacja w sprawie rozwoju cyfrowego państwa",
+  "answerDelayedDays": 0,
+  "from": [
+    "243"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rozwoju i technologii",
+      "sent": "2024-06-11"
+    },
+    {
+      "answerDelayedDays": 0,
+      "name": "minister cyfryzacji",
+      "sent": "2024-06-11"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD78J5K/i03040-o1.pdf",
+          "lastModified": "2024-07-16T15:46:18",
+          "name": "i03040-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Dariusz Standerski",
+      "key": "D78J5K",
+      "lastModified": "2024-07-16T15:46:26",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D78J5K",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3040/reply/D78J5K/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-07-15"
+    },
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD79HLA/i03040-o2.pdf",
+          "lastModified": "2024-07-17T22:00:51",
+          "name": "i03040-o2.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Ignacy Niemczycki",
+      "key": "D79HLA",
+      "lastModified": "2024-07-17T22:00:51",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D79HLA",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3040/reply/D79HLA/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-07-15"
+    },
+    {
+      "from": "sekretarz stanu w Ministerstwie Rozwoju i Technologii - Waldemar Sługocki",
+      "lastModified": "2024-06-27T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-06-27"
+    }
+  ],
+  "sentDate": "2024-06-11",
+  "to": [
+    "minister cyfryzacji",
+    "minister rozwoju i technologii"
+  ]
+}

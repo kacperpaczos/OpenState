@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-12-16T22:00:27",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5691",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAJAR6",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5691/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5691,
+  "receiptDate": "2024-10-21",
+  "term": 10,
+  "title": "Interpelacja w sprawie zagrożenia dla rozwoju terminala kontenerowego w Świnoujściu i przyszłości żeglugi śródlądowej na Odrze",
+  "answerDelayedDays": 0,
+  "from": [
+    "234"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister infrastruktury",
+      "sent": "2024-10-29"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDBZJTS/i05691-o1.pdf",
+          "lastModified": "2024-12-16T22:00:27",
+          "name": "i05691-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Arkadiusz Marchewka",
+      "key": "DBZJTS",
+      "lastModified": "2024-12-16T22:00:27",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DBZJTS",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5691/reply/DBZJTS/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-12-12"
+    }
+  ],
+  "sentDate": "2024-10-29",
+  "to": [
+    "minister infrastruktury"
+  ]
+}

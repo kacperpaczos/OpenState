@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-08-05T22:00:24",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=3869",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D78EA6",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3869/body",
+      "rel": "body"
+    }
+  ],
+  "num": 3869,
+  "receiptDate": "2024-07-12",
+  "term": 10,
+  "title": "Interpelacja w sprawie przeszkody lotniczej w pobliżu lotniska w Piastowie, woj. mazowieckie",
+  "answerDelayedDays": 0,
+  "from": [
+    "083"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister infrastruktury",
+      "sent": "2024-07-16"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD7UHX7/i03869-o1.pdf",
+          "lastModified": "2024-08-05T22:00:24",
+          "name": "i03869-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Maciej Lasek",
+      "key": "D7UHX7",
+      "lastModified": "2024-08-05T22:00:24",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D7UHX7",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3869/reply/D7UHX7/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-08-01"
+    }
+  ],
+  "sentDate": "2024-07-16",
+  "to": [
+    "minister infrastruktury"
+  ]
+}

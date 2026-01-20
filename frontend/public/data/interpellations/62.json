@@ -1,0 +1,129 @@
+{
+  "lastModified": "2024-03-28T22:00:46",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=62",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CYEKQD",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/62/body",
+      "rel": "body"
+    }
+  ],
+  "num": 62,
+  "receiptDate": "2023-11-27",
+  "term": 10,
+  "title": "Interpelacja w sprawie zobowiązywania gmin do zakupu we własnym zakresie kart kryptograficznych niezbędnych do wykonywania zadań zleconych w Systemie Rejestrów Państwowych",
+  "answerDelayedDays": 0,
+  "from": [
+    "277"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rozwoju i technologii",
+      "sent": "2023-12-13"
+    },
+    {
+      "answerDelayedDays": 0,
+      "name": "minister cyfryzacji",
+      "sent": "2024-02-14"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTCZSJQ5/i00062-o1.pdf",
+          "lastModified": "2024-01-24T22:00:58",
+          "name": "i00062-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Michał Gramatyka",
+      "key": "CZSJQ5",
+      "lastModified": "2024-01-24T22:00:58",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CZSJQ5",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/62/reply/CZSJQ5/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-01-23"
+    }
+  ],
+  "sentDate": "2024-02-14",
+  "to": [
+    "minister cyfryzacji",
+    "minister rozwoju i technologii"
+  ],
+  "repeatedInterpellation": [
+    {
+      "lastModified": "2024-03-28T22:00:46",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=62",
+          "rel": "web-description"
+        },
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D2FC2D",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/62p/body",
+          "rel": "body"
+        }
+      ],
+      "num": 62,
+      "receiptDate": "2024-02-09",
+      "term": 10,
+      "title": "Interpelacja w sprawie zobowiązywania gmin do zakupu we własnym zakresie kart kryptograficznych niezbędnych do wykonywania zadań zleconych w Systemie Rejestrów Państwowych",
+      "answerDelayedDays": 0,
+      "from": [
+        "277"
+      ],
+      "recipientDetails": [],
+      "replies": [
+        {
+          "attachments": [
+            {
+              "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD3SHWR/i00062-o2.pdf",
+              "lastModified": "2024-03-28T22:00:46",
+              "name": "i00062-o2.pdf"
+            }
+          ],
+          "from": "Sekretarz stanu Michał Gramatyka",
+          "key": "D3SHWR",
+          "lastModified": "2024-03-28T22:00:46",
+          "links": [
+            {
+              "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D3SHWR",
+              "rel": "web-body"
+            },
+            {
+              "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/62p/reply/D3SHWR/body",
+              "rel": "body"
+            }
+          ],
+          "onlyAttachment": true,
+          "prolongation": false,
+          "receiptDate": "2024-03-26"
+        }
+      ],
+      "sentDate": "2024-02-13",
+      "to": [
+        "minister cyfryzacji",
+        "minister rozwoju i technologii"
+      ]
+    }
+  ]
+}

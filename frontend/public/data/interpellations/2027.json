@@ -1,0 +1,66 @@
+{
+  "lastModified": "2024-04-08T22:00:28",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2027",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D3KFAP",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2027/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2027,
+  "receiptDate": "2024-03-13",
+  "term": 10,
+  "title": "Interpelacja w sprawie nowych podatków od aut spalinowych",
+  "answerDelayedDays": 0,
+  "from": [
+    "032",
+    "254",
+    "397",
+    "399"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister klimatu i środowiska",
+      "sent": "2024-03-21"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD45HLN/i02027-o1.pdf",
+          "lastModified": "2024-04-08T22:00:28",
+          "name": "i02027-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Krzysztof Bolesta",
+      "key": "D45HLN",
+      "lastModified": "2024-04-08T22:00:28",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D45HLN",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2027/reply/D45HLN/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-04-05"
+    }
+  ],
+  "sentDate": "2024-03-21",
+  "to": [
+    "minister klimatu i środowiska"
+  ]
+}

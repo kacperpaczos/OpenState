@@ -1,0 +1,56 @@
+{
+  "lastModified": "2024-01-26T15:55:17",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=544",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CZDALN",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/544/body",
+      "rel": "body"
+    }
+  ],
+  "num": 544,
+  "receiptDate": "2024-01-04",
+  "term": 10,
+  "title": "Interpelacja w sprawie zabezpieczenia budżetu na obronę cywilną",
+  "answerDelayedDays": 0,
+  "from": [
+    "417"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister spraw wewnętrznych i administracji",
+      "sent": "2024-01-11"
+    }
+  ],
+  "replies": [
+    {
+      "from": "Podsekretarz stanu Wiesław Leśniakiewicz",
+      "key": "CZUKHV",
+      "lastModified": "2024-01-26T15:55:17",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CZUKHV",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/544/reply/CZUKHV/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-01-25"
+    }
+  ],
+  "sentDate": "2024-01-11",
+  "to": [
+    "minister spraw wewnętrznych i administracji"
+  ]
+}

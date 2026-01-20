@@ -1,0 +1,68 @@
+{
+  "lastModified": "2024-11-22T22:00:07",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5836",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAJAVH",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5836/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5836,
+  "receiptDate": "2024-10-28",
+  "term": 10,
+  "title": "Interpelacja w sprawie środków finansowych z Rządowego Funduszu Polski Ład: Program Inwestycji Strategicznych dla gminy Busko-Zdrój",
+  "answerDelayedDays": 0,
+  "from": [
+    "052"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister finansów",
+      "sent": "2024-10-31"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDB9GFT/i05836-o1_1.pdf",
+          "lastModified": "2024-11-22T22:00:07",
+          "name": "i05836-o1_1.pdf"
+        },
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDB9GFT/i05836-o1_2.pdf",
+          "lastModified": "2024-11-22T22:00:07",
+          "name": "i05836-o1_2.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Hanna Majszczyk",
+      "key": "DB9GFT",
+      "lastModified": "2024-11-22T22:00:07",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DB9GFT",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5836/reply/DB9GFT/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-11-21"
+    }
+  ],
+  "sentDate": "2024-10-31",
+  "to": [
+    "minister finansów"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-11-29T22:00:48",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=6027",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DATBBK",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/6027/body",
+      "rel": "body"
+    }
+  ],
+  "num": 6027,
+  "receiptDate": "2024-11-05",
+  "term": 10,
+  "title": "Interpelacja w sprawie bonu terapeutycznego",
+  "answerDelayedDays": 0,
+  "from": [
+    "078"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rodziny, pracy i polityki społecznej",
+      "sent": "2024-11-07"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDBGKC7/i06027-o1.pdf",
+          "lastModified": "2024-11-29T22:00:48",
+          "name": "i06027-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Łukasz Krasoń",
+      "key": "DBGKC7",
+      "lastModified": "2024-11-29T22:00:48",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DBGKC7",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/6027/reply/DBGKC7/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-11-28"
+    }
+  ],
+  "sentDate": "2024-11-07",
+  "to": [
+    "minister rodziny, pracy i polityki społecznej"
+  ]
+}

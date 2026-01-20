@@ -1,0 +1,66 @@
+{
+  "lastModified": "2024-10-25T22:00:22",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5159",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DA2BXW",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5159/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5159,
+  "receiptDate": "2024-09-30",
+  "term": 10,
+  "title": "Interpelacja w sprawie inicjatywy ustawodawczej w zakresie nowelizacji ustawy o ochronie zwierząt",
+  "answerDelayedDays": 0,
+  "from": [
+    "169",
+    "259",
+    "308",
+    "372"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rolnictwa i rozwoju wsi",
+      "sent": "2024-10-14"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDADJ9G/i05159-o1.pdf",
+          "lastModified": "2024-10-25T22:00:22",
+          "name": "i05159-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Jacek Czerniak",
+      "key": "DADJ9G",
+      "lastModified": "2024-10-25T22:00:22",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DADJ9G",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5159/reply/DADJ9G/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-10-24"
+    }
+  ],
+  "sentDate": "2024-10-14",
+  "to": [
+    "minister rolnictwa i rozwoju wsi"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-04-04T22:01:04",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=1877",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D3DKKC",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1877/body",
+      "rel": "body"
+    }
+  ],
+  "num": 1877,
+  "receiptDate": "2024-03-04",
+  "term": 10,
+  "title": "Interpelacja w sprawie jakości, pochodzenia, znakowania produktów oraz marż na produkty w hiper oraz supermarketach na terenie Polski",
+  "answerDelayedDays": 0,
+  "from": [
+    "316"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rolnictwa i rozwoju wsi",
+      "sent": "2024-03-19"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD3ZHH2/i01877-o1.pdf",
+          "lastModified": "2024-04-04T22:01:04",
+          "name": "i01877-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Stefan Krajewski",
+      "key": "D3ZHH2",
+      "lastModified": "2024-04-04T22:01:04",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D3ZHH2",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1877/reply/D3ZHH2/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-04-03"
+    }
+  ],
+  "sentDate": "2024-03-19",
+  "to": [
+    "minister rolnictwa i rozwoju wsi"
+  ]
+}

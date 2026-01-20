@@ -1,0 +1,56 @@
+{
+  "lastModified": "2025-01-31T15:35:10",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=6001",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DATBAR",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/6001/body",
+      "rel": "body"
+    }
+  ],
+  "num": 6001,
+  "receiptDate": "2024-11-04",
+  "term": 10,
+  "title": "Interpelacja w sprawie procedur bezpieczeństwa w związku z incydentem z granatnikiem w gabinecie Komendanta Głównego Policji",
+  "answerDelayedDays": 0,
+  "from": [
+    "481"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister spraw wewnętrznych i administracji",
+      "sent": "2024-11-07"
+    }
+  ],
+  "replies": [
+    {
+      "from": "Sekretarz stanu Czesław Mroczek",
+      "key": "DDFK27",
+      "lastModified": "2025-01-31T15:35:10",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DDFK27",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/6001/reply/DDFK27/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2025-01-30"
+    }
+  ],
+  "sentDate": "2024-11-07",
+  "to": [
+    "minister spraw wewnętrznych i administracji"
+  ]
+}

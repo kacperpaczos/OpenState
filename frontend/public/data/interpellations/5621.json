@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-11-18T22:00:08",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5621",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAJB3U",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5621/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5621,
+  "receiptDate": "2024-10-18",
+  "term": 10,
+  "title": "Interpelacja w sprawie odzyskiwania strat wojennych z Niemiec",
+  "answerDelayedDays": 0,
+  "from": [
+    "100"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister kultury i dziedzictwa narodowego",
+      "sent": "2024-10-29"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDB5JWY/i05621-o1.pdf",
+          "lastModified": "2024-11-18T22:00:08",
+          "name": "i05621-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Andrzej Wyrobiec",
+      "key": "DB5JWY",
+      "lastModified": "2024-11-18T22:00:08",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DB5JWY",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5621/reply/DB5JWY/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-11-15"
+    }
+  ],
+  "sentDate": "2024-10-29",
+  "to": [
+    "minister kultury i dziedzictwa narodowego"
+  ]
+}

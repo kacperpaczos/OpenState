@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-12-09T22:00:07",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=4706",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D93FDE",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4706/body",
+      "rel": "body"
+    }
+  ],
+  "num": 4706,
+  "receiptDate": "2024-09-10",
+  "term": 10,
+  "title": "Interpelacja w sprawie budowy odcinka drogi ekspresowej S19 od Czarnej Białostockiej do węzła Białystok Północ (na DK8)",
+  "answerDelayedDays": 0,
+  "from": [
+    "396"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister infrastruktury",
+      "sent": "2024-09-13"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDBSJRM/i04706-o1.pdf",
+          "lastModified": "2024-12-09T22:00:07",
+          "name": "i04706-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Stanisław Bukowiec",
+      "key": "DBSJRM",
+      "lastModified": "2024-12-09T22:00:07",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DBSJRM",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4706/reply/DBSJRM/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-12-06"
+    }
+  ],
+  "sentDate": "2024-09-13",
+  "to": [
+    "minister infrastruktury"
+  ]
+}

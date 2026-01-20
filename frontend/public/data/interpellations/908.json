@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-02-19T22:00:33",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=908",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CZYFM2",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/908/body",
+      "rel": "body"
+    }
+  ],
+  "num": 908,
+  "receiptDate": "2024-01-15",
+  "term": 10,
+  "title": "Interpelacja w sprawie interpretacji przepisów dotyczących sposobu obliczania poziomów przygotowania do ponownego użycia i recyklingu odpadów komunalnych w zakresie bioodpadów stanowiących odpady komunalne zebranych w sposób selektywny",
+  "answerDelayedDays": 0,
+  "from": [
+    "347"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister klimatu i środowiska",
+      "sent": "2024-01-30"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD2LJN2/i00908-o1.pdf",
+          "lastModified": "2024-02-19T22:00:33",
+          "name": "i00908-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Anita Sowińska",
+      "key": "D2LJN2",
+      "lastModified": "2024-02-19T22:00:33",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D2LJN2",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/908/reply/D2LJN2/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-02-16"
+    }
+  ],
+  "sentDate": "2024-01-30",
+  "to": [
+    "minister klimatu i środowiska"
+  ]
+}

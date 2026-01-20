@@ -1,0 +1,56 @@
+{
+  "lastModified": "2024-09-06T15:02:29",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=4338",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D8DDCA",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4338/body",
+      "rel": "body"
+    }
+  ],
+  "num": 4338,
+  "receiptDate": "2024-08-13",
+  "term": 10,
+  "title": "Interpelacja w sprawie Sieci Badawczej Łukasiewicz",
+  "answerDelayedDays": 0,
+  "from": [
+    "239"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister nauki",
+      "sent": "2024-08-22"
+    }
+  ],
+  "replies": [
+    {
+      "from": "Podsekretarz stanu Maria Mrówczyńska",
+      "key": "D8UHBE",
+      "lastModified": "2024-09-06T15:02:29",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D8UHBE",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4338/reply/D8UHBE/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-09-05"
+    }
+  ],
+  "sentDate": "2024-08-22",
+  "to": [
+    "minister nauki"
+  ]
+}

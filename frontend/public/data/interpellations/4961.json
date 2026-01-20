@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-10-17T22:00:25",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=4961",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D9FFZF",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4961/body",
+      "rel": "body"
+    }
+  ],
+  "num": 4961,
+  "receiptDate": "2024-09-20",
+  "term": 10,
+  "title": "Interpelacja w sprawie wykorzystania funduszy unijnych na odbudowę terenów dotkniętych powodzią oraz konsekwencji przesunięcia środków z Funduszu Spójności",
+  "answerDelayedDays": 0,
+  "from": [
+    "234"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister funduszy i polityki regionalnej",
+      "sent": "2024-09-25"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDA5JGB/i04961-o1.pdf",
+          "lastModified": "2024-10-17T22:00:25",
+          "name": "i04961-o1.pdf"
+        }
+      ],
+      "from": "Minister Katarzyna Pełczyńska-Nałęcz",
+      "key": "DA5JGB",
+      "lastModified": "2024-10-17T22:00:25",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DA5JGB",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4961/reply/DA5JGB/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-10-15"
+    }
+  ],
+  "sentDate": "2024-09-25",
+  "to": [
+    "minister funduszy i polityki regionalnej"
+  ]
+}

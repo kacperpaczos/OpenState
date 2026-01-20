@@ -1,0 +1,70 @@
+{
+  "lastModified": "2024-12-06T22:00:26",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5456",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAQCMQ",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5456/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5456,
+  "receiptDate": "2024-10-14",
+  "term": 10,
+  "title": "Interpelacja w sprawie dostępności obligacji Skarbu Państwa dla obywateli polskich będących rezydentami podatkowymi innych krajów UE",
+  "answerDelayedDays": 0,
+  "from": [
+    "049",
+    "060",
+    "161",
+    "233",
+    "481",
+    "334",
+    "352",
+    "403"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister finansów",
+      "sent": "2024-11-21"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDBPJJR/i05456-o1.pdf",
+          "lastModified": "2024-12-06T22:00:26",
+          "name": "i05456-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Jurand Drop",
+      "key": "DBPJJR",
+      "lastModified": "2024-12-06T22:00:26",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DBPJJR",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5456/reply/DBPJJR/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-12-05"
+    }
+  ],
+  "sentDate": "2024-11-21",
+  "to": [
+    "minister finansów"
+  ]
+}

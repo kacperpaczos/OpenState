@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-02-19T22:00:33",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=1197",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CZYFVW",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1197/body",
+      "rel": "body"
+    }
+  ],
+  "num": 1197,
+  "receiptDate": "2024-01-26",
+  "term": 10,
+  "title": "Interpelacja w sprawie modernizacji linii energetycznych na terenach inwestycyjnych, gdzie planowana jest budowa farm fotowoltaicznych",
+  "answerDelayedDays": 0,
+  "from": [
+    "389"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister klimatu i środowiska",
+      "sent": "2024-01-30"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD2LJNN/i01197-o1.pdf",
+          "lastModified": "2024-02-19T22:00:33",
+          "name": "i01197-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Miłosz Motyka",
+      "key": "D2LJNN",
+      "lastModified": "2024-02-19T22:00:33",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D2LJNN",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1197/reply/D2LJNN/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-02-15"
+    }
+  ],
+  "sentDate": "2024-01-30",
+  "to": [
+    "minister klimatu i środowiska"
+  ]
+}

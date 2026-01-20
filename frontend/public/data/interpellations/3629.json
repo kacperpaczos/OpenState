@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-08-14T22:00:39",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=3629",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D73F9W",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3629/body",
+      "rel": "body"
+    }
+  ],
+  "num": 3629,
+  "receiptDate": "2024-07-02",
+  "term": 10,
+  "title": "Interpelacja w sprawie sprecyzowania zapisów projektu ustawy - Prawo komunikacji elektronicznej oraz ustawy wprowadzającej te przepisy",
+  "answerDelayedDays": 0,
+  "from": [
+    "410"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister cyfryzacji",
+      "sent": "2024-07-11"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD85HJE/i03629-o1.pdf",
+          "lastModified": "2024-08-14T22:00:39",
+          "name": "i03629-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Michał Gramatyka",
+      "key": "D85HJE",
+      "lastModified": "2024-08-14T22:00:39",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D85HJE",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3629/reply/D85HJE/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-08-13"
+    }
+  ],
+  "sentDate": "2024-07-11",
+  "to": [
+    "minister cyfryzacji"
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "lastModified": "2024-10-28T22:00:11",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5333",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DA2BYF",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5333/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5333,
+  "receiptDate": "2024-10-09",
+  "term": 10,
+  "title": "Interpelacja w sprawie wysokości środków z rządowego Programu Inwestycji Strategicznych, jakie pozyskał pow. miński",
+  "answerDelayedDays": 0,
+  "from": [
+    "167"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister finansów",
+      "sent": "2024-10-14"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDAGKK3/i05333-o1_1.pdf",
+          "lastModified": "2024-10-28T22:00:11",
+          "name": "i05333-o1_1.pdf"
+        },
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDAGKK3/i05333-o1_2.pdf",
+          "lastModified": "2024-10-28T22:00:11",
+          "name": "i05333-o1_2.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Hanna Majszczyk",
+      "key": "DAGKK3",
+      "lastModified": "2024-10-28T22:00:11",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAGKK3",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5333/reply/DAGKK3/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-10-25"
+    }
+  ],
+  "sentDate": "2024-10-14",
+  "to": [
+    "minister finansów"
+  ]
+}

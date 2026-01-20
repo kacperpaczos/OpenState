@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-09-24T22:00:16",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=4452",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D8JBQQ",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4452/body",
+      "rel": "body"
+    }
+  ],
+  "num": 4452,
+  "receiptDate": "2024-08-23",
+  "term": 10,
+  "title": "Interpelacja w sprawie alarmującego stanu bezpieczeństwa danych osobowych w sektorze małych i średnich przedsiębiorstw w Polsce",
+  "answerDelayedDays": 0,
+  "from": [
+    "410"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister cyfryzacji",
+      "sent": "2024-08-27"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD9EJ8E/i04452-o1.pdf",
+          "lastModified": "2024-09-24T22:00:16",
+          "name": "i04452-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Paweł Olszewski",
+      "key": "D9EJ8E",
+      "lastModified": "2024-09-24T22:00:16",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D9EJ8E",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4452/reply/D9EJ8E/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-09-23"
+    }
+  ],
+  "sentDate": "2024-08-27",
+  "to": [
+    "minister cyfryzacji"
+  ]
+}

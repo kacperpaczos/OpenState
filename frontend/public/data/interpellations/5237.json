@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-11-04T15:26:44",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5237",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D9W8ZX",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5237/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5237,
+  "receiptDate": "2024-10-02",
+  "term": 10,
+  "title": "Interpelacja w sprawie należytej klasyfikacji przychodu z tzw. donejtów do źródła przychodów",
+  "answerDelayedDays": 0,
+  "from": [
+    "241"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister finansów",
+      "sent": "2024-10-10"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDAPJVR/i05237-o1.pdf",
+          "lastModified": "2024-11-04T15:26:06",
+          "name": "i05237-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Jarosław Neneman",
+      "key": "DAPJVR",
+      "lastModified": "2024-11-04T15:26:44",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAPJVR",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5237/reply/DAPJVR/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-10-31"
+    }
+  ],
+  "sentDate": "2024-10-10",
+  "to": [
+    "minister finansów"
+  ]
+}

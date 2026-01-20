@@ -1,0 +1,71 @@
+{
+  "lastModified": "2024-07-15T22:00:51",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=3028",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D65AQW",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3028/body",
+      "rel": "body"
+    }
+  ],
+  "num": 3028,
+  "receiptDate": "2024-06-02",
+  "term": 10,
+  "title": "Interpelacja w sprawie interwencji państwa względem rolnictwa i przetwórstwa rolno-spożywczego",
+  "answerDelayedDays": 0,
+  "from": [
+    "243"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rolnictwa i rozwoju wsi",
+      "sent": "2024-06-11"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD77JBR/i03028-o1.pdf",
+          "lastModified": "2024-07-15T22:00:51",
+          "name": "i03028-o1.pdf"
+        }
+      ],
+      "from": "Minister Czesław Siekierski",
+      "key": "D77JBR",
+      "lastModified": "2024-07-15T22:00:51",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D77JBR",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3028/reply/D77JBR/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-07-11"
+    },
+    {
+      "from": "sekretarz stanu w Ministerstwie Rolnictwa i Rozwoju Wsi - Michał Kołodziejczak",
+      "lastModified": "2024-06-28T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-06-28"
+    }
+  ],
+  "sentDate": "2024-06-11",
+  "to": [
+    "minister rolnictwa i rozwoju wsi"
+  ]
+}

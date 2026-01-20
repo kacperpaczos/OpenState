@@ -1,0 +1,122 @@
+{
+  "lastModified": "2024-06-10T22:00:17",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=1383",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D2FC3B",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1383/body",
+      "rel": "body"
+    }
+  ],
+  "num": 1383,
+  "receiptDate": "2024-02-07",
+  "term": 10,
+  "title": "Interpelacja w sprawie zawiadomień do prokuratury o podejrzeniu popełnienia przestępstwa złożonych przez MSiT w latach 2017-2023",
+  "answerDelayedDays": 0,
+  "from": [
+    "260"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister sportu i turystyki",
+      "sent": "2024-02-13"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD3GKG4/i01383-o1.pdf",
+          "lastModified": "2024-03-18T22:00:02",
+          "name": "i01383-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Piotr Borys",
+      "key": "D3GKG4",
+      "lastModified": "2024-03-18T22:00:02",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D3GKG4",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1383/reply/D3GKG4/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-03-14"
+    }
+  ],
+  "sentDate": "2024-04-25",
+  "to": [
+    "minister sportu i turystyki"
+  ],
+  "repeatedInterpellation": [
+    {
+      "lastModified": "2024-06-10T22:00:17",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=1383",
+          "rel": "web-description"
+        },
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D4N97W",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1383p/body",
+          "rel": "body"
+        }
+      ],
+      "num": 1383,
+      "receiptDate": "2024-04-07",
+      "term": 10,
+      "title": "Interpelacja w sprawie zawiadomień do prokuratury o podejrzeniu popełnienia przestępstwa złożonych przez MSiT w latach 2017-2023",
+      "answerDelayedDays": 0,
+      "from": [
+        "260"
+      ],
+      "recipientDetails": [],
+      "replies": [
+        {
+          "attachments": [
+            {
+              "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD64HYD/i01383-o2.pdf",
+              "lastModified": "2024-06-10T22:00:17",
+              "name": "i01383-o2.pdf"
+            }
+          ],
+          "from": "Sekretarz stanu Piotr Borys",
+          "key": "D64HYD",
+          "lastModified": "2024-06-10T22:00:17",
+          "links": [
+            {
+              "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D64HYD",
+              "rel": "web-body"
+            },
+            {
+              "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1383p/reply/D64HYD/body",
+              "rel": "body"
+            }
+          ],
+          "onlyAttachment": true,
+          "prolongation": false,
+          "receiptDate": "2024-06-06"
+        }
+      ],
+      "sentDate": "2024-04-24",
+      "to": [
+        "minister sportu i turystyki"
+      ]
+    }
+  ]
+}

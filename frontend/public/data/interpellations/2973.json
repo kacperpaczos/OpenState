@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-07-09T22:00:50",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2973",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D65AP8",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2973/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2973,
+  "receiptDate": "2024-05-24",
+  "term": 10,
+  "title": "Interpelacja w sprawie braku możliwości odsunięcia od przeprowadzania egzaminów na prawo jazdy egzaminatorów, którzy nie dają rękojmi należytego wykonywania obowiązków",
+  "answerDelayedDays": 0,
+  "from": [
+    "078"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister infrastruktury",
+      "sent": "2024-06-11"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD6ZHPK/i02973-o1.pdf",
+          "lastModified": "2024-07-09T22:00:50",
+          "name": "i02973-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Piotr Malepszak",
+      "key": "D6ZHPK",
+      "lastModified": "2024-07-09T22:00:50",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D6ZHPK",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2973/reply/D6ZHPK/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-07-07"
+    }
+  ],
+  "sentDate": "2024-06-11",
+  "to": [
+    "minister infrastruktury"
+  ]
+}

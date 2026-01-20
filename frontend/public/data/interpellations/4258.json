@@ -1,0 +1,56 @@
+{
+  "lastModified": "2024-09-04T15:35:49",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=4258",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D84GST",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4258/body",
+      "rel": "body"
+    }
+  ],
+  "num": 4258,
+  "receiptDate": "2024-08-05",
+  "term": 10,
+  "title": "Interpelacja w sprawie emerytur stażowych dla nauczycieli",
+  "answerDelayedDays": 0,
+  "from": [
+    "145"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister edukacji",
+      "sent": "2024-08-13"
+    }
+  ],
+  "replies": [
+    {
+      "from": "Sekretarz stanu Henryk Kiepura",
+      "key": "D8SHY2",
+      "lastModified": "2024-09-04T15:35:49",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D8SHY2",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4258/reply/D8SHY2/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-08-30"
+    }
+  ],
+  "sentDate": "2024-08-13",
+  "to": [
+    "minister edukacji"
+  ]
+}

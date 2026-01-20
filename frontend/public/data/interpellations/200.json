@@ -1,0 +1,71 @@
+{
+  "lastModified": "2024-02-21T22:00:32",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=200",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CYNKFU",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/200/body",
+      "rel": "body"
+    }
+  ],
+  "num": 200,
+  "receiptDate": "2023-12-05",
+  "term": 10,
+  "title": "Interpelacja w sprawie wprowadzenia zakazu polowań w związku z przypadkami kłusownictwa oraz krytyczną oceną UE co do wpływu myślistwa na współczesną przyrodę i ochronę środowiska",
+  "answerDelayedDays": 0,
+  "from": [
+    "138"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister klimatu i środowiska",
+      "sent": "2023-12-19"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD2NGPE/i00200-o1.pdf",
+          "lastModified": "2024-02-21T22:00:32",
+          "name": "i00200-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Mikołaj Dorożała",
+      "key": "D2NGPE",
+      "lastModified": "2024-02-21T22:00:32",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D2NGPE",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/200/reply/D2NGPE/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-02-20"
+    },
+    {
+      "from": "podsekretarz stanu w Ministerstwie Klimatu i Środowiska - Mikołaj Dorożała",
+      "lastModified": "2023-12-29T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2023-12-29"
+    }
+  ],
+  "sentDate": "2023-12-19",
+  "to": [
+    "minister klimatu i środowiska"
+  ]
+}

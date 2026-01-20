@@ -1,0 +1,69 @@
+{
+  "lastModified": "2024-08-08T22:00:24",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=3605",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D73F96",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3605/body",
+      "rel": "body"
+    }
+  ],
+  "num": 3605,
+  "receiptDate": "2024-07-01",
+  "term": 10,
+  "title": "Interpelacja w sprawie rewitalizacji Kanału Ślesińskiego",
+  "answerDelayedDays": 0,
+  "from": [
+    "085",
+    "265"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister infrastruktury",
+      "sent": "2024-07-11"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD7XHKD/i03605-o1_1.pdf",
+          "lastModified": "2024-08-08T22:00:24",
+          "name": "i03605-o1_1.pdf"
+        },
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD7XHKD/i03605-o1_2.pdf",
+          "lastModified": "2024-08-08T22:00:24",
+          "name": "i03605-o1_2.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Przemysław Koperski",
+      "key": "D7XHKD",
+      "lastModified": "2024-08-08T22:00:24",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D7XHKD",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3605/reply/D7XHKD/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-08-07"
+    }
+  ],
+  "sentDate": "2024-07-11",
+  "to": [
+    "minister infrastruktury"
+  ]
+}

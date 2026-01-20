@@ -1,0 +1,81 @@
+{
+  "lastModified": "2024-02-20T22:00:32",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=464",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CZDB54",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/464/body",
+      "rel": "body"
+    }
+  ],
+  "num": 464,
+  "receiptDate": "2023-12-29",
+  "term": 10,
+  "title": "Interpelacja w sprawie rządowego Programu Inwestycji Strategicznych oraz budżetu gm. Łabunie",
+  "answerDelayedDays": 0,
+  "from": [
+    "321"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "prezes Rady Ministrów",
+      "sent": "2024-01-10"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD2MKAR/i00464-o1_1.pdf",
+          "lastModified": "2024-02-20T22:00:32",
+          "name": "i00464-o1_1.pdf"
+        },
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD2MKAR/i00464-o1_2.pdf",
+          "lastModified": "2024-02-20T22:00:32",
+          "name": "i00464-o1_2.pdf"
+        },
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD2MKAR/i00464-o1_3.pdf",
+          "lastModified": "2024-02-20T22:00:32",
+          "name": "i00464-o1_3.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Grzegorz Karpiński",
+      "key": "D2MKAR",
+      "lastModified": "2024-02-20T22:00:32",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D2MKAR",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/464/reply/D2MKAR/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-02-13"
+    },
+    {
+      "from": "minister - członek Rady Ministrów - Maciej Berek",
+      "lastModified": "2024-01-29T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-01-29"
+    }
+  ],
+  "sentDate": "2024-01-10",
+  "to": [
+    "prezes Rady Ministrów"
+  ]
+}

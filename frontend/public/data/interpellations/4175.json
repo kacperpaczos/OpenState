@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-08-27T22:00:17",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=4175",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D7QHH8",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4175/body",
+      "rel": "body"
+    }
+  ],
+  "num": 4175,
+  "receiptDate": "2024-07-30",
+  "term": 10,
+  "title": "Interpelacja w sprawie pobierania zasiłku pielęgnacyjnego oraz pełnienia innych funkcji społecznych bez wynagrodzenia",
+  "answerDelayedDays": 0,
+  "from": [
+    "296"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rodziny, pracy i polityki społecznej",
+      "sent": "2024-08-01"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD8JJBS/i04175-o1.pdf",
+          "lastModified": "2024-08-27T22:00:17",
+          "name": "i04175-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Aleksandra Gajewska",
+      "key": "D8JJBS",
+      "lastModified": "2024-08-27T22:00:17",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D8JJBS",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4175/reply/D8JJBS/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-08-27"
+    }
+  ],
+  "sentDate": "2024-08-01",
+  "to": [
+    "minister rodziny, pracy i polityki społecznej"
+  ]
+}

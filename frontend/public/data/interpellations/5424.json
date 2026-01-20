@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-11-07T22:00:54",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5424",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DA6BBD",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5424/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5424,
+  "receiptDate": "2024-10-11",
+  "term": 10,
+  "title": "Interpelacja w sprawie wspierania uniwersytetów trzeciego wieku jako standardu w polskim systemie edukacji",
+  "answerDelayedDays": 0,
+  "from": [
+    "481"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister nauki",
+      "sent": "2024-10-18"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDASJMT/i05424-o1.pdf",
+          "lastModified": "2024-11-07T22:00:54",
+          "name": "i05424-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Maciej Gdula",
+      "key": "DASJMT",
+      "lastModified": "2024-11-07T22:00:54",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DASJMT",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5424/reply/DASJMT/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-11-05"
+    }
+  ],
+  "sentDate": "2024-10-18",
+  "to": [
+    "minister nauki"
+  ]
+}

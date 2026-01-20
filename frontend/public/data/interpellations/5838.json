@@ -1,0 +1,71 @@
+{
+  "lastModified": "2024-12-10T22:00:07",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5838",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAPCVC",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5838/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5838,
+  "receiptDate": "2024-10-28",
+  "term": 10,
+  "title": "Interpelacja w sprawie dostępu do badań diagnostycznych dla kobiet w zakresie profilaktyki raka piersi",
+  "answerDelayedDays": 0,
+  "from": [
+    "142"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister zdrowia",
+      "sent": "2024-11-04"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDBTJTF/i05838-o1.pdf",
+          "lastModified": "2024-12-10T22:00:07",
+          "name": "i05838-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Jerzy Szafranowicz",
+      "key": "DBTJTF",
+      "lastModified": "2024-12-10T22:00:07",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DBTJTF",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5838/reply/DBTJTF/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-12-09"
+    },
+    {
+      "from": "podsekretarz stanu w Ministerstwie Zdrowia - Jerzy Szafranowicz",
+      "lastModified": "2024-11-26T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-11-26"
+    }
+  ],
+  "sentDate": "2024-11-04",
+  "to": [
+    "minister zdrowia"
+  ]
+}

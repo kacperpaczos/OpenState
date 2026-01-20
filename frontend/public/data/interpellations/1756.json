@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-03-28T22:00:46",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=1756",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D36CT2",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1756/body",
+      "rel": "body"
+    }
+  ],
+  "num": 1756,
+  "receiptDate": "2024-02-26",
+  "term": 10,
+  "title": "Interpelacja w sprawie wznowienia prac Komisji do spraw wsparcia Rządowego Funduszu Polski Ład: Program Inwestycji Strategicznych",
+  "answerDelayedDays": 0,
+  "from": [
+    "281"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "prezes Rady Ministrów",
+      "sent": "2024-03-08"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD3SHXG/i01756-o1.pdf",
+          "lastModified": "2024-03-28T22:00:46",
+          "name": "i01756-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Grzegorz Karpiński",
+      "key": "D3SHXG",
+      "lastModified": "2024-03-28T22:00:46",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D3SHXG",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1756/reply/D3SHXG/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-03-26"
+    }
+  ],
+  "sentDate": "2024-03-08",
+  "to": [
+    "prezes Rady Ministrów"
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "lastModified": "2025-01-30T22:00:45",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=6125",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAYJWD",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/6125/body",
+      "rel": "body"
+    }
+  ],
+  "num": 6125,
+  "receiptDate": "2024-11-08",
+  "term": 10,
+  "title": "Interpelacja w sprawie powołania tłumaczy przysięgłych polskiego języka migowego (PJM)",
+  "answerDelayedDays": 0,
+  "from": [
+    "182",
+    "431"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister sprawiedliwości",
+      "sent": "2024-11-13"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDDEJYG/i06125-o1.pdf",
+          "lastModified": "2025-01-30T22:00:45",
+          "name": "i06125-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Maria Ejchart",
+      "key": "DDEJYG",
+      "lastModified": "2025-01-30T22:00:45",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DDEJYG",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/6125/reply/DDEJYG/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2025-01-28"
+    }
+  ],
+  "sentDate": "2024-11-13",
+  "to": [
+    "minister sprawiedliwości"
+  ]
+}

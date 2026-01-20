@@ -1,0 +1,128 @@
+{
+  "lastModified": "2024-03-11T15:27:17",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=1194",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CZYFVT",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1194/body",
+      "rel": "body"
+    }
+  ],
+  "num": 1194,
+  "receiptDate": "2024-01-26",
+  "term": 10,
+  "title": "Interpelacja w sprawie przypadków stawiania funkcjonariuszom Służby Celno-Skarbowej zarzutów karnych",
+  "answerDelayedDays": 0,
+  "from": [
+    "118",
+    "153",
+    "221"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister finansów",
+      "sent": "2024-01-30"
+    },
+    {
+      "answerDelayedDays": 0,
+      "name": "minister sprawiedliwości",
+      "sent": "2024-01-30"
+    },
+    {
+      "answerDelayedDays": 0,
+      "name": "minister spraw wewnętrznych i administracji",
+      "sent": "2024-01-30"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD2PJTU/i01194-o1.pdf",
+          "lastModified": "2024-02-22T22:00:32",
+          "name": "i01194-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Krzysztof Śmiszek",
+      "key": "D2PJTU",
+      "lastModified": "2024-02-22T22:00:32",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D2PJTU",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1194/reply/D2PJTU/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-02-21"
+    },
+    {
+      "from": "Sekretarz stanu Czesław Mroczek",
+      "key": "D2XLFZ",
+      "lastModified": "2024-03-11T15:27:17",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D2XLFZ",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1194/reply/D2XLFZ/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-02-29"
+    },
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD36K94/i01194-o3.pdf",
+          "lastModified": "2024-03-08T22:00:35",
+          "name": "i01194-o3.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Marcin Łoboda",
+      "key": "D36K94",
+      "lastModified": "2024-03-08T22:00:35",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D36K94",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1194/reply/D36K94/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-03-07"
+    },
+    {
+      "from": "sekretarz stanu w Ministerstwie Finansów - Marcin Łoboda",
+      "lastModified": "2024-02-07T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-02-07"
+    }
+  ],
+  "sentDate": "2024-01-30",
+  "to": [
+    "minister finansów",
+    "minister spraw wewnętrznych i administracji",
+    "minister sprawiedliwości"
+  ]
+}

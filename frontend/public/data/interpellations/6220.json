@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-12-11T22:00:07",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=6220",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DB5K52",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/6220/body",
+      "rel": "body"
+    }
+  ],
+  "num": 6220,
+  "receiptDate": "2024-11-14",
+  "term": 10,
+  "title": "Interpelacja w sprawie zniwelowania nierówności w traktowaniu gmin w związku z rekompensatą dla rolników z tytułu podwyżek podatku rolnego za 2024 r.",
+  "answerDelayedDays": 0,
+  "from": [
+    "118"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rolnictwa i rozwoju wsi",
+      "sent": "2024-11-22"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDBUJNC/i06220-o1.pdf",
+          "lastModified": "2024-12-11T22:00:07",
+          "name": "i06220-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Stefan Krajewski",
+      "key": "DBUJNC",
+      "lastModified": "2024-12-11T22:00:07",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DBUJNC",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/6220/reply/DBUJNC/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-12-09"
+    }
+  ],
+  "sentDate": "2024-11-22",
+  "to": [
+    "minister rolnictwa i rozwoju wsi"
+  ]
+}

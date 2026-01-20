@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-10-04T22:00:31",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=3094",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D659VH",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3094/body",
+      "rel": "body"
+    }
+  ],
+  "num": 3094,
+  "receiptDate": "2024-06-02",
+  "term": 10,
+  "title": "Interpelacja w sprawie usprawnienia funkcjonowania urzędów pracy",
+  "answerDelayedDays": 0,
+  "from": [
+    "243"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rodziny, pracy i polityki społecznej",
+      "sent": "2024-06-11"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD9QHQM/i03094-o1.pdf",
+          "lastModified": "2024-10-04T22:00:31",
+          "name": "i03094-o1.pdf"
+        }
+      ],
+      "from": "Minister Agnieszka Dziemianowicz-Bąk",
+      "key": "D9QHQM",
+      "lastModified": "2024-10-04T22:00:31",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D9QHQM",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3094/reply/D9QHQM/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-10-03"
+    }
+  ],
+  "sentDate": "2024-06-11",
+  "to": [
+    "minister rodziny, pracy i polityki społecznej"
+  ]
+}

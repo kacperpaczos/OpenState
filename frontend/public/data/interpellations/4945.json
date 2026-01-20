@@ -1,0 +1,138 @@
+{
+  "lastModified": "2024-11-29T22:00:48",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=4945",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D9FFYX",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4945/body",
+      "rel": "body"
+    }
+  ],
+  "num": 4945,
+  "receiptDate": "2024-09-19",
+  "term": 10,
+  "title": "Interpelacja w sprawie zgodności działań ARiMR z przepisami prawa Unii Europejskiej dotyczącymi przyznawania i kontroli płatności w ramach wspólnej polityki rolnej",
+  "answerDelayedDays": 0,
+  "from": [
+    "282"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rolnictwa i rozwoju wsi",
+      "sent": "2024-09-25"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDA4HDJ/i04945-o1.pdf",
+          "lastModified": "2024-10-16T22:00:21",
+          "name": "i04945-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Jacek Czerniak",
+      "key": "DA4HDJ",
+      "lastModified": "2024-10-16T22:00:21",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DA4HDJ",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4945/reply/DA4HDJ/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-10-15"
+    },
+    {
+      "from": "sekretarz stanu w Ministerstwie Rolnictwa i Rozwoju Wsi - Stefan Krajewski",
+      "lastModified": "2024-11-19T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-11-19"
+    },
+    {
+      "from": "sekretarz stanu w Ministerstwie Rolnictwa i Rozwoju Wsi - Stefan Krajewski",
+      "lastModified": "2024-11-25T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-11-25"
+    }
+  ],
+  "sentDate": "2024-10-29",
+  "to": [
+    "minister rolnictwa i rozwoju wsi"
+  ],
+  "repeatedInterpellation": [
+    {
+      "lastModified": "2024-11-29T22:00:48",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=4945",
+          "rel": "web-description"
+        },
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAJAZQ",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4945p/body",
+          "rel": "body"
+        }
+      ],
+      "num": 4945,
+      "receiptDate": "2024-10-23",
+      "term": 10,
+      "title": "Interpelacja w sprawie zgodności działań ARiMR z przepisami prawa Unii Europejskiej dotyczącymi przyznawania i kontroli płatności w ramach wspólnej polityki rolnej",
+      "answerDelayedDays": 0,
+      "from": [
+        "282"
+      ],
+      "recipientDetails": [],
+      "replies": [
+        {
+          "attachments": [
+            {
+              "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDBGKBH/i04945-o2.pdf",
+              "lastModified": "2024-11-29T22:00:48",
+              "name": "i04945-o2.pdf"
+            }
+          ],
+          "from": "Sekretarz stanu Stefan Krajewski",
+          "key": "DBGKBH",
+          "lastModified": "2024-11-29T22:00:48",
+          "links": [
+            {
+              "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DBGKBH",
+              "rel": "web-body"
+            },
+            {
+              "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4945p/reply/DBGKBH/body",
+              "rel": "body"
+            }
+          ],
+          "onlyAttachment": true,
+          "prolongation": false,
+          "receiptDate": "2024-11-27"
+        }
+      ],
+      "sentDate": "2024-10-29",
+      "to": [
+        "minister rolnictwa i rozwoju wsi"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-07-01T22:00:36",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=3189",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D659YG",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3189/body",
+      "rel": "body"
+    }
+  ],
+  "num": 3189,
+  "receiptDate": "2024-06-03",
+  "term": 10,
+  "title": "Interpelacja w sprawie wsparcia innowacyjności",
+  "answerDelayedDays": 0,
+  "from": [
+    "243"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rozwoju i technologii",
+      "sent": "2024-06-11"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD6RHX2/i03189-o1.pdf",
+          "lastModified": "2024-07-01T22:00:36",
+          "name": "i03189-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Jacek Tomczak",
+      "key": "D6RHX2",
+      "lastModified": "2024-07-01T22:00:36",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D6RHX2",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3189/reply/D6RHX2/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-06-27"
+    }
+  ],
+  "sentDate": "2024-06-11",
+  "to": [
+    "minister rozwoju i technologii"
+  ]
+}

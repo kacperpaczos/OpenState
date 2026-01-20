@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-07-01T22:00:35",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2879",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D65B5N",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2879/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2879,
+  "receiptDate": "2024-05-17",
+  "term": 10,
+  "title": "Interpelacja w sprawie lotniska Szczecin-Goleniów",
+  "answerDelayedDays": 0,
+  "from": [
+    "234"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister funduszy i polityki regionalnej",
+      "sent": "2024-06-20"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD6RHW3/i02879-o1.pdf",
+          "lastModified": "2024-07-01T22:00:35",
+          "name": "i02879-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Maciej Lasek",
+      "key": "D6RHW3",
+      "lastModified": "2024-07-01T22:00:35",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D6RHW3",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2879/reply/D6RHW3/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-06-27"
+    }
+  ],
+  "sentDate": "2024-06-20",
+  "to": [
+    "minister funduszy i polityki regionalnej"
+  ]
+}

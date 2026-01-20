@@ -1,0 +1,56 @@
+{
+  "lastModified": "2024-02-21T13:31:33",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=979",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CZYFP7",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/979/body",
+      "rel": "body"
+    }
+  ],
+  "num": 979,
+  "receiptDate": "2024-01-17",
+  "term": 10,
+  "title": "Interpelacja w sprawie młodzieżowych ośrodków wychowawczych",
+  "answerDelayedDays": 0,
+  "from": [
+    "414"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister edukacji",
+      "sent": "2024-01-30"
+    }
+  ],
+  "replies": [
+    {
+      "from": "Podsekretarz stanu Paulina Piechna-Więckiewicz",
+      "key": "D2NGPT",
+      "lastModified": "2024-02-21T13:31:33",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D2NGPT",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/979/reply/D2NGPT/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-02-20"
+    }
+  ],
+  "sentDate": "2024-01-30",
+  "to": [
+    "minister edukacji"
+  ]
+}

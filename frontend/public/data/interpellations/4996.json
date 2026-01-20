@@ -1,0 +1,73 @@
+{
+  "lastModified": "2025-02-19T22:00:20",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=4996",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D9GGUS",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4996/body",
+      "rel": "body"
+    }
+  ],
+  "num": 4996,
+  "receiptDate": "2024-09-23",
+  "term": 10,
+  "title": "Interpelacja w sprawie konserwacji rowów melioracyjnych, przepustów i innych urządzeń odprowadzających wodę z nieruchomości prywatnych",
+  "answerDelayedDays": 0,
+  "from": [
+    "010",
+    "060",
+    "194"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister infrastruktury",
+      "sent": "2024-10-01"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDE2JM3/i04996-o1.pdf",
+          "lastModified": "2025-02-19T22:00:20",
+          "name": "i04996-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Przemysław Koperski",
+      "key": "DE2JM3",
+      "lastModified": "2025-02-19T22:00:20",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DE2JM3",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4996/reply/DE2JM3/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2025-02-18"
+    },
+    {
+      "from": "podsekretarz stanu w Ministerstwie Infrastruktury - Przemysław Koperski",
+      "lastModified": "2024-10-21T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-10-21"
+    }
+  ],
+  "sentDate": "2024-10-01",
+  "to": [
+    "minister infrastruktury"
+  ]
+}

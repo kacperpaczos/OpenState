@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-11-05T22:00:53",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5396",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DA2C2A",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5396/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5396,
+  "receiptDate": "2024-10-10",
+  "term": 10,
+  "title": "Interpelacja w sprawie planów polskiego rządu w zakresie przyszłości spółek Skarbu Państwa",
+  "answerDelayedDays": 0,
+  "from": [
+    "165"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister aktywów państwowych",
+      "sent": "2024-10-14"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDAQJUA/i05396-o1.pdf",
+          "lastModified": "2024-11-05T22:00:53",
+          "name": "i05396-o1.pdf"
+        }
+      ],
+      "from": "Minister Jakub Jaworowski",
+      "key": "DAQJUA",
+      "lastModified": "2024-11-05T22:00:53",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAQJUA",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5396/reply/DAQJUA/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-11-04"
+    }
+  ],
+  "sentDate": "2024-10-14",
+  "to": [
+    "minister aktywów państwowych"
+  ]
+}

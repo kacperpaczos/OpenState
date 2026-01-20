@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-07-01T22:00:35",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2844",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D65B4K",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2844/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2844,
+  "receiptDate": "2024-05-16",
+  "term": 10,
+  "title": "Interpelacja w sprawie rozwoju transportu kolejowego w pow. cieszyńskim",
+  "answerDelayedDays": 0,
+  "from": [
+    "287"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister infrastruktury",
+      "sent": "2024-06-10"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD6RHVY/i02844-o1.pdf",
+          "lastModified": "2024-07-01T22:00:35",
+          "name": "i02844-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Piotr Malepszak",
+      "key": "D6RHVY",
+      "lastModified": "2024-07-01T22:00:35",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D6RHVY",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2844/reply/D6RHVY/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-06-28"
+    }
+  ],
+  "sentDate": "2024-06-10",
+  "to": [
+    "minister infrastruktury"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "lastModified": "2024-10-23T15:19:25",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=4810",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D9FFUY",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4810/body",
+      "rel": "body"
+    }
+  ],
+  "num": 4810,
+  "receiptDate": "2024-09-12",
+  "term": 10,
+  "title": "Interpelacja w sprawie rekrutacji na studia w WAT i brakujących przepisów przejściowych",
+  "answerDelayedDays": 0,
+  "from": [
+    "069",
+    "113",
+    "433"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister obrony narodowej",
+      "sent": "2024-09-25"
+    }
+  ],
+  "replies": [
+    {
+      "from": "Sekretarz stanu Paweł Bejda",
+      "key": "DABHMR",
+      "lastModified": "2024-10-23T15:19:25",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DABHMR",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4810/reply/DABHMR/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-10-08"
+    }
+  ],
+  "sentDate": "2024-09-25",
+  "to": [
+    "minister obrony narodowej"
+  ]
+}

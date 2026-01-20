@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-04-15T22:00:16",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=1381",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D2FC39",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1381/body",
+      "rel": "body"
+    }
+  ],
+  "num": 1381,
+  "receiptDate": "2024-02-07",
+  "term": 10,
+  "title": "Interpelacja w sprawie wyprzedaży majątku TKKF",
+  "answerDelayedDays": 0,
+  "from": [
+    "260"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister sportu i turystyki",
+      "sent": "2024-02-13"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD4CHWS/i01381-o1.pdf",
+          "lastModified": "2024-04-15T22:00:16",
+          "name": "i01381-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Piotr Borys",
+      "key": "D4CHWS",
+      "lastModified": "2024-04-15T22:00:16",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D4CHWS",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1381/reply/D4CHWS/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-04-12"
+    }
+  ],
+  "sentDate": "2024-02-13",
+  "to": [
+    "minister sportu i turystyki"
+  ]
+}

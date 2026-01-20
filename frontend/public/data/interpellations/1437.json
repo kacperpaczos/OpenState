@@ -1,0 +1,57 @@
+{
+  "lastModified": "2024-03-08T15:41:42",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=1437",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D2NGSB",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1437/body",
+      "rel": "body"
+    }
+  ],
+  "num": 1437,
+  "receiptDate": "2024-02-12",
+  "term": 10,
+  "title": "Interpelacja w sprawie zabezpieczenia finansowego dla środowiskowych domów samopomocy w roku 2024 i latach następnych",
+  "answerDelayedDays": 0,
+  "from": [
+    "041",
+    "135"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rodziny, pracy i polityki społecznej",
+      "sent": "2024-02-21"
+    }
+  ],
+  "replies": [
+    {
+      "from": "Podsekretarz stanu Paweł Zgórzyński",
+      "key": "D36K98",
+      "lastModified": "2024-03-08T15:41:42",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D36K98",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1437/reply/D36K98/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-03-07"
+    }
+  ],
+  "sentDate": "2024-02-21",
+  "to": [
+    "minister rodziny, pracy i polityki społecznej"
+  ]
+}

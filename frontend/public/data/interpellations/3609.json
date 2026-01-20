@@ -1,0 +1,69 @@
+{
+  "lastModified": "2024-07-22T22:00:39",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=3609",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D73F9A",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3609/body",
+      "rel": "body"
+    }
+  ],
+  "num": 3609,
+  "receiptDate": "2024-07-01",
+  "term": 10,
+  "title": "Interpelacja w sprawie kredytu 0%",
+  "answerDelayedDays": 0,
+  "from": [
+    "225"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister finansów",
+      "sent": "2024-07-11"
+    },
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rozwoju i technologii",
+      "sent": "2024-07-11"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD7EHGJ/i03609-o2.pdf",
+          "lastModified": "2024-07-22T22:00:39",
+          "name": "i03609-o2.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Jacek Tomczak",
+      "key": "D7EHGJ",
+      "lastModified": "2024-07-22T22:00:39",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D7EHGJ",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3609/reply/D7EHGJ/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-07-19"
+    }
+  ],
+  "sentDate": "2024-07-11",
+  "to": [
+    "minister finansów",
+    "minister rozwoju i technologii"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-03-29T22:00:47",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=1791",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D36CU3",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1791/body",
+      "rel": "body"
+    }
+  ],
+  "num": 1791,
+  "receiptDate": "2024-02-27",
+  "term": 10,
+  "title": "Interpelacja w sprawie zatrudnienia w Ministerstwie Rolnictwa i Rozwoju Wsi",
+  "answerDelayedDays": 0,
+  "from": [
+    "150"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rolnictwa i rozwoju wsi",
+      "sent": "2024-03-08"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD3TF82/i01791-o1.pdf",
+          "lastModified": "2024-03-29T22:00:47",
+          "name": "i01791-o1.pdf"
+        }
+      ],
+      "from": "Minister Czesław Siekierski",
+      "key": "D3TF82",
+      "lastModified": "2024-03-29T22:00:47",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D3TF82",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1791/reply/D3TF82/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-03-28"
+    }
+  ],
+  "sentDate": "2024-03-08",
+  "to": [
+    "minister rolnictwa i rozwoju wsi"
+  ]
+}

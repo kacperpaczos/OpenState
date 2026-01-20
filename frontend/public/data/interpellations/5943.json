@@ -1,0 +1,63 @@
+{
+  "lastModified": "2025-01-28T22:00:45",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5943",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DATB8Z",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5943/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5943,
+  "receiptDate": "2024-10-31",
+  "term": 10,
+  "title": "Interpelacja w sprawie wykorzystania usługi zastrzegania PESEL przy czynnościach notarialnych",
+  "answerDelayedDays": 0,
+  "from": [
+    "051"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister cyfryzacji",
+      "sent": "2024-11-07"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDDCGK3/i05943-o1.pdf",
+          "lastModified": "2025-01-28T22:00:45",
+          "name": "i05943-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Dariusz Standerski",
+      "key": "DDCGK3",
+      "lastModified": "2025-01-28T22:00:45",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DDCGK3",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5943/reply/DDCGK3/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2025-01-27"
+    }
+  ],
+  "sentDate": "2024-11-07",
+  "to": [
+    "minister cyfryzacji"
+  ]
+}

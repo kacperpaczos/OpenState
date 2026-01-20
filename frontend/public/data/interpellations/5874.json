@@ -1,0 +1,64 @@
+{
+  "lastModified": "2024-11-22T22:00:07",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5874",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAPCWE",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5874/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5874,
+  "receiptDate": "2024-10-28",
+  "term": 10,
+  "title": "Interpelacja w sprawie odmulenia i oczyszczenia Jeziora Rożnowskiego k. Nowego Sącza",
+  "answerDelayedDays": 0,
+  "from": [
+    "121",
+    "388"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister klimatu i środowiska",
+      "sent": "2024-11-04"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDB9GG2/i05874-o1.pdf",
+          "lastModified": "2024-11-22T22:00:07",
+          "name": "i05874-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Anita Sowińska",
+      "key": "DB9GG2",
+      "lastModified": "2024-11-22T22:00:07",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DB9GG2",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5874/reply/DB9GG2/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-11-20"
+    }
+  ],
+  "sentDate": "2024-11-04",
+  "to": [
+    "minister klimatu i środowiska"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "lastModified": "2024-03-26T15:33:33",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2109",
+      "rel": "web-description"
+    }
+  ],
+  "num": 2109,
+  "receiptDate": "2024-03-17",
+  "term": 10,
+  "title": "Interpelacja w sprawie wyjazdów kierownictwa Ministerstwa Nauki i Szkolnictwa Wyższego",
+  "answerDelayedDays": 0,
+  "from": [
+    "279"
+  ],
+  "recipientDetails": [],
+  "replies": [],
+  "to": [
+    "minister nauki"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "lastModified": "2025-01-02T22:00:42",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5996",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DATBAL",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5996/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5996,
+  "receiptDate": "2024-11-04",
+  "term": 10,
+  "title": "Interpelacja w sprawie zabezpieczenia przeciwpowodziowego Brzegu",
+  "answerDelayedDays": 0,
+  "from": [
+    "269"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister infrastruktury",
+      "sent": "2024-11-07"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDCJJWP/i05996-o1.pdf",
+          "lastModified": "2025-01-02T22:00:42",
+          "name": "i05996-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Przemysław Koperski",
+      "key": "DCJJWP",
+      "lastModified": "2025-01-02T22:00:42",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DCJJWP",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5996/reply/DCJJWP/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-12-31"
+    },
+    {
+      "from": "podsekretarz stanu w Ministerstwie Infrastruktury - Przemysław Koperski",
+      "lastModified": "2024-11-27T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-11-27"
+    }
+  ],
+  "sentDate": "2024-11-07",
+  "to": [
+    "minister infrastruktury"
+  ]
+}

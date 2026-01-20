@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-12-06T22:00:26",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5700",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAJARF",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5700/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5700,
+  "receiptDate": "2024-10-22",
+  "term": 10,
+  "title": "Interpelacja w sprawie wykluczenia komunikacyjnego i braku połączeń kolejowych ze słowackim Popradem i Koszycami",
+  "answerDelayedDays": 0,
+  "from": [
+    "094"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister infrastruktury",
+      "sent": "2024-10-30"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDBPJJX/i05700-o1.pdf",
+          "lastModified": "2024-12-06T22:00:26",
+          "name": "i05700-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Stanisław Bukowiec",
+      "key": "DBPJJX",
+      "lastModified": "2024-12-06T22:00:26",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DBPJJX",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5700/reply/DBPJJX/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-12-05"
+    }
+  ],
+  "sentDate": "2024-10-30",
+  "to": [
+    "minister infrastruktury"
+  ]
+}

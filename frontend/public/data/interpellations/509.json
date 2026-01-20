@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-01-30T22:00:51",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=509",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CZDB6G",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/509/body",
+      "rel": "body"
+    }
+  ],
+  "num": 509,
+  "receiptDate": "2024-01-02",
+  "term": 10,
+  "title": "Interpelacja w sprawie problemów z przeprowadzaniem egzekucji komorniczych",
+  "answerDelayedDays": 0,
+  "from": [
+    "406"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister sprawiedliwości",
+      "sent": "2024-01-11"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTCZYFL2/i00509-o1.pdf",
+          "lastModified": "2024-01-30T22:00:51",
+          "name": "i00509-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Zuzanna Rudzińska-Bluszcz",
+      "key": "CZYFL2",
+      "lastModified": "2024-01-30T22:00:51",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CZYFL2",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/509/reply/CZYFL2/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-01-29"
+    }
+  ],
+  "sentDate": "2024-01-11",
+  "to": [
+    "minister sprawiedliwości"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-07-23T22:00:38",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=3087",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D65ASR",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3087/body",
+      "rel": "body"
+    }
+  ],
+  "num": 3087,
+  "receiptDate": "2024-06-02",
+  "term": 10,
+  "title": "Interpelacja w sprawie zwiększenia przejrzystości procesu stanowienia prawa",
+  "answerDelayedDays": 0,
+  "from": [
+    "243"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister sprawiedliwości",
+      "sent": "2024-06-11"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD7FGPB/i03087-o1.pdf",
+          "lastModified": "2024-07-23T22:00:38",
+          "name": "i03087-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Arkadiusz Myrcha",
+      "key": "D7FGPB",
+      "lastModified": "2024-07-23T22:00:38",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D7FGPB",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3087/reply/D7FGPB/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-07-17"
+    }
+  ],
+  "sentDate": "2024-06-11",
+  "to": [
+    "minister sprawiedliwości"
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "lastModified": "2025-09-16T22:00:49",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5786",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAJATZ",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5786/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5786,
+  "receiptDate": "2024-10-25",
+  "term": 10,
+  "title": "Interpelacja w sprawie wydatków poniesionych przez Ministerstwo Rodziny, Pracy i Polityki Społecznej i podmioty podległe - nadzorowane na cele promocyjne i reklamowe od 13 grudnia 2023 r.",
+  "answerDelayedDays": 0,
+  "from": [
+    "052",
+    "061",
+    "071",
+    "109",
+    "150",
+    "473",
+    "234",
+    "356",
+    "375",
+    "407",
+    "435"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rodziny, pracy i polityki społecznej",
+      "sent": "2024-10-30"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDLKJ3Z/i05786-o1.pdf",
+          "lastModified": "2025-09-16T22:00:49",
+          "name": "i05786-o1.pdf"
+        }
+      ],
+      "from": "Minister Agnieszka Dziemianowicz-Bąk",
+      "key": "DLKJ3Z",
+      "lastModified": "2025-09-16T22:00:49",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DLKJ3Z",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5786/reply/DLKJ3Z/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2025-09-15"
+    },
+    {
+      "from": "minister rodziny, pracy i polityki społecznej - Agnieszka Dziemianowicz-Bąk",
+      "lastModified": "2025-03-19T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2025-03-19"
+    },
+    {
+      "from": "sekretarz stanu w Ministerstwie Rodziny, Pracy i Polityki Społecznej - Aleksandra Gajewska",
+      "lastModified": "2025-09-04T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2025-09-04"
+    }
+  ],
+  "sentDate": "2024-10-30",
+  "to": [
+    "minister rodziny, pracy i polityki społecznej"
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "lastModified": "2024-12-23T15:37:35",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5908",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAPCXD",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5908/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5908,
+  "receiptDate": "2024-10-30",
+  "term": 10,
+  "title": "Interpelacja w sprawie kryzysu migracyjnego i wojny hybrydowej na granicy polsko-białoruskiej oraz działalności na tym terenie niektórych organizacji pozarządowych",
+  "answerDelayedDays": 0,
+  "from": [
+    "016",
+    "032",
+    "080",
+    "081",
+    "285",
+    "296",
+    "490",
+    "399",
+    "412",
+    "422",
+    "443"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister spraw wewnętrznych i administracji",
+      "sent": "2024-11-04"
+    }
+  ],
+  "replies": [
+    {
+      "from": "Sekretarz stanu Czesław Mroczek",
+      "key": "DC8K6N",
+      "lastModified": "2024-12-23T15:37:35",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DC8K6N",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5908/reply/DC8K6N/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-12-20"
+    }
+  ],
+  "sentDate": "2024-11-04",
+  "to": [
+    "minister spraw wewnętrznych i administracji"
+  ]
+}

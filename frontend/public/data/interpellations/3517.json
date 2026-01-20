@@ -1,0 +1,64 @@
+{
+  "lastModified": "2024-07-23T22:00:38",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=3517",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D6SAHZ",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3517/body",
+      "rel": "body"
+    }
+  ],
+  "num": 3517,
+  "receiptDate": "2024-06-24",
+  "term": 10,
+  "title": "Interpelacja w sprawie nieuczciwych praktyk polegających na mieszaniu malin pochodzących z Polski z tymi spoza granic UE i ustawowego braku obowiązku informowania o tym fakcie konsumenta, a także możliwych rozwiązań wspierających rodzimą produkcję owoców jagodowych",
+  "answerDelayedDays": 0,
+  "from": [
+    "095",
+    "321"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rolnictwa i rozwoju wsi",
+      "sent": "2024-07-01"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD7FGPQ/i03517-o1.pdf",
+          "lastModified": "2024-07-23T22:00:38",
+          "name": "i03517-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Michał Kołodziejczak",
+      "key": "D7FGPQ",
+      "lastModified": "2024-07-23T22:00:38",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D7FGPQ",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3517/reply/D7FGPQ/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-07-22"
+    }
+  ],
+  "sentDate": "2024-07-01",
+  "to": [
+    "minister rolnictwa i rozwoju wsi"
+  ]
+}

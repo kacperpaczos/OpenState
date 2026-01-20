@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-07-01T22:00:36",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=3089",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D65AST",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3089/body",
+      "rel": "body"
+    }
+  ],
+  "num": 3089,
+  "receiptDate": "2024-06-02",
+  "term": 10,
+  "title": "Interpelacja w sprawie usprawnienia dochodzenia roszczeń i poprawy płynności finansowej MŚP",
+  "answerDelayedDays": 0,
+  "from": [
+    "243"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rozwoju i technologii",
+      "sent": "2024-06-11"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD6RHWQ/i03089-o1.pdf",
+          "lastModified": "2024-07-01T22:00:36",
+          "name": "i03089-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Jacek Tomczak",
+      "key": "D6RHWQ",
+      "lastModified": "2024-07-01T22:00:36",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D6RHWQ",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3089/reply/D6RHWQ/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-06-27"
+    }
+  ],
+  "sentDate": "2024-06-11",
+  "to": [
+    "minister rozwoju i technologii"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-05-17T22:00:23",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2670",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D4TAFR",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2670/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2670,
+  "receiptDate": "2024-04-25",
+  "term": 10,
+  "title": "Interpelacja w sprawie 80. rocznicy wybuchu Powstania Warszawskiego",
+  "answerDelayedDays": 0,
+  "from": [
+    "075"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister kultury i dziedzictwa narodowego",
+      "sent": "2024-04-30"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD5CJ4M/i02670-o1.pdf",
+          "lastModified": "2024-05-17T22:00:23",
+          "name": "i02670-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Andrzej Wyrobiec",
+      "key": "D5CJ4M",
+      "lastModified": "2024-05-17T22:00:23",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D5CJ4M",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2670/reply/D5CJ4M/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-05-16"
+    }
+  ],
+  "sentDate": "2024-04-30",
+  "to": [
+    "minister kultury i dziedzictwa narodowego"
+  ]
+}

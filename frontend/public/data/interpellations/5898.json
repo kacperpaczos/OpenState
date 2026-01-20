@@ -1,0 +1,64 @@
+{
+  "lastModified": "2024-11-28T22:00:48",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5898",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAPCX4",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5898/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5898,
+  "receiptDate": "2024-10-30",
+  "term": 10,
+  "title": "Interpelacja w sprawie ostrego sprzeciwu wobec próby zamachu Ministerstwa Zdrowia na niezależność i autonomię Centrum Medycznego Kształcenia Podyplomowego, bardzo merytorycznej placówki naukowo-dydaktycznej realizującej szczególnie ważne zadania na rzecz postępu w dziedzinie medycyny, odpowiadającej za integrację i organizację całokształtu medycznego kształcenia podyplomowego, a także wobec planów politycznego podporządkowania sobie tej placówki",
+  "answerDelayedDays": 0,
+  "from": [
+    "119",
+    "130"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister zdrowia",
+      "sent": "2024-11-05"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDBFJRK/i05898-o1.pdf",
+          "lastModified": "2024-11-28T22:00:48",
+          "name": "i05898-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Wojciech Konieczny",
+      "key": "DBFJRK",
+      "lastModified": "2024-11-28T22:00:48",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DBFJRK",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5898/reply/DBFJRK/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-11-21"
+    }
+  ],
+  "sentDate": "2024-11-05",
+  "to": [
+    "minister zdrowia"
+  ]
+}

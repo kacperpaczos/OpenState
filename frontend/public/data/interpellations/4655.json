@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-10-02T22:00:27",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=4655",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D93FBT",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4655/body",
+      "rel": "body"
+    }
+  ],
+  "num": 4655,
+  "receiptDate": "2024-09-08",
+  "term": 10,
+  "title": "Interpelacja w sprawie odzyskania bezcennych dokumentów archiwalnych stanowiących straty wojenne z okresu II wojny światowej",
+  "answerDelayedDays": 0,
+  "from": [
+    "366"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister kultury i dziedzictwa narodowego",
+      "sent": "2024-09-13"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD9NHGE/i04655-o1.pdf",
+          "lastModified": "2024-10-02T22:00:27",
+          "name": "i04655-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Andrzej Wyrobiec",
+      "key": "D9NHGE",
+      "lastModified": "2024-10-02T22:00:27",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D9NHGE",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4655/reply/D9NHGE/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-10-01"
+    }
+  ],
+  "sentDate": "2024-09-13",
+  "to": [
+    "minister kultury i dziedzictwa narodowego"
+  ]
+}

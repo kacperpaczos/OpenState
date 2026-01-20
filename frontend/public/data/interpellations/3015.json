@@ -1,0 +1,64 @@
+{
+  "lastModified": "2024-07-04T22:00:35",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=3015",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D65AQH",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3015/body",
+      "rel": "body"
+    }
+  ],
+  "num": 3015,
+  "receiptDate": "2024-05-31",
+  "term": 10,
+  "title": "Interpelacja w sprawie oprogramowań służących do podsłuchu, które wykorzystywane były na terenie naszego kraju, a także liczby podsłuchiwanych osób w naszym kraju",
+  "answerDelayedDays": 0,
+  "from": [
+    "095",
+    "321"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "prezes Rady Ministrów",
+      "sent": "2024-06-11"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD6UHA9/i03015-o1.pdf",
+          "lastModified": "2024-07-04T22:00:35",
+          "name": "i03015-o1.pdf"
+        }
+      ],
+      "from": "Minister Tomasz Siemoniak",
+      "key": "D6UHA9",
+      "lastModified": "2024-07-04T22:00:35",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D6UHA9",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3015/reply/D6UHA9/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-07-03"
+    }
+  ],
+  "sentDate": "2024-06-11",
+  "to": [
+    "prezes Rady Ministrów"
+  ]
+}

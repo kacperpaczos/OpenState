@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-06-20T22:00:21",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2782",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D65B2R",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2782/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2782,
+  "receiptDate": "2024-05-11",
+  "term": 10,
+  "title": "Interpelacja w sprawie Lubelskiego Urzędu Celno-Skarbowego w Białej Podlaskiej",
+  "answerDelayedDays": 0,
+  "from": [
+    "118"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister finansów",
+      "sent": "2024-06-10"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD6EHWJ/i02782-o1.pdf",
+          "lastModified": "2024-06-20T22:00:21",
+          "name": "i02782-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Marcin Łoboda",
+      "key": "D6EHWJ",
+      "lastModified": "2024-06-20T22:00:21",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D6EHWJ",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2782/reply/D6EHWJ/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-06-19"
+    }
+  ],
+  "sentDate": "2024-06-10",
+  "to": [
+    "minister finansów"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-11-04T15:26:44",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5312",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DA2BXY",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5312/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5312,
+  "receiptDate": "2024-10-07",
+  "term": 10,
+  "title": "Interpelacja w sprawie działań podejmowanych przez Polski Fundusz Rozwoju SA wobec polskich przedsiębiorców w zakresie dochodzenia zwrotu subwencji przyznanych polskim przedsiębiorcom na podstawie Programów Rządowych: Tarcza Finansowych 1.0. oraz 2.0. Polskiego Funduszu Rozwoju dla Małych i Średnich Firm",
+  "answerDelayedDays": 0,
+  "from": [
+    "402"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister aktywów państwowych",
+      "sent": "2024-10-14"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDAPJW6/i05312-o1.pdf",
+          "lastModified": "2024-11-04T15:26:08",
+          "name": "i05312-o1.pdf"
+        }
+      ],
+      "from": "Minister Jakub Jaworowski",
+      "key": "DAPJW6",
+      "lastModified": "2024-11-04T15:26:44",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAPJW6",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5312/reply/DAPJW6/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-10-30"
+    }
+  ],
+  "sentDate": "2024-10-14",
+  "to": [
+    "minister aktywów państwowych"
+  ]
+}

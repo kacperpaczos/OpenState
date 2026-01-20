@@ -1,0 +1,72 @@
+{
+  "lastModified": "2024-08-02T15:39:11",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=3660",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D73FAV",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3660/body",
+      "rel": "body"
+    }
+  ],
+  "num": 3660,
+  "receiptDate": "2024-07-04",
+  "term": 10,
+  "title": "Interpelacja w sprawie prac nad tzw. ustawą antyodorową",
+  "answerDelayedDays": 0,
+  "from": [
+    "002",
+    "182",
+    "196",
+    "431"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister klimatu i środowiska",
+      "sent": "2024-07-11"
+    },
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rolnictwa i rozwoju wsi",
+      "sent": "2024-07-11"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD7GHEZ/i03660-o1.pdf",
+          "lastModified": "2024-07-24T22:00:38",
+          "name": "i03660-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Krzysztof Bolesta",
+      "key": "D7GHEZ",
+      "lastModified": "2024-07-24T22:00:38",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D7GHEZ",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3660/reply/D7GHEZ/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-07-19"
+    }
+  ],
+  "sentDate": "2024-07-11",
+  "to": [
+    "minister klimatu i środowiska",
+    "minister rolnictwa i rozwoju wsi"
+  ]
+}

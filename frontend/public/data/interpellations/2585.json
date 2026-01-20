@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-05-13T22:00:27",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2585",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D4N9AS",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2585/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2585,
+  "receiptDate": "2024-04-17",
+  "term": 10,
+  "title": "Interpelacja w sprawie zatrudniania pracowników w likwidowanych instytutach De Republika i Pokolenia",
+  "answerDelayedDays": 0,
+  "from": [
+    "230"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "prezes Rady Ministrów",
+      "sent": "2024-04-25"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD58HWY/i02585-o1.pdf",
+          "lastModified": "2024-05-13T22:00:27",
+          "name": "i02585-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Grzegorz Karpiński",
+      "key": "D58HWY",
+      "lastModified": "2024-05-13T22:00:27",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D58HWY",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2585/reply/D58HWY/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-05-09"
+    }
+  ],
+  "sentDate": "2024-04-25",
+  "to": [
+    "prezes Rady Ministrów"
+  ]
+}

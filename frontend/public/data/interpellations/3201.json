@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-07-01T22:00:36",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=3201",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D659YU",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3201/body",
+      "rel": "body"
+    }
+  ],
+  "num": 3201,
+  "receiptDate": "2024-06-03",
+  "term": 10,
+  "title": "Interpelacja w sprawie poprawy działalności instytucji publicznych jako czynnika rozwoju gospodarczego",
+  "answerDelayedDays": 0,
+  "from": [
+    "243"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rozwoju i technologii",
+      "sent": "2024-06-11"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD6RHX5/i03201-o1.pdf",
+          "lastModified": "2024-07-01T22:00:36",
+          "name": "i03201-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Jacek Tomczak",
+      "key": "D6RHX5",
+      "lastModified": "2024-07-01T22:00:36",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D6RHX5",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3201/reply/D6RHX5/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-06-27"
+    }
+  ],
+  "sentDate": "2024-06-11",
+  "to": [
+    "minister rozwoju i technologii"
+  ]
+}

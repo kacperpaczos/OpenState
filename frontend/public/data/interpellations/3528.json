@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-07-18T22:00:51",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=3528",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D6SAJC",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3528/body",
+      "rel": "body"
+    }
+  ],
+  "num": 3528,
+  "receiptDate": "2024-06-25",
+  "term": 10,
+  "title": "Interpelacja w sprawie przyspieszenia prac nad projektem ustawy o zmianie ustawy Prawo ochrony środowiska oraz niektórych innych ustaw",
+  "answerDelayedDays": 0,
+  "from": [
+    "193"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister klimatu i środowiska",
+      "sent": "2024-07-01"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD7AHD5/i03528-o1.pdf",
+          "lastModified": "2024-07-18T22:00:51",
+          "name": "i03528-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Krzysztof Bolesta",
+      "key": "D7AHD5",
+      "lastModified": "2024-07-18T22:00:51",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D7AHD5",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3528/reply/D7AHD5/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-07-16"
+    }
+  ],
+  "sentDate": "2024-07-01",
+  "to": [
+    "minister klimatu i środowiska"
+  ]
+}

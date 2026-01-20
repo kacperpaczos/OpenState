@@ -1,0 +1,87 @@
+{
+  "lastModified": "2024-09-30T22:00:27",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=4527",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D8TC59",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4527/body",
+      "rel": "body"
+    }
+  ],
+  "num": 4527,
+  "receiptDate": "2024-08-29",
+  "term": 10,
+  "title": "Interpelacja w sprawie stypendiów doktoranckich i wynagrodzeń pracowników nauki",
+  "answerDelayedDays": 0,
+  "from": [
+    "051"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister nauki",
+      "sent": "2024-09-05"
+    },
+    {
+      "answerDelayedDays": 0,
+      "name": "minister finansów",
+      "sent": "2024-09-05"
+    }
+  ],
+  "replies": [
+    {
+      "from": "Minister Dariusz Wieczorek",
+      "key": "D9DHGL",
+      "lastModified": "2024-09-23T15:09:48",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D9DHGL",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4527/reply/D9DHGL/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-09-18"
+    },
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD9LHPJ/i04527-o2.pdf",
+          "lastModified": "2024-09-30T22:00:27",
+          "name": "i04527-o2.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Hanna Majszczyk",
+      "key": "D9LHPJ",
+      "lastModified": "2024-09-30T22:00:27",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D9LHPJ",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4527/reply/D9LHPJ/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-09-26"
+    }
+  ],
+  "sentDate": "2024-09-05",
+  "to": [
+    "minister finansów",
+    "minister nauki"
+  ]
+}

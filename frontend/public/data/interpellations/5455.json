@@ -1,0 +1,119 @@
+{
+  "lastModified": "2024-12-23T15:37:35",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5455",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DA6BCC",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5455/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5455,
+  "receiptDate": "2024-10-14",
+  "term": 10,
+  "title": "Interpelacja w sprawie zaniżonych mandatów i kar dla kierowców",
+  "answerDelayedDays": 0,
+  "from": [
+    "181",
+    "457"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister sprawiedliwości",
+      "sent": "2024-10-18"
+    },
+    {
+      "answerDelayedDays": 0,
+      "name": "minister infrastruktury",
+      "sent": "2024-10-18"
+    },
+    {
+      "answerDelayedDays": 0,
+      "name": "minister spraw wewnętrznych i administracji",
+      "sent": "2024-10-18"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDBTJT8/i05455-o1.pdf",
+          "lastModified": "2024-12-10T22:00:07",
+          "name": "i05455-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Arkadiusz Myrcha",
+      "key": "DBTJT8",
+      "lastModified": "2024-12-10T22:00:07",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DBTJT8",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5455/reply/DBTJT8/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-12-09"
+    },
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDBUFZ2/i05455-o2.pdf",
+          "lastModified": "2024-12-11T22:00:07",
+          "name": "i05455-o2.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Maciej Lasek",
+      "key": "DBUFZ2",
+      "lastModified": "2024-12-11T22:00:07",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DBUFZ2",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5455/reply/DBUFZ2/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-12-10"
+    },
+    {
+      "from": "Sekretarz stanu Czesław Mroczek",
+      "key": "DC8K6G",
+      "lastModified": "2024-12-23T15:37:35",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DC8K6G",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5455/reply/DC8K6G/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-12-20"
+    }
+  ],
+  "sentDate": "2024-10-18",
+  "to": [
+    "minister infrastruktury",
+    "minister spraw wewnętrznych i administracji",
+    "minister sprawiedliwości"
+  ]
+}

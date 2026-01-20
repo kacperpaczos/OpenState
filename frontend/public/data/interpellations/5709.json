@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-11-25T22:00:49",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5709",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAJARQ",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5709/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5709,
+  "receiptDate": "2024-10-22",
+  "term": 10,
+  "title": "Interpelacja w sprawie powołania Zespołu do spraw transformacji ciepłownictwa oraz określenia modelu funkcjonowania rynku ciepła",
+  "answerDelayedDays": 0,
+  "from": [
+    "332"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister klimatu i środowiska",
+      "sent": "2024-10-30"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDBCKEN/i05709-o1.pdf",
+          "lastModified": "2024-11-25T22:00:49",
+          "name": "i05709-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Urszula Zielińska",
+      "key": "DBCKEN",
+      "lastModified": "2024-11-25T22:00:49",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DBCKEN",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5709/reply/DBCKEN/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-11-21"
+    }
+  ],
+  "sentDate": "2024-10-30",
+  "to": [
+    "minister klimatu i środowiska"
+  ]
+}

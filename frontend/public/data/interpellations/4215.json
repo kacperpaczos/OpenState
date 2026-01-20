@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-08-27T22:00:17",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=4215",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D7VEHY",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4215/body",
+      "rel": "body"
+    }
+  ],
+  "num": 4215,
+  "receiptDate": "2024-08-01",
+  "term": 10,
+  "title": "Interpelacja w sprawie pikników promujących program \"Rodzina 800+\" w woj. łódzkim",
+  "answerDelayedDays": 0,
+  "from": [
+    "434"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rodziny, pracy i polityki społecznej",
+      "sent": "2024-08-06"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD8JJBV/i04215-o1.pdf",
+          "lastModified": "2024-08-27T22:00:17",
+          "name": "i04215-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Aleksandra Gajewska",
+      "key": "D8JJBV",
+      "lastModified": "2024-08-27T22:00:17",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D8JJBV",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4215/reply/D8JJBV/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-08-27"
+    }
+  ],
+  "sentDate": "2024-08-06",
+  "to": [
+    "minister rodziny, pracy i polityki społecznej"
+  ]
+}

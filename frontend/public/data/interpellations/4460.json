@@ -1,0 +1,71 @@
+{
+  "lastModified": "2024-11-25T22:00:48",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=4460",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D9W9BG",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4460/body",
+      "rel": "body"
+    }
+  ],
+  "num": 4460,
+  "receiptDate": "2024-08-24",
+  "term": 10,
+  "title": "Interpelacja w sprawie trudności w dostępie do usług pocztowych na przykładzie urzędów pocztowych na terenie pow. janowskiego",
+  "answerDelayedDays": 0,
+  "from": [
+    "248"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister aktywów państwowych",
+      "sent": "2024-10-10"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDBCKD5/i04460-o1.pdf",
+          "lastModified": "2024-11-25T22:00:48",
+          "name": "i04460-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Jacek Bartmiński",
+      "key": "DBCKD5",
+      "lastModified": "2024-11-25T22:00:48",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DBCKD5",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4460/reply/DBCKD5/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-11-21"
+    },
+    {
+      "from": "sekretarz stanu w Ministerstwie Aktywów Państwowych - Robert Kropiwnicki",
+      "lastModified": "2024-10-28T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-10-28"
+    }
+  ],
+  "sentDate": "2024-10-10",
+  "to": [
+    "minister aktywów państwowych"
+  ]
+}

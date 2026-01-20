@@ -1,0 +1,99 @@
+{
+  "lastModified": "2024-10-17T22:00:25",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=4835",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D9FFVR",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4835/body",
+      "rel": "body"
+    }
+  ],
+  "num": 4835,
+  "receiptDate": "2024-09-13",
+  "term": 10,
+  "title": "Interpelacja w sprawie możliwości pozyskania środków centralnych na zagospodarowanie terenów zielonych w mieście Poznań, na osiedlu Górczyn, oraz wsparcia finansowego tych działań ze środków krajowych, w tym z Krajowego Planu Odbudowy (KPO)",
+  "answerDelayedDays": 0,
+  "from": [
+    "444"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister klimatu i środowiska",
+      "sent": "2024-09-25"
+    },
+    {
+      "answerDelayedDays": 0,
+      "name": "minister funduszy i polityki regionalnej",
+      "sent": "2024-09-25"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDA5JFY/i04835-o1.pdf",
+          "lastModified": "2024-10-17T22:00:25",
+          "name": "i04835-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Urszula Zielińska",
+      "key": "DA5JFY",
+      "lastModified": "2024-10-17T22:00:25",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DA5JFY",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4835/reply/DA5JFY/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-10-15"
+    },
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDA5JFZ/i04835-o2_1.pdf",
+          "lastModified": "2024-10-17T22:00:25",
+          "name": "i04835-o2_1.pdf"
+        },
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDA5JFZ/i04835-o2_2.pdf",
+          "lastModified": "2024-10-17T22:00:25",
+          "name": "i04835-o2_2.pdf"
+        }
+      ],
+      "from": "Minister Katarzyna Pełczyńska-Nałęcz",
+      "key": "DA5JFZ",
+      "lastModified": "2024-10-17T22:00:25",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DA5JFZ",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4835/reply/DA5JFZ/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-10-15"
+    }
+  ],
+  "sentDate": "2024-09-25",
+  "to": [
+    "minister funduszy i polityki regionalnej",
+    "minister klimatu i środowiska"
+  ]
+}

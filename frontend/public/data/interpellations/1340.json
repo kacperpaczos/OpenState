@@ -1,0 +1,75 @@
+{
+  "lastModified": "2024-03-21T22:00:02",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=1340",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D28GQ6",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1340/body",
+      "rel": "body"
+    }
+  ],
+  "num": 1340,
+  "receiptDate": "2024-02-05",
+  "term": 10,
+  "title": "Interpelacja w sprawie programów dotyczących kompleksowych termomodernizacji budynków mieszkalnych oraz budynków wielorodzinnych, w których także jest prowadzona działalność gospodarcza",
+  "answerDelayedDays": 0,
+  "from": [
+    "032",
+    "033",
+    "254",
+    "397",
+    "399"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister klimatu i środowiska",
+      "sent": "2024-02-07"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD3KJSY/i01340-o1.pdf",
+          "lastModified": "2024-03-21T22:00:02",
+          "name": "i01340-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Krzysztof Bolesta",
+      "key": "D3KJSY",
+      "lastModified": "2024-03-21T22:00:02",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D3KJSY",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1340/reply/D3KJSY/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-03-19"
+    },
+    {
+      "from": "sekretarz stanu w Ministerstwie Klimatu i Środowiska - Urszula Zielińska",
+      "lastModified": "2024-02-22T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-02-22"
+    }
+  ],
+  "sentDate": "2024-02-07",
+  "to": [
+    "minister klimatu i środowiska"
+  ]
+}

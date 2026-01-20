@@ -1,0 +1,56 @@
+{
+  "lastModified": "2024-01-10T15:17:02",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=88",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CYEKQT",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/88/body",
+      "rel": "body"
+    }
+  ],
+  "num": 88,
+  "receiptDate": "2023-11-29",
+  "term": 10,
+  "title": "Interpelacja w sprawie planowanych przez funkcjonariuszy Policji odejść ze służby na emeryturę na przełomie stycznia i lutego 2024 r. w woj. podkarpackim",
+  "answerDelayedDays": 0,
+  "from": [
+    "312"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister spraw wewnętrznych i administracji",
+      "sent": "2023-12-11"
+    }
+  ],
+  "replies": [
+    {
+      "from": "Sekretarz stanu Czesław Mroczek",
+      "key": "CZCJRM",
+      "lastModified": "2024-01-10T15:17:02",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CZCJRM",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/88/reply/CZCJRM/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-01-10"
+    }
+  ],
+  "sentDate": "2023-12-11",
+  "to": [
+    "minister spraw wewnętrznych i administracji"
+  ]
+}

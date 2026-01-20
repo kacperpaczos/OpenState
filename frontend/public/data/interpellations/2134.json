@@ -1,0 +1,71 @@
+{
+  "lastModified": "2024-07-08T22:00:54",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2134",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D3SHYW",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2134/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2134,
+  "receiptDate": "2024-03-18",
+  "term": 10,
+  "title": "Interpelacja w sprawie kompleksu leśnego położonego przy południowo-wschodnich osiedlach Szczecina na Wzgórzach Bukowych",
+  "answerDelayedDays": 0,
+  "from": [
+    "234"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister klimatu i środowiska",
+      "sent": "2024-03-28"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD6YH86/i02134-o1.pdf",
+          "lastModified": "2024-07-08T22:00:54",
+          "name": "i02134-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Mikołaj Dorożała",
+      "key": "D6YH86",
+      "lastModified": "2024-07-08T22:00:54",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D6YH86",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2134/reply/D6YH86/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-07-04"
+    },
+    {
+      "from": "podsekretarz stanu w Ministerstwie Klimatu i Środowiska - Miłosz Motyka",
+      "lastModified": "2024-05-24T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-05-24"
+    }
+  ],
+  "sentDate": "2024-03-28",
+  "to": [
+    "minister klimatu i środowiska"
+  ]
+}

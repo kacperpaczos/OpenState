@@ -1,0 +1,63 @@
+{
+  "lastModified": "2025-07-14T22:00:31",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=217",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DHGD2V",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/217/body",
+      "rel": "body"
+    }
+  ],
+  "num": 217,
+  "receiptDate": "2023-12-07",
+  "term": 10,
+  "title": "Interpelacja w sprawie przekopu Mierzei Wiślanej",
+  "answerDelayedDays": 0,
+  "from": [
+    "036"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister infrastruktury",
+      "sent": "2025-06-09"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDJKJ43/i00217-o1.pdf",
+          "lastModified": "2025-07-14T22:00:31",
+          "name": "i00217-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Arkadiusz Marchewka",
+      "key": "DJKJ43",
+      "lastModified": "2025-07-14T22:00:31",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DJKJ43",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/217/reply/DJKJ43/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2025-07-10"
+    }
+  ],
+  "sentDate": "2025-06-09",
+  "to": [
+    "minister infrastruktury"
+  ]
+}

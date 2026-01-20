@@ -1,0 +1,71 @@
+{
+  "lastModified": "2024-06-04T22:00:53",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2558",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D4N99X",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2558/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2558,
+  "receiptDate": "2024-04-15",
+  "term": 10,
+  "title": "Interpelacja w sprawie Europejskiego Zielonego Ładu",
+  "answerDelayedDays": 0,
+  "from": [
+    "362"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rolnictwa i rozwoju wsi",
+      "sent": "2024-04-29"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD5WHY5/i02558-o1.pdf",
+          "lastModified": "2024-06-04T22:00:53",
+          "name": "i02558-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Adam Nowak",
+      "key": "D5WHY5",
+      "lastModified": "2024-06-04T22:00:53",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D5WHY5",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2558/reply/D5WHY5/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-06-03"
+    },
+    {
+      "from": "minister rolnictwa i rozwoju wsi - Czesław Siekierski",
+      "lastModified": "2024-05-16T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-05-16"
+    }
+  ],
+  "sentDate": "2024-04-29",
+  "to": [
+    "minister rolnictwa i rozwoju wsi"
+  ]
+}

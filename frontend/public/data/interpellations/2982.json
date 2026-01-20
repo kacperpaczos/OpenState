@@ -1,0 +1,64 @@
+{
+  "lastModified": "2024-07-12T22:00:50",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2982",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D65APG",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2982/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2982,
+  "receiptDate": "2024-05-27",
+  "term": 10,
+  "title": "Interpelacja w sprawie budowy stopnia wodnego w Siarzewie",
+  "answerDelayedDays": 0,
+  "from": [
+    "027",
+    "119"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister infrastruktury",
+      "sent": "2024-06-11"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD74HSA/i02982-o1.pdf",
+          "lastModified": "2024-07-12T22:00:50",
+          "name": "i02982-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Piotr Malepszak",
+      "key": "D74HSA",
+      "lastModified": "2024-07-12T22:00:50",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D74HSA",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2982/reply/D74HSA/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-07-11"
+    }
+  ],
+  "sentDate": "2024-06-11",
+  "to": [
+    "minister infrastruktury"
+  ]
+}

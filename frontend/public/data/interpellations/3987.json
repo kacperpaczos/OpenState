@@ -1,0 +1,71 @@
+{
+  "lastModified": "2024-09-05T22:00:53",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=3987",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D7HHLU",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3987/body",
+      "rel": "body"
+    }
+  ],
+  "num": 3987,
+  "receiptDate": "2024-07-23",
+  "term": 10,
+  "title": "Interpelacja w sprawie znajdujących się na zaawansowanym etapie prac przygotowawczych w ramach projektów modernizacji linii kolejowych o kluczowym znaczeniu dla komunikacji Opolszczyzny z resztą kraju",
+  "answerDelayedDays": 0,
+  "from": [
+    "175"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister infrastruktury",
+      "sent": "2024-07-25"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD8TH88/i03987-o1.pdf",
+          "lastModified": "2024-09-05T22:00:53",
+          "name": "i03987-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Piotr Malepszak",
+      "key": "D8TH88",
+      "lastModified": "2024-09-05T22:00:53",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D8TH88",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3987/reply/D8TH88/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-09-04"
+    },
+    {
+      "from": "podsekretarz stanu w Ministerstwie Infrastruktury - Przemysław Koperski",
+      "lastModified": "2024-08-27T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-08-27"
+    }
+  ],
+  "sentDate": "2024-07-25",
+  "to": [
+    "minister infrastruktury"
+  ]
+}

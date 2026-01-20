@@ -1,0 +1,74 @@
+{
+  "lastModified": "2024-08-19T22:00:59",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=3714",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D73FCH",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3714/body",
+      "rel": "body"
+    }
+  ],
+  "num": 3714,
+  "receiptDate": "2024-07-08",
+  "term": 10,
+  "title": "Interpelacja w sprawie obowiązkowego przeszkolenia pielęgniarek i położnych przed powrotem do wykonywania zawodu",
+  "answerDelayedDays": 0,
+  "from": [
+    "080",
+    "285",
+    "296",
+    "422"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister zdrowia",
+      "sent": "2024-07-11"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD8AJ3E/i03714-o1.pdf",
+          "lastModified": "2024-08-19T22:00:59",
+          "name": "i03714-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Marek Kos",
+      "key": "D8AJ3E",
+      "lastModified": "2024-08-19T22:00:59",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D8AJ3E",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3714/reply/D8AJ3E/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-08-16"
+    },
+    {
+      "from": "sekretarz stanu w Ministerstwie Zdrowia - Wojciech Konieczny",
+      "lastModified": "2024-08-01T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-08-01"
+    }
+  ],
+  "sentDate": "2024-07-11",
+  "to": [
+    "minister zdrowia"
+  ]
+}

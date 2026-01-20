@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-03-07T22:00:35",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=959",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CZYFNL",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/959/body",
+      "rel": "body"
+    }
+  ],
+  "num": 959,
+  "receiptDate": "2024-01-16",
+  "term": 10,
+  "title": "Interpelacja w sprawie rozwiązania problemów dotyczących funkcjonariuszy i pracowników więziennictwa",
+  "answerDelayedDays": 0,
+  "from": [
+    "389"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister sprawiedliwości",
+      "sent": "2024-01-30"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD35JV9/i00959-o1.pdf",
+          "lastModified": "2024-03-07T22:00:35",
+          "name": "i00959-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Maria Ejchart",
+      "key": "D35JV9",
+      "lastModified": "2024-03-07T22:00:35",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D35JV9",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/959/reply/D35JV9/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-03-05"
+    }
+  ],
+  "sentDate": "2024-01-30",
+  "to": [
+    "minister sprawiedliwości"
+  ]
+}

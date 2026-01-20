@@ -1,0 +1,90 @@
+{
+  "lastModified": "2024-04-15T22:00:16",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2366",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D3SJ8Q",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2366/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2366,
+  "receiptDate": "2024-03-23",
+  "term": 10,
+  "title": "Interpelacja w sprawie podniesienia limitów przyjęć studentów na studia medyczne",
+  "answerDelayedDays": 0,
+  "from": [
+    "154",
+    "234",
+    "356",
+    "435"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister nauki",
+      "sent": "2024-03-28"
+    },
+    {
+      "answerDelayedDays": 0,
+      "name": "minister zdrowia",
+      "sent": "2024-03-28"
+    }
+  ],
+  "replies": [
+    {
+      "from": "Podsekretarz stanu Maria Mrówczyńska",
+      "key": "D49HE7",
+      "lastModified": "2024-04-12T15:06:03",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D49HE7",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2366/reply/D49HE7/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-04-11"
+    },
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD4CHYP/i02366-o2.pdf",
+          "lastModified": "2024-04-15T22:00:16",
+          "name": "i02366-o2.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Marek Kos",
+      "key": "D4CHYP",
+      "lastModified": "2024-04-15T22:00:16",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D4CHYP",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2366/reply/D4CHYP/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-04-12"
+    }
+  ],
+  "sentDate": "2024-03-28",
+  "to": [
+    "minister nauki",
+    "minister zdrowia"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "lastModified": "2024-07-23T22:00:38",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=3127",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D659WJ",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3127/body",
+      "rel": "body"
+    }
+  ],
+  "num": 3127,
+  "receiptDate": "2024-06-02",
+  "term": 10,
+  "title": "Interpelacja w sprawie współpracy instytucji wzmacniających kapitał terytorialny w kontekście rozwoju regionalnego",
+  "answerDelayedDays": 0,
+  "from": [
+    "243"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister funduszy i polityki regionalnej",
+      "sent": "2024-06-11"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD7FGPH/i03127-o1.pdf",
+          "lastModified": "2024-07-23T22:00:38",
+          "name": "i03127-o1.pdf"
+        }
+      ],
+      "from": "Minister Katarzyna Pełczyńska-Nałęcz",
+      "key": "D7FGPH",
+      "lastModified": "2024-07-23T22:00:38",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D7FGPH",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3127/reply/D7FGPH/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-07-20"
+    },
+    {
+      "from": "minister funduszy i polityki regionalnej - Katarzyna Pełczyńska-Nałęcz",
+      "lastModified": "2024-07-01T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-07-01"
+    }
+  ],
+  "sentDate": "2024-06-11",
+  "to": [
+    "minister funduszy i polityki regionalnej"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "lastModified": "2024-05-15T22:00:23",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2454",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D46HCK",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2454/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2454,
+  "receiptDate": "2024-03-29",
+  "term": 10,
+  "title": "Interpelacja w sprawie budowy Zakładu Integracji i Testowania Półprzewodników",
+  "answerDelayedDays": 0,
+  "from": [
+    "003"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rozwoju i technologii",
+      "sent": "2024-04-10"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD5AHKS/i02454-o1.pdf",
+          "lastModified": "2024-05-15T22:00:23",
+          "name": "i02454-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Jacek Tomczak",
+      "key": "D5AHKS",
+      "lastModified": "2024-05-15T22:00:23",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D5AHKS",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2454/reply/D5AHKS/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-05-13"
+    },
+    {
+      "from": "sekretarz stanu w Ministerstwie Rozwoju i Technologii - Waldemar Sługocki",
+      "lastModified": "2024-04-24T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-04-24"
+    }
+  ],
+  "sentDate": "2024-04-10",
+  "to": [
+    "minister rozwoju i technologii"
+  ]
+}

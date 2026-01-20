@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-06-05T22:00:53",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2730",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D55B3U",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2730/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2730,
+  "receiptDate": "2024-05-04",
+  "term": 10,
+  "title": "Interpelacja w sprawie cyfrowej wypożyczalni Biblioteki Narodowej",
+  "answerDelayedDays": 0,
+  "from": [
+    "461"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister kultury i dziedzictwa narodowego",
+      "sent": "2024-05-10"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD5XHLL/i02730-o1.pdf",
+          "lastModified": "2024-06-05T22:00:53",
+          "name": "i02730-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Andrzej Wyrobiec",
+      "key": "D5XHLL",
+      "lastModified": "2024-06-05T22:00:53",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D5XHLL",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2730/reply/D5XHLL/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-06-04"
+    }
+  ],
+  "sentDate": "2024-05-10",
+  "to": [
+    "minister kultury i dziedzictwa narodowego"
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "lastModified": "2025-02-03T15:40:57",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5777",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAJATQ",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5777/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5777,
+  "receiptDate": "2024-10-25",
+  "term": 10,
+  "title": "Interpelacja w sprawie wydatków poniesionych przez Ministerstwo Edukacji Narodowej i podmioty podległe - nadzorowane na cele promocyjne i reklamowe od 13 grudnia 2023 r.",
+  "answerDelayedDays": 0,
+  "from": [
+    "052",
+    "061",
+    "071",
+    "109",
+    "150",
+    "234",
+    "356",
+    "407",
+    "435"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister edukacji",
+      "sent": "2024-10-30"
+    }
+  ],
+  "replies": [
+    {
+      "from": "Sekretarz stanu Katarzyna Lubnauer",
+      "key": "DDJK8M",
+      "lastModified": "2025-02-03T15:40:57",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DDJK8M",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5777/reply/DDJK8M/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2025-01-31"
+    },
+    {
+      "from": "podsekretarz stanu w Ministerstwie Edukacji Narodowej - Paulina Piechna-Więckiewicz",
+      "lastModified": "2024-11-18T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-11-18"
+    }
+  ],
+  "sentDate": "2024-10-30",
+  "to": [
+    "minister edukacji"
+  ]
+}

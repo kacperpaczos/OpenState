@@ -1,0 +1,93 @@
+{
+  "lastModified": "2024-09-23T15:09:47",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2885",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D65B5U",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2885/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2885,
+  "receiptDate": "2024-05-17",
+  "term": 10,
+  "title": "Interpelacja w sprawie problemów kadrowych w służbach mundurowych",
+  "answerDelayedDays": 0,
+  "from": [
+    "234"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister - członek Rady Ministrów, koordynator służb specjalnych",
+      "sent": "2024-06-11"
+    },
+    {
+      "answerDelayedDays": 0,
+      "name": "minister sprawiedliwości",
+      "sent": "2024-06-11"
+    },
+    {
+      "answerDelayedDays": 0,
+      "name": "minister spraw wewnętrznych i administracji",
+      "sent": "2024-06-11"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD6UHA6/i02885-o1.pdf",
+          "lastModified": "2024-07-04T22:00:35",
+          "name": "i02885-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Maria Ejchart",
+      "key": "D6UHA6",
+      "lastModified": "2024-07-04T22:00:35",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D6UHA6",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2885/reply/D6UHA6/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-07-02"
+    },
+    {
+      "from": "Sekretarz stanu Czesław Mroczek",
+      "key": "D9DHFK",
+      "lastModified": "2024-09-23T15:09:47",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D9DHFK",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2885/reply/D9DHFK/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-09-20"
+    }
+  ],
+  "sentDate": "2024-06-11",
+  "to": [
+    "minister - członek Rady Ministrów, koordynator służb specjalnych",
+    "minister spraw wewnętrznych i administracji",
+    "minister sprawiedliwości"
+  ]
+}

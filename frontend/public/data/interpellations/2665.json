@@ -1,0 +1,71 @@
+{
+  "lastModified": "2024-05-27T22:00:41",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2665",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D4TAFL",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2665/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2665,
+  "receiptDate": "2024-04-25",
+  "term": 10,
+  "title": "Interpelacja w sprawie kontynuacji prac renowacyjnych grobów zmarłych członków rządów II RP i rządów na Uchodźstwie",
+  "answerDelayedDays": 0,
+  "from": [
+    "075"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "prezes Rady Ministrów",
+      "sent": "2024-04-30"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD5NHTZ/i02665-o1.pdf",
+          "lastModified": "2024-05-27T22:00:41",
+          "name": "i02665-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Grzegorz Karpiński",
+      "key": "D5NHTZ",
+      "lastModified": "2024-05-27T22:00:41",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D5NHTZ",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2665/reply/D5NHTZ/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-05-24"
+    },
+    {
+      "from": "minister - członek Rady Ministrów - Maciej Berek",
+      "lastModified": "2024-05-23T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-05-23"
+    }
+  ],
+  "sentDate": "2024-04-30",
+  "to": [
+    "prezes Rady Ministrów"
+  ]
+}

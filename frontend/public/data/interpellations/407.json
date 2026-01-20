@@ -1,0 +1,96 @@
+{
+  "lastModified": "2024-02-28T22:00:42",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=407",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CZDB3C",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/407/body",
+      "rel": "body"
+    }
+  ],
+  "num": 407,
+  "receiptDate": "2023-12-28",
+  "term": 10,
+  "title": "Interpelacja w sprawie trybu zatrudniania pracowników w mediach publicznych",
+  "answerDelayedDays": 0,
+  "from": [
+    "330"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister kultury i dziedzictwa narodowego",
+      "sent": "2024-01-31"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD28JTW/i00407-o1.pdf",
+          "lastModified": "2024-02-07T22:00:16",
+          "name": "i00407-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Andrzej Wyrobiec",
+      "key": "D28JTW",
+      "lastModified": "2024-02-07T22:00:16",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D28JTW",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/407/reply/D28JTW/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-02-06"
+    },
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD2VJHH/i00407-o2.pdf",
+          "lastModified": "2024-02-28T22:00:42",
+          "name": "i00407-o2.pdf"
+        }
+      ],
+      "from": "Minister Jan Grabiec",
+      "key": "D2VJHH",
+      "lastModified": "2024-02-28T22:00:42",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D2VJHH",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/407/reply/D2VJHH/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-02-26"
+    },
+    {
+      "from": "minister - członek Rady Ministrów - Maciej Berek",
+      "lastModified": "2024-01-31T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-01-31"
+    }
+  ],
+  "sentDate": "2024-01-31",
+  "to": [
+    "minister kultury i dziedzictwa narodowego"
+  ]
+}

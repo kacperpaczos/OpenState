@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-08-01T22:00:09",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2848",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D65B4P",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2848/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2848,
+  "receiptDate": "2024-05-16",
+  "term": 10,
+  "title": "Interpelacja w sprawie ławników w polskich sądach",
+  "answerDelayedDays": 0,
+  "from": [
+    "434"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister sprawiedliwości",
+      "sent": "2024-06-10"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD7QHEK/i02848-o1.pdf",
+          "lastModified": "2024-08-01T22:00:09",
+          "name": "i02848-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Dariusz Mazur",
+      "key": "D7QHEK",
+      "lastModified": "2024-08-01T22:00:09",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D7QHEK",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2848/reply/D7QHEK/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-07-26"
+    }
+  ],
+  "sentDate": "2024-06-10",
+  "to": [
+    "minister sprawiedliwości"
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "lastModified": "2024-10-25T22:00:22",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=4899",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D9FFXM",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4899/body",
+      "rel": "body"
+    }
+  ],
+  "num": 4899,
+  "receiptDate": "2024-09-17",
+  "term": 10,
+  "title": "Interpelacja w sprawie wykorzystania tunelu średnicowego w Łodzi jako schronu w razie zagrożenia",
+  "answerDelayedDays": 0,
+  "from": [
+    "239"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister spraw wewnętrznych i administracji",
+      "sent": "2024-09-25"
+    },
+    {
+      "answerDelayedDays": 0,
+      "name": "minister infrastruktury",
+      "sent": "2024-09-25"
+    }
+  ],
+  "replies": [
+    {
+      "from": "Podsekretarz stanu Wiesław Leśniakiewicz",
+      "key": "DA2HPG",
+      "lastModified": "2024-10-14T15:20:54",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DA2HPG",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4899/reply/DA2HPG/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-10-11"
+    },
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDADJ8Y/i04899-o2.pdf",
+          "lastModified": "2024-10-25T22:00:22",
+          "name": "i04899-o2.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Piotr Malepszak",
+      "key": "DADJ8Y",
+      "lastModified": "2024-10-25T22:00:22",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DADJ8Y",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4899/reply/DADJ8Y/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-10-23"
+    }
+  ],
+  "sentDate": "2024-09-25",
+  "to": [
+    "minister infrastruktury",
+    "minister spraw wewnętrznych i administracji"
+  ]
+}

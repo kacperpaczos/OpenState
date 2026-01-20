@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-11-28T22:00:48",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5359",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DA2BZ8",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5359/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5359,
+  "receiptDate": "2024-10-09",
+  "term": 10,
+  "title": "Interpelacja w sprawie wyznaczenia nowych przejść dla pieszych w ciągu DK44 w gm. Brzeźnica",
+  "answerDelayedDays": 0,
+  "from": [
+    "193"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister infrastruktury",
+      "sent": "2024-10-14"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDBFJRC/i05359-o1.pdf",
+          "lastModified": "2024-11-28T22:00:48",
+          "name": "i05359-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Stanisław Bukowiec",
+      "key": "DBFJRC",
+      "lastModified": "2024-11-28T22:00:48",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DBFJRC",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5359/reply/DBFJRC/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-11-27"
+    }
+  ],
+  "sentDate": "2024-10-14",
+  "to": [
+    "minister infrastruktury"
+  ]
+}

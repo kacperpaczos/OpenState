@@ -1,0 +1,95 @@
+{
+  "lastModified": "2024-03-21T22:00:02",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=1461",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D2NGSZ",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1461/body",
+      "rel": "body"
+    }
+  ],
+  "num": 1461,
+  "receiptDate": "2024-02-14",
+  "term": 10,
+  "title": "Interpelacja w sprawie przeciwdziałania rażącym naruszeniom przepisów ruchu drogowego na przejazdach kolejowych",
+  "answerDelayedDays": 0,
+  "from": [
+    "239"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister infrastruktury",
+      "sent": "2024-02-21"
+    },
+    {
+      "answerDelayedDays": 0,
+      "name": "minister spraw wewnętrznych i administracji",
+      "sent": "2024-02-21"
+    }
+  ],
+  "replies": [
+    {
+      "from": "Sekretarz stanu Tomasz Szymański",
+      "key": "D3DKHU",
+      "lastModified": "2024-03-15T15:55:40",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D3DKHU",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1461/reply/D3DKHU/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-03-14"
+    },
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD3KJSZ/i01461-o2.pdf",
+          "lastModified": "2024-03-21T22:00:02",
+          "name": "i01461-o2.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Piotr Malepszak",
+      "key": "D3KJSZ",
+      "lastModified": "2024-03-21T22:00:02",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D3KJSZ",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1461/reply/D3KJSZ/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-03-20"
+    },
+    {
+      "from": "podsekretarz stanu w Ministerstwie Infrastruktury - Piotr Malepszak",
+      "lastModified": "2024-03-14T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-03-14"
+    }
+  ],
+  "sentDate": "2024-02-21",
+  "to": [
+    "minister infrastruktury",
+    "minister spraw wewnętrznych i administracji"
+  ]
+}

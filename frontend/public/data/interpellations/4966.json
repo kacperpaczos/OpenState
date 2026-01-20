@@ -1,0 +1,63 @@
+{
+  "lastModified": "2025-02-03T22:00:04",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=4966",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D9W9BN",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4966/body",
+      "rel": "body"
+    }
+  ],
+  "num": 4966,
+  "receiptDate": "2024-09-21",
+  "term": 10,
+  "title": "Interpelacja w sprawie delegacji krajowych i zagranicznych pracowników oraz dyrekcji Ministerstwa Cyfryzacji, jednostek podległych lub nadzorowanych",
+  "answerDelayedDays": 0,
+  "from": [
+    "311"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister cyfryzacji",
+      "sent": "2024-10-10"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDDJK8K/i04966-o1.pdf",
+          "lastModified": "2025-02-03T22:00:04",
+          "name": "i04966-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Dariusz Standerski",
+      "key": "DDJK8K",
+      "lastModified": "2025-02-03T22:00:04",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DDJK8K",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4966/reply/DDJK8K/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2025-01-31"
+    }
+  ],
+  "sentDate": "2024-10-10",
+  "to": [
+    "minister cyfryzacji"
+  ]
+}

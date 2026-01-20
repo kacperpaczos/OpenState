@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-09-18T22:00:26",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=4375",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D8DDDF",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4375/body",
+      "rel": "body"
+    }
+  ],
+  "num": 4375,
+  "receiptDate": "2024-08-18",
+  "term": 10,
+  "title": "Interpelacja w sprawie postulatów przewoźników dotyczących reakcji na kryzys w branży transportowej",
+  "answerDelayedDays": 0,
+  "from": [
+    "444"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister infrastruktury",
+      "sent": "2024-08-22"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD98HCW/i04375-o1.pdf",
+          "lastModified": "2024-09-18T22:00:26",
+          "name": "i04375-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Stanisław Bukowiec",
+      "key": "D98HCW",
+      "lastModified": "2024-09-18T22:00:26",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D98HCW",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4375/reply/D98HCW/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-09-16"
+    }
+  ],
+  "sentDate": "2024-08-22",
+  "to": [
+    "minister infrastruktury"
+  ]
+}

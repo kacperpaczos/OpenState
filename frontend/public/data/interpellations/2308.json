@@ -1,0 +1,56 @@
+{
+  "lastModified": "2024-04-18T14:52:03",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2308",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D3SJ6X",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2308/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2308,
+  "receiptDate": "2024-03-23",
+  "term": 10,
+  "title": "Interpelacja w sprawie wiarygodności informacji o liczbie ofiar cywilnych w Strefie Gazy",
+  "answerDelayedDays": 0,
+  "from": [
+    "137"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister spraw zagranicznych",
+      "sent": "2024-03-28"
+    }
+  ],
+  "replies": [
+    {
+      "from": "Sekretarz stanu Władysław Teofil Bartoszewski",
+      "key": "D4FH54",
+      "lastModified": "2024-04-18T14:52:03",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D4FH54",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2308/reply/D4FH54/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-04-17"
+    }
+  ],
+  "sentDate": "2024-03-28",
+  "to": [
+    "minister spraw zagranicznych"
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "lastModified": "2024-06-26T22:00:34",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2423",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D46HBP",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2423/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2423,
+  "receiptDate": "2024-03-27",
+  "term": 10,
+  "title": "Interpelacja w sprawie możliwości pobierania świadczenia pielęgnacyjnego z zachowaniem praw nabytych po 1 stycznia 2024 r.",
+  "answerDelayedDays": 0,
+  "from": [
+    "127"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rodziny, pracy i polityki społecznej",
+      "sent": "2024-04-09"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD6LHJS/i02423-o1.pdf",
+          "lastModified": "2024-06-26T22:00:34",
+          "name": "i02423-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Aleksandra Gajewska",
+      "key": "D6LHJS",
+      "lastModified": "2024-06-26T22:00:34",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D6LHJS",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2423/reply/D6LHJS/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-06-25"
+    },
+    {
+      "from": "sekretarz stanu w Ministerstwie Rodziny, Pracy i Polityki Społecznej - Aleksandra Gajewska",
+      "lastModified": "2024-05-06T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-05-06"
+    },
+    {
+      "from": "sekretarz stanu w Ministerstwie Rodziny, Pracy i Polityki Społecznej - Aleksandra Gajewska",
+      "lastModified": "2024-06-03T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-06-03"
+    },
+    {
+      "from": "sekretarz stanu w Ministerstwie Rodziny, Pracy i Polityki Społecznej - Aleksandra Gajewska",
+      "lastModified": "2024-06-14T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-06-14"
+    }
+  ],
+  "sentDate": "2024-04-09",
+  "to": [
+    "minister rodziny, pracy i polityki społecznej"
+  ]
+}

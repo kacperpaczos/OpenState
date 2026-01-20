@@ -1,0 +1,72 @@
+{
+  "lastModified": "2024-02-07T15:20:37",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=12",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CYAHBJ",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/12/body",
+      "rel": "body"
+    }
+  ],
+  "num": 12,
+  "receiptDate": "2023-11-20",
+  "term": 10,
+  "title": "Interpelacja w sprawie wydatków na świadczenie rodzicielskie (\"kosiniakowe\"), wysokości tego świadczenia oraz liczby osób otrzymujących to świadczenie w latach 2016-2022",
+  "answerDelayedDays": 0,
+  "from": [
+    "032"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rodziny i polityki społecznej",
+      "sent": "2023-12-07"
+    }
+  ],
+  "replies": [
+    {
+      "from": "Minister Agnieszka Dziemianowicz-Bąk",
+      "key": "D28JTS",
+      "lastModified": "2024-02-07T15:20:37",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D28JTS",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/12/reply/D28JTS/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-02-06"
+    },
+    {
+      "from": "minister rodziny, pracy i polityki społecznej - Agnieszka Dziemianowicz-Bąk",
+      "lastModified": "2024-01-11T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-01-11"
+    },
+    {
+      "from": "minister rodziny, pracy i polityki społecznej - Agnieszka Dziemianowicz-Bąk",
+      "lastModified": "2024-01-22T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-01-22"
+    }
+  ],
+  "sentDate": "2023-12-07",
+  "to": [
+    "minister rodziny i polityki społecznej"
+  ]
+}

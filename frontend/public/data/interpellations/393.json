@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-01-29T22:00:51",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=393",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CZDB2W",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/393/body",
+      "rel": "body"
+    }
+  ],
+  "num": 393,
+  "receiptDate": "2023-12-27",
+  "term": 10,
+  "title": "Interpelacja w sprawie rozszerzenia programu refundacji Enhertu",
+  "answerDelayedDays": 0,
+  "from": [
+    "417"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister zdrowia",
+      "sent": "2024-01-10"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTCZXK73/i00393-o1.pdf",
+          "lastModified": "2024-01-29T22:00:51",
+          "name": "i00393-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Maciej Miłkowski",
+      "key": "CZXK73",
+      "lastModified": "2024-01-29T22:00:51",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CZXK73",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/393/reply/CZXK73/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-01-26"
+    }
+  ],
+  "sentDate": "2024-01-10",
+  "to": [
+    "minister zdrowia"
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "lastModified": "2024-10-03T15:12:14",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=4364",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D8DDD4",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4364/body",
+      "rel": "body"
+    }
+  ],
+  "num": 4364,
+  "receiptDate": "2024-08-16",
+  "term": 10,
+  "title": "Interpelacja w sprawie realizacji wypłaty dodatku wprowadzającego oraz zapowiadanego zwiększenia uposażeń strażakom Państwowej Straży Pożarnej",
+  "answerDelayedDays": 0,
+  "from": [
+    "065"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister spraw wewnętrznych i administracji",
+      "sent": "2024-08-22"
+    }
+  ],
+  "replies": [
+    {
+      "from": "Sekretarz stanu Wiesław Szczepański",
+      "key": "D9PHH7",
+      "lastModified": "2024-10-03T15:12:14",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D9PHH7",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4364/reply/D9PHH7/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-10-03"
+    }
+  ],
+  "sentDate": "2024-08-22",
+  "to": [
+    "minister spraw wewnętrznych i administracji"
+  ]
+}

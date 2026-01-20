@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-01-09T22:00:39",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=248",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CYNKGZ",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/248/body",
+      "rel": "body"
+    }
+  ],
+  "num": 248,
+  "receiptDate": "2023-12-13",
+  "term": 10,
+  "title": "Interpelacja w sprawie przeprowadzenia audytu i najbliższych planów ministra - członka Rady Ministrów, koordynatora służb specjalnych",
+  "answerDelayedDays": 0,
+  "from": [
+    "406"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister - członek Rady Ministrów, koordynator służb specjalnych",
+      "sent": "2023-12-19"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTCZBKBA/i00248-o1.pdf",
+          "lastModified": "2024-01-09T22:00:39",
+          "name": "i00248-o1.pdf"
+        }
+      ],
+      "from": "Minister Tomasz Siemoniak",
+      "key": "CZBKBA",
+      "lastModified": "2024-01-09T22:00:39",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CZBKBA",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/248/reply/CZBKBA/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-01-08"
+    }
+  ],
+  "sentDate": "2023-12-19",
+  "to": [
+    "minister - członek Rady Ministrów, koordynator służb specjalnych"
+  ]
+}

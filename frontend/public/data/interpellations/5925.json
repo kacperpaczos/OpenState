@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-11-27T22:00:48",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5925",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAQCN4",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5925/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5925,
+  "receiptDate": "2024-10-31",
+  "term": 10,
+  "title": "Interpelacja w sprawie zwiększenia cyfrowej dostępności dla seniorów",
+  "answerDelayedDays": 0,
+  "from": [
+    "481"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister cyfryzacji",
+      "sent": "2024-11-05"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDBEJNX/i05925-o1.pdf",
+          "lastModified": "2024-11-27T22:00:48",
+          "name": "i05925-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Paweł Olszewski",
+      "key": "DBEJNX",
+      "lastModified": "2024-11-27T22:00:48",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DBEJNX",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5925/reply/DBEJNX/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-11-26"
+    }
+  ],
+  "sentDate": "2024-11-05",
+  "to": [
+    "minister cyfryzacji"
+  ]
+}

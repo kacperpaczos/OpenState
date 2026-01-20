@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-04-19T22:00:16",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2276",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D3SJ5X",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2276/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2276,
+  "receiptDate": "2024-03-21",
+  "term": 10,
+  "title": "Interpelacja w sprawie programu budowy nowoczesnych targowisk",
+  "answerDelayedDays": 0,
+  "from": [
+    "243"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rolnictwa i rozwoju wsi",
+      "sent": "2024-03-28"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD4GJBC/i02276-o1.pdf",
+          "lastModified": "2024-04-19T22:00:16",
+          "name": "i02276-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Michał Kołodziejczak",
+      "key": "D4GJBC",
+      "lastModified": "2024-04-19T22:00:16",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D4GJBC",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2276/reply/D4GJBC/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-04-18"
+    }
+  ],
+  "sentDate": "2024-03-28",
+  "to": [
+    "minister rolnictwa i rozwoju wsi"
+  ]
+}

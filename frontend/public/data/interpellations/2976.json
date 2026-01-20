@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-07-09T22:00:50",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2976",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D67JEV",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2976/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2976,
+  "receiptDate": "2024-05-25",
+  "term": 10,
+  "title": "Interpelacja w sprawie aktualizacji \"Rządowego programu budowy lub modernizacji przystanków kolejowych na lata 2021-2025\" o przystanki na terenie Tarnowa",
+  "answerDelayedDays": 0,
+  "from": [
+    "408"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister infrastruktury",
+      "sent": "2024-06-13"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD6ZHPL/i02976-o1.pdf",
+          "lastModified": "2024-07-09T22:00:50",
+          "name": "i02976-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Piotr Malepszak",
+      "key": "D6ZHPL",
+      "lastModified": "2024-07-09T22:00:50",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D6ZHPL",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2976/reply/D6ZHPL/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-07-08"
+    }
+  ],
+  "sentDate": "2024-06-13",
+  "to": [
+    "minister infrastruktury"
+  ]
+}

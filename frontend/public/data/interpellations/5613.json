@@ -1,0 +1,63 @@
+{
+  "lastModified": "2025-02-07T22:00:04",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5613",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAJB3L",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5613/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5613,
+  "receiptDate": "2024-10-18",
+  "term": 10,
+  "title": "Interpelacja w sprawie usprawnienia funkcjonowania systemu sprawiedliwości",
+  "answerDelayedDays": 0,
+  "from": [
+    "445"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister sprawiedliwości",
+      "sent": "2024-10-30"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDDNJTS/i05613-o1.pdf",
+          "lastModified": "2025-02-07T22:00:04",
+          "name": "i05613-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Arkadiusz Myrcha",
+      "key": "DDNJTS",
+      "lastModified": "2025-02-07T22:00:04",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DDNJTS",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5613/reply/DDNJTS/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-12-27"
+    }
+  ],
+  "sentDate": "2024-10-30",
+  "to": [
+    "minister sprawiedliwości"
+  ]
+}

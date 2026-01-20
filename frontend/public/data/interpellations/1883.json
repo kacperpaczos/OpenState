@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-04-04T22:01:04",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=1883",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D3DKKH",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1883/body",
+      "rel": "body"
+    }
+  ],
+  "num": 1883,
+  "receiptDate": "2024-03-04",
+  "term": 10,
+  "title": "Interpelacja w sprawie Europejskiego Zielonego Ładu w rolnictwie",
+  "answerDelayedDays": 0,
+  "from": [
+    "316"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rolnictwa i rozwoju wsi",
+      "sent": "2024-03-20"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD3ZHH3/i01883-o1.pdf",
+          "lastModified": "2024-04-04T22:01:04",
+          "name": "i01883-o1.pdf"
+        }
+      ],
+      "from": "Minister Czesław Siekierski",
+      "key": "D3ZHH3",
+      "lastModified": "2024-04-04T22:01:04",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D3ZHH3",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1883/reply/D3ZHH3/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-04-02"
+    }
+  ],
+  "sentDate": "2024-03-20",
+  "to": [
+    "minister rolnictwa i rozwoju wsi"
+  ]
+}

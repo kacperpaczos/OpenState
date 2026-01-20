@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-04-08T22:00:28",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=1996",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D3DKP2",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1996/body",
+      "rel": "body"
+    }
+  ],
+  "num": 1996,
+  "receiptDate": "2024-03-11",
+  "term": 10,
+  "title": "Interpelacja w sprawie strategii rządu w związku z przepisami Europejskiego Zielonego Ładu",
+  "answerDelayedDays": 0,
+  "from": [
+    "290"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rolnictwa i rozwoju wsi",
+      "sent": "2024-03-15"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD45HLK/i01996-o1.pdf",
+          "lastModified": "2024-04-08T22:00:28",
+          "name": "i01996-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Jacek Czerniak",
+      "key": "D45HLK",
+      "lastModified": "2024-04-08T22:00:28",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D45HLK",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1996/reply/D45HLK/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-04-05"
+    }
+  ],
+  "sentDate": "2024-03-15",
+  "to": [
+    "minister rolnictwa i rozwoju wsi"
+  ]
+}

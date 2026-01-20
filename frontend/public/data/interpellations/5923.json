@@ -1,0 +1,71 @@
+{
+  "lastModified": "2024-12-09T22:00:07",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5923",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAQCN2",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5923/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5923,
+  "receiptDate": "2024-10-31",
+  "term": 10,
+  "title": "Interpelacja w sprawie sytuacji osób korzystających ze świadczenia rentowego oraz mających orzeczenie o całkowitej niezdolności do pracy i samodzielnej egzystencji",
+  "answerDelayedDays": 0,
+  "from": [
+    "319"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rodziny, pracy i polityki społecznej",
+      "sent": "2024-11-05"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDBSJRX/i05923-o1.pdf",
+          "lastModified": "2024-12-09T22:00:07",
+          "name": "i05923-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Łukasz Krasoń",
+      "key": "DBSJRX",
+      "lastModified": "2024-12-09T22:00:07",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DBSJRX",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5923/reply/DBSJRX/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-12-06"
+    },
+    {
+      "from": "sekretarz stanu w Ministerstwie Rodziny, Pracy i Polityki Społecznej - Łukasz Krasoń",
+      "lastModified": "2024-12-03T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-12-03"
+    }
+  ],
+  "sentDate": "2024-11-05",
+  "to": [
+    "minister rodziny, pracy i polityki społecznej"
+  ]
+}

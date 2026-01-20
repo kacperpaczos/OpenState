@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-11-19T22:00:07",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5607",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAJB3E",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5607/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5607,
+  "receiptDate": "2024-10-18",
+  "term": 10,
+  "title": "Interpelacja w sprawie edukacji kulturalnej w Polsce",
+  "answerDelayedDays": 0,
+  "from": [
+    "481"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister kultury i dziedzictwa narodowego",
+      "sent": "2024-10-29"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDB6KNK/i05607-o1.pdf",
+          "lastModified": "2024-11-19T22:00:07",
+          "name": "i05607-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Andrzej Wyrobiec",
+      "key": "DB6KNK",
+      "lastModified": "2024-11-19T22:00:07",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DB6KNK",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5607/reply/DB6KNK/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-11-18"
+    }
+  ],
+  "sentDate": "2024-10-29",
+  "to": [
+    "minister kultury i dziedzictwa narodowego"
+  ]
+}

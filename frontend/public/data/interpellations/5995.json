@@ -1,0 +1,63 @@
+{
+  "lastModified": "2025-01-09T22:00:01",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5995",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DATBAK",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5995/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5995,
+  "receiptDate": "2024-11-04",
+  "term": 10,
+  "title": "Interpelacja w sprawie wstrzymania finansowania inwestycji na rzecz 18. Brygady Zmechanizowanej",
+  "answerDelayedDays": 0,
+  "from": [
+    "020"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister obrony narodowej",
+      "sent": "2024-11-07"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDCRKMD/i05995-o1.pdf",
+          "lastModified": "2025-01-09T22:00:01",
+          "name": "i05995-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Paweł Bejda",
+      "key": "DCRKMD",
+      "lastModified": "2025-01-09T22:00:01",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DCRKMD",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5995/reply/DCRKMD/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-12-03"
+    }
+  ],
+  "sentDate": "2024-11-07",
+  "to": [
+    "minister obrony narodowej"
+  ]
+}

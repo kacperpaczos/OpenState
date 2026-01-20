@@ -1,0 +1,68 @@
+{
+  "lastModified": "2024-10-30T22:00:11",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5157",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D9W8XH",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5157/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5157,
+  "receiptDate": "2024-09-30",
+  "term": 10,
+  "title": "Interpelacja w sprawie środków finansowych z Rządowego Funduszu Polski Ład: Programu Inwestycji Strategicznych dla gm. Pacanów",
+  "answerDelayedDays": 0,
+  "from": [
+    "052"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister finansów",
+      "sent": "2024-10-10"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDAJJWY/i05157-o1_1.pdf",
+          "lastModified": "2024-10-30T22:00:11",
+          "name": "i05157-o1_1.pdf"
+        },
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDAJJWY/i05157-o1_2.pdf",
+          "lastModified": "2024-10-30T22:00:11",
+          "name": "i05157-o1_2.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Hanna Majszczyk",
+      "key": "DAJJWY",
+      "lastModified": "2024-10-30T22:00:11",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAJJWY",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5157/reply/DAJJWY/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-10-28"
+    }
+  ],
+  "sentDate": "2024-10-10",
+  "to": [
+    "minister finansów"
+  ]
+}

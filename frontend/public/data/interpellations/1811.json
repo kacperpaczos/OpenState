@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-03-21T22:00:02",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=1811",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D36CUN",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1811/body",
+      "rel": "body"
+    }
+  ],
+  "num": 1811,
+  "receiptDate": "2024-02-29",
+  "term": 10,
+  "title": "Interpelacja w sprawie środków z rządowego Programu Inwestycji Strategicznych w 2024 r.",
+  "answerDelayedDays": 0,
+  "from": [
+    "461"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "prezes Rady Ministrów",
+      "sent": "2024-03-07"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD3KJTD/i01811-o1.pdf",
+          "lastModified": "2024-03-21T22:00:02",
+          "name": "i01811-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Grzegorz Karpiński",
+      "key": "D3KJTD",
+      "lastModified": "2024-03-21T22:00:02",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D3KJTD",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1811/reply/D3KJTD/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-03-20"
+    }
+  ],
+  "sentDate": "2024-03-07",
+  "to": [
+    "prezes Rady Ministrów"
+  ]
+}

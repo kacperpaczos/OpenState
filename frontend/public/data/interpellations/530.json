@@ -1,0 +1,71 @@
+{
+  "lastModified": "2024-02-05T22:00:17",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=530",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CZDAL8",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/530/body",
+      "rel": "body"
+    }
+  ],
+  "num": 530,
+  "receiptDate": "2024-01-04",
+  "term": 10,
+  "title": "Interpelacja w sprawie bezprawnych działań w stosunku do mediów publicznych",
+  "answerDelayedDays": 0,
+  "from": [
+    "437"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister kultury i dziedzictwa narodowego",
+      "sent": "2024-01-29"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD26JWQ/i00530-o1.pdf",
+          "lastModified": "2024-02-05T22:00:17",
+          "name": "i00530-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Andrzej Wyrobiec",
+      "key": "D26JWQ",
+      "lastModified": "2024-02-05T22:00:17",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D26JWQ",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/530/reply/D26JWQ/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-02-02"
+    },
+    {
+      "from": "minister - członek Rady Ministrów - Maciej Berek",
+      "lastModified": "2024-01-29T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-01-29"
+    }
+  ],
+  "sentDate": "2024-01-29",
+  "to": [
+    "minister kultury i dziedzictwa narodowego"
+  ]
+}

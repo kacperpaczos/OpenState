@@ -1,0 +1,65 @@
+{
+  "lastModified": "2024-05-22T22:00:13",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2612",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D4N9BK",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2612/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2612,
+  "receiptDate": "2024-04-19",
+  "term": 10,
+  "title": "Interpelacja w sprawie aktualnych i prognozowanych braków kadrowych wśród pielęgniarek i położnych",
+  "answerDelayedDays": 0,
+  "from": [
+    "046",
+    "155",
+    "410"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister zdrowia",
+      "sent": "2024-04-25"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD5HHHM/i02612-o1.pdf",
+          "lastModified": "2024-05-22T22:00:13",
+          "name": "i02612-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Marek Kos",
+      "key": "D5HHHM",
+      "lastModified": "2024-05-22T22:00:13",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D5HHHM",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2612/reply/D5HHHM/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-05-20"
+    }
+  ],
+  "sentDate": "2024-04-25",
+  "to": [
+    "minister zdrowia"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "lastModified": "2024-03-12T22:00:11",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=1115",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CZYFTD",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1115/body",
+      "rel": "body"
+    }
+  ],
+  "num": 1115,
+  "receiptDate": "2024-01-25",
+  "term": 10,
+  "title": "Interpelacja w sprawie środków z rządowego Programu Inwestycji Strategicznych dla gm. Kramsk",
+  "answerDelayedDays": 0,
+  "from": [
+    "131"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "prezes Rady Ministrów",
+      "sent": "2024-01-30"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD3AJJ4/i01115-o1.pdf",
+          "lastModified": "2024-03-12T22:00:11",
+          "name": "i01115-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Grzegorz Karpiński",
+      "key": "D3AJJ4",
+      "lastModified": "2024-03-12T22:00:11",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D3AJJ4",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1115/reply/D3AJJ4/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-03-07"
+    },
+    {
+      "from": "minister - członek Rady Ministrów - Maciej Berek",
+      "lastModified": "2024-02-12T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-02-12"
+    }
+  ],
+  "sentDate": "2024-01-30",
+  "to": [
+    "prezes Rady Ministrów"
+  ]
+}

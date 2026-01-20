@@ -1,0 +1,63 @@
+{
+  "lastModified": "2025-01-13T22:00:58",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=4953",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D9FFZ7",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4953/body",
+      "rel": "body"
+    }
+  ],
+  "num": 4953,
+  "receiptDate": "2024-09-20",
+  "term": 10,
+  "title": "Interpelacja w sprawie rosnącego eksportu drewna z Polski do Chin",
+  "answerDelayedDays": 0,
+  "from": [
+    "381"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister klimatu i środowiska",
+      "sent": "2024-09-25"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDCVJQJ/i04953-o1.pdf",
+          "lastModified": "2025-01-13T22:00:58",
+          "name": "i04953-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Mikołaj Dorożała",
+      "key": "DCVJQJ",
+      "lastModified": "2025-01-13T22:00:58",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DCVJQJ",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4953/reply/DCVJQJ/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2025-01-09"
+    }
+  ],
+  "sentDate": "2024-09-25",
+  "to": [
+    "minister klimatu i środowiska"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "lastModified": "2024-12-05T22:00:26",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5434",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DA6BBP",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5434/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5434,
+  "receiptDate": "2024-10-12",
+  "term": 10,
+  "title": "Interpelacja w sprawie loterii promocyjnych organizowanych przez youtuberów",
+  "answerDelayedDays": 0,
+  "from": [
+    "484"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister finansów",
+      "sent": "2024-10-18"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDBNJYS/i05434-o1.pdf",
+          "lastModified": "2024-12-05T22:00:26",
+          "name": "i05434-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Zbigniew Stawicki",
+      "key": "DBNJYS",
+      "lastModified": "2024-12-05T22:00:26",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DBNJYS",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5434/reply/DBNJYS/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-12-04"
+    },
+    {
+      "from": "podsekretarz stanu w Ministerstwie Finansów - Zbigniew Stawicki",
+      "lastModified": "2024-11-06T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-11-06"
+    }
+  ],
+  "sentDate": "2024-10-18",
+  "to": [
+    "minister finansów"
+  ]
+}

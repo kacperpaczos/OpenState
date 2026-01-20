@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-07-22T22:00:39",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=3546",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D6SAJV",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3546/body",
+      "rel": "body"
+    }
+  ],
+  "num": 3546,
+  "receiptDate": "2024-06-26",
+  "term": 10,
+  "title": "Interpelacja w sprawie nawierzchni bocznych dróg biegnących wzdłuż drogi ekspresowej S14 na osiedlu 650-lecia w Zgierzu",
+  "answerDelayedDays": 0,
+  "from": [
+    "238"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister infrastruktury",
+      "sent": "2024-07-01"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD7EHGG/i03546-o1.pdf",
+          "lastModified": "2024-07-22T22:00:39",
+          "name": "i03546-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Przemysław Koperski",
+      "key": "D7EHGG",
+      "lastModified": "2024-07-22T22:00:39",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D7EHGG",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3546/reply/D7EHGG/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-07-19"
+    }
+  ],
+  "sentDate": "2024-07-01",
+  "to": [
+    "minister infrastruktury"
+  ]
+}

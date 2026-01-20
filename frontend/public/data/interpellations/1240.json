@@ -1,0 +1,75 @@
+{
+  "lastModified": "2024-03-11T15:27:17",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=1240",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D28GMA",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1240/body",
+      "rel": "body"
+    }
+  ],
+  "num": 1240,
+  "receiptDate": "2024-01-31",
+  "term": 10,
+  "title": "Interpelacja w sprawie propozycji Komisji Europejskiej z 5 lipca 2023 r. dotyczącej nowych technik genomowych",
+  "answerDelayedDays": 0,
+  "from": [
+    "095",
+    "139",
+    "321"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rolnictwa i rozwoju wsi",
+      "sent": "2024-02-07"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD2VJHS/i01240-o1_1.pdf",
+          "lastModified": "2024-03-11T15:27:09",
+          "name": "i01240-o1_1.pdf"
+        },
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD2VJHS/i01240-o1_3.pdf",
+          "lastModified": "2024-03-11T15:27:09",
+          "name": "i01240-o1_3.pdf"
+        },
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD2VJHS/i01240-o1_2.pdf",
+          "lastModified": "2024-03-11T15:27:09",
+          "name": "i01240-o1_2.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Michał Kołodziejczak",
+      "key": "D2VJHS",
+      "lastModified": "2024-03-11T15:27:17",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D2VJHS",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1240/reply/D2VJHS/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-02-26"
+    }
+  ],
+  "sentDate": "2024-02-07",
+  "to": [
+    "minister rolnictwa i rozwoju wsi"
+  ]
+}

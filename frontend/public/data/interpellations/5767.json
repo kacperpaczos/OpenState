@@ -1,0 +1,68 @@
+{
+  "lastModified": "2024-11-20T13:01:07",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5767",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAJATF",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5767/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5767,
+  "receiptDate": "2024-10-24",
+  "term": 10,
+  "title": "Interpelacja w sprawie żaglowca naukowo-badawczego \"Oceania\"",
+  "answerDelayedDays": 0,
+  "from": [
+    "023",
+    "039",
+    "053",
+    "112",
+    "117",
+    "470",
+    "171",
+    "264",
+    "271",
+    "292",
+    "312",
+    "341",
+    "376"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister nauki",
+      "sent": "2024-10-29"
+    }
+  ],
+  "replies": [
+    {
+      "from": "Sekretarz stanu Marek Gzik",
+      "key": "DB7G5E",
+      "lastModified": "2024-11-20T13:01:07",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DB7G5E",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5767/reply/DB7G5E/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-11-19"
+    }
+  ],
+  "sentDate": "2024-10-29",
+  "to": [
+    "minister nauki"
+  ]
+}

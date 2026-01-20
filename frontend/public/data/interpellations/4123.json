@@ -1,0 +1,69 @@
+{
+  "lastModified": "2024-08-14T15:14:23",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=4123",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D7PBCX",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4123/body",
+      "rel": "body"
+    }
+  ],
+  "num": 4123,
+  "receiptDate": "2024-07-29",
+  "term": 10,
+  "title": "Interpelacja w sprawie zmian w ustawie o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa",
+  "answerDelayedDays": 0,
+  "from": [
+    "118",
+    "135",
+    "475",
+    "221",
+    "261",
+    "357",
+    "394"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rolnictwa i rozwoju wsi",
+      "sent": "2024-07-31"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD7RJ2X/i04123-o1.pdf",
+          "lastModified": "2024-08-02T22:00:09",
+          "name": "i04123-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Jacek Czerniak",
+      "key": "D7RJ2X",
+      "lastModified": "2024-08-02T22:00:09",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D7RJ2X",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4123/reply/D7RJ2X/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-07-31"
+    }
+  ],
+  "sentDate": "2024-07-31",
+  "to": [
+    "minister rolnictwa i rozwoju wsi"
+  ]
+}

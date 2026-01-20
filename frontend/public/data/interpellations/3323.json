@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-07-11T22:00:50",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=3323",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D67JFS",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3323/body",
+      "rel": "body"
+    }
+  ],
+  "num": 3323,
+  "receiptDate": "2024-06-06",
+  "term": 10,
+  "title": "Interpelacja w sprawie notatki ujawnionej w serwisie Telegram, dotyczącej spółki Mesko SA produkującej amunicję na potrzeby polskiej armii",
+  "answerDelayedDays": 0,
+  "from": [
+    "274"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister obrony narodowej",
+      "sent": "2024-06-13"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD73FJS/i03323-o1.pdf",
+          "lastModified": "2024-07-11T22:00:50",
+          "name": "i03323-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Paweł Bejda",
+      "key": "D73FJS",
+      "lastModified": "2024-07-11T22:00:50",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D73FJS",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3323/reply/D73FJS/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-07-02"
+    }
+  ],
+  "sentDate": "2024-06-13",
+  "to": [
+    "minister obrony narodowej"
+  ]
+}

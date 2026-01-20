@@ -1,0 +1,56 @@
+{
+  "lastModified": "2024-04-04T15:08:13",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=1952",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D3DKMN",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1952/body",
+      "rel": "body"
+    }
+  ],
+  "num": 1952,
+  "receiptDate": "2024-03-08",
+  "term": 10,
+  "title": "Interpelacja w sprawie ułatwienia dostępu do zawodu nauczyciela przedszkolnego",
+  "answerDelayedDays": 0,
+  "from": [
+    "198"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister edukacji",
+      "sent": "2024-03-15"
+    }
+  ],
+  "replies": [
+    {
+      "from": "Sekretarz stanu Katarzyna Lubnauer",
+      "key": "D3ZHHF",
+      "lastModified": "2024-04-04T15:08:13",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D3ZHHF",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1952/reply/D3ZHHF/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-04-02"
+    }
+  ],
+  "sentDate": "2024-03-15",
+  "to": [
+    "minister edukacji"
+  ]
+}

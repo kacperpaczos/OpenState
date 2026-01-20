@@ -1,0 +1,66 @@
+{
+  "lastModified": "2024-11-27T22:00:48",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5953",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DATB99",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5953/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5953,
+  "receiptDate": "2024-11-01",
+  "term": 10,
+  "title": "Interpelacja w sprawie wsparcia środkami Unii Europejskiej województw dotkniętych powodzią",
+  "answerDelayedDays": 0,
+  "from": [
+    "023",
+    "276",
+    "358",
+    "430"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister funduszy i polityki regionalnej",
+      "sent": "2024-11-07"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDBEJP2/i05953-o1.pdf",
+          "lastModified": "2024-11-27T22:00:48",
+          "name": "i05953-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Jan Szyszko",
+      "key": "DBEJP2",
+      "lastModified": "2024-11-27T22:00:48",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DBEJP2",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5953/reply/DBEJP2/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-11-25"
+    }
+  ],
+  "sentDate": "2024-11-07",
+  "to": [
+    "minister funduszy i polityki regionalnej"
+  ]
+}

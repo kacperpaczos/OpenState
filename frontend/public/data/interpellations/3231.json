@@ -1,0 +1,71 @@
+{
+  "lastModified": "2024-07-12T22:00:50",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=3231",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D659ZS",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3231/body",
+      "rel": "body"
+    }
+  ],
+  "num": 3231,
+  "receiptDate": "2024-06-03",
+  "term": 10,
+  "title": "Interpelacja w sprawie infrastruktury niezbędnej do wdrażania sztucznej inteligencji w polskich firmach",
+  "answerDelayedDays": 0,
+  "from": [
+    "243"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rozwoju i technologii",
+      "sent": "2024-06-11"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD74HSD/i03231-o1.pdf",
+          "lastModified": "2024-07-12T22:00:50",
+          "name": "i03231-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Ignacy Niemczycki",
+      "key": "D74HSD",
+      "lastModified": "2024-07-12T22:00:50",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D74HSD",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3231/reply/D74HSD/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-07-10"
+    },
+    {
+      "from": "sekretarz stanu w Ministerstwie Rozwoju i Technologii - Waldemar Sługocki",
+      "lastModified": "2024-06-27T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-06-27"
+    }
+  ],
+  "sentDate": "2024-06-11",
+  "to": [
+    "minister rozwoju i technologii"
+  ]
+}

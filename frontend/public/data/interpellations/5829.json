@@ -1,0 +1,71 @@
+{
+  "lastModified": "2025-01-09T22:00:01",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5829",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAJAVA",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5829/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5829,
+  "receiptDate": "2024-10-25",
+  "term": 10,
+  "title": "Interpelacja w sprawie Instytutu Pokolenia i Instytutu de Republica",
+  "answerDelayedDays": 0,
+  "from": [
+    "051"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "prezes Rady Ministrów",
+      "sent": "2024-10-30"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDCRKMB/i05829-o1.pdf",
+          "lastModified": "2025-01-09T22:00:01",
+          "name": "i05829-o1.pdf"
+        }
+      ],
+      "from": "Minister Jan Grabiec",
+      "key": "DCRKMB",
+      "lastModified": "2025-01-09T22:00:01",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DCRKMB",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5829/reply/DCRKMB/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2025-01-07"
+    },
+    {
+      "from": "podsekretarz stanu w Kancelarii Prezesa Rady Ministrów - Karol Grzybowski",
+      "lastModified": "2024-11-19T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-11-19"
+    }
+  ],
+  "sentDate": "2024-10-30",
+  "to": [
+    "prezes Rady Ministrów"
+  ]
+}

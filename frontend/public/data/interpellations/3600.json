@@ -1,0 +1,71 @@
+{
+  "lastModified": "2024-08-02T22:00:09",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=3600",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D73F8Z",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3600/body",
+      "rel": "body"
+    }
+  ],
+  "num": 3600,
+  "receiptDate": "2024-07-01",
+  "term": 10,
+  "title": "Interpelacja w sprawie praktyk ZUS podczas przeprowadzania kontroli w polskich firmach",
+  "answerDelayedDays": 0,
+  "from": [
+    "095"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rodziny, pracy i polityki społecznej",
+      "sent": "2024-07-11"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD7RJ28/i03600-o1.pdf",
+          "lastModified": "2024-08-02T22:00:09",
+          "name": "i03600-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Sebastian Gajewski",
+      "key": "D7RJ28",
+      "lastModified": "2024-08-02T22:00:09",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D7RJ28",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3600/reply/D7RJ28/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-08-02"
+    },
+    {
+      "from": "podsekretarz stanu w Ministerstwie Rodziny, Pracy i Polityki Społecznej - Sebastian Gajewski",
+      "lastModified": "2024-07-24T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-07-24"
+    }
+  ],
+  "sentDate": "2024-07-11",
+  "to": [
+    "minister rodziny, pracy i polityki społecznej"
+  ]
+}

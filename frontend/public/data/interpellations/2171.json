@@ -1,0 +1,56 @@
+{
+  "lastModified": "2024-04-15T15:34:18",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2171",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D3SHZZ",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2171/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2171,
+  "receiptDate": "2024-03-20",
+  "term": 10,
+  "title": "Interpelacja w sprawie zasad szkolenia i egzaminowania na kierunku technik fotograf",
+  "answerDelayedDays": 0,
+  "from": [
+    "245"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister edukacji",
+      "sent": "2024-03-28"
+    }
+  ],
+  "replies": [
+    {
+      "from": "Sekretarz stanu Henryk Kiepura",
+      "key": "D4CHYB",
+      "lastModified": "2024-04-15T15:34:18",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D4CHYB",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2171/reply/D4CHYB/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-04-12"
+    }
+  ],
+  "sentDate": "2024-03-28",
+  "to": [
+    "minister edukacji"
+  ]
+}

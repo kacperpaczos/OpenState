@@ -1,0 +1,66 @@
+{
+  "lastModified": "2024-03-29T22:00:46",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=1723",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D36CRZ",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1723/body",
+      "rel": "body"
+    }
+  ],
+  "num": 1723,
+  "receiptDate": "2024-02-22",
+  "term": 10,
+  "title": "Interpelacja w sprawie usuwania szkód górniczych przez spółki z udziałem Skarbu Państwa na Górnym Śląsku za okres 2014-2023 (razem 10 lat)",
+  "answerDelayedDays": 0,
+  "from": [
+    "032",
+    "033",
+    "254",
+    "399"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister aktywów państwowych",
+      "sent": "2024-03-07"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD3TF7W/i01723-o1.pdf",
+          "lastModified": "2024-03-29T22:00:46",
+          "name": "i01723-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Robert Kropiwnicki",
+      "key": "D3TF7W",
+      "lastModified": "2024-03-29T22:00:46",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D3TF7W",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1723/reply/D3TF7W/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-03-28"
+    }
+  ],
+  "sentDate": "2024-03-07",
+  "to": [
+    "minister aktywów państwowych"
+  ]
+}

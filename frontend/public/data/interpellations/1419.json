@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-03-07T22:00:36",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=1419",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D2FC4D",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1419/body",
+      "rel": "body"
+    }
+  ],
+  "num": 1419,
+  "receiptDate": "2024-02-09",
+  "term": 10,
+  "title": "Interpelacja w sprawie procedury przymusowego karmienia osadzonych odmawiających przyjmowania pożywienia w jednostkach penitencjarnych",
+  "answerDelayedDays": 0,
+  "from": [
+    "424"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister sprawiedliwości",
+      "sent": "2024-02-13"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD35JVJ/i01419-o1.pdf",
+          "lastModified": "2024-03-07T22:00:36",
+          "name": "i01419-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Maria Ejchart",
+      "key": "D35JVJ",
+      "lastModified": "2024-03-07T22:00:36",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D35JVJ",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1419/reply/D35JVJ/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-03-05"
+    }
+  ],
+  "sentDate": "2024-02-13",
+  "to": [
+    "minister sprawiedliwości"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-04-15T22:00:16",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=1884",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D3DKKJ",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1884/body",
+      "rel": "body"
+    }
+  ],
+  "num": 1884,
+  "receiptDate": "2024-03-04",
+  "term": 10,
+  "title": "Interpelacja w sprawie rozbudowy infrastruktury portowej i magistrali kolejowej w celu poprawy logistyki związanej z eksportem polskich płodów rolnych oraz tranzytem płodów rolnych z Ukrainy na rynki trzecie",
+  "answerDelayedDays": 0,
+  "from": [
+    "316"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister infrastruktury",
+      "sent": "2024-03-20"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD4CHXA/i01884-o1.pdf",
+          "lastModified": "2024-04-15T22:00:16",
+          "name": "i01884-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Arkadiusz Marchewka",
+      "key": "D4CHXA",
+      "lastModified": "2024-04-15T22:00:16",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D4CHXA",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1884/reply/D4CHXA/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-04-12"
+    }
+  ],
+  "sentDate": "2024-03-20",
+  "to": [
+    "minister infrastruktury"
+  ]
+}

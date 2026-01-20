@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-06-03T22:00:53",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2683",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D55B2D",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2683/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2683,
+  "receiptDate": "2024-04-26",
+  "term": 10,
+  "title": "Interpelacja w sprawie wstrzymania przez KRRiT wypłaty środków pochodzących z opłat abonamentowych",
+  "answerDelayedDays": 0,
+  "from": [
+    "342"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister kultury i dziedzictwa narodowego",
+      "sent": "2024-05-10"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD5VJLA/i02683-o1.pdf",
+          "lastModified": "2024-06-03T22:00:53",
+          "name": "i02683-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Andrzej Wyrobiec",
+      "key": "D5VJLA",
+      "lastModified": "2024-06-03T22:00:53",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D5VJLA",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2683/reply/D5VJLA/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-05-31"
+    }
+  ],
+  "sentDate": "2024-05-10",
+  "to": [
+    "minister kultury i dziedzictwa narodowego"
+  ]
+}

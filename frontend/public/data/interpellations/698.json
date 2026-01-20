@@ -1,0 +1,71 @@
+{
+  "lastModified": "2024-03-11T15:27:17",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=698",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CZDARG",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/698/body",
+      "rel": "body"
+    }
+  ],
+  "num": 698,
+  "receiptDate": "2024-01-05",
+  "term": 10,
+  "title": "Interpelacja w sprawie kryzysu komunikacyjnego w Krośnie Odrzańskim",
+  "answerDelayedDays": 0,
+  "from": [
+    "334"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister infrastruktury",
+      "sent": "2024-01-11"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD2XLFT/i00698-o1.pdf",
+          "lastModified": "2024-03-11T15:27:06",
+          "name": "i00698-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Przemysław Koperski",
+      "key": "D2XLFT",
+      "lastModified": "2024-03-11T15:27:17",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D2XLFT",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/698/reply/D2XLFT/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-02-29"
+    },
+    {
+      "from": "podsekretarz stanu w Ministerstwie Infrastruktury - Paweł Gancarz",
+      "lastModified": "2024-02-05T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-02-05"
+    }
+  ],
+  "sentDate": "2024-01-11",
+  "to": [
+    "minister infrastruktury"
+  ]
+}

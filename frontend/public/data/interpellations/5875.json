@@ -1,0 +1,64 @@
+{
+  "lastModified": "2025-01-16T22:00:58",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5875",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAPCWF",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5875/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5875,
+  "receiptDate": "2024-10-28",
+  "term": 10,
+  "title": "Interpelacja w sprawie planowanej budowy nowej drogi krajowej nr 75 Nowy Sącz-Brzesko",
+  "answerDelayedDays": 0,
+  "from": [
+    "121",
+    "388"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister infrastruktury",
+      "sent": "2024-11-04"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDCYKK7/i05875-o1.pdf",
+          "lastModified": "2025-01-16T22:00:58",
+          "name": "i05875-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Stanisław Bukowiec",
+      "key": "DCYKK7",
+      "lastModified": "2025-01-16T22:00:58",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DCYKK7",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5875/reply/DCYKK7/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2025-01-15"
+    }
+  ],
+  "sentDate": "2024-11-04",
+  "to": [
+    "minister infrastruktury"
+  ]
+}

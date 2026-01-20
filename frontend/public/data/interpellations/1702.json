@@ -1,0 +1,58 @@
+{
+  "lastModified": "2024-03-22T15:29:38",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=1702",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D36CRD",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1702/body",
+      "rel": "body"
+    }
+  ],
+  "num": 1702,
+  "receiptDate": "2024-02-21",
+  "term": 10,
+  "title": "Interpelacja w sprawie postulatu przyznania czynnego i biernego prawa wyborczego do rad gmin i do organów jednostek pomocniczych gmin cudzoziemcom, a w szczególności obywatelom Ukrainy",
+  "answerDelayedDays": 0,
+  "from": [
+    "032",
+    "033",
+    "254"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister spraw wewnętrznych i administracji",
+      "sent": "2024-03-07"
+    }
+  ],
+  "replies": [
+    {
+      "from": "Sekretarz stanu Tomasz Szymański",
+      "key": "D3LJZM",
+      "lastModified": "2024-03-22T15:29:38",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D3LJZM",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1702/reply/D3LJZM/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-03-21"
+    }
+  ],
+  "sentDate": "2024-03-07",
+  "to": [
+    "minister spraw wewnętrznych i administracji"
+  ]
+}

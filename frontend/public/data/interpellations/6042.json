@@ -1,0 +1,97 @@
+{
+  "lastModified": "2025-04-09T22:00:12",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=6042",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAXK7M",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/6042/body",
+      "rel": "body"
+    }
+  ],
+  "num": 6042,
+  "receiptDate": "2024-11-06",
+  "term": 10,
+  "title": "Interpelacja w sprawie bezrobocia w Polsce i powrotu do pracy po uzyskaniu zasiłku dla bezrobotnych",
+  "answerDelayedDays": 0,
+  "from": [
+    "112",
+    "312",
+    "455"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rodziny, pracy i polityki społecznej",
+      "sent": "2024-11-12"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDFKHR6/i06042-o1.pdf",
+          "lastModified": "2025-04-09T22:00:12",
+          "name": "i06042-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Aleksandra Gajewska",
+      "key": "DFKHR6",
+      "lastModified": "2025-04-09T22:00:12",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DFKHR6",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/6042/reply/DFKHR6/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2025-04-08"
+    },
+    {
+      "from": "minister rodziny, pracy i polityki społecznej - Agnieszka Dziemianowicz-Bąk",
+      "lastModified": "2025-01-20T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2025-01-20"
+    },
+    {
+      "from": "minister rodziny, pracy i polityki społecznej - Agnieszka Dziemianowicz-Bąk",
+      "lastModified": "2025-02-13T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2025-02-13"
+    },
+    {
+      "from": "minister rodziny, pracy i polityki społecznej - Agnieszka Dziemianowicz-Bąk",
+      "lastModified": "2025-03-19T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2025-03-19"
+    },
+    {
+      "from": "minister rodziny, pracy i polityki społecznej - Agnieszka Dziemianowicz-Bąk",
+      "lastModified": "2025-03-25T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2025-03-25"
+    }
+  ],
+  "sentDate": "2024-11-12",
+  "to": [
+    "minister rodziny, pracy i polityki społecznej"
+  ]
+}

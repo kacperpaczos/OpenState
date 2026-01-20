@@ -1,0 +1,60 @@
+{
+  "lastModified": "2024-07-23T14:30:49",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=3497",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D6SAHD",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3497/body",
+      "rel": "body"
+    }
+  ],
+  "num": 3497,
+  "receiptDate": "2024-06-21",
+  "term": 10,
+  "title": "Interpelacja w sprawie zapewnienia środków finansowych na podręczniki dla uczniów z Ukrainy w związku z obowiązkiem szkolnym od 1 września 2024 r.",
+  "answerDelayedDays": 0,
+  "from": [
+    "002",
+    "010",
+    "132",
+    "251",
+    "403"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister edukacji",
+      "sent": "2024-07-02"
+    }
+  ],
+  "replies": [
+    {
+      "from": "Sekretarz stanu Katarzyna Lubnauer",
+      "key": "D7FGPN",
+      "lastModified": "2024-07-23T14:30:49",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D7FGPN",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3497/reply/D7FGPN/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-07-19"
+    }
+  ],
+  "sentDate": "2024-07-02",
+  "to": [
+    "minister edukacji"
+  ]
+}

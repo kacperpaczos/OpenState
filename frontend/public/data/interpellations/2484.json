@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-06-05T22:00:53",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2484",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D46HDG",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2484/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2484,
+  "receiptDate": "2024-04-03",
+  "term": 10,
+  "title": "Interpelacja w sprawie kosztów obsługi prawnej Ministerstwa Sportu i Turystyki oraz jednostek podległych",
+  "answerDelayedDays": 0,
+  "from": [
+    "137"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister sportu i turystyki",
+      "sent": "2024-04-09"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD5XHLD/i02484-o1.pdf",
+          "lastModified": "2024-06-05T22:00:53",
+          "name": "i02484-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Piotr Borys",
+      "key": "D5XHLD",
+      "lastModified": "2024-06-05T22:00:53",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D5XHLD",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2484/reply/D5XHLD/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-06-03"
+    }
+  ],
+  "sentDate": "2024-04-09",
+  "to": [
+    "minister sportu i turystyki"
+  ]
+}

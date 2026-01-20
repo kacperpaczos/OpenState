@@ -1,0 +1,73 @@
+{
+  "lastModified": "2024-12-04T22:00:26",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5672",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAJB5F",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5672/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5672,
+  "receiptDate": "2024-10-21",
+  "term": 10,
+  "title": "Interpelacja w sprawie modernizacji i stanu samolotów bojowych Sił Powietrznych RP",
+  "answerDelayedDays": 0,
+  "from": [
+    "016",
+    "032",
+    "033",
+    "080",
+    "254",
+    "285",
+    "296",
+    "490",
+    "399",
+    "412",
+    "422"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister obrony narodowej",
+      "sent": "2024-10-29"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDBMJQT/i05672-o1.pdf",
+          "lastModified": "2024-12-04T22:00:26",
+          "name": "i05672-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Paweł Bejda",
+      "key": "DBMJQT",
+      "lastModified": "2024-12-04T22:00:26",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DBMJQT",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5672/reply/DBMJQT/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-11-25"
+    }
+  ],
+  "sentDate": "2024-10-29",
+  "to": [
+    "minister obrony narodowej"
+  ]
+}

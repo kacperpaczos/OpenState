@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-08-06T22:00:24",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=3403",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D6FJ38",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3403/body",
+      "rel": "body"
+    }
+  ],
+  "num": 3403,
+  "receiptDate": "2024-06-16",
+  "term": 10,
+  "title": "Interpelacja w sprawie wprowadzenia szczególnych przepisów dotyczących walki z handlarzami fentanylem",
+  "answerDelayedDays": 0,
+  "from": [
+    "234"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister sprawiedliwości",
+      "sent": "2024-06-21"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD7VEFV/i03403-o1.pdf",
+          "lastModified": "2024-08-06T22:00:24",
+          "name": "i03403-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Arkadiusz Myrcha",
+      "key": "D7VEFV",
+      "lastModified": "2024-08-06T22:00:24",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D7VEFV",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3403/reply/D7VEFV/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-08-01"
+    }
+  ],
+  "sentDate": "2024-06-21",
+  "to": [
+    "minister sprawiedliwości"
+  ]
+}

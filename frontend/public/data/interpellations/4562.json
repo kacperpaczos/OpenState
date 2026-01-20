@@ -1,0 +1,87 @@
+{
+  "lastModified": "2024-10-21T22:00:26",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=4562",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D8TC6A",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4562/body",
+      "rel": "body"
+    }
+  ],
+  "num": 4562,
+  "receiptDate": "2024-09-02",
+  "term": 10,
+  "title": "Interpelacja w sprawie zwiększenia ochrony ujęć wody w Polsce",
+  "answerDelayedDays": 0,
+  "from": [
+    "489"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister spraw wewnętrznych i administracji",
+      "sent": "2024-09-05"
+    },
+    {
+      "answerDelayedDays": 0,
+      "name": "minister infrastruktury",
+      "sent": "2024-09-09"
+    }
+  ],
+  "replies": [
+    {
+      "from": "Podsekretarz stanu Wiesław Leśniakiewicz",
+      "key": "D9THT3",
+      "lastModified": "2024-10-07T15:27:49",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D9THT3",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4562/reply/D9THT3/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-10-04"
+    },
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDA9EDS/i04562-o2.pdf",
+          "lastModified": "2024-10-21T22:00:26",
+          "name": "i04562-o2.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Przemysław Koperski",
+      "key": "DA9EDS",
+      "lastModified": "2024-10-21T22:00:26",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DA9EDS",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4562/reply/DA9EDS/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-10-18"
+    }
+  ],
+  "sentDate": "2024-09-09",
+  "to": [
+    "minister infrastruktury",
+    "minister spraw wewnętrznych i administracji"
+  ]
+}

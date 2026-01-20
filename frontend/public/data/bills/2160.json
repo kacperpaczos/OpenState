@@ -1,0 +1,44 @@
+{
+    "UE": "ENFORCEMENT",
+    "changeDate": "2026-01-20T18:11:52",
+    "description": "projekt dotyczy dostosowania polskiego prawa do unijnych przepisów dotyczących przywozu i wywozu dóbr kultury. Nowe rozwiązania mają chronić zabytki i dzieła sztuki przed nielegalnym handlem oraz jasno określają obowiązki i odpowiedzialność osób sprowadzających lub wywożących takie przedmioty. Projekt wprowadza także kary za nielegalny wywóz dóbr kultury z Polski i zwiększa uprawnienia służb celno-skarbowych.",
+    "documentDate": "2026-01-14",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "2160",
+    "passed": false,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2026-01-14",
+    "rclLink": "https://legislacja.rcl.gov.pl/getIdFromLegislacja?number=RM-0610-240-25",
+    "rclNum": "RM-0610-240-25",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2026-01-14",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "2160",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2026-01-20",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "KSP",
+                    "reportDate": "2026-02-10",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2026-01-20",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o zmianie ustawy o ochronie zabytków i opiece nad zabytkami oraz ustawy o Krajowej Administracji Skarbowej",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2026-01-20T18:12:12"
+}

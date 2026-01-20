@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-10-15T22:00:21",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=4473",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D8MJAK",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4473/body",
+      "rel": "body"
+    }
+  ],
+  "num": 4473,
+  "receiptDate": "2024-08-26",
+  "term": 10,
+  "title": "Interpelacja w sprawie zmiany modelu funkcjonowania polskiej energetyki i równego dostępu wszystkich uczestników rynku do publicznych środków pomocowych",
+  "answerDelayedDays": 0,
+  "from": [
+    "347"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister klimatu i środowiska",
+      "sent": "2024-08-30"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDA3HJN/i04473-o1.pdf",
+          "lastModified": "2024-10-15T22:00:21",
+          "name": "i04473-o1.pdf"
+        }
+      ],
+      "from": "Minister Paulina Hennig-Kloska",
+      "key": "DA3HJN",
+      "lastModified": "2024-10-15T22:00:21",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DA3HJN",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4473/reply/DA3HJN/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-10-13"
+    }
+  ],
+  "sentDate": "2024-08-30",
+  "to": [
+    "minister klimatu i środowiska"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "lastModified": "2024-11-12T22:00:46",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5227",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D9W8ZM",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5227/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5227,
+  "receiptDate": "2024-10-02",
+  "term": 10,
+  "title": "Interpelacja w sprawie pominięcia pracowników ośrodków pomocy społecznej w dofinansowaniu wynagrodzeń pracowników pomocy społecznej w postaci dodatku motywacyjnego na lata 2024-2027",
+  "answerDelayedDays": 0,
+  "from": [
+    "181"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rodziny, pracy i polityki społecznej",
+      "sent": "2024-10-10"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDAXK5N/i05227-o1.pdf",
+          "lastModified": "2024-11-12T22:00:46",
+          "name": "i05227-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Aleksandra Gajewska",
+      "key": "DAXK5N",
+      "lastModified": "2024-11-12T22:00:46",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAXK5N",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5227/reply/DAXK5N/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-11-08"
+    },
+    {
+      "from": "sekretarz stanu w Ministerstwie Rodziny, Pracy i Polityki Społecznej - Aleksandra Gajewska",
+      "lastModified": "2024-11-07T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-11-07"
+    }
+  ],
+  "sentDate": "2024-10-10",
+  "to": [
+    "minister rodziny, pracy i polityki społecznej"
+  ]
+}

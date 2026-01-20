@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-08-19T22:00:59",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=4010",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D7MB8X",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4010/body",
+      "rel": "body"
+    }
+  ],
+  "num": 4010,
+  "receiptDate": "2024-07-23",
+  "term": 10,
+  "title": "Interpelacja w sprawie subwencji ekologicznej dla gmin",
+  "answerDelayedDays": 0,
+  "from": [
+    "307"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister finansów",
+      "sent": "2024-07-29"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD8AJ47/i04010-o1.pdf",
+          "lastModified": "2024-08-19T22:00:59",
+          "name": "i04010-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Hanna Majszczyk",
+      "key": "D8AJ47",
+      "lastModified": "2024-08-19T22:00:59",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D8AJ47",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4010/reply/D8AJ47/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-08-14"
+    }
+  ],
+  "sentDate": "2024-07-29",
+  "to": [
+    "minister finansów"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-11-20T22:00:11",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5512",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DA9EG2",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5512/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5512,
+  "receiptDate": "2024-10-16",
+  "term": 10,
+  "title": "Interpelacja w sprawie wykazu organizacji finansowanych z Funduszu Sprawiedliwości",
+  "answerDelayedDays": 0,
+  "from": [
+    "364"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister sprawiedliwości",
+      "sent": "2024-10-21"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDB7G4Q/i05512-o1.pdf",
+          "lastModified": "2024-11-20T22:00:11",
+          "name": "i05512-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Zuzanna Rudzińska-Bluszcz",
+      "key": "DB7G4Q",
+      "lastModified": "2024-11-20T22:00:11",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DB7G4Q",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5512/reply/DB7G4Q/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-11-19"
+    }
+  ],
+  "sentDate": "2024-10-21",
+  "to": [
+    "minister sprawiedliwości"
+  ]
+}

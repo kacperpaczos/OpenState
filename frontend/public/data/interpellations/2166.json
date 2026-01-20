@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-04-11T22:00:28",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2166",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D3SHZU",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2166/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2166,
+  "receiptDate": "2024-03-20",
+  "term": 10,
+  "title": "Interpelacja w sprawie opracowania założenia dla spójnego programu rozwoju energetyki jądrowej",
+  "answerDelayedDays": 0,
+  "from": [
+    "234"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister klimatu i środowiska",
+      "sent": "2024-04-02"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD48HNF/i02166-o1.pdf",
+          "lastModified": "2024-04-11T22:00:28",
+          "name": "i02166-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Miłosz Motyka",
+      "key": "D48HNF",
+      "lastModified": "2024-04-11T22:00:28",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D48HNF",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2166/reply/D48HNF/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-04-08"
+    }
+  ],
+  "sentDate": "2024-04-02",
+  "to": [
+    "minister klimatu i środowiska"
+  ]
+}

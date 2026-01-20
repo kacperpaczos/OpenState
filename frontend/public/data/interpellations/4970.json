@@ -1,0 +1,83 @@
+{
+  "lastModified": "2024-11-18T22:00:08",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=4970",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D9W9BS",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4970/body",
+      "rel": "body"
+    }
+  ],
+  "num": 4970,
+  "receiptDate": "2024-09-21",
+  "term": 10,
+  "title": "Interpelacja w sprawie delegacji krajowych i zagranicznych pracowników oraz dyrekcji Ministerstwa Kultury i Dziedzictwa Narodowego, jednostek podległych lub nadzorowanych",
+  "answerDelayedDays": 0,
+  "from": [
+    "311"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister kultury i dziedzictwa narodowego",
+      "sent": "2024-10-10"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDB5JW9/i04970-o1_1.pdf",
+          "lastModified": "2024-11-18T22:00:08",
+          "name": "i04970-o1_1.pdf"
+        },
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDB5JW9/i04970-o1_3.pdf",
+          "lastModified": "2024-11-18T22:00:08",
+          "name": "i04970-o1_3.pdf"
+        },
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDB5JW9/i04970-o1_5.pdf",
+          "lastModified": "2024-11-18T22:00:08",
+          "name": "i04970-o1_5.pdf"
+        },
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDB5JW9/i04970-o1_2.pdf",
+          "lastModified": "2024-11-18T22:00:08",
+          "name": "i04970-o1_2.pdf"
+        },
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDB5JW9/i04970-o1_4.pdf",
+          "lastModified": "2024-11-18T22:00:08",
+          "name": "i04970-o1_4.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Andrzej Wyrobiec",
+      "key": "DB5JW9",
+      "lastModified": "2024-11-18T22:00:08",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DB5JW9",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4970/reply/DB5JW9/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-11-15"
+    }
+  ],
+  "sentDate": "2024-10-10",
+  "to": [
+    "minister kultury i dziedzictwa narodowego"
+  ]
+}

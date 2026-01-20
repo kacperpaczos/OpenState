@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-12-05T22:00:26",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5039",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DA6BAC",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5039/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5039,
+  "receiptDate": "2024-09-25",
+  "term": 10,
+  "title": "Interpelacja w sprawie zniszczeń spowodowanych przez powódź w woj. opolskim",
+  "answerDelayedDays": 0,
+  "from": [
+    "448"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister infrastruktury",
+      "sent": "2024-10-18"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDBNJYQ/i05039-o1.pdf",
+          "lastModified": "2024-12-05T22:00:26",
+          "name": "i05039-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Stanisław Bukowiec",
+      "key": "DBNJYQ",
+      "lastModified": "2024-12-05T22:00:26",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DBNJYQ",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5039/reply/DBNJYQ/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-12-04"
+    }
+  ],
+  "sentDate": "2024-10-18",
+  "to": [
+    "minister infrastruktury"
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "lastModified": "2024-03-11T15:27:18",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=1249",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D28GMJ",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1249/body",
+      "rel": "body"
+    }
+  ],
+  "num": 1249,
+  "receiptDate": "2024-01-31",
+  "term": 10,
+  "title": "Interpelacja w sprawie wypłacania emerytur zagranicznych obywatelom Polski, którzy pobierają również świadczenie krajowe",
+  "answerDelayedDays": 0,
+  "from": [
+    "095",
+    "139",
+    "321"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rodziny, pracy i polityki społecznej",
+      "sent": "2024-02-07"
+    }
+  ],
+  "replies": [
+    {
+      "from": "Podsekretarz stanu Sebastian Gajewski",
+      "key": "D34L8P",
+      "lastModified": "2024-03-11T15:27:18",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D34L8P",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1249/reply/D34L8P/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-03-05"
+    },
+    {
+      "from": "podsekretarz stanu w Ministerstwie Rodziny, Pracy i Polityki Społecznej - Sebastian Gajewski",
+      "lastModified": "2024-03-01T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-03-01"
+    }
+  ],
+  "sentDate": "2024-02-07",
+  "to": [
+    "minister rodziny, pracy i polityki społecznej"
+  ]
+}

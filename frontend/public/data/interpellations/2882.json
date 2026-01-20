@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-07-19T22:00:51",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2882",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D65B5R",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2882/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2882,
+  "receiptDate": "2024-05-17",
+  "term": 10,
+  "title": "Interpelacja w sprawie obwodnicy Radziszewa",
+  "answerDelayedDays": 0,
+  "from": [
+    "234"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister infrastruktury",
+      "sent": "2024-06-13"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD7BJGK/i02882-o1.pdf",
+          "lastModified": "2024-07-19T22:00:51",
+          "name": "i02882-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Przemysław Koperski",
+      "key": "D7BJGK",
+      "lastModified": "2024-07-19T22:00:51",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D7BJGK",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2882/reply/D7BJGK/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-07-17"
+    }
+  ],
+  "sentDate": "2024-06-13",
+  "to": [
+    "minister infrastruktury"
+  ]
+}

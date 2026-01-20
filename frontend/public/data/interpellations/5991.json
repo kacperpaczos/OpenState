@@ -1,0 +1,63 @@
+{
+  "lastModified": "2025-02-28T22:00:48",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5991",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DATBAF",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5991/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5991,
+  "receiptDate": "2024-11-04",
+  "term": 10,
+  "title": "Interpelacja w sprawie rozliczenia dowódców Policji odpowiedzialnych za łamanie konstytucyjnych praw obywatelskich w latach 2015-2023",
+  "answerDelayedDays": 0,
+  "from": [
+    "481"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister spraw wewnętrznych i administracji",
+      "sent": "2024-11-07"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDEBK87/i05991-o1.pdf",
+          "lastModified": "2025-02-28T22:00:48",
+          "name": "i05991-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Czesław Mroczek",
+      "key": "DEBK87",
+      "lastModified": "2025-02-28T22:00:48",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DEBK87",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5991/reply/DEBK87/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2025-02-27"
+    }
+  ],
+  "sentDate": "2024-11-07",
+  "to": [
+    "minister spraw wewnętrznych i administracji"
+  ]
+}

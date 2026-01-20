@@ -1,0 +1,65 @@
+{
+  "lastModified": "2024-07-29T22:00:09",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=3599",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D73F8Y",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3599/body",
+      "rel": "body"
+    }
+  ],
+  "num": 3599,
+  "receiptDate": "2024-07-01",
+  "term": 10,
+  "title": "Interpelacja w sprawie przyszłości społecznych inicjatyw mieszkaniowych i możliwości rezygnacji samorządów z udziału w SIM-ach",
+  "answerDelayedDays": 0,
+  "from": [
+    "194",
+    "251",
+    "334"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister funduszy i polityki regionalnej",
+      "sent": "2024-07-11"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD7MHYH/i03599-o1.pdf",
+          "lastModified": "2024-07-29T22:00:09",
+          "name": "i03599-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Jan Szyszko",
+      "key": "D7MHYH",
+      "lastModified": "2024-07-29T22:00:09",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D7MHYH",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3599/reply/D7MHYH/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-07-26"
+    }
+  ],
+  "sentDate": "2024-07-11",
+  "to": [
+    "minister funduszy i polityki regionalnej"
+  ]
+}

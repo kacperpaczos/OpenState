@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-06-28T22:00:34",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2860",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D65B53",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2860/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2860,
+  "receiptDate": "2024-05-17",
+  "term": 10,
+  "title": "Interpelacja w sprawie trudności w leczeniu chorych na nowotwory mieloproliferacyjne krwi",
+  "answerDelayedDays": 0,
+  "from": [
+    "399"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister zdrowia",
+      "sent": "2024-06-11"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD6NHQV/i02860-o1.pdf",
+          "lastModified": "2024-06-28T22:00:34",
+          "name": "i02860-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Marek Kos",
+      "key": "D6NHQV",
+      "lastModified": "2024-06-28T22:00:34",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D6NHQV",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2860/reply/D6NHQV/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-06-24"
+    }
+  ],
+  "sentDate": "2024-06-11",
+  "to": [
+    "minister zdrowia"
+  ]
+}

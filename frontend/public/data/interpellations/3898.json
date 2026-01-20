@@ -1,0 +1,64 @@
+{
+  "lastModified": "2024-08-09T22:00:24",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=3898",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D7AHEQ",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3898/body",
+      "rel": "body"
+    }
+  ],
+  "num": 3898,
+  "receiptDate": "2024-07-15",
+  "term": 10,
+  "title": "Interpelacja w sprawie wprowadzenia zmian w Rządowym Funduszu Polski Ład: Program Inwestycji Strategicznych",
+  "answerDelayedDays": 0,
+  "from": [
+    "182",
+    "431"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister finansów",
+      "sent": "2024-07-18"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD7YHSP/i03898-o1.pdf",
+          "lastModified": "2024-08-09T22:00:24",
+          "name": "i03898-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Hanna Majszczyk",
+      "key": "D7YHSP",
+      "lastModified": "2024-08-09T22:00:24",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D7YHSP",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3898/reply/D7YHSP/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-08-09"
+    }
+  ],
+  "sentDate": "2024-07-18",
+  "to": [
+    "minister finansów"
+  ]
+}

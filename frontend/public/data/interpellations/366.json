@@ -1,0 +1,64 @@
+{
+  "lastModified": "2024-01-30T22:00:51",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=366",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CZDB24",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/366/body",
+      "rel": "body"
+    }
+  ],
+  "num": 366,
+  "receiptDate": "2023-12-26",
+  "term": 10,
+  "title": "Interpelacja w sprawie kosztów produkcji energii z OZE i elektrowni węglowych oraz liczby prosumentów",
+  "answerDelayedDays": 0,
+  "from": [
+    "095",
+    "321"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister klimatu i środowiska",
+      "sent": "2024-01-11"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTCZYFKU/i00366-o1.pdf",
+          "lastModified": "2024-01-30T22:00:51",
+          "name": "i00366-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Miłosz Motyka",
+      "key": "CZYFKU",
+      "lastModified": "2024-01-30T22:00:51",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CZYFKU",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/366/reply/CZYFKU/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-01-28"
+    }
+  ],
+  "sentDate": "2024-01-11",
+  "to": [
+    "minister klimatu i środowiska"
+  ]
+}

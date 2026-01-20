@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-12-16T22:00:27",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5557",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DA9EGZ",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5557/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5557,
+  "receiptDate": "2024-10-17",
+  "term": 10,
+  "title": "Interpelacja w sprawie budowy \"Tarczy Wschód\" na obszarach chronionych",
+  "answerDelayedDays": 0,
+  "from": [
+    "443"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister obrony narodowej",
+      "sent": "2024-10-21"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDBZJTP/i05557-o1.pdf",
+          "lastModified": "2024-12-16T22:00:27",
+          "name": "i05557-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Paweł Bejda",
+      "key": "DBZJTP",
+      "lastModified": "2024-12-16T22:00:27",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DBZJTP",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5557/reply/DBZJTP/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-11-18"
+    }
+  ],
+  "sentDate": "2024-10-21",
+  "to": [
+    "minister obrony narodowej"
+  ]
+}

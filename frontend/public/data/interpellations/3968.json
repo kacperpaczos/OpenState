@@ -1,0 +1,70 @@
+{
+  "lastModified": "2024-08-20T22:00:59",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=3968",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D7GHG4",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3968/body",
+      "rel": "body"
+    }
+  ],
+  "num": 3968,
+  "receiptDate": "2024-07-22",
+  "term": 10,
+  "title": "Interpelacja w sprawie remontu i modernizacji drogi krajowej nr 21 na odcinku Słupsk-Miastko",
+  "answerDelayedDays": 0,
+  "from": [
+    "018",
+    "173",
+    "196",
+    "207",
+    "263",
+    "295",
+    "336",
+    "391"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister infrastruktury",
+      "sent": "2024-07-24"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD8BHVJ/i03968-o1.pdf",
+          "lastModified": "2024-08-20T22:00:59",
+          "name": "i03968-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Stanisław Bukowiec",
+      "key": "D8BHVJ",
+      "lastModified": "2024-08-20T22:00:59",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D8BHVJ",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3968/reply/D8BHVJ/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-08-16"
+    }
+  ],
+  "sentDate": "2024-07-24",
+  "to": [
+    "minister infrastruktury"
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "lastModified": "2024-11-27T22:00:48",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5981",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DATBA5",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5981/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5981,
+  "receiptDate": "2024-11-04",
+  "term": 10,
+  "title": "Interpelacja w sprawie ujawnienia nagrań z aresztowania księdza oraz urzędniczek Ministerstwa Sprawiedliwości",
+  "answerDelayedDays": 0,
+  "from": [
+    "007",
+    "027",
+    "030",
+    "046",
+    "051",
+    "071",
+    "080",
+    "100",
+    "119",
+    "130",
+    "147",
+    "167",
+    "181",
+    "192",
+    "202",
+    "205",
+    "225",
+    "234",
+    "247",
+    "463",
+    "294",
+    "315",
+    "333",
+    "346",
+    "353",
+    "356",
+    "404",
+    "432",
+    "435",
+    "443"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister - członek Rady Ministrów, koordynator służb specjalnych",
+      "sent": "2024-11-07"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDBEJP5/i05981-o1.pdf",
+          "lastModified": "2024-11-27T22:00:48",
+          "name": "i05981-o1.pdf"
+        }
+      ],
+      "from": "Minister Tomasz Siemoniak",
+      "key": "DBEJP5",
+      "lastModified": "2024-11-27T22:00:48",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DBEJP5",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5981/reply/DBEJP5/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-11-26"
+    }
+  ],
+  "sentDate": "2024-11-07",
+  "to": [
+    "minister - członek Rady Ministrów, koordynator służb specjalnych"
+  ]
+}

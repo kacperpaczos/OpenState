@@ -1,0 +1,71 @@
+{
+  "lastModified": "2024-03-06T22:00:31",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=1161",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CZYFUT",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1161/body",
+      "rel": "body"
+    }
+  ],
+  "num": 1161,
+  "receiptDate": "2024-01-25",
+  "term": 10,
+  "title": "Interpelacja w sprawie ataku rządu na PAP",
+  "answerDelayedDays": 0,
+  "from": [
+    "330"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "prezes Rady Ministrów",
+      "sent": "2024-01-30"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD34L8J/i01161-o1.pdf",
+          "lastModified": "2024-03-06T22:00:31",
+          "name": "i01161-o1.pdf"
+        }
+      ],
+      "from": "Minister Jan Grabiec",
+      "key": "D34L8J",
+      "lastModified": "2024-03-06T22:00:31",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D34L8J",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1161/reply/D34L8J/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-03-04"
+    },
+    {
+      "from": "minister - członek Rady Ministrów - Maciej Berek",
+      "lastModified": "2024-02-14T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-02-14"
+    }
+  ],
+  "sentDate": "2024-01-30",
+  "to": [
+    "prezes Rady Ministrów"
+  ]
+}

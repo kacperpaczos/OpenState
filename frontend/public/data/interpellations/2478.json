@@ -1,0 +1,76 @@
+{
+  "lastModified": "2024-05-23T22:00:18",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2478",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D46HDA",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2478/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2478,
+  "receiptDate": "2024-04-03",
+  "term": 10,
+  "title": "Interpelacja w sprawie kosztów obsługi prawnej Ministerstwa Rolnictwa i Rozwoju Wsi oraz podległych spółek i instytucji",
+  "answerDelayedDays": 0,
+  "from": [
+    "137"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rolnictwa i rozwoju wsi",
+      "sent": "2024-04-09"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD5JHN9/i02478-o1_1.pdf",
+          "lastModified": "2024-05-23T22:00:18",
+          "name": "i02478-o1_1.pdf"
+        },
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD5JHN9/i02478-o1_2.pdf",
+          "lastModified": "2024-05-23T22:00:18",
+          "name": "i02478-o1_2.pdf"
+        }
+      ],
+      "from": "Minister Czesław Siekierski",
+      "key": "D5JHN9",
+      "lastModified": "2024-05-23T22:00:18",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D5JHN9",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2478/reply/D5JHN9/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-05-22"
+    },
+    {
+      "from": "minister rolnictwa i rozwoju wsi - Czesław Siekierski",
+      "lastModified": "2024-04-29T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-04-29"
+    }
+  ],
+  "sentDate": "2024-04-09",
+  "to": [
+    "minister rolnictwa i rozwoju wsi"
+  ]
+}

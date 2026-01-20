@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-01-29T22:00:51",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=384",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CZDB2N",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/384/body",
+      "rel": "body"
+    }
+  ],
+  "num": 384,
+  "receiptDate": "2023-12-27",
+  "term": 10,
+  "title": "Interpelacja w sprawie posiedzenia Rady Nadzorczej Telewizji Polskiej SA w związku z ostatnimi działaniami, które miały miejsce wokół mediów publicznych",
+  "answerDelayedDays": 0,
+  "from": [
+    "362"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister kultury i dziedzictwa narodowego",
+      "sent": "2024-01-11"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTCZXK6X/i00384-o1.pdf",
+          "lastModified": "2024-01-29T22:00:51",
+          "name": "i00384-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Andrzej Wyrobiec",
+      "key": "CZXK6X",
+      "lastModified": "2024-01-29T22:00:51",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CZXK6X",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/384/reply/CZXK6X/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-01-26"
+    }
+  ],
+  "sentDate": "2024-01-11",
+  "to": [
+    "minister kultury i dziedzictwa narodowego"
+  ]
+}

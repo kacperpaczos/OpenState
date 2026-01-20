@@ -1,0 +1,41 @@
+{
+    "UE": "NO",
+    "changeDate": "2026-01-20T18:43:33",
+    "description": "projekt dotyczy wprowadzenia przepisów umożliwiających traktowanie biogazowni rolniczej działającej w ramach gospodarstwa rolnego jako nierozerwalnej części tego gospodarstwa i opodatkowania takiej instalacji podatkiem rolnym, przy jednoczesnym zwolnieniu z podatku od nieruchomości gruntów, budynków i budowli tworzących zorganizowaną całość gospodarczą takich biogazowni",
+    "documentDate": "2024-10-15",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "2168",
+    "passed": false,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2024-10-15",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2024-10-15",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "2168",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2026-01-20",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "Sejm",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2026-01-20",
+            "stageName": "Skierowano do I czytania na posiedzeniu Sejmu",
+            "stageType": "ReadingReferral"
+        }
+    ],
+    "term": 10,
+    "title": "Poselski projekt ustawy o zmianie ustawy o podatku rolnym oraz ustawy o podatkach i opłatach lokalnych",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2026-01-20T19:11:43"
+}

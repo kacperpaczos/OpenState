@@ -1,0 +1,65 @@
+{
+  "lastModified": "2024-09-23T22:00:16",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=4466",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D8MJAD",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4466/body",
+      "rel": "body"
+    }
+  ],
+  "num": 4466,
+  "receiptDate": "2024-08-26",
+  "term": 10,
+  "title": "Interpelacja w sprawie likwidacji składowiska Otyń w Zakęciu",
+  "answerDelayedDays": 0,
+  "from": [
+    "060",
+    "102",
+    "334"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister klimatu i środowiska",
+      "sent": "2024-08-30"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD9DHGB/i04466-o1.pdf",
+          "lastModified": "2024-09-23T22:00:16",
+          "name": "i04466-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Krzysztof Galos",
+      "key": "D9DHGB",
+      "lastModified": "2024-09-23T22:00:16",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D9DHGB",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4466/reply/D9DHGB/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-09-18"
+    }
+  ],
+  "sentDate": "2024-08-30",
+  "to": [
+    "minister klimatu i środowiska"
+  ]
+}

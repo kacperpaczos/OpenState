@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-11-04T15:26:44",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5269",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D9W92X",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5269/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5269,
+  "receiptDate": "2024-10-04",
+  "term": 10,
+  "title": "Interpelacja w sprawie zawodu higienistki stomatologicznej",
+  "answerDelayedDays": 0,
+  "from": [
+    "198"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister zdrowia",
+      "sent": "2024-10-10"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDAPJVZ/i05269-o1.pdf",
+          "lastModified": "2024-11-04T15:26:07",
+          "name": "i05269-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Wojciech Konieczny",
+      "key": "DAPJVZ",
+      "lastModified": "2024-11-04T15:26:44",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAPJVZ",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5269/reply/DAPJVZ/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-10-30"
+    }
+  ],
+  "sentDate": "2024-10-10",
+  "to": [
+    "minister zdrowia"
+  ]
+}

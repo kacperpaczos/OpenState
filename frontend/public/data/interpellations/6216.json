@@ -1,0 +1,56 @@
+{
+  "lastModified": "2024-12-18T12:33:54",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=6216",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DB7G6T",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/6216/body",
+      "rel": "body"
+    }
+  ],
+  "num": 6216,
+  "receiptDate": "2024-11-14",
+  "term": 10,
+  "title": "Interpelacja w sprawie zawieszenia prawa do azylu",
+  "answerDelayedDays": 0,
+  "from": [
+    "020"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister spraw wewnętrznych i administracji",
+      "sent": "2024-11-20"
+    }
+  ],
+  "replies": [
+    {
+      "from": "Podsekretarz stanu Maciej Duszczyk",
+      "key": "DC3FL3",
+      "lastModified": "2024-12-18T12:33:54",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DC3FL3",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/6216/reply/DC3FL3/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-12-17"
+    }
+  ],
+  "sentDate": "2024-11-20",
+  "to": [
+    "minister spraw wewnętrznych i administracji"
+  ]
+}

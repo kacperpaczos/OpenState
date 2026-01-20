@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-05-20T22:00:17",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2240",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D3SJ4T",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2240/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2240,
+  "receiptDate": "2024-03-21",
+  "term": 10,
+  "title": "Interpelacja w sprawie tzw. urlopu dla przedsiębiorców",
+  "answerDelayedDays": 0,
+  "from": [
+    "243"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rozwoju i technologii",
+      "sent": "2024-04-26"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD5FJ4J/i02240-o1.pdf",
+          "lastModified": "2024-05-20T22:00:17",
+          "name": "i02240-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Jacek Tomczak",
+      "key": "D5FJ4J",
+      "lastModified": "2024-05-20T22:00:17",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D5FJ4J",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2240/reply/D5FJ4J/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-05-17"
+    }
+  ],
+  "sentDate": "2024-04-26",
+  "to": [
+    "minister rozwoju i technologii"
+  ]
+}

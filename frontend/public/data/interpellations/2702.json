@@ -1,0 +1,87 @@
+{
+  "lastModified": "2024-06-04T15:36:03",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2702",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D55B2Y",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2702/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2702,
+  "receiptDate": "2024-05-04",
+  "term": 10,
+  "title": "Interpelacja w sprawie domów seniora w każdej gminie woj. lubelskiego",
+  "answerDelayedDays": 0,
+  "from": [
+    "461"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister ds. polityki senioralnej",
+      "sent": "2024-05-10"
+    },
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rodziny, pracy i polityki społecznej",
+      "sent": "2024-05-10"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD5JHNE/i02702-o1.pdf",
+          "lastModified": "2024-05-23T22:00:18",
+          "name": "i02702-o1.pdf"
+        }
+      ],
+      "from": "Minister Marzena Okła-Drewnowicz",
+      "key": "D5JHNE",
+      "lastModified": "2024-05-23T22:00:18",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D5JHNE",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2702/reply/D5JHNE/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-05-20"
+    },
+    {
+      "from": "Podsekretarz stanu Sebastian Gajewski",
+      "key": "D5WHYA",
+      "lastModified": "2024-06-04T15:36:03",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D5WHYA",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2702/reply/D5WHYA/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-06-03"
+    }
+  ],
+  "sentDate": "2024-05-10",
+  "to": [
+    "minister ds. polityki senioralnej",
+    "minister rodziny, pracy i polityki społecznej"
+  ]
+}

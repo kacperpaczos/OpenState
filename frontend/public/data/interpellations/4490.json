@@ -1,0 +1,57 @@
+{
+  "lastModified": "2024-09-18T22:00:26",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=4490",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D8MJAT",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4490/body",
+      "rel": "body"
+    }
+  ],
+  "num": 4490,
+  "receiptDate": "2024-08-27",
+  "term": 10,
+  "title": "Interpelacja w sprawie wzrostu cen wyrobów medycznych wraz ze wzrostem limitów refundacji",
+  "answerDelayedDays": 0,
+  "from": [
+    "277"
+  ],
+  "recipientDetails": [],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD98HDC/i04490-o1.pdf",
+          "lastModified": "2024-09-18T22:00:26",
+          "name": "i04490-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Marek Kos",
+      "key": "D98HDC",
+      "lastModified": "2024-09-18T22:00:26",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D98HDC",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4490/reply/D98HDC/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-09-17"
+    }
+  ],
+  "sentDate": "2024-08-30",
+  "to": [
+    "minister zdrowia"
+  ]
+}

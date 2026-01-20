@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-08-14T22:00:39",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=3933",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D7GHFW",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3933/body",
+      "rel": "body"
+    }
+  ],
+  "num": 3933,
+  "receiptDate": "2024-07-18",
+  "term": 10,
+  "title": "Interpelacja w sprawie przekazania Polsce środków z KPO",
+  "answerDelayedDays": 0,
+  "from": [
+    "395"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister funduszy i polityki regionalnej",
+      "sent": "2024-07-24"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD85HJJ/i03933-o1.pdf",
+          "lastModified": "2024-08-14T22:00:39",
+          "name": "i03933-o1.pdf"
+        }
+      ],
+      "from": "Minister Katarzyna Pełczyńska-Nałęcz",
+      "key": "D85HJJ",
+      "lastModified": "2024-08-14T22:00:39",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D85HJJ",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3933/reply/D85HJJ/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-08-13"
+    }
+  ],
+  "sentDate": "2024-07-24",
+  "to": [
+    "minister funduszy i polityki regionalnej"
+  ]
+}

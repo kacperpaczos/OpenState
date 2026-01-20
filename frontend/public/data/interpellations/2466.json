@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-04-22T22:00:04",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2466",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D46HCW",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2466/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2466,
+  "receiptDate": "2024-04-02",
+  "term": 10,
+  "title": "Interpelacja w sprawie funkcjonowania systemu ewidencji kół łowieckich",
+  "answerDelayedDays": 0,
+  "from": [
+    "282"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister klimatu i środowiska",
+      "sent": "2024-04-09"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD4KJ7X/i02466-o1.pdf",
+          "lastModified": "2024-04-22T22:00:04",
+          "name": "i02466-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Mikołaj Dorożała",
+      "key": "D4KJ7X",
+      "lastModified": "2024-04-22T22:00:04",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D4KJ7X",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2466/reply/D4KJ7X/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-04-18"
+    }
+  ],
+  "sentDate": "2024-04-09",
+  "to": [
+    "minister klimatu i środowiska"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-11-18T22:00:08",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5435",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DA6BBQ",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5435/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5435,
+  "receiptDate": "2024-10-12",
+  "term": 10,
+  "title": "Interpelacja w sprawie energii elektrycznej dostarczanej na Ukrainę",
+  "answerDelayedDays": 0,
+  "from": [
+    "139"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister klimatu i środowiska",
+      "sent": "2024-10-22"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDB5JWN/i05435-o1.pdf",
+          "lastModified": "2024-11-18T22:00:08",
+          "name": "i05435-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Miłosz Motyka",
+      "key": "DB5JWN",
+      "lastModified": "2024-11-18T22:00:08",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DB5JWN",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5435/reply/DB5JWN/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-11-15"
+    }
+  ],
+  "sentDate": "2024-10-22",
+  "to": [
+    "minister klimatu i środowiska"
+  ]
+}

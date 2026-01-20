@@ -1,0 +1,71 @@
+{
+  "lastModified": "2024-11-22T22:00:07",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5522",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DA9EGC",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5522/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5522,
+  "receiptDate": "2024-10-17",
+  "term": 10,
+  "title": "Interpelacja w sprawie braku połączeń kolejowych między Gdynią a Popradem i Koszycami (Słowacja) przez Warszawę, Kraków, Tarnów i Nowy Sącz",
+  "answerDelayedDays": 0,
+  "from": [
+    "181"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister infrastruktury",
+      "sent": "2024-10-21"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDB9GFE/i05522-o1.pdf",
+          "lastModified": "2024-11-22T22:00:07",
+          "name": "i05522-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Piotr Malepszak",
+      "key": "DB9GFE",
+      "lastModified": "2024-11-22T22:00:07",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DB9GFE",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5522/reply/DB9GFE/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-11-20"
+    },
+    {
+      "from": "podsekretarz stanu w Ministerstwie Infrastruktury - Piotr Malepszak",
+      "lastModified": "2024-10-31T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-10-31"
+    }
+  ],
+  "sentDate": "2024-10-21",
+  "to": [
+    "minister infrastruktury"
+  ]
+}

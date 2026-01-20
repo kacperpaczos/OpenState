@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-11-29T22:00:48",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=6057",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAXK84",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/6057/body",
+      "rel": "body"
+    }
+  ],
+  "num": 6057,
+  "receiptDate": "2024-11-06",
+  "term": 10,
+  "title": "Interpelacja w sprawie regulacji czasu pracy mechaników lotniczych",
+  "answerDelayedDays": 0,
+  "from": [
+    "239"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister infrastruktury",
+      "sent": "2024-11-12"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDBGKCA/i06057-o1.pdf",
+          "lastModified": "2024-11-29T22:00:48",
+          "name": "i06057-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Maciej Lasek",
+      "key": "DBGKCA",
+      "lastModified": "2024-11-29T22:00:48",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DBGKCA",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/6057/reply/DBGKCA/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-11-28"
+    }
+  ],
+  "sentDate": "2024-11-12",
+  "to": [
+    "minister infrastruktury"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-10-14T22:00:21",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=4669",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D93FC9",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4669/body",
+      "rel": "body"
+    }
+  ],
+  "num": 4669,
+  "receiptDate": "2024-09-09",
+  "term": 10,
+  "title": "Interpelacja w sprawie finansowania renowacji pomników rosyjskiego imperializmu przez rząd Donalda Tuska",
+  "answerDelayedDays": 0,
+  "from": [
+    "234"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister kultury i dziedzictwa narodowego",
+      "sent": "2024-10-03"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDA2HNH/i04669-o1.pdf",
+          "lastModified": "2024-10-14T22:00:21",
+          "name": "i04669-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Andrzej Wyrobiec",
+      "key": "DA2HNH",
+      "lastModified": "2024-10-14T22:00:21",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DA2HNH",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4669/reply/DA2HNH/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-10-11"
+    }
+  ],
+  "sentDate": "2024-10-03",
+  "to": [
+    "minister kultury i dziedzictwa narodowego"
+  ]
+}

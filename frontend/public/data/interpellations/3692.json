@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-07-29T22:00:09",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=3692",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D73FBU",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3692/body",
+      "rel": "body"
+    }
+  ],
+  "num": 3692,
+  "receiptDate": "2024-07-05",
+  "term": 10,
+  "title": "Interpelacja w sprawie realizowania przez Polskie Radio misji mediów publicznych",
+  "answerDelayedDays": 0,
+  "from": [
+    "005"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister kultury i dziedzictwa narodowego",
+      "sent": "2024-07-11"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD7MHYP/i03692-o1.pdf",
+          "lastModified": "2024-07-29T22:00:09",
+          "name": "i03692-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Jan Szyszko",
+      "key": "D7MHYP",
+      "lastModified": "2024-07-29T22:00:09",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D7MHYP",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3692/reply/D7MHYP/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-07-26"
+    }
+  ],
+  "sentDate": "2024-07-11",
+  "to": [
+    "minister kultury i dziedzictwa narodowego"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-07-10T22:00:50",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2137",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D3SHYY",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2137/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2137,
+  "receiptDate": "2024-03-18",
+  "term": 10,
+  "title": "Interpelacja w sprawie wycinek lasów na terenie miasta Leszna i okolic",
+  "answerDelayedDays": 0,
+  "from": [
+    "316"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister klimatu i środowiska",
+      "sent": "2024-03-28"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD72HJR/i02137-o1.pdf",
+          "lastModified": "2024-07-10T22:00:50",
+          "name": "i02137-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Mikołaj Dorożała",
+      "key": "D72HJR",
+      "lastModified": "2024-07-10T22:00:50",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D72HJR",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2137/reply/D72HJR/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-07-08"
+    }
+  ],
+  "sentDate": "2024-03-28",
+  "to": [
+    "minister klimatu i środowiska"
+  ]
+}

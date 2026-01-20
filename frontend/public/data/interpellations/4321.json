@@ -1,0 +1,71 @@
+{
+  "lastModified": "2024-09-23T22:00:15",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=4321",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D85HLH",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4321/body",
+      "rel": "body"
+    }
+  ],
+  "num": 4321,
+  "receiptDate": "2024-08-09",
+  "term": 10,
+  "title": "Interpelacja w sprawie obietnic premiera dotyczących wynagrodzeń w spółkach Skarbu Państwa",
+  "answerDelayedDays": 0,
+  "from": [
+    "330"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister aktywów państwowych",
+      "sent": "2024-08-19"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD9DHFX/i04321-o1.pdf",
+          "lastModified": "2024-09-23T22:00:15",
+          "name": "i04321-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Marcin Kulasek",
+      "key": "D9DHFX",
+      "lastModified": "2024-09-23T22:00:15",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D9DHFX",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4321/reply/D9DHFX/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-09-20"
+    },
+    {
+      "from": "sekretarz stanu w Ministerstwie Aktywów Państwowych - Robert Kropiwnicki",
+      "lastModified": "2024-08-27T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-08-27"
+    }
+  ],
+  "sentDate": "2024-08-19",
+  "to": [
+    "minister aktywów państwowych"
+  ]
+}

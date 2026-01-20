@@ -1,0 +1,58 @@
+{
+  "lastModified": "2024-12-05T15:28:29",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=6118",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAYJW6",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/6118/body",
+      "rel": "body"
+    }
+  ],
+  "num": 6118,
+  "receiptDate": "2024-11-08",
+  "term": 10,
+  "title": "Interpelacja w sprawie prawa posłów do działania w trybie interwencji poselskiej w kontekście skandalicznej wypowiedzi ministra nauki Dariusza Wieczorka z dnia 13 września 2024 r. oraz żądania publicznych przeprosin na forum Sejmu",
+  "answerDelayedDays": 0,
+  "from": [
+    "234",
+    "356",
+    "404"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister nauki",
+      "sent": "2024-11-13"
+    }
+  ],
+  "replies": [
+    {
+      "from": "Minister Dariusz Wieczorek",
+      "key": "DBNJZ8",
+      "lastModified": "2024-12-05T15:28:29",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DBNJZ8",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/6118/reply/DBNJZ8/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-12-04"
+    }
+  ],
+  "sentDate": "2024-11-13",
+  "to": [
+    "minister nauki"
+  ]
+}

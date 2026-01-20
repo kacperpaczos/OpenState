@@ -1,0 +1,76 @@
+{
+  "lastModified": "2024-02-26T15:36:22",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=806",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CZKAR7",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/806/body",
+      "rel": "body"
+    }
+  ],
+  "num": 806,
+  "receiptDate": "2024-01-12",
+  "term": 10,
+  "title": "Interpelacja w sprawie działań na rzecz zwiększenia poprawy warunków sanitarnych w polskich gospodarstwach domowych",
+  "answerDelayedDays": 0,
+  "from": [
+    "239"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rozwoju i technologii",
+      "sent": "2024-01-30"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD2NGPN/i00806-o1_1.pdf",
+          "lastModified": "2024-02-26T15:36:13",
+          "name": "i00806-o1_1.pdf"
+        },
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD2NGPN/i00806-o1_2.pdf",
+          "lastModified": "2024-02-26T15:36:13",
+          "name": "i00806-o1_2.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Krzysztof Kukucki",
+      "key": "D2NGPN",
+      "lastModified": "2024-02-26T15:36:22",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D2NGPN",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/806/reply/D2NGPN/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-02-20"
+    },
+    {
+      "from": "minister - członek Rady Ministrów - Maciej Berek",
+      "lastModified": "2024-01-30T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-01-30"
+    }
+  ],
+  "sentDate": "2024-01-30",
+  "to": [
+    "minister rozwoju i technologii"
+  ]
+}

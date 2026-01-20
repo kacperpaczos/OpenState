@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-07-19T22:00:51",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=3493",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D6SAH9",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3493/body",
+      "rel": "body"
+    }
+  ],
+  "num": 3493,
+  "receiptDate": "2024-06-20",
+  "term": 10,
+  "title": "Interpelacja w sprawie specjalnych zespołów prokuratorskich i priorytetów prokuratora generalnego",
+  "answerDelayedDays": 0,
+  "from": [
+    "137"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister sprawiedliwości",
+      "sent": "2024-07-01"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD7BJHK/i03493-o1.pdf",
+          "lastModified": "2024-07-19T22:00:51",
+          "name": "i03493-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Arkadiusz Myrcha",
+      "key": "D7BJHK",
+      "lastModified": "2024-07-19T22:00:51",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D7BJHK",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3493/reply/D7BJHK/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-07-17"
+    }
+  ],
+  "sentDate": "2024-07-01",
+  "to": [
+    "minister sprawiedliwości"
+  ]
+}

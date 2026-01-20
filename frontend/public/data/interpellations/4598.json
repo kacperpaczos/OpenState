@@ -1,0 +1,71 @@
+{
+  "lastModified": "2024-10-31T22:00:15",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=4598",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D93FA2",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4598/body",
+      "rel": "body"
+    }
+  ],
+  "num": 4598,
+  "receiptDate": "2024-09-04",
+  "term": 10,
+  "title": "Interpelacja w sprawie prac przygotowawczych, postępowań administracyjnych oraz zawierania kontraktów w ramach realizacji PPEJ",
+  "answerDelayedDays": 0,
+  "from": [
+    "243"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister przemysłu",
+      "sent": "2024-10-01"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDAKJYE/i04598-o1.pdf",
+          "lastModified": "2024-10-31T22:00:15",
+          "name": "i04598-o1.pdf"
+        }
+      ],
+      "from": "Minister Marzena Czarnecka",
+      "key": "DAKJYE",
+      "lastModified": "2024-10-31T22:00:15",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAKJYE",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4598/reply/DAKJYE/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-10-30"
+    },
+    {
+      "from": "minister przemysłu - Marzena Czarnecka",
+      "lastModified": "2024-10-08T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-10-08"
+    }
+  ],
+  "sentDate": "2024-10-01",
+  "to": [
+    "minister przemysłu"
+  ]
+}

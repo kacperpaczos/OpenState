@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-11-20T22:00:11",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5430",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DA6BBK",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5430/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5430,
+  "receiptDate": "2024-10-11",
+  "term": 10,
+  "title": "Interpelacja w sprawie dostępu do łączności telekomunikacyjnej w sytuacji klęski żywiołowej",
+  "answerDelayedDays": 0,
+  "from": [
+    "484"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister cyfryzacji",
+      "sent": "2024-10-18"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDB7G4M/i05430-o1.pdf",
+          "lastModified": "2024-11-20T22:00:11",
+          "name": "i05430-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Michał Gramatyka",
+      "key": "DB7G4M",
+      "lastModified": "2024-11-20T22:00:11",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DB7G4M",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5430/reply/DB7G4M/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-11-19"
+    }
+  ],
+  "sentDate": "2024-10-18",
+  "to": [
+    "minister cyfryzacji"
+  ]
+}

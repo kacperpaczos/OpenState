@@ -1,0 +1,22 @@
+{
+  "lastModified": "2023-12-06T15:10:22",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=183",
+      "rel": "web-description"
+    }
+  ],
+  "num": 183,
+  "receiptDate": "2023-12-01",
+  "term": 10,
+  "title": "Interpelacja w sprawie rządowego Programu Inwestycji Strategicznych dla miasta Piły",
+  "answerDelayedDays": 0,
+  "from": [
+    "303"
+  ],
+  "recipientDetails": [],
+  "replies": [],
+  "to": [
+    "prezes Rady Ministrów"
+  ]
+}

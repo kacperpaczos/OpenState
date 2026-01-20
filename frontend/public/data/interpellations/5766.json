@@ -1,0 +1,65 @@
+{
+  "lastModified": "2024-11-20T22:00:11",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5766",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAJATE",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5766/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5766,
+  "receiptDate": "2024-10-24",
+  "term": 10,
+  "title": "Interpelacja w sprawie bardzo trudnej sytuacji ekonomicznej i pracowniczej JSW SA w Jastrzębiu-Zdroju",
+  "answerDelayedDays": 0,
+  "from": [
+    "093",
+    "236",
+    "409"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister aktywów państwowych",
+      "sent": "2024-10-29"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDB7G5D/i05766-o1.pdf",
+          "lastModified": "2024-11-20T22:00:11",
+          "name": "i05766-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Robert Kropiwnicki",
+      "key": "DB7G5D",
+      "lastModified": "2024-11-20T22:00:11",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DB7G5D",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5766/reply/DB7G5D/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-11-18"
+    }
+  ],
+  "sentDate": "2024-10-29",
+  "to": [
+    "minister aktywów państwowych"
+  ]
+}

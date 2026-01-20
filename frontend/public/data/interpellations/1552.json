@@ -1,0 +1,71 @@
+{
+  "lastModified": "2024-03-29T22:00:46",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=1552",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D2NGVU",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1552/body",
+      "rel": "body"
+    }
+  ],
+  "num": 1552,
+  "receiptDate": "2024-02-17",
+  "term": 10,
+  "title": "Interpelacja w sprawie środków z rządowego Programu Inwestycji Strategicznych dla gm. Kamień Pomorski",
+  "answerDelayedDays": 0,
+  "from": [
+    "234"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "prezes Rady Ministrów",
+      "sent": "2024-02-22"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD3TF7R/i01552-o1.pdf",
+          "lastModified": "2024-03-29T22:00:46",
+          "name": "i01552-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Grzegorz Karpiński",
+      "key": "D3TF7R",
+      "lastModified": "2024-03-29T22:00:46",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D3TF7R",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1552/reply/D3TF7R/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-03-27"
+    },
+    {
+      "from": "minister - członek Rady Ministrów - Maciej Berek",
+      "lastModified": "2024-03-06T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-03-06"
+    }
+  ],
+  "sentDate": "2024-02-22",
+  "to": [
+    "prezes Rady Ministrów"
+  ]
+}

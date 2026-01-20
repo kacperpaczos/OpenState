@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-04-12T22:00:28",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2001",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D3KFAB",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2001/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2001,
+  "receiptDate": "2024-03-11",
+  "term": 10,
+  "title": "Interpelacja w sprawie projektowanej drogi ekspresowej S11 - przebieg na Śląsku oraz numeracji drogi ekspresowej S1",
+  "answerDelayedDays": 0,
+  "from": [
+    "143"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister infrastruktury",
+      "sent": "2024-03-21"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD49HDN/i02001-o1.pdf",
+          "lastModified": "2024-04-12T22:00:28",
+          "name": "i02001-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Paweł Gancarz",
+      "key": "D49HDN",
+      "lastModified": "2024-04-12T22:00:28",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D49HDN",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2001/reply/D49HDN/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-04-11"
+    }
+  ],
+  "sentDate": "2024-03-21",
+  "to": [
+    "minister infrastruktury"
+  ]
+}

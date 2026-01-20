@@ -1,0 +1,68 @@
+{
+  "lastModified": "2024-11-04T15:26:44",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5210",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D9W8Z5",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5210/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5210,
+  "receiptDate": "2024-10-01",
+  "term": 10,
+  "title": "Interpelacja w sprawie przeznaczenia kwoty 132 mln zł z oszczędności Ministerstwa Kultury i Dziedzictwa Narodowego na media publiczne",
+  "answerDelayedDays": 0,
+  "from": [
+    "004",
+    "052",
+    "080",
+    "100",
+    "234",
+    "435"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister kultury i dziedzictwa narodowego",
+      "sent": "2024-10-10"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDAPJVN/i05210-o1.pdf",
+          "lastModified": "2024-11-04T15:26:05",
+          "name": "i05210-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Andrzej Wyrobiec",
+      "key": "DAPJVN",
+      "lastModified": "2024-11-04T15:26:44",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAPJVN",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5210/reply/DAPJVN/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-10-31"
+    }
+  ],
+  "sentDate": "2024-10-10",
+  "to": [
+    "minister kultury i dziedzictwa narodowego"
+  ]
+}

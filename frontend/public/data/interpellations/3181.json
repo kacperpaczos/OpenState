@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-07-03T22:00:35",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=3181",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D659Y8",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3181/body",
+      "rel": "body"
+    }
+  ],
+  "num": 3181,
+  "receiptDate": "2024-06-03",
+  "term": 10,
+  "title": "Interpelacja w sprawie alternatywnych form finansowania dla firm zarejestrowanych w Polsce",
+  "answerDelayedDays": 0,
+  "from": [
+    "243"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rozwoju i technologii",
+      "sent": "2024-06-11"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD6THFR/i03181-o1.pdf",
+          "lastModified": "2024-07-03T22:00:35",
+          "name": "i03181-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Waldemar Sługocki",
+      "key": "D6THFR",
+      "lastModified": "2024-07-03T22:00:35",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D6THFR",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3181/reply/D6THFR/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-07-02"
+    }
+  ],
+  "sentDate": "2024-06-11",
+  "to": [
+    "minister rozwoju i technologii"
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "lastModified": "2024-05-28T15:27:05",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=1978",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D3DKNG",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1978/body",
+      "rel": "body"
+    }
+  ],
+  "num": 1978,
+  "receiptDate": "2024-03-10",
+  "term": 10,
+  "title": "Interpelacja w sprawie zabezpieczeń elektronicznych na rzecznym odcinku granicy z Białorusią",
+  "answerDelayedDays": 0,
+  "from": [
+    "136"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister spraw wewnętrznych i administracji",
+      "sent": "2024-03-15"
+    }
+  ],
+  "replies": [
+    {
+      "from": "Sekretarz stanu Czesław Mroczek",
+      "key": "D5PHSE",
+      "lastModified": "2024-05-28T15:27:05",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D5PHSE",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1978/reply/D5PHSE/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-05-27"
+    }
+  ],
+  "sentDate": "2024-03-15",
+  "to": [
+    "minister spraw wewnętrznych i administracji"
+  ]
+}

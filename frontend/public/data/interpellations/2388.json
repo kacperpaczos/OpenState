@@ -1,0 +1,69 @@
+{
+  "lastModified": "2024-04-19T22:00:16",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2388",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D3SJ9E",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2388/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2388,
+  "receiptDate": "2024-03-25",
+  "term": 10,
+  "title": "Interpelacja w sprawie budowy sieci Zielonych Targów",
+  "answerDelayedDays": 0,
+  "from": [
+    "146",
+    "150",
+    "154",
+    "234",
+    "311",
+    "356",
+    "435"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rolnictwa i rozwoju wsi",
+      "sent": "2024-03-28"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD4GJBT/i02388-o1.pdf",
+          "lastModified": "2024-04-19T22:00:16",
+          "name": "i02388-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Michał Kołodziejczak",
+      "key": "D4GJBT",
+      "lastModified": "2024-04-19T22:00:16",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D4GJBT",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2388/reply/D4GJBT/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-04-18"
+    }
+  ],
+  "sentDate": "2024-03-28",
+  "to": [
+    "minister rolnictwa i rozwoju wsi"
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "lastModified": "2024-12-09T22:00:07",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5448",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DA6BC5",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5448/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5448,
+  "receiptDate": "2024-10-14",
+  "term": 10,
+  "title": "Interpelacja w sprawie kolejnych zmian w składzie Zarządu Totalizatora Sportowego sp. z o.o.",
+  "answerDelayedDays": 0,
+  "from": [
+    "325"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister aktywów państwowych",
+      "sent": "2024-10-18"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDATJMR/i05448-o1.pdf",
+          "lastModified": "2024-11-08T22:00:53",
+          "name": "i05448-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Robert Kropiwnicki",
+      "key": "DATJMR",
+      "lastModified": "2024-11-08T22:00:53",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DATJMR",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5448/reply/DATJMR/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-11-06"
+    }
+  ],
+  "sentDate": "2024-11-20",
+  "to": [
+    "minister aktywów państwowych"
+  ],
+  "repeatedInterpellation": [
+    {
+      "lastModified": "2024-12-10T15:19:40",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5448",
+          "rel": "web-description"
+        },
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DB7G6Q",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5448p/body",
+          "rel": "body"
+        }
+      ],
+      "num": 5448,
+      "receiptDate": "2024-11-18",
+      "term": 10,
+      "title": "Interpelacja w sprawie kolejnych zmian w składzie Zarządu Totalizatora Sportowego sp. z o.o.",
+      "answerDelayedDays": 0,
+      "from": [
+        "325"
+      ],
+      "recipientDetails": [],
+      "replies": [
+        {
+          "attachments": [
+            {
+              "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDBSJRR/i05448-o2.pdf",
+              "lastModified": "2024-12-09T22:00:07",
+              "name": "i05448-o2.pdf"
+            }
+          ],
+          "from": "Sekretarz stanu Robert Kropiwnicki",
+          "key": "DBSJRR",
+          "lastModified": "2024-12-09T22:00:07",
+          "links": [
+            {
+              "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DBSJRR",
+              "rel": "web-body"
+            },
+            {
+              "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5448p/reply/DBSJRR/body",
+              "rel": "body"
+            }
+          ],
+          "onlyAttachment": true,
+          "prolongation": false,
+          "receiptDate": "2024-12-05"
+        }
+      ],
+      "sentDate": "2024-11-20",
+      "to": [
+        "minister aktywów państwowych"
+      ]
+    }
+  ]
+}

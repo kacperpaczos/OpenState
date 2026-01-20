@@ -1,0 +1,107 @@
+{
+  "lastModified": "2024-04-29T22:00:44",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2390",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D3SJ9G",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2390/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2390,
+  "receiptDate": "2024-03-25",
+  "term": 10,
+  "title": "Interpelacja w sprawie programu \"Ziemia za złotówkę\" i energooszczędnych domów dla młodych rodzin",
+  "answerDelayedDays": 0,
+  "from": [
+    "150",
+    "154",
+    "234",
+    "311",
+    "356",
+    "435"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rolnictwa i rozwoju wsi",
+      "sent": "2024-03-28"
+    },
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rozwoju i technologii",
+      "sent": "2024-03-28"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD49HE9/i02390-o1.pdf",
+          "lastModified": "2024-04-12T22:00:29",
+          "name": "i02390-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Jacek Czerniak",
+      "key": "D49HE9",
+      "lastModified": "2024-04-12T22:00:29",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D49HE9",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2390/reply/D49HE9/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-04-11"
+    },
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD4SHHE/i02390-o2.pdf",
+          "lastModified": "2024-04-29T22:00:44",
+          "name": "i02390-o2.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Krzysztof Kukucki",
+      "key": "D4SHHE",
+      "lastModified": "2024-04-29T22:00:44",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D4SHHE",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2390/reply/D4SHHE/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-04-26"
+    },
+    {
+      "from": "sekretarz stanu w Ministerstwie Rozwoju i Technologii - Krzysztof Kukucki",
+      "lastModified": "2024-04-18T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-04-18"
+    }
+  ],
+  "sentDate": "2024-03-28",
+  "to": [
+    "minister rolnictwa i rozwoju wsi",
+    "minister rozwoju i technologii"
+  ]
+}

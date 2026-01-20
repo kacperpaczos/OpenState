@@ -1,0 +1,73 @@
+{
+  "lastModified": "2024-04-19T22:00:16",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2372",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D3SJ8W",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2372/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2372,
+  "receiptDate": "2024-03-25",
+  "term": 10,
+  "title": "Interpelacja w sprawie rozwoju branży żywności roślinnej",
+  "answerDelayedDays": 0,
+  "from": [
+    "017",
+    "041",
+    "110",
+    "138",
+    "168",
+    "172",
+    "182",
+    "198",
+    "273",
+    "357",
+    "394"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rolnictwa i rozwoju wsi",
+      "sent": "2024-03-28"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD4GJBR/i02372-o1.pdf",
+          "lastModified": "2024-04-19T22:00:16",
+          "name": "i02372-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Stefan Krajewski",
+      "key": "D4GJBR",
+      "lastModified": "2024-04-19T22:00:16",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D4GJBR",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2372/reply/D4GJBR/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-04-18"
+    }
+  ],
+  "sentDate": "2024-03-28",
+  "to": [
+    "minister rolnictwa i rozwoju wsi"
+  ]
+}

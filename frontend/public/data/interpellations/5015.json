@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-10-22T22:00:22",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5015",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D9HJEN",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5015/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5015,
+  "receiptDate": "2024-09-23",
+  "term": 10,
+  "title": "Interpelacja w sprawie zasad podlegania obowiązkowo ubezpieczeniom społecznym po przekształceniu jednoosobowej działalności gospodarczej w spółkę z ograniczoną odpowiedzialnością, a następnie zbyciu części udziałów",
+  "answerDelayedDays": 0,
+  "from": [
+    "241"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rodziny, pracy i polityki społecznej",
+      "sent": "2024-10-03"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDAAJ8Y/i05015-o1.pdf",
+          "lastModified": "2024-10-22T22:00:22",
+          "name": "i05015-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Sebastian Gajewski",
+      "key": "DAAJ8Y",
+      "lastModified": "2024-10-22T22:00:22",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAAJ8Y",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5015/reply/DAAJ8Y/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-10-21"
+    }
+  ],
+  "sentDate": "2024-10-03",
+  "to": [
+    "minister rodziny, pracy i polityki społecznej"
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "lastModified": "2024-10-28T15:57:00",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=4834",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D9FFVQ",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4834/body",
+      "rel": "body"
+    }
+  ],
+  "num": 4834,
+  "receiptDate": "2024-09-13",
+  "term": 10,
+  "title": "Interpelacja w sprawie wiz studenckich dla obcokrajowców",
+  "answerDelayedDays": 0,
+  "from": [
+    "489"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister nauki",
+      "sent": "2024-09-25"
+    },
+    {
+      "answerDelayedDays": 0,
+      "name": "minister spraw zagranicznych",
+      "sent": "2024-09-25"
+    }
+  ],
+  "replies": [
+    {
+      "from": "Minister Dariusz Wieczorek",
+      "key": "D9VHNB",
+      "lastModified": "2024-10-09T15:19:44",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D9VHNB",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4834/reply/D9VHNB/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-10-08"
+    },
+    {
+      "from": "Sekretarz stanu Władysław Teofil Bartoszewski",
+      "key": "DAGKJQ",
+      "lastModified": "2024-10-28T15:57:00",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAGKJQ",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4834/reply/DAGKJQ/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-10-25"
+    }
+  ],
+  "sentDate": "2024-09-25",
+  "to": [
+    "minister nauki",
+    "minister spraw zagranicznych"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-10-25T22:00:22",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=4838",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D9GGUB",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4838/body",
+      "rel": "body"
+    }
+  ],
+  "num": 4838,
+  "receiptDate": "2024-09-14",
+  "term": 10,
+  "title": "Interpelacja w sprawie zmiany sposobu liczenia minimalnego wskaźnika koncentracji na poziomie 120 RLM na 1 km planowanej do budowy sieci kanalizacyjnej, który jest jednym z obligatoryjnych kryteriów oceny w ramach działania 1.3 FEnIKS",
+  "answerDelayedDays": 0,
+  "from": [
+    "347"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister klimatu i środowiska",
+      "sent": "2024-09-26"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDADJ8V/i04838-o1.pdf",
+          "lastModified": "2024-10-25T22:00:22",
+          "name": "i04838-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Krzysztof Bolesta",
+      "key": "DADJ8V",
+      "lastModified": "2024-10-25T22:00:22",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DADJ8V",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4838/reply/DADJ8V/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-10-23"
+    }
+  ],
+  "sentDate": "2024-09-26",
+  "to": [
+    "minister klimatu i środowiska"
+  ]
+}

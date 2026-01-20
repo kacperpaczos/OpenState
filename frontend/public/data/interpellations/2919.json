@@ -1,0 +1,87 @@
+{
+  "lastModified": "2024-09-03T22:00:49",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2919",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D65AMJ",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2919/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2919,
+  "receiptDate": "2024-05-21",
+  "term": 10,
+  "title": "Interpelacja w sprawie stanowiska rządu dotyczącego emerytur stażowych",
+  "answerDelayedDays": 0,
+  "from": [
+    "389"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rodziny, pracy i polityki społecznej",
+      "sent": "2024-06-13"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD8RHWU/i02919-o1.pdf",
+          "lastModified": "2024-09-03T22:00:49",
+          "name": "i02919-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Sebastian Gajewski",
+      "key": "D8RHWU",
+      "lastModified": "2024-09-03T22:00:49",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D8RHWU",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2919/reply/D8RHWU/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-09-03"
+    },
+    {
+      "from": "podsekretarz stanu w Ministerstwie Rodziny, Pracy i Polityki Społecznej - Sebastian Gajewski",
+      "lastModified": "2024-07-01T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-07-01"
+    },
+    {
+      "from": "podsekretarz stanu w Ministerstwie Rodziny, Pracy i Polityki Społecznej - Sebastian Gajewski",
+      "lastModified": "2024-07-25T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-07-25"
+    },
+    {
+      "from": "podsekretarz stanu w Ministerstwie Rodziny, Pracy i Polityki Społecznej - Sebastian Gajewski",
+      "lastModified": "2024-08-14T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-08-14"
+    }
+  ],
+  "sentDate": "2024-06-13",
+  "to": [
+    "minister rodziny, pracy i polityki społecznej"
+  ]
+}

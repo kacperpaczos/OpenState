@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-11-19T22:00:07",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5601",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAJB38",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5601/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5601,
+  "receiptDate": "2024-10-18",
+  "term": 10,
+  "title": "Interpelacja w sprawie realizacji inwestycji odbudowy Pałacu Saskiego, Pałacu Brühla oraz kamienic przy ul. Królewskiej w Warszawie",
+  "answerDelayedDays": 0,
+  "from": [
+    "481"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister kultury i dziedzictwa narodowego",
+      "sent": "2024-10-30"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDB6KNH/i05601-o1.pdf",
+          "lastModified": "2024-11-19T22:00:07",
+          "name": "i05601-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Andrzej Wyrobiec",
+      "key": "DB6KNH",
+      "lastModified": "2024-11-19T22:00:07",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DB6KNH",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5601/reply/DB6KNH/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-11-18"
+    }
+  ],
+  "sentDate": "2024-10-30",
+  "to": [
+    "minister kultury i dziedzictwa narodowego"
+  ]
+}

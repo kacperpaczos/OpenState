@@ -1,0 +1,102 @@
+{
+  "lastModified": "2024-05-06T22:00:34",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2120",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D3KFDG",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2120/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2120,
+  "receiptDate": "2024-03-18",
+  "term": 10,
+  "title": "Interpelacja w sprawie pomocy najbardziej potrzebującym w związku z podniesieniem stawki podatku VAT na żywność",
+  "answerDelayedDays": 0,
+  "from": [
+    "167"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister finansów",
+      "sent": "2024-03-21"
+    },
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rodziny, pracy i polityki społecznej",
+      "sent": "2024-03-21"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD48HND/i02120-o1.pdf",
+          "lastModified": "2024-04-11T22:00:28",
+          "name": "i02120-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Jarosław Neneman",
+      "key": "D48HND",
+      "lastModified": "2024-04-11T22:00:28",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D48HND",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2120/reply/D48HND/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-04-09"
+    },
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD4ZHUA/i02120-o2.pdf",
+          "lastModified": "2024-05-06T22:00:34",
+          "name": "i02120-o2.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Katarzyna Nowakowska",
+      "key": "D4ZHUA",
+      "lastModified": "2024-05-06T22:00:34",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D4ZHUA",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2120/reply/D4ZHUA/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-05-06"
+    },
+    {
+      "from": "podsekretarz stanu w Ministerstwie Rodziny, Pracy i Polityki Społecznej - Katarzyna Nowakowska",
+      "lastModified": "2024-04-12T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-04-12"
+    }
+  ],
+  "sentDate": "2024-03-21",
+  "to": [
+    "minister finansów",
+    "minister rodziny, pracy i polityki społecznej"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-02-02T22:00:52",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=514",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CZDB6M",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/514/body",
+      "rel": "body"
+    }
+  ],
+  "num": 514,
+  "receiptDate": "2024-01-02",
+  "term": 10,
+  "title": "Interpelacja w sprawie wydatków fundacji powiązanych ze spółkami Skarbu Państwa",
+  "answerDelayedDays": 0,
+  "from": [
+    "086"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister aktywów państwowych",
+      "sent": "2024-01-11"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD23KEC/i00514-o1.pdf",
+          "lastModified": "2024-02-02T22:00:52",
+          "name": "i00514-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Robert Kropiwnicki",
+      "key": "D23KEC",
+      "lastModified": "2024-02-02T22:00:52",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D23KEC",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/514/reply/D23KEC/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-01-31"
+    }
+  ],
+  "sentDate": "2024-01-11",
+  "to": [
+    "minister aktywów państwowych"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-12-16T22:00:27",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=6060",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAXK87",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/6060/body",
+      "rel": "body"
+    }
+  ],
+  "num": 6060,
+  "receiptDate": "2024-11-06",
+  "term": 10,
+  "title": "Interpelacja w sprawie zasad przyjęć na uczelnie wojskowe po odbyciu zasadniczej służby wojskowej",
+  "answerDelayedDays": 0,
+  "from": [
+    "147"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister obrony narodowej",
+      "sent": "2024-11-12"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDBZJTU/i06060-o1.pdf",
+          "lastModified": "2024-12-16T22:00:27",
+          "name": "i06060-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Paweł Bejda",
+      "key": "DBZJTU",
+      "lastModified": "2024-12-16T22:00:27",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DBZJTU",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/6060/reply/DBZJTU/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-11-27"
+    }
+  ],
+  "sentDate": "2024-11-12",
+  "to": [
+    "minister obrony narodowej"
+  ]
+}

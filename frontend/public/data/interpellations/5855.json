@@ -1,0 +1,69 @@
+{
+  "lastModified": "2025-01-03T22:00:42",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5855",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAPCVT",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5855/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5855,
+  "receiptDate": "2024-10-28",
+  "term": 10,
+  "title": "Interpelacja w sprawie uznawania wyroków przez ministra sprawiedliwości",
+  "answerDelayedDays": 0,
+  "from": [
+    "150",
+    "181",
+    "234",
+    "333",
+    "404",
+    "407",
+    "435"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister sprawiedliwości",
+      "sent": "2024-11-04"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDCKJXR/i05855-o1.pdf",
+          "lastModified": "2025-01-03T22:00:42",
+          "name": "i05855-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Arkadiusz Myrcha",
+      "key": "DCKJXR",
+      "lastModified": "2025-01-03T22:00:42",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DCKJXR",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5855/reply/DCKJXR/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2025-01-02"
+    }
+  ],
+  "sentDate": "2024-11-04",
+  "to": [
+    "minister sprawiedliwości"
+  ]
+}

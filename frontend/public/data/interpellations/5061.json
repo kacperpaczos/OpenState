@@ -1,0 +1,56 @@
+{
+  "lastModified": "2024-10-16T15:05:30",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5061",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D9HJFY",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5061/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5061,
+  "receiptDate": "2024-09-25",
+  "term": 10,
+  "title": "Interpelacja w sprawie wprowadzenia przedmiotu edukacja zdrowotna do programu nauczania od 1 września 2025 r.",
+  "answerDelayedDays": 0,
+  "from": [
+    "285"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister edukacji",
+      "sent": "2024-09-27"
+    }
+  ],
+  "replies": [
+    {
+      "from": "Sekretarz stanu Katarzyna Lubnauer",
+      "key": "DA4HDS",
+      "lastModified": "2024-10-16T15:05:30",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DA4HDS",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5061/reply/DA4HDS/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-10-15"
+    }
+  ],
+  "sentDate": "2024-09-27",
+  "to": [
+    "minister edukacji"
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "lastModified": "2024-03-25T22:00:46",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=1073",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CZYFS3",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1073/body",
+      "rel": "body"
+    }
+  ],
+  "num": 1073,
+  "receiptDate": "2024-01-24",
+  "term": 10,
+  "title": "Interpelacja w sprawie audytów",
+  "answerDelayedDays": 0,
+  "from": [
+    "100"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister kultury i dziedzictwa narodowego",
+      "sent": "2024-01-30"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD2HKBF/i01073-o1.pdf",
+          "lastModified": "2024-02-16T22:00:10",
+          "name": "i01073-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Andrzej Wyrobiec",
+      "key": "D2HKBF",
+      "lastModified": "2024-02-16T22:00:10",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D2HKBF",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1073/reply/D2HKBF/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-02-15"
+    }
+  ],
+  "sentDate": "2024-03-07",
+  "to": [
+    "minister kultury i dziedzictwa narodowego"
+  ],
+  "repeatedInterpellation": [
+    {
+      "lastModified": "2024-03-25T22:00:46",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=1073",
+          "rel": "web-description"
+        },
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D36CPJ",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1073p/body",
+          "rel": "body"
+        }
+      ],
+      "num": 1073,
+      "receiptDate": "2024-02-21",
+      "term": 10,
+      "title": "Interpelacja w sprawie audytów",
+      "answerDelayedDays": 0,
+      "from": [
+        "100"
+      ],
+      "recipientDetails": [],
+      "replies": [
+        {
+          "attachments": [
+            {
+              "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD3PK8T/i01073-o2.pdf",
+              "lastModified": "2024-03-25T22:00:46",
+              "name": "i01073-o2.pdf"
+            }
+          ],
+          "from": "Podsekretarz stanu Andrzej Wyrobiec",
+          "key": "D3PK8T",
+          "lastModified": "2024-03-25T22:00:46",
+          "links": [
+            {
+              "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D3PK8T",
+              "rel": "web-body"
+            },
+            {
+              "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1073p/reply/D3PK8T/body",
+              "rel": "body"
+            }
+          ],
+          "onlyAttachment": true,
+          "prolongation": false,
+          "receiptDate": "2024-03-22"
+        }
+      ],
+      "sentDate": "2024-03-07",
+      "to": [
+        "minister kultury i dziedzictwa narodowego"
+      ]
+    }
+  ]
+}

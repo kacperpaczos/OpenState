@@ -1,0 +1,56 @@
+{
+  "lastModified": "2024-09-23T15:09:48",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=4526",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D8TC58",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4526/body",
+      "rel": "body"
+    }
+  ],
+  "num": 4526,
+  "receiptDate": "2024-08-29",
+  "term": 10,
+  "title": "Interpelacja w sprawie podwyżek stypendiów doktoranckich i płac w szkolnictwie wyższym w 2025 roku oraz wypracowania mechanizmu automatycznej rewaloryzacji wynagrodzeń w latach kolejnych",
+  "answerDelayedDays": 0,
+  "from": [
+    "282"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister nauki",
+      "sent": "2024-09-05"
+    }
+  ],
+  "replies": [
+    {
+      "from": "Podsekretarz stanu Maciej Gdula",
+      "key": "D9DHGK",
+      "lastModified": "2024-09-23T15:09:48",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D9DHGK",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4526/reply/D9DHGK/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-09-19"
+    }
+  ],
+  "sentDate": "2024-09-05",
+  "to": [
+    "minister nauki"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastModified": "2025-06-23T22:00:58",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=4955",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D9FFZ9",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4955/body",
+      "rel": "body"
+    }
+  ],
+  "num": 4955,
+  "receiptDate": "2024-09-20",
+  "term": 10,
+  "title": "Interpelacja w sprawie finansowego wsparcia dla powodzian pracujących za granicą RP",
+  "answerDelayedDays": 0,
+  "from": [
+    "106"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rodziny, pracy i polityki społecznej",
+      "sent": "2024-09-27"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDHWHN3/i04955-o1.pdf",
+          "lastModified": "2025-06-23T22:00:58",
+          "name": "i04955-o1.pdf"
+        }
+      ],
+      "from": "Minister Agnieszka Dziemianowicz-Bąk",
+      "key": "DHWHN3",
+      "lastModified": "2025-06-23T22:00:58",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DHWHN3",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4955/reply/DHWHN3/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2025-06-23"
+    }
+  ],
+  "sentDate": "2024-09-27",
+  "to": [
+    "minister rodziny, pracy i polityki społecznej"
+  ]
+}

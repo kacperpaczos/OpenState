@@ -1,0 +1,64 @@
+{
+  "lastModified": "2024-11-07T22:00:54",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5385",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DA2BZY",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5385/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5385,
+  "receiptDate": "2024-10-10",
+  "term": 10,
+  "title": "Interpelacja w sprawie zasad sprzedaży drewna w 2025 r., w szczególności weryfikacji prawidłowości oświadczeń składanych przez przedsiębiorców",
+  "answerDelayedDays": 0,
+  "from": [
+    "308",
+    "372"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister klimatu i środowiska",
+      "sent": "2024-10-14"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDASJMS/i05385-o1.pdf",
+          "lastModified": "2024-11-07T22:00:54",
+          "name": "i05385-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Mikołaj Dorożała",
+      "key": "DASJMS",
+      "lastModified": "2024-11-07T22:00:54",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DASJMS",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5385/reply/DASJMS/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-11-05"
+    }
+  ],
+  "sentDate": "2024-10-14",
+  "to": [
+    "minister klimatu i środowiska"
+  ]
+}

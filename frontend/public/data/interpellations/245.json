@@ -1,0 +1,56 @@
+{
+  "lastModified": "2024-01-05T15:51:57",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=245",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CYNKGW",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/245/body",
+      "rel": "body"
+    }
+  ],
+  "num": 245,
+  "receiptDate": "2023-12-13",
+  "term": 10,
+  "title": "Interpelacja w sprawie przeprowadzenia audytu i najbliższych planów ministra spraw zagranicznych",
+  "answerDelayedDays": 0,
+  "from": [
+    "406"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister spraw zagranicznych",
+      "sent": "2023-12-19"
+    }
+  ],
+  "replies": [
+    {
+      "from": "Sekretarz stanu Władysław Teofil Bartoszewski",
+      "key": "CZ7KFK",
+      "lastModified": "2024-01-05T15:51:57",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CZ7KFK",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/245/reply/CZ7KFK/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-01-04"
+    }
+  ],
+  "sentDate": "2023-12-19",
+  "to": [
+    "minister spraw zagranicznych"
+  ]
+}

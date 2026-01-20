@@ -1,0 +1,63 @@
+{
+  "lastModified": "2025-01-13T22:00:58",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5939",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAQCNB",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5939/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5939,
+  "receiptDate": "2024-10-31",
+  "term": 10,
+  "title": "Interpelacja w sprawie spotkania z Stowarzyszeniem Ajentów i Franczyzobiorców SAiF",
+  "answerDelayedDays": 0,
+  "from": [
+    "484"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rodziny, pracy i polityki społecznej",
+      "sent": "2024-11-05"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDCVJQP/i05939-o1.pdf",
+          "lastModified": "2025-01-13T22:00:58",
+          "name": "i05939-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Łukasz Krasoń",
+      "key": "DCVJQP",
+      "lastModified": "2025-01-13T22:00:58",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DCVJQP",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5939/reply/DCVJQP/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2025-01-10"
+    }
+  ],
+  "sentDate": "2024-11-05",
+  "to": [
+    "minister rodziny, pracy i polityki społecznej"
+  ]
+}

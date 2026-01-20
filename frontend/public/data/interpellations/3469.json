@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-07-22T22:00:38",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=3469",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D6LHKY",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3469/body",
+      "rel": "body"
+    }
+  ],
+  "num": 3469,
+  "receiptDate": "2024-06-19",
+  "term": 10,
+  "title": "Interpelacja w sprawie działań podjętych w celu zminimalizowania zachorowań na choroby przenoszone przez owady i pajęczaki krwiopijne",
+  "answerDelayedDays": 0,
+  "from": [
+    "417"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister obrony narodowej",
+      "sent": "2024-06-26"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD7EHG7/i03469-o1.pdf",
+          "lastModified": "2024-07-22T22:00:38",
+          "name": "i03469-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Paweł Bejda",
+      "key": "D7EHG7",
+      "lastModified": "2024-07-22T22:00:38",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D7EHG7",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3469/reply/D7EHG7/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-07-05"
+    }
+  ],
+  "sentDate": "2024-06-26",
+  "to": [
+    "minister obrony narodowej"
+  ]
+}

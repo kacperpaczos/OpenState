@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-10-04T22:00:31",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=4703",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D93FDB",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4703/body",
+      "rel": "body"
+    }
+  ],
+  "num": 4703,
+  "receiptDate": "2024-09-10",
+  "term": 10,
+  "title": "Interpelacja w sprawie zmiany nazwy przystanku kolejowego Iwiny na Wrocław Jagodno",
+  "answerDelayedDays": 0,
+  "from": [
+    "141"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister infrastruktury",
+      "sent": "2024-09-13"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD9QHRQ/i04703-o1.pdf",
+          "lastModified": "2024-10-04T22:00:31",
+          "name": "i04703-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Piotr Malepszak",
+      "key": "D9QHRQ",
+      "lastModified": "2024-10-04T22:00:31",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D9QHRQ",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4703/reply/D9QHRQ/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-10-03"
+    }
+  ],
+  "sentDate": "2024-09-13",
+  "to": [
+    "minister infrastruktury"
+  ]
+}

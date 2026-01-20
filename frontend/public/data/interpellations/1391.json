@@ -1,0 +1,71 @@
+{
+  "lastModified": "2024-03-25T22:00:46",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=1391",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D2FC3K",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1391/body",
+      "rel": "body"
+    }
+  ],
+  "num": 1391,
+  "receiptDate": "2024-02-07",
+  "term": 10,
+  "title": "Interpelacja w sprawie uruchomienia bezpośredniego pociągu łączącego Rzeczpospolitą Polską z Chorwacją w sezonie letnim",
+  "answerDelayedDays": 0,
+  "from": [
+    "165"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister infrastruktury",
+      "sent": "2024-02-13"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD3PK8Y/i01391-o1.pdf",
+          "lastModified": "2024-03-25T22:00:46",
+          "name": "i01391-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Piotr Malepszak",
+      "key": "D3PK8Y",
+      "lastModified": "2024-03-25T22:00:46",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D3PK8Y",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1391/reply/D3PK8Y/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-03-22"
+    },
+    {
+      "from": "podsekretarz stanu w Ministerstwie Infrastruktury - Piotr Malepszak",
+      "lastModified": "2024-03-04T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-03-04"
+    }
+  ],
+  "sentDate": "2024-02-13",
+  "to": [
+    "minister infrastruktury"
+  ]
+}

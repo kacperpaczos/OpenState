@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-06-03T16:08:07",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2659",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D4TAFE",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2659/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2659,
+  "receiptDate": "2024-04-24",
+  "term": 10,
+  "title": "Interpelacja w sprawie składki zdrowotnej w przypadku łączenia pracy na etacie z prowadzeniem działalności gospodarczej",
+  "answerDelayedDays": 0,
+  "from": [
+    "260"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rodziny, pracy i polityki społecznej",
+      "sent": "2024-04-30"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD5QHLV/i02659-o1.pdf",
+          "lastModified": "2024-05-29T22:00:41",
+          "name": "i02659-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Wojciech Konieczny",
+      "key": "D5QHLV",
+      "lastModified": "2024-05-29T22:00:41",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D5QHLV",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2659/reply/D5QHLV/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-05-27"
+    }
+  ],
+  "sentDate": "2024-04-30",
+  "to": [
+    "minister rodziny, pracy i polityki społecznej"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-08-20T22:00:59",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=4069",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D7MBAL",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4069/body",
+      "rel": "body"
+    }
+  ],
+  "num": 4069,
+  "receiptDate": "2024-07-25",
+  "term": 10,
+  "title": "Interpelacja w sprawie niepokojących informacji dotyczących wycofywania się przez rząd Donalda Tuska z Programu Uzupełniania Lokalnej i Regionalnej Infrastruktury Kolejowej Kolej+ do 2029 roku - odcinek linii kolejowej Kraków-Myślenice (Małopolska)",
+  "answerDelayedDays": 0,
+  "from": [
+    "165"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister infrastruktury",
+      "sent": "2024-07-29"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD8BHVT/i04069-o1.pdf",
+          "lastModified": "2024-08-20T22:00:59",
+          "name": "i04069-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Piotr Malepszak",
+      "key": "D8BHVT",
+      "lastModified": "2024-08-20T22:00:59",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D8BHVT",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4069/reply/D8BHVT/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-08-17"
+    }
+  ],
+  "sentDate": "2024-07-29",
+  "to": [
+    "minister infrastruktury"
+  ]
+}

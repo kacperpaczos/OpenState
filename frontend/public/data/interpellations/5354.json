@@ -1,0 +1,56 @@
+{
+  "lastModified": "2024-10-21T12:33:29",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5354",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DA2BZ4",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5354/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5354,
+  "receiptDate": "2024-10-09",
+  "term": 10,
+  "title": "Interpelacja w sprawie pozyskania środków na budowę nowej szkoły",
+  "answerDelayedDays": 0,
+  "from": [
+    "182"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister edukacji",
+      "sent": "2024-10-14"
+    }
+  ],
+  "replies": [
+    {
+      "from": "Sekretarz stanu Joanna Mucha",
+      "key": "DA9EE6",
+      "lastModified": "2024-10-21T12:33:29",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DA9EE6",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5354/reply/DA9EE6/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-10-18"
+    }
+  ],
+  "sentDate": "2024-10-14",
+  "to": [
+    "minister edukacji"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-06-26T22:00:34",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2917",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D65AMG",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2917/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2917,
+  "receiptDate": "2024-05-21",
+  "term": 10,
+  "title": "Interpelacja w sprawie strategii zarządzania populacją wilków w Polsce",
+  "answerDelayedDays": 0,
+  "from": [
+    "065"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rolnictwa i rozwoju wsi",
+      "sent": "2024-06-11"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD6LHK2/i02917-o1.pdf",
+          "lastModified": "2024-06-26T22:00:34",
+          "name": "i02917-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Stefan Krajewski",
+      "key": "D6LHK2",
+      "lastModified": "2024-06-26T22:00:34",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D6LHK2",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2917/reply/D6LHK2/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-06-24"
+    }
+  ],
+  "sentDate": "2024-06-11",
+  "to": [
+    "minister rolnictwa i rozwoju wsi"
+  ]
+}

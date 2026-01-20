@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-07-19T22:00:51",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2815",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D65B3P",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2815/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2815,
+  "receiptDate": "2024-05-15",
+  "term": 10,
+  "title": "Interpelacja w sprawie lokalizacji nowej jednostki wojskowej pod Sobieszynem w gm. Ułęż (pow. rycki)",
+  "answerDelayedDays": 0,
+  "from": [
+    "463"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister obrony narodowej",
+      "sent": "2024-06-10"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD7BJGE/i02815-o1.pdf",
+          "lastModified": "2024-07-19T22:00:51",
+          "name": "i02815-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Paweł Bejda",
+      "key": "D7BJGE",
+      "lastModified": "2024-07-19T22:00:51",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D7BJGE",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2815/reply/D7BJGE/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-06-26"
+    }
+  ],
+  "sentDate": "2024-06-10",
+  "to": [
+    "minister obrony narodowej"
+  ]
+}

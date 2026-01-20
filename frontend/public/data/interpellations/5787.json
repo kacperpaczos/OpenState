@@ -1,0 +1,99 @@
+{
+  "lastModified": "2024-12-30T22:00:42",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5787",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAJAU2",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5787/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5787,
+  "receiptDate": "2024-10-25",
+  "term": 10,
+  "title": "Interpelacja w sprawie wydatków poniesionych przez Ministerstwo Rolnictwa i Rozwoju Wsi i podmioty podległe - nadzorowane na cele promocyjne i reklamowe od 13 grudnia 2023 r.",
+  "answerDelayedDays": 0,
+  "from": [
+    "052",
+    "061",
+    "071",
+    "095",
+    "109",
+    "150",
+    "473",
+    "234",
+    "356",
+    "407",
+    "435"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rolnictwa i rozwoju wsi",
+      "sent": "2024-10-30"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDCFJVP/i05787-o1_3.pdf",
+          "lastModified": "2024-12-30T22:00:42",
+          "name": "i05787-o1_3.pdf"
+        },
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDCFJVP/i05787-o1_2.xlsx",
+          "lastModified": "2024-12-30T22:00:42",
+          "name": "i05787-o1_2.xlsx"
+        },
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDCFJVP/i05787-o1_1.xlsx",
+          "lastModified": "2024-12-30T22:00:42",
+          "name": "i05787-o1_1.xlsx"
+        }
+      ],
+      "from": "Minister Czesław Siekierski",
+      "key": "DCFJVP",
+      "lastModified": "2024-12-30T22:00:42",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DCFJVP",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5787/reply/DCFJVP/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-12-20"
+    },
+    {
+      "from": "minister rolnictwa i rozwoju wsi - Czesław Siekierski",
+      "lastModified": "2024-11-15T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-11-15"
+    },
+    {
+      "from": "minister rolnictwa i rozwoju wsi - Czesław Siekierski",
+      "lastModified": "2024-12-06T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-12-06"
+    }
+  ],
+  "sentDate": "2024-10-30",
+  "to": [
+    "minister rolnictwa i rozwoju wsi"
+  ]
+}

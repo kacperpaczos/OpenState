@@ -1,0 +1,95 @@
+{
+  "lastModified": "2024-04-19T15:52:52",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=1733",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D36CSB",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1733/body",
+      "rel": "body"
+    }
+  ],
+  "num": 1733,
+  "receiptDate": "2024-02-22",
+  "term": 10,
+  "title": "Interpelacja w sprawie systemu cyfryzacji dokumentów związanych ze stosunkiem pracy",
+  "answerDelayedDays": 0,
+  "from": [
+    "245"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rodziny, pracy i polityki społecznej",
+      "sent": "2024-03-08"
+    },
+    {
+      "answerDelayedDays": 0,
+      "name": "minister cyfryzacji",
+      "sent": "2024-03-08"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD48HMH/i01733-o1.pdf",
+          "lastModified": "2024-04-11T22:00:28",
+          "name": "i01733-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Dariusz Standerski",
+      "key": "D48HMH",
+      "lastModified": "2024-04-11T22:00:28",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D48HMH",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1733/reply/D48HMH/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-04-09"
+    },
+    {
+      "from": "Minister Agnieszka Dziemianowicz-Bąk",
+      "key": "D4GJAH",
+      "lastModified": "2024-04-19T15:52:52",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D4GJAH",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1733/reply/D4GJAH/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-04-18"
+    },
+    {
+      "from": "minister rodziny, pracy i polityki społecznej - Agnieszka Dziemianowicz-Bąk",
+      "lastModified": "2024-03-26T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-03-26"
+    }
+  ],
+  "sentDate": "2024-03-08",
+  "to": [
+    "minister cyfryzacji",
+    "minister rodziny, pracy i polityki społecznej"
+  ]
+}

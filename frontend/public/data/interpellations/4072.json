@@ -1,0 +1,64 @@
+{
+  "lastModified": "2024-08-19T22:00:59",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=4072",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D7MBAP",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4072/body",
+      "rel": "body"
+    }
+  ],
+  "num": 4072,
+  "receiptDate": "2024-07-25",
+  "term": 10,
+  "title": "Interpelacja w sprawie terminu realizacji Drogi Czerwonej w Gdyni",
+  "answerDelayedDays": 0,
+  "from": [
+    "005",
+    "297"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister infrastruktury",
+      "sent": "2024-07-29"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD8AJ4R/i04072-o1.pdf",
+          "lastModified": "2024-08-19T22:00:59",
+          "name": "i04072-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Stanisław Bukowiec",
+      "key": "D8AJ4R",
+      "lastModified": "2024-08-19T22:00:59",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D8AJ4R",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4072/reply/D8AJ4R/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-08-16"
+    }
+  ],
+  "sentDate": "2024-07-29",
+  "to": [
+    "minister infrastruktury"
+  ]
+}

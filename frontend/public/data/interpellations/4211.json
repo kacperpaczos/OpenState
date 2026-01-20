@@ -1,0 +1,87 @@
+{
+  "lastModified": "2024-11-04T15:26:43",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=4211",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D7VEHU",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4211/body",
+      "rel": "body"
+    }
+  ],
+  "num": 4211,
+  "receiptDate": "2024-08-01",
+  "term": 10,
+  "title": "Interpelacja w sprawie wydawania decyzji ustalających poziom potrzeb wsparcia",
+  "answerDelayedDays": 0,
+  "from": [
+    "410"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rodziny, pracy i polityki społecznej",
+      "sent": "2024-08-06"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDAPJUW/i04211-o1.pdf",
+          "lastModified": "2024-11-04T15:26:00",
+          "name": "i04211-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Łukasz Krasoń",
+      "key": "DAPJUW",
+      "lastModified": "2024-11-04T15:26:43",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAPJUW",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4211/reply/DAPJUW/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-10-31"
+    },
+    {
+      "from": "sekretarz stanu w Ministerstwie Rodziny, Pracy i Polityki Społecznej - Łukasz Krasoń",
+      "lastModified": "2024-08-23T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-08-23"
+    },
+    {
+      "from": "sekretarz stanu w Ministerstwie Rodziny, Pracy i Polityki Społecznej - Łukasz Krasoń",
+      "lastModified": "2024-09-20T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-09-20"
+    },
+    {
+      "from": "sekretarz stanu w Ministerstwie Rodziny, Pracy i Polityki Społecznej - Łukasz Krasoń",
+      "lastModified": "2024-10-11T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-10-11"
+    }
+  ],
+  "sentDate": "2024-08-06",
+  "to": [
+    "minister rodziny, pracy i polityki społecznej"
+  ]
+}

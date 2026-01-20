@@ -1,0 +1,57 @@
+{
+  "lastModified": "2024-08-30T15:51:01",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=4294",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D85HKN",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4294/body",
+      "rel": "body"
+    }
+  ],
+  "num": 4294,
+  "receiptDate": "2024-08-08",
+  "term": 10,
+  "title": "Interpelacja w sprawie procederu przekierowywania imigrantów na terytorium Polski przez władze krajów Unii Europejskiej",
+  "answerDelayedDays": 0,
+  "from": [
+    "004",
+    "375"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister spraw wewnętrznych i administracji",
+      "sent": "2024-08-14"
+    }
+  ],
+  "replies": [
+    {
+      "from": "Podsekretarz stanu Maciej Duszczyk",
+      "key": "D8MJ9Q",
+      "lastModified": "2024-08-30T15:51:01",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D8MJ9Q",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4294/reply/D8MJ9Q/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-08-29"
+    }
+  ],
+  "sentDate": "2024-08-14",
+  "to": [
+    "minister spraw wewnętrznych i administracji"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-04-24T15:14:47",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=1638",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D2NGYE",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1638/body",
+      "rel": "body"
+    }
+  ],
+  "num": 1638,
+  "receiptDate": "2024-02-19",
+  "term": 10,
+  "title": "Interpelacja w sprawie nagród finansowych i dodatków zadaniowych przyznanych w Ministerstwie Obrony Narodowej od 1.01.2024 r.",
+  "answerDelayedDays": 0,
+  "from": [
+    "020"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister obrony narodowej",
+      "sent": "2024-02-21"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD4LJDU/i01638-o1.pdf",
+          "lastModified": "2024-04-23T22:00:04",
+          "name": "i01638-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Paweł Bejda",
+      "key": "D4LJDU",
+      "lastModified": "2024-04-23T22:00:04",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D4LJDU",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1638/reply/D4LJDU/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-04-02"
+    }
+  ],
+  "sentDate": "2024-02-21",
+  "to": [
+    "minister obrony narodowej"
+  ]
+}

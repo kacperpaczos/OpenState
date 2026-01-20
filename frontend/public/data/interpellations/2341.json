@@ -1,0 +1,68 @@
+{
+  "lastModified": "2024-05-02T22:00:44",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2341",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D3SJ7X",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2341/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2341,
+  "receiptDate": "2024-03-22",
+  "term": 10,
+  "title": "Interpelacja w sprawie transportu lokalnego za 59 zł miesięcznie",
+  "answerDelayedDays": 0,
+  "from": [
+    "146",
+    "150",
+    "224",
+    "234",
+    "311",
+    "404"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister infrastruktury",
+      "sent": "2024-04-03"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD4VHAM/i02341-o1.pdf",
+          "lastModified": "2024-05-02T22:00:44",
+          "name": "i02341-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Piotr Malepszak",
+      "key": "D4VHAM",
+      "lastModified": "2024-05-02T22:00:44",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D4VHAM",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2341/reply/D4VHAM/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-04-30"
+    }
+  ],
+  "sentDate": "2024-04-03",
+  "to": [
+    "minister infrastruktury"
+  ]
+}

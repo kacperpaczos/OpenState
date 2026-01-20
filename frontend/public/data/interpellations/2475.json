@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-05-13T22:00:27",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2475",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D46HD7",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2475/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2475,
+  "receiptDate": "2024-04-03",
+  "term": 10,
+  "title": "Interpelacja w sprawie kosztów obsługi prawnej Ministerstwa Klimatu i Środowiska oraz podległych spółek i instytucji",
+  "answerDelayedDays": 0,
+  "from": [
+    "137"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister klimatu i środowiska",
+      "sent": "2024-04-09"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD58HWW/i02475-o1.pdf",
+          "lastModified": "2024-05-13T22:00:27",
+          "name": "i02475-o1.pdf"
+        }
+      ],
+      "from": "Minister Paulina Hennig-Kloska",
+      "key": "D58HWW",
+      "lastModified": "2024-05-13T22:00:27",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D58HWW",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2475/reply/D58HWW/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-05-10"
+    }
+  ],
+  "sentDate": "2024-04-09",
+  "to": [
+    "minister klimatu i środowiska"
+  ]
+}

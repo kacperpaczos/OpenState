@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-02-05T22:00:16",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=52",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CYEKQ3",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/52/body",
+      "rel": "body"
+    }
+  ],
+  "num": 52,
+  "receiptDate": "2023-11-26",
+  "term": 10,
+  "title": "Interpelacja w sprawie Centralnego Ośrodka Sportu w pow. bieszczadzkim",
+  "answerDelayedDays": 0,
+  "from": [
+    "312"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister sportu i turystyki",
+      "sent": "2023-12-11"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD26JTV/i00052-o1.pdf",
+          "lastModified": "2024-02-05T22:00:16",
+          "name": "i00052-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Piotr Borys",
+      "key": "D26JTV",
+      "lastModified": "2024-02-05T22:00:16",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D26JTV",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/52/reply/D26JTV/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-02-02"
+    }
+  ],
+  "sentDate": "2023-12-11",
+  "to": [
+    "minister sportu i turystyki"
+  ]
+}

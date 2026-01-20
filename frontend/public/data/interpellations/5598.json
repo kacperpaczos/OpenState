@@ -1,0 +1,111 @@
+{
+  "lastModified": "2025-02-27T22:00:48",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5598",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAJB35",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5598/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5598,
+  "receiptDate": "2024-10-18",
+  "term": 10,
+  "title": "Interpelacja w sprawie funkcjonowania i dostępności mieszkań chronionych treningowych oraz wspieranych",
+  "answerDelayedDays": 0,
+  "from": [
+    "481"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rodziny, pracy i polityki społecznej",
+      "sent": "2024-10-30"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDEAJR6/i05598-o1.pdf",
+          "lastModified": "2025-02-27T22:00:48",
+          "name": "i05598-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Katarzyna Nowakowska",
+      "key": "DEAJR6",
+      "lastModified": "2025-02-27T22:00:48",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DEAJR6",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5598/reply/DEAJR6/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2025-02-26"
+    },
+    {
+      "from": "podsekretarz stanu w Ministerstwie Rodziny, Pracy i Polityki Społecznej - Katarzyna Nowakowska",
+      "lastModified": "2024-11-27T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-11-27"
+    },
+    {
+      "from": "podsekretarz stanu w Ministerstwie Rodziny, Pracy i Polityki Społecznej - Katarzyna Nowakowska",
+      "lastModified": "2024-12-17T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-12-17"
+    },
+    {
+      "from": "podsekretarz stanu w Ministerstwie Rodziny, Pracy i Polityki Społecznej - Katarzyna Nowakowska",
+      "lastModified": "2024-12-18T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-12-18"
+    },
+    {
+      "from": "podsekretarz stanu w Ministerstwie Rodziny, Pracy i Polityki Społecznej - Katarzyna Nowakowska",
+      "lastModified": "2025-01-09T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2025-01-09"
+    },
+    {
+      "from": "podsekretarz stanu w Ministerstwie Rodziny, Pracy i Polityki Społecznej - Katarzyna Nowakowska",
+      "lastModified": "2025-01-27T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2025-01-27"
+    },
+    {
+      "from": "podsekretarz stanu w Ministerstwie Rodziny, Pracy i Polityki Społecznej - Katarzyna Nowakowska",
+      "lastModified": "2025-02-18T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2025-02-18"
+    }
+  ],
+  "sentDate": "2024-10-30",
+  "to": [
+    "minister rodziny, pracy i polityki społecznej"
+  ]
+}

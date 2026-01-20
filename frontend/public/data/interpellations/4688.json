@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-10-15T22:00:21",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=4688",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D93FCU",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4688/body",
+      "rel": "body"
+    }
+  ],
+  "num": 4688,
+  "receiptDate": "2024-09-09",
+  "term": 10,
+  "title": "Interpelacja w sprawie inwestycji w postaci budowy południowej obwodnicy Strzelec Opolskich",
+  "answerDelayedDays": 0,
+  "from": [
+    "106"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister infrastruktury",
+      "sent": "2024-09-13"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDA3HJZ/i04688-o1.pdf",
+          "lastModified": "2024-10-15T22:00:21",
+          "name": "i04688-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Stanisław Bukowiec",
+      "key": "DA3HJZ",
+      "lastModified": "2024-10-15T22:00:21",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DA3HJZ",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4688/reply/DA3HJZ/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-10-14"
+    }
+  ],
+  "sentDate": "2024-09-13",
+  "to": [
+    "minister infrastruktury"
+  ]
+}

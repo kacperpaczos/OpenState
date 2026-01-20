@@ -1,0 +1,56 @@
+{
+  "lastModified": "2024-01-16T15:35:01",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=229",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CYNKGE",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/229/body",
+      "rel": "body"
+    }
+  ],
+  "num": 229,
+  "receiptDate": "2023-12-11",
+  "term": 10,
+  "title": "Interpelacja w sprawie otwarcia nowego kierunku lekarskiego na Uniwersytecie im. A. Mickiewicza",
+  "answerDelayedDays": 0,
+  "from": [
+    "303"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister nauki",
+      "sent": "2023-12-27"
+    }
+  ],
+  "replies": [
+    {
+      "from": "Podsekretarz stanu Maria Mrówczyńska",
+      "key": "CZJK4W",
+      "lastModified": "2024-01-16T15:35:01",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CZJK4W",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/229/reply/CZJK4W/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-01-15"
+    }
+  ],
+  "sentDate": "2023-12-27",
+  "to": [
+    "minister nauki"
+  ]
+}

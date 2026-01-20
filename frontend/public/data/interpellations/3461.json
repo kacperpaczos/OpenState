@@ -1,0 +1,71 @@
+{
+  "lastModified": "2024-09-17T22:00:26",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=3461",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D6LHKQ",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3461/body",
+      "rel": "body"
+    }
+  ],
+  "num": 3461,
+  "receiptDate": "2024-06-19",
+  "term": 10,
+  "title": "Interpelacja w sprawie stanu infrastruktury kolejowej w woj. dolnośląskim",
+  "answerDelayedDays": 0,
+  "from": [
+    "239"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister infrastruktury",
+      "sent": "2024-06-26"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD97HWS/i03461-o1.pdf",
+          "lastModified": "2024-09-17T22:00:26",
+          "name": "i03461-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Piotr Malepszak",
+      "key": "D97HWS",
+      "lastModified": "2024-09-17T22:00:26",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D97HWS",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3461/reply/D97HWS/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-09-16"
+    },
+    {
+      "from": "podsekretarz stanu w Ministerstwie Infrastruktury - Piotr Malepszak",
+      "lastModified": "2024-08-02T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-08-02"
+    }
+  ],
+  "sentDate": "2024-06-26",
+  "to": [
+    "minister infrastruktury"
+  ]
+}

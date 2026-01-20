@@ -1,0 +1,65 @@
+{
+  "lastModified": "2024-11-12T22:00:46",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5460",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DA6BCG",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5460/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5460,
+  "receiptDate": "2024-10-14",
+  "term": 10,
+  "title": "Interpelacja w sprawie postępowania komorniczego w przypadku egzekwowania długu niskiej wartości",
+  "answerDelayedDays": 0,
+  "from": [
+    "161",
+    "206",
+    "233"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister sprawiedliwości",
+      "sent": "2024-10-18"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDAXK5W/i05460-o1.pdf",
+          "lastModified": "2024-11-12T22:00:46",
+          "name": "i05460-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Maria Ejchart",
+      "key": "DAXK5W",
+      "lastModified": "2024-11-12T22:00:46",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAXK5W",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5460/reply/DAXK5W/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-11-06"
+    }
+  ],
+  "sentDate": "2024-10-18",
+  "to": [
+    "minister sprawiedliwości"
+  ]
+}

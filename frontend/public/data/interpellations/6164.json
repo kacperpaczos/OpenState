@@ -1,0 +1,64 @@
+{
+  "lastModified": "2024-12-09T22:00:08",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=6164",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DB5K3G",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/6164/body",
+      "rel": "body"
+    }
+  ],
+  "num": 6164,
+  "receiptDate": "2024-11-12",
+  "term": 10,
+  "title": "Interpelacja w sprawie Polskiego Instytutu Sztuki Filmowej",
+  "answerDelayedDays": 0,
+  "from": [
+    "110",
+    "273"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister kultury i dziedzictwa narodowego",
+      "sent": "2024-11-18"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDBSJS8/i06164-o1.pdf",
+          "lastModified": "2024-12-09T22:00:08",
+          "name": "i06164-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Andrzej Wyrobiec",
+      "key": "DBSJS8",
+      "lastModified": "2024-12-09T22:00:08",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DBSJS8",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/6164/reply/DBSJS8/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-12-06"
+    }
+  ],
+  "sentDate": "2024-11-18",
+  "to": [
+    "minister kultury i dziedzictwa narodowego"
+  ]
+}

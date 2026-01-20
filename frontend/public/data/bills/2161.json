@@ -1,0 +1,48 @@
+{
+    "UE": "NO",
+    "changeDate": "2026-01-20T18:12:30",
+    "description": "projekt dotyczy umowy dwustronnej regulującej problematykę pomocy prawnej w sprawach karnych",
+    "documentDate": "2026-01-13",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "2161",
+    "passed": false,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2026-01-13",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2026-01-13",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "2161",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2026-01-20",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "SZA",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                },
+                {
+                    "date": "2026-01-20",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "SPC",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2026-01-20",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o ratyfikacji Umowy między Rzecząpospolitą Polską a Republiką Indonezji o wzajemnej pomocy prawnej w sprawach karnych, podpisanej w Warszawie, dnia 19 września 2025 r.",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2026-01-20T18:24:14"
+}

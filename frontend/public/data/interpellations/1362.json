@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-02-20T22:00:33",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=1362",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D2FC2Q",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1362/body",
+      "rel": "body"
+    }
+  ],
+  "num": 1362,
+  "receiptDate": "2024-02-06",
+  "term": 10,
+  "title": "Interpelacja w sprawie nowelizacji ustawy o konsumenckiej pożyczce lombardowej w części dotyczącej finansowania działalności rolniczej",
+  "answerDelayedDays": 0,
+  "from": [
+    "389"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rolnictwa i rozwoju wsi",
+      "sent": "2024-02-14"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD2MKDA/i01362-o1.pdf",
+          "lastModified": "2024-02-20T22:00:33",
+          "name": "i01362-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Stefan Krajewski",
+      "key": "D2MKDA",
+      "lastModified": "2024-02-20T22:00:33",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D2MKDA",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1362/reply/D2MKDA/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-02-18"
+    }
+  ],
+  "sentDate": "2024-02-14",
+  "to": [
+    "minister rolnictwa i rozwoju wsi"
+  ]
+}

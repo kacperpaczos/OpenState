@@ -1,0 +1,72 @@
+{
+  "lastModified": "2024-05-02T22:00:44",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2333",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D3SJ7P",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2333/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2333,
+  "receiptDate": "2024-03-22",
+  "term": 10,
+  "title": "Interpelacja w sprawie czystej i taniej wody do produkcji rolnej",
+  "answerDelayedDays": 0,
+  "from": [
+    "146",
+    "234"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rolnictwa i rozwoju wsi",
+      "sent": "2024-03-28"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD4VHAL/i02333-o1.pdf",
+          "lastModified": "2024-05-02T22:00:44",
+          "name": "i02333-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Jacek Czerniak",
+      "key": "D4VHAL",
+      "lastModified": "2024-05-02T22:00:44",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D4VHAL",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2333/reply/D4VHAL/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-04-29"
+    },
+    {
+      "from": "sekretarz stanu w Ministerstwie Rolnictwa i Rozwoju Wsi - Jacek Czerniak",
+      "lastModified": "2024-04-17T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-04-17"
+    }
+  ],
+  "sentDate": "2024-03-28",
+  "to": [
+    "minister rolnictwa i rozwoju wsi"
+  ]
+}

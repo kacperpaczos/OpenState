@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-08-08T22:00:24",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=3675",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D73FBB",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3675/body",
+      "rel": "body"
+    }
+  ],
+  "num": 3675,
+  "receiptDate": "2024-07-05",
+  "term": 10,
+  "title": "Interpelacja w sprawie dopuszczenia hulajnóg elektrycznych z siodełkiem do ruchu na chodniku i ścieżce rowerowej",
+  "answerDelayedDays": 0,
+  "from": [
+    "239"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister infrastruktury",
+      "sent": "2024-07-11"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD7XCNF/i03675-o1.pdf",
+          "lastModified": "2024-08-08T22:00:24",
+          "name": "i03675-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Stanisław Bukowiec",
+      "key": "D7XCNF",
+      "lastModified": "2024-08-08T22:00:24",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D7XCNF",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3675/reply/D7XCNF/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-08-06"
+    }
+  ],
+  "sentDate": "2024-07-11",
+  "to": [
+    "minister infrastruktury"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-05-07T22:00:34",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2541",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D4N99G",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2541/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2541,
+  "receiptDate": "2024-04-11",
+  "term": 10,
+  "title": "Interpelacja w sprawie pomocy rolnikom poszkodowanym w związku z wystąpieniem niekorzystnego zjawiska atmosferycznego",
+  "answerDelayedDays": 0,
+  "from": [
+    "223"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rolnictwa i rozwoju wsi",
+      "sent": "2024-04-25"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD52HVW/i02541-o1.pdf",
+          "lastModified": "2024-05-07T22:00:34",
+          "name": "i02541-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Stefan Krajewski",
+      "key": "D52HVW",
+      "lastModified": "2024-05-07T22:00:34",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D52HVW",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2541/reply/D52HVW/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-05-02"
+    }
+  ],
+  "sentDate": "2024-04-25",
+  "to": [
+    "minister rolnictwa i rozwoju wsi"
+  ]
+}

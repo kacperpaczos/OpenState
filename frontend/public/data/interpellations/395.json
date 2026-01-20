@@ -1,0 +1,64 @@
+{
+  "lastModified": "2024-01-29T22:00:51",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=395",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CZDB2Y",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/395/body",
+      "rel": "body"
+    }
+  ],
+  "num": 395,
+  "receiptDate": "2023-12-28",
+  "term": 10,
+  "title": "Interpelacja w sprawie sytuacji w Polskiej Agencji Prasowej",
+  "answerDelayedDays": 0,
+  "from": [
+    "343",
+    "453"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister kultury i dziedzictwa narodowego",
+      "sent": "2024-01-11"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTCZXK74/i00395-o1.pdf",
+          "lastModified": "2024-01-29T22:00:51",
+          "name": "i00395-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Andrzej Wyrobiec",
+      "key": "CZXK74",
+      "lastModified": "2024-01-29T22:00:51",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CZXK74",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/395/reply/CZXK74/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-01-26"
+    }
+  ],
+  "sentDate": "2024-01-11",
+  "to": [
+    "minister kultury i dziedzictwa narodowego"
+  ]
+}

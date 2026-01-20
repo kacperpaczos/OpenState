@@ -1,0 +1,59 @@
+{
+  "lastModified": "2024-10-23T15:19:26",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5275",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D9W934",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5275/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5275,
+  "receiptDate": "2024-10-04",
+  "term": 10,
+  "title": "Interpelacja w sprawie skutków ustawy o systemie oświaty dla szkół niepublicznych",
+  "answerDelayedDays": 0,
+  "from": [
+    "060",
+    "102",
+    "140",
+    "334"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister edukacji",
+      "sent": "2024-10-10"
+    }
+  ],
+  "replies": [
+    {
+      "from": "Sekretarz stanu Henryk Kiepura",
+      "key": "DABHN7",
+      "lastModified": "2024-10-23T15:19:26",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DABHN7",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5275/reply/DABHN7/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-10-21"
+    }
+  ],
+  "sentDate": "2024-10-10",
+  "to": [
+    "minister edukacji"
+  ]
+}

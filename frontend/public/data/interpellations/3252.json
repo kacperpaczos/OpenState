@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-07-09T22:00:50",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=3252",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D65A2F",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3252/body",
+      "rel": "body"
+    }
+  ],
+  "num": 3252,
+  "receiptDate": "2024-06-03",
+  "term": 10,
+  "title": "Interpelacja w sprawie rozbudowy drogi krajowej nr 65 na odcinku przebiegającym przez Grajewo",
+  "answerDelayedDays": 0,
+  "from": [
+    "122"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister infrastruktury",
+      "sent": "2024-06-11"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD6ZHPS/i03252-o1.pdf",
+          "lastModified": "2024-07-09T22:00:50",
+          "name": "i03252-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Piotr Malepszak",
+      "key": "D6ZHPS",
+      "lastModified": "2024-07-09T22:00:50",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D6ZHPS",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3252/reply/D6ZHPS/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-07-08"
+    }
+  ],
+  "sentDate": "2024-06-11",
+  "to": [
+    "minister infrastruktury"
+  ]
+}

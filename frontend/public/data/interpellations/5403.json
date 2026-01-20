@@ -1,0 +1,103 @@
+{
+  "lastModified": "2025-03-04T15:37:48",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5403",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DA6BAQ",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5403/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5403,
+  "receiptDate": "2024-10-11",
+  "term": 10,
+  "title": "Interpelacja w sprawie realizacji programów opieki wytchnieniowej w woj. mazowieckim",
+  "answerDelayedDays": 0,
+  "from": [
+    "481"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rodziny, pracy i polityki społecznej",
+      "sent": "2024-10-18"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDEFJYQ/i05403-o1.pdf",
+          "lastModified": "2025-03-04T15:37:31",
+          "name": "i05403-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Łukasz Krasoń",
+      "key": "DEFJYQ",
+      "lastModified": "2025-03-04T15:37:48",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DEFJYQ",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5403/reply/DEFJYQ/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2025-03-03"
+    },
+    {
+      "from": "sekretarz stanu w Ministerstwie Rodziny, Pracy i Polityki Społecznej - Łukasz Krasoń",
+      "lastModified": "2024-11-07T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-11-07"
+    },
+    {
+      "from": "sekretarz stanu w Ministerstwie Rodziny, Pracy i Polityki Społecznej - Łukasz Krasoń",
+      "lastModified": "2024-11-29T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-11-29"
+    },
+    {
+      "from": "sekretarz stanu w Ministerstwie Rodziny, Pracy i Polityki Społecznej - Łukasz Krasoń",
+      "lastModified": "2025-01-10T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2025-01-10"
+    },
+    {
+      "from": "sekretarz stanu w Ministerstwie Rodziny, Pracy i Polityki Społecznej - Łukasz Krasoń",
+      "lastModified": "2025-02-03T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2025-02-03"
+    },
+    {
+      "from": "sekretarz stanu w Ministerstwie Rodziny, Pracy i Polityki Społecznej - Łukasz Krasoń",
+      "lastModified": "2025-02-26T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2025-02-26"
+    }
+  ],
+  "sentDate": "2024-10-18",
+  "to": [
+    "minister rodziny, pracy i polityki społecznej"
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "lastModified": "2024-09-25T22:00:19",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=4367",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D8DDD7",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4367/body",
+      "rel": "body"
+    }
+  ],
+  "num": 4367,
+  "receiptDate": "2024-08-16",
+  "term": 10,
+  "title": "Interpelacja w sprawie liczby i przebiegu postępowań z wniosków o ulgę Mały ZUS Plus",
+  "answerDelayedDays": 0,
+  "from": [
+    "032",
+    "399",
+    "412"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rodziny, pracy i polityki społecznej",
+      "sent": "2024-08-22"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD9FH7A/i04367-o1.pdf",
+          "lastModified": "2024-09-25T22:00:19",
+          "name": "i04367-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Sebastian Gajewski",
+      "key": "D9FH7A",
+      "lastModified": "2024-09-25T22:00:19",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D9FH7A",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4367/reply/D9FH7A/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-09-24"
+    },
+    {
+      "from": "podsekretarz stanu w Ministerstwie Rodziny, Pracy i Polityki Społecznej - Sebastian Gajewski",
+      "lastModified": "2024-09-13T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-09-13"
+    }
+  ],
+  "sentDate": "2024-08-22",
+  "to": [
+    "minister rodziny, pracy i polityki społecznej"
+  ]
+}

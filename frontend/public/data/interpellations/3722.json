@@ -1,0 +1,56 @@
+{
+  "lastModified": "2024-08-13T14:34:34",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=3722",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D78E8U",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3722/body",
+      "rel": "body"
+    }
+  ],
+  "num": 3722,
+  "receiptDate": "2024-07-11",
+  "term": 10,
+  "title": "Interpelacja w sprawie procesu dalszego odtwarzania i funkcjonowania posterunków Policji, masowo likwidowanych w latach 2008-2015",
+  "answerDelayedDays": 0,
+  "from": [
+    "452"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister spraw wewnętrznych i administracji, koordynator służb specjalnych",
+      "sent": "2024-07-16"
+    }
+  ],
+  "replies": [
+    {
+      "from": "Sekretarz stanu Wiesław Szczepański",
+      "key": "D84GRN",
+      "lastModified": "2024-08-13T14:34:34",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D84GRN",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3722/reply/D84GRN/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-08-12"
+    }
+  ],
+  "sentDate": "2024-07-16",
+  "to": [
+    "minister spraw wewnętrznych i administracji, koordynator służb specjalnych"
+  ]
+}

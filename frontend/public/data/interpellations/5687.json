@@ -1,0 +1,57 @@
+{
+  "lastModified": "2024-11-21T15:56:40",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5687",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAJAR2",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5687/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5687,
+  "receiptDate": "2024-10-21",
+  "term": 10,
+  "title": "Interpelacja w sprawie przepisów dotyczących terminu zamknięcia przewodów doktorskich",
+  "answerDelayedDays": 0,
+  "from": [
+    "273",
+    "402"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister nauki",
+      "sent": "2024-10-29"
+    }
+  ],
+  "replies": [
+    {
+      "from": "Podsekretarz stanu Maria Mrówczyńska",
+      "key": "DB7G4Y",
+      "lastModified": "2024-11-20T13:01:07",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DB7G4Y",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5687/reply/DB7G4Y/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-11-19"
+    }
+  ],
+  "sentDate": "2024-10-29",
+  "to": [
+    "minister nauki"
+  ]
+}

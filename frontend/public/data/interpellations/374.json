@@ -1,0 +1,56 @@
+{
+  "lastModified": "2024-03-25T15:41:19",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=374",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CZDB2C",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/374/body",
+      "rel": "body"
+    }
+  ],
+  "num": 374,
+  "receiptDate": "2023-12-27",
+  "term": 10,
+  "title": "Interpelacja w sprawie nowych zadań nałożonych na wojewódzkie zespoły do spraw orzekania o niepełnosprawności",
+  "answerDelayedDays": 0,
+  "from": [
+    "426"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rodziny, pracy i polityki społecznej",
+      "sent": "2024-01-10"
+    }
+  ],
+  "replies": [
+    {
+      "from": "Sekretarz stanu Łukasz Krasoń",
+      "key": "CZYFKV",
+      "lastModified": "2024-03-25T15:41:19",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CZYFKV",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/374/reply/CZYFKV/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-01-29"
+    }
+  ],
+  "sentDate": "2024-01-10",
+  "to": [
+    "minister rodziny, pracy i polityki społecznej"
+  ]
+}

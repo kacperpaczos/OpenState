@@ -1,0 +1,71 @@
+{
+  "lastModified": "2024-12-12T22:00:11",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=6066",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAXK8D",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/6066/body",
+      "rel": "body"
+    }
+  ],
+  "num": 6066,
+  "receiptDate": "2024-11-07",
+  "term": 10,
+  "title": "Interpelacja w sprawie podjęcia działań związanych z zabezpieczeniem powodziowym w gm. Boguszów-Gorce",
+  "answerDelayedDays": 0,
+  "from": [
+    "421"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister infrastruktury",
+      "sent": "2024-11-12"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDBVK7U/i06066-o1.pdf",
+          "lastModified": "2024-12-12T22:00:11",
+          "name": "i06066-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Przemysław Koperski",
+      "key": "DBVK7U",
+      "lastModified": "2024-12-12T22:00:11",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DBVK7U",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/6066/reply/DBVK7U/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-12-10"
+    },
+    {
+      "from": "podsekretarz stanu w Ministerstwie Infrastruktury - Przemysław Koperski",
+      "lastModified": "2024-11-25T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-11-25"
+    }
+  ],
+  "sentDate": "2024-11-12",
+  "to": [
+    "minister infrastruktury"
+  ]
+}

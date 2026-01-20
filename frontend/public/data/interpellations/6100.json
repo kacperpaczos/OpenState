@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-12-11T22:00:07",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=6100",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAYJVM",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/6100/body",
+      "rel": "body"
+    }
+  ],
+  "num": 6100,
+  "receiptDate": "2024-11-07",
+  "term": 10,
+  "title": "Interpelacja w sprawie objęcia refundacją terapii skojarzonej pertuzumabem i trastuzumabem (terapia lekiem Phesgo) stosowanej w leczeni raka piersi",
+  "answerDelayedDays": 0,
+  "from": [
+    "467"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister zdrowia",
+      "sent": "2024-11-13"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDBUFZ9/i06100-o1.pdf",
+          "lastModified": "2024-12-11T22:00:07",
+          "name": "i06100-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Marek Kos",
+      "key": "DBUFZ9",
+      "lastModified": "2024-12-11T22:00:07",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DBUFZ9",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/6100/reply/DBUFZ9/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-12-08"
+    }
+  ],
+  "sentDate": "2024-11-13",
+  "to": [
+    "minister zdrowia"
+  ]
+}

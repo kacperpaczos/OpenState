@@ -1,0 +1,69 @@
+{
+  "lastModified": "2024-02-01T22:00:52",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=413",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CZDB3J",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/413/body",
+      "rel": "body"
+    }
+  ],
+  "num": 413,
+  "receiptDate": "2023-12-28",
+  "term": 10,
+  "title": "Interpelacja w sprawie zasobów geotermalnych w Polsce oraz ich wykorzystania",
+  "answerDelayedDays": 0,
+  "from": [
+    "095",
+    "321"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister klimatu i środowiska",
+      "sent": "2024-01-11"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD22JGA/i00413-o1_2.pdf",
+          "lastModified": "2024-02-01T22:00:52",
+          "name": "i00413-o1_2.pdf"
+        },
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD22JGA/i00413-o1_1.pdf",
+          "lastModified": "2024-02-01T22:00:52",
+          "name": "i00413-o1_1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Krzysztof Galos",
+      "key": "D22JGA",
+      "lastModified": "2024-02-01T22:00:52",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D22JGA",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/413/reply/D22JGA/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-01-31"
+    }
+  ],
+  "sentDate": "2024-01-11",
+  "to": [
+    "minister klimatu i środowiska"
+  ]
+}

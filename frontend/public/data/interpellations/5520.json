@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-11-04T15:26:45",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5520",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DA9EGA",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5520/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5520,
+  "receiptDate": "2024-10-17",
+  "term": 10,
+  "title": "Interpelacja w sprawie środków finansowych przeznaczonych na funkcjonowanie służby zdrowia w Łodzi i regionie łódzkim",
+  "answerDelayedDays": 0,
+  "from": [
+    "432"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister zdrowia",
+      "sent": "2024-10-21"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDAPJWL/i05520-o1.pdf",
+          "lastModified": "2024-11-04T15:26:10",
+          "name": "i05520-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Jerzy Szafranowicz",
+      "key": "DAPJWL",
+      "lastModified": "2024-11-04T15:26:45",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAPJWL",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5520/reply/DAPJWL/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-10-31"
+    }
+  ],
+  "sentDate": "2024-10-21",
+  "to": [
+    "minister zdrowia"
+  ]
+}

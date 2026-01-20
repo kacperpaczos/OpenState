@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-10-30T22:00:11",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5024",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D9HJEW",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5024/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5024,
+  "receiptDate": "2024-09-24",
+  "term": 10,
+  "title": "Interpelacja w sprawie laptopów dla uczniów",
+  "answerDelayedDays": 0,
+  "from": [
+    "303"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister cyfryzacji",
+      "sent": "2024-09-27"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDAJJWU/i05024-o1.pdf",
+          "lastModified": "2024-10-30T22:00:11",
+          "name": "i05024-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Paweł Olszewski",
+      "key": "DAJJWU",
+      "lastModified": "2024-10-30T22:00:11",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAJJWU",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5024/reply/DAJJWU/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-10-29"
+    }
+  ],
+  "sentDate": "2024-09-27",
+  "to": [
+    "minister cyfryzacji"
+  ]
+}

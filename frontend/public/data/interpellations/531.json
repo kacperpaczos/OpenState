@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-01-24T22:00:58",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=531",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CZDAL9",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/531/body",
+      "rel": "body"
+    }
+  ],
+  "num": 531,
+  "receiptDate": "2024-01-04",
+  "term": 10,
+  "title": "Interpelacja w sprawie ochrony taryfowej dostaw gazu na potrzeby centralnego ogrzewania dla mieszkańców spółdzielni usługowych",
+  "answerDelayedDays": 0,
+  "from": [
+    "140"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister klimatu i środowiska",
+      "sent": "2024-01-11"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTCZSJQA/i00531-o1.pdf",
+          "lastModified": "2024-01-24T22:00:58",
+          "name": "i00531-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Miłosz Motyka",
+      "key": "CZSJQA",
+      "lastModified": "2024-01-24T22:00:58",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CZSJQA",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/531/reply/CZSJQA/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-01-23"
+    }
+  ],
+  "sentDate": "2024-01-11",
+  "to": [
+    "minister klimatu i środowiska"
+  ]
+}

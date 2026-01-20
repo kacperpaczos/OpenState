@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-12-02T22:00:26",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=4976",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D9W9BY",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4976/body",
+      "rel": "body"
+    }
+  ],
+  "num": 4976,
+  "receiptDate": "2024-09-21",
+  "term": 10,
+  "title": "Interpelacja w sprawie delegacji krajowych i zagranicznych pracowników oraz dyrekcji Ministerstwa Obrony Narodowej, jednostek mu podległych lub przez nie nadzorowanych",
+  "answerDelayedDays": 0,
+  "from": [
+    "311"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister obrony narodowej",
+      "sent": "2024-10-10"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDBKK82/i04976-o1.pdf",
+          "lastModified": "2024-12-02T22:00:26",
+          "name": "i04976-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Paweł Bejda",
+      "key": "DBKK82",
+      "lastModified": "2024-12-02T22:00:26",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DBKK82",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4976/reply/DBKK82/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-11-14"
+    }
+  ],
+  "sentDate": "2024-10-10",
+  "to": [
+    "minister obrony narodowej"
+  ]
+}

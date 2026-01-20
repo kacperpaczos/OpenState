@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-04-19T22:00:16",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2028",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D3KFAQ",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2028/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2028,
+  "receiptDate": "2024-03-13",
+  "term": 10,
+  "title": "Interpelacja w sprawie zmiany ustawy Prawo wodne",
+  "answerDelayedDays": 0,
+  "from": [
+    "112"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister infrastruktury",
+      "sent": "2024-03-21"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD4GJAK/i02028-o1.pdf",
+          "lastModified": "2024-04-19T22:00:16",
+          "name": "i02028-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Przemysław Koperski",
+      "key": "D4GJAK",
+      "lastModified": "2024-04-19T22:00:16",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D4GJAK",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2028/reply/D4GJAK/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-04-18"
+    }
+  ],
+  "sentDate": "2024-03-21",
+  "to": [
+    "minister infrastruktury"
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "lastModified": "2024-11-27T15:12:14",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5952",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DATB98",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5952/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5952,
+  "receiptDate": "2024-11-01",
+  "term": 10,
+  "title": "Interpelacja w sprawie działalności dywersyjnej Federacji Rosyjskiej na terenie Rzeczypospolitej Polskiej",
+  "answerDelayedDays": 0,
+  "from": [
+    "219",
+    "276",
+    "358",
+    "430"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister spraw zagranicznych",
+      "sent": "2024-11-07"
+    }
+  ],
+  "replies": [
+    {
+      "from": "Sekretarz stanu Władysław Teofil Bartoszewski",
+      "key": "DBEJNZ",
+      "lastModified": "2024-11-27T15:12:14",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DBEJNZ",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5952/reply/DBEJNZ/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-11-26"
+    }
+  ],
+  "sentDate": "2024-11-07",
+  "to": [
+    "minister spraw zagranicznych"
+  ]
+}

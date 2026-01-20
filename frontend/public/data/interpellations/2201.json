@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-04-22T22:00:04",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2201",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D3SJ2X",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2201/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2201,
+  "receiptDate": "2024-03-20",
+  "term": 10,
+  "title": "Interpelacja w sprawie wsparcia przez Ministerstwo Sportu i Turystyki polskiego curlingu",
+  "answerDelayedDays": 0,
+  "from": [
+    "260"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister sportu i turystyki",
+      "sent": "2024-03-28"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD4KJ7G/i02201-o1.pdf",
+          "lastModified": "2024-04-22T22:00:04",
+          "name": "i02201-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Piotr Borys",
+      "key": "D4KJ7G",
+      "lastModified": "2024-04-22T22:00:04",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D4KJ7G",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2201/reply/D4KJ7G/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-04-18"
+    }
+  ],
+  "sentDate": "2024-03-28",
+  "to": [
+    "minister sportu i turystyki"
+  ]
+}

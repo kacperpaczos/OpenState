@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-11-28T22:00:48",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5883",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAPCWP",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5883/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5883,
+  "receiptDate": "2024-10-29",
+  "term": 10,
+  "title": "Interpelacja w sprawie udziału tłumaczy przysięgłych w rozprawach w formie zdalnej",
+  "answerDelayedDays": 0,
+  "from": [
+    "487"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister sprawiedliwości",
+      "sent": "2024-11-04"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDBFJRJ/i05883-o1.pdf",
+          "lastModified": "2024-11-28T22:00:48",
+          "name": "i05883-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Dariusz Mazur",
+      "key": "DBFJRJ",
+      "lastModified": "2024-11-28T22:00:48",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DBFJRJ",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5883/reply/DBFJRJ/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-11-25"
+    }
+  ],
+  "sentDate": "2024-11-04",
+  "to": [
+    "minister sprawiedliwości"
+  ]
+}

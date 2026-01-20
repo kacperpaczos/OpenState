@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-08-21T22:00:59",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=4216",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D7VEHZ",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4216/body",
+      "rel": "body"
+    }
+  ],
+  "num": 4216,
+  "receiptDate": "2024-08-01",
+  "term": 10,
+  "title": "Interpelacja w sprawie niskich ekranów akustycznych",
+  "answerDelayedDays": 0,
+  "from": [
+    "239"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister infrastruktury",
+      "sent": "2024-08-06"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD8CHCY/i04216-o1.pdf",
+          "lastModified": "2024-08-21T22:00:59",
+          "name": "i04216-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Przemysław Koperski",
+      "key": "D8CHCY",
+      "lastModified": "2024-08-21T22:00:59",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D8CHCY",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4216/reply/D8CHCY/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-08-19"
+    }
+  ],
+  "sentDate": "2024-08-06",
+  "to": [
+    "minister infrastruktury"
+  ]
+}

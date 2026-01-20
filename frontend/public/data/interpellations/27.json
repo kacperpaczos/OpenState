@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-01-08T22:00:38",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=27",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CYHFVL",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/27/body",
+      "rel": "body"
+    }
+  ],
+  "num": 27,
+  "receiptDate": "2023-11-23",
+  "term": 10,
+  "title": "Interpelacja w sprawie linii kolejowej nr 108",
+  "answerDelayedDays": 0,
+  "from": [
+    "312"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister infrastruktury",
+      "sent": "2023-12-14"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTCZAKDQ/i00027-o1.pdf",
+          "lastModified": "2024-01-08T22:00:38",
+          "name": "i00027-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Piotr Malepszak",
+      "key": "CZAKDQ",
+      "lastModified": "2024-01-08T22:00:38",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CZAKDQ",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/27/reply/CZAKDQ/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-01-04"
+    }
+  ],
+  "sentDate": "2023-12-14",
+  "to": [
+    "minister infrastruktury"
+  ]
+}

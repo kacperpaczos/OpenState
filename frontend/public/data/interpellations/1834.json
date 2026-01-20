@@ -1,0 +1,71 @@
+{
+  "lastModified": "2024-05-02T22:00:44",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=1834",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D36CVD",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1834/body",
+      "rel": "body"
+    }
+  ],
+  "num": 1834,
+  "receiptDate": "2024-02-29",
+  "term": 10,
+  "title": "Interpelacja w sprawie modernizacji linii kolejowej nr 104 oraz budowy nowej linii nr 622 (tzw. linia kolejowa Podłęże-Piekiełko)",
+  "answerDelayedDays": 0,
+  "from": [
+    "418"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister infrastruktury",
+      "sent": "2024-03-07"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD4VHAD/i01834-o1.pdf",
+          "lastModified": "2024-05-02T22:00:44",
+          "name": "i01834-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Piotr Malepszak",
+      "key": "D4VHAD",
+      "lastModified": "2024-05-02T22:00:44",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D4VHAD",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1834/reply/D4VHAD/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-04-30"
+    },
+    {
+      "from": "podsekretarz stanu w Ministerstwie Infrastruktury - Piotr Malepszak",
+      "lastModified": "2024-04-02T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-04-02"
+    }
+  ],
+  "sentDate": "2024-03-07",
+  "to": [
+    "minister infrastruktury"
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "lastModified": "2024-05-02T15:01:33",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2499",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D46HDX",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2499/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2499,
+  "receiptDate": "2024-04-04",
+  "term": 10,
+  "title": "Interpelacja w sprawie Instytutu Rozwoju Języka Polskiego im. Świętego Maksymiliana Marii Kolbego",
+  "answerDelayedDays": 0,
+  "from": [
+    "366"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister edukacji",
+      "sent": "2024-04-09"
+    }
+  ],
+  "replies": [
+    {
+      "from": "Sekretarz stanu Joanna Mucha",
+      "key": "D4VHB4",
+      "lastModified": "2024-05-02T15:01:33",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D4VHB4",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2499/reply/D4VHB4/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-04-30"
+    }
+  ],
+  "sentDate": "2024-04-09",
+  "to": [
+    "minister edukacji"
+  ]
+}

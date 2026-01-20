@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-07-18T22:00:51",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=3476",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D6LHL7",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3476/body",
+      "rel": "body"
+    }
+  ],
+  "num": 3476,
+  "receiptDate": "2024-06-20",
+  "term": 10,
+  "title": "Interpelacja w sprawie potencjalnych zagrożeń dla bezpieczeństwa państwa",
+  "answerDelayedDays": 0,
+  "from": [
+    "406"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister - członek Rady Ministrów, koordynator służb specjalnych",
+      "sent": "2024-07-01"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD7AHD4/i03476-o1.pdf",
+          "lastModified": "2024-07-18T22:00:51",
+          "name": "i03476-o1.pdf"
+        }
+      ],
+      "from": "Minister Tomasz Siemoniak",
+      "key": "D7AHD4",
+      "lastModified": "2024-07-18T22:00:51",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D7AHD4",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3476/reply/D7AHD4/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-07-16"
+    }
+  ],
+  "sentDate": "2024-07-01",
+  "to": [
+    "minister - członek Rady Ministrów, koordynator służb specjalnych"
+  ]
+}

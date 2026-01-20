@@ -1,0 +1,68 @@
+{
+  "lastModified": "2024-02-21T22:00:32",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=1060",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CZYFRP",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1060/body",
+      "rel": "body"
+    }
+  ],
+  "num": 1060,
+  "receiptDate": "2024-01-23",
+  "term": 10,
+  "title": "Interpelacja w sprawie środków z rządowego Programu Inwestycji Strategicznych przeznaczonych dla pow. ostrowskiego",
+  "answerDelayedDays": 0,
+  "from": [
+    "227"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "prezes Rady Ministrów",
+      "sent": "2024-01-30"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD2NGPY/i01060-o1_1.pdf",
+          "lastModified": "2024-02-21T22:00:32",
+          "name": "i01060-o1_1.pdf"
+        },
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD2NGPY/i01060-o1_2.pdf",
+          "lastModified": "2024-02-21T22:00:32",
+          "name": "i01060-o1_2.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Grzegorz Karpiński",
+      "key": "D2NGPY",
+      "lastModified": "2024-02-21T22:00:32",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D2NGPY",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1060/reply/D2NGPY/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-02-20"
+    }
+  ],
+  "sentDate": "2024-01-30",
+  "to": [
+    "prezes Rady Ministrów"
+  ]
+}

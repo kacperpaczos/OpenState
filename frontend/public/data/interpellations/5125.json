@@ -1,0 +1,56 @@
+{
+  "lastModified": "2024-10-30T15:25:21",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5125",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D9W8WH",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5125/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5125,
+  "receiptDate": "2024-09-27",
+  "term": 10,
+  "title": "Interpelacja w sprawie asystentów międzykulturowych",
+  "answerDelayedDays": 0,
+  "from": [
+    "237"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister edukacji",
+      "sent": "2024-10-10"
+    }
+  ],
+  "replies": [
+    {
+      "from": "Sekretarz stanu Joanna Mucha",
+      "key": "DAJJWW",
+      "lastModified": "2024-10-30T15:25:21",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAJJWW",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5125/reply/DAJJWW/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-10-29"
+    }
+  ],
+  "sentDate": "2024-10-10",
+  "to": [
+    "minister edukacji"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastModified": "2025-05-19T15:33:22",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5868",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAPCW8",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5868/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5868,
+  "receiptDate": "2024-10-28",
+  "term": 10,
+  "title": "Interpelacja w sprawie nierównego traktowania emerytów w zależności od źródła otrzymywania świadczeń emerytalnych i rentowych w kontekście możliwości dodatkowego zarobkowania po 65. roku życia emerytów i rencistów mundurowych",
+  "answerDelayedDays": 0,
+  "from": [
+    "121"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister obrony narodowej",
+      "sent": "2024-12-18"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDGNHMN/i05868-o1.pdf",
+          "lastModified": "2025-05-14T22:00:08",
+          "name": "i05868-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Paweł Bejda",
+      "key": "DGNHMN",
+      "lastModified": "2025-05-19T15:33:22",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DGNHMN",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5868/reply/DGNHMN/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2025-05-05"
+    }
+  ],
+  "sentDate": "2024-12-18",
+  "to": [
+    "minister obrony narodowej"
+  ]
+}

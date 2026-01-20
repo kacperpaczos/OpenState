@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-10-14T22:00:21",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5076",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D9LHRE",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5076/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5076,
+  "receiptDate": "2024-09-26",
+  "term": 10,
+  "title": "Interpelacja w sprawie elastycznego systemu wykupu recept wieloopakowaniowych",
+  "answerDelayedDays": 0,
+  "from": [
+    "161"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister zdrowia",
+      "sent": "2024-09-30"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDA2HPK/i05076-o1.pdf",
+          "lastModified": "2024-10-14T22:00:21",
+          "name": "i05076-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Wojciech Konieczny",
+      "key": "DA2HPK",
+      "lastModified": "2024-10-14T22:00:21",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DA2HPK",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5076/reply/DA2HPK/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-10-10"
+    }
+  ],
+  "sentDate": "2024-09-30",
+  "to": [
+    "minister zdrowia"
+  ]
+}

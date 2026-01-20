@@ -1,0 +1,56 @@
+{
+  "lastModified": "2024-08-01T15:08:21",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=3442",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D73F88",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3442/body",
+      "rel": "body"
+    }
+  ],
+  "num": 3442,
+  "receiptDate": "2024-06-18",
+  "term": 10,
+  "title": "Interpelacja w sprawie realizacji programu \"Akademik za złotówkę\"",
+  "answerDelayedDays": 0,
+  "from": [
+    "463"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister nauki",
+      "sent": "2024-07-11"
+    }
+  ],
+  "replies": [
+    {
+      "from": "Podsekretarz stanu Maria Mrówczyńska",
+      "key": "D7QHET",
+      "lastModified": "2024-08-01T15:08:21",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D7QHET",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3442/reply/D7QHET/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-07-30"
+    }
+  ],
+  "sentDate": "2024-07-11",
+  "to": [
+    "minister nauki"
+  ]
+}

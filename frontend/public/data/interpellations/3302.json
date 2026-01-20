@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-07-19T22:00:51",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=3302",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D67JF5",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3302/body",
+      "rel": "body"
+    }
+  ],
+  "num": 3302,
+  "receiptDate": "2024-06-06",
+  "term": 10,
+  "title": "Interpelacja w sprawie wzmocnienia granicy z Białorusią i zatrzymania polskich żołnierzy przez Żandarmerię Wojskową",
+  "answerDelayedDays": 0,
+  "from": [
+    "463"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister obrony narodowej",
+      "sent": "2024-06-13"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD7BJH7/i03302-o1.pdf",
+          "lastModified": "2024-07-19T22:00:51",
+          "name": "i03302-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Paweł Bejda",
+      "key": "D7BJH7",
+      "lastModified": "2024-07-19T22:00:51",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D7BJH7",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3302/reply/D7BJH7/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-06-26"
+    }
+  ],
+  "sentDate": "2024-06-13",
+  "to": [
+    "minister obrony narodowej"
+  ]
+}

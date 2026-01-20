@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-02-05T22:00:17",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=503",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CZDB6A",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/503/body",
+      "rel": "body"
+    }
+  ],
+  "num": 503,
+  "receiptDate": "2024-01-01",
+  "term": 10,
+  "title": "Interpelacja w sprawie przystąpienia do Prokuratury Europejskiej",
+  "answerDelayedDays": 0,
+  "from": [
+    "139"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister sprawiedliwości",
+      "sent": "2024-01-10"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD26JWK/i00503-o1.pdf",
+          "lastModified": "2024-02-05T22:00:17",
+          "name": "i00503-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Krzysztof Śmiszek",
+      "key": "D26JWK",
+      "lastModified": "2024-02-05T22:00:17",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D26JWK",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/503/reply/D26JWK/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-02-02"
+    }
+  ],
+  "sentDate": "2024-01-10",
+  "to": [
+    "minister sprawiedliwości"
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "lastModified": "2024-11-22T13:18:05",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5851",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAPCVP",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5851/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5851,
+  "receiptDate": "2024-10-28",
+  "term": 10,
+  "title": "Interpelacja w sprawie planów Ministerstwa Edukacji Narodowej dotyczących formy tegorocznego egzaminu maturalnego oraz egzaminu ósmoklasisty",
+  "answerDelayedDays": 0,
+  "from": [
+    "296"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister edukacji",
+      "sent": "2024-11-04"
+    }
+  ],
+  "replies": [
+    {
+      "from": "Sekretarz stanu Katarzyna Lubnauer",
+      "key": "DB9GFV",
+      "lastModified": "2024-11-22T13:18:05",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DB9GFV",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5851/reply/DB9GFV/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-11-21"
+    }
+  ],
+  "sentDate": "2024-11-04",
+  "to": [
+    "minister edukacji"
+  ]
+}

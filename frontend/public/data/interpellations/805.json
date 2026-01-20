@@ -1,0 +1,71 @@
+{
+  "lastModified": "2024-04-22T22:00:04",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=805",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CZKAR6",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/805/body",
+      "rel": "body"
+    }
+  ],
+  "num": 805,
+  "receiptDate": "2024-01-12",
+  "term": 10,
+  "title": "Interpelacja w sprawie działań podjętych przez pełnomocnika rządu ds. przeciwdziałania wykluczeniu komunikacyjnemu w latach 2019-2023",
+  "answerDelayedDays": 0,
+  "from": [
+    "239"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister infrastruktury",
+      "sent": "2024-01-30"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD4KJ74/i00805-o1.pdf",
+          "lastModified": "2024-04-22T22:00:04",
+          "name": "i00805-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Piotr Malepszak",
+      "key": "D4KJ74",
+      "lastModified": "2024-04-22T22:00:04",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D4KJ74",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/805/reply/D4KJ74/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-04-19"
+    },
+    {
+      "from": "podsekretarz stanu w Ministerstwie Infrastruktury - Piotr Malepszak",
+      "lastModified": "2024-02-16T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-02-16"
+    }
+  ],
+  "sentDate": "2024-01-30",
+  "to": [
+    "minister infrastruktury"
+  ]
+}

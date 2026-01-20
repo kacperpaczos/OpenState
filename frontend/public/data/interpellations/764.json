@@ -1,0 +1,72 @@
+{
+  "lastModified": "2024-02-19T22:00:33",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=764",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CZDATJ",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/764/body",
+      "rel": "body"
+    }
+  ],
+  "num": 764,
+  "receiptDate": "2024-01-08",
+  "term": 10,
+  "title": "Interpelacja w sprawie wejścia Polski do strefy euro",
+  "answerDelayedDays": 0,
+  "from": [
+    "146",
+    "150",
+    "180",
+    "202",
+    "224",
+    "234",
+    "279",
+    "404",
+    "435",
+    "437"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister finansów",
+      "sent": "2024-01-26"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD2LJMY/i00764-o1.pdf",
+          "lastModified": "2024-02-19T22:00:33",
+          "name": "i00764-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Jurand Drop",
+      "key": "D2LJMY",
+      "lastModified": "2024-02-19T22:00:33",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D2LJMY",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/764/reply/D2LJMY/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-02-16"
+    }
+  ],
+  "sentDate": "2024-01-26",
+  "to": [
+    "minister finansów"
+  ]
+}

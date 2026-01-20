@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-12-11T22:00:07",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=6229",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DB7G6X",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/6229/body",
+      "rel": "body"
+    }
+  ],
+  "num": 6229,
+  "receiptDate": "2024-11-14",
+  "term": 10,
+  "title": "Interpelacja w sprawie dostępu do internetu szerokopasmowego na obszarach wiejskich",
+  "answerDelayedDays": 0,
+  "from": [
+    "389"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister cyfryzacji",
+      "sent": "2024-11-20"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDBUJND/i06229-o1.pdf",
+          "lastModified": "2024-12-11T22:00:07",
+          "name": "i06229-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Michał Gramatyka",
+      "key": "DBUJND",
+      "lastModified": "2024-12-11T22:00:07",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DBUJND",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/6229/reply/DBUJND/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-12-10"
+    }
+  ],
+  "sentDate": "2024-11-20",
+  "to": [
+    "minister cyfryzacji"
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "lastModified": "2024-04-30T22:00:44",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2481",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D46HDD",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2481/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2481,
+  "receiptDate": "2024-04-03",
+  "term": 10,
+  "title": "Interpelacja w sprawie kosztów obsługi prawnej Ministerstwa Kultury i Dziedzictwa Narodowego oraz jednostek podległych",
+  "answerDelayedDays": 0,
+  "from": [
+    "137"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister kultury i dziedzictwa narodowego",
+      "sent": "2024-04-09"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD4THPX/i02481-o1_2.pdf",
+          "lastModified": "2024-04-30T22:00:44",
+          "name": "i02481-o1_2.pdf"
+        },
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD4THPX/i02481-o1_1.xlsx",
+          "lastModified": "2024-04-30T22:00:44",
+          "name": "i02481-o1_1.xlsx"
+        }
+      ],
+      "from": "Podsekretarz stanu Andrzej Wyrobiec",
+      "key": "D4THPX",
+      "lastModified": "2024-04-30T22:00:44",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D4THPX",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2481/reply/D4THPX/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-04-29"
+    }
+  ],
+  "sentDate": "2024-04-09",
+  "to": [
+    "minister kultury i dziedzictwa narodowego"
+  ]
+}

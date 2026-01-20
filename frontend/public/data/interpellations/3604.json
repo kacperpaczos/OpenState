@@ -1,0 +1,64 @@
+{
+  "lastModified": "2024-08-05T22:00:24",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=3604",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D73F95",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3604/body",
+      "rel": "body"
+    }
+  ],
+  "num": 3604,
+  "receiptDate": "2024-07-01",
+  "term": 10,
+  "title": "Interpelacja w sprawie niektórych aspektów zdolności operacyjnych lotniska im. F. Chopina w Warszawie - w związku z nową rządową koncepcją realizacji projektu Centralnego Portu Komunikacyjnego",
+  "answerDelayedDays": 0,
+  "from": [
+    "488",
+    "299"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister infrastruktury",
+      "sent": "2024-07-17"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD7UHWW/i03604-o1.pdf",
+          "lastModified": "2024-08-05T22:00:24",
+          "name": "i03604-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Maciej Lasek",
+      "key": "D7UHWW",
+      "lastModified": "2024-08-05T22:00:24",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D7UHWW",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3604/reply/D7UHWW/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-08-02"
+    }
+  ],
+  "sentDate": "2024-07-17",
+  "to": [
+    "minister infrastruktury"
+  ]
+}

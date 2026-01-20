@@ -1,0 +1,122 @@
+{
+  "lastModified": "2024-03-25T22:00:46",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=1321",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D28GPM",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1321/body",
+      "rel": "body"
+    }
+  ],
+  "num": 1321,
+  "receiptDate": "2024-02-02",
+  "term": 10,
+  "title": "Interpelacja w sprawie połączenia Instytutu Adama Mickiewicza i Biura \"Niepodległa\"",
+  "answerDelayedDays": 0,
+  "from": [
+    "100"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister kultury i dziedzictwa narodowego",
+      "sent": "2024-02-07"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD2QJNX/i01321-o1.pdf",
+          "lastModified": "2024-02-23T22:00:46",
+          "name": "i01321-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Marta Cienkowska",
+      "key": "D2QJNX",
+      "lastModified": "2024-02-23T22:00:46",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D2QJNX",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1321/reply/D2QJNX/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-02-22"
+    }
+  ],
+  "sentDate": "2024-03-07",
+  "to": [
+    "minister kultury i dziedzictwa narodowego"
+  ],
+  "repeatedInterpellation": [
+    {
+      "lastModified": "2024-03-25T22:00:46",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=1321",
+          "rel": "web-description"
+        },
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D36CPN",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1321p/body",
+          "rel": "body"
+        }
+      ],
+      "num": 1321,
+      "receiptDate": "2024-02-26",
+      "term": 10,
+      "title": "Interpelacja w sprawie połączenia Instytutu Adama Mickiewicza i Biura \"Niepodległa\"",
+      "answerDelayedDays": 0,
+      "from": [
+        "100"
+      ],
+      "recipientDetails": [],
+      "replies": [
+        {
+          "attachments": [
+            {
+              "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD3PK8U/i01321-o2.pdf",
+              "lastModified": "2024-03-25T22:00:46",
+              "name": "i01321-o2.pdf"
+            }
+          ],
+          "from": "Podsekretarz stanu Andrzej Wyrobiec",
+          "key": "D3PK8U",
+          "lastModified": "2024-03-25T22:00:46",
+          "links": [
+            {
+              "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D3PK8U",
+              "rel": "web-body"
+            },
+            {
+              "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1321p/reply/D3PK8U/body",
+              "rel": "body"
+            }
+          ],
+          "onlyAttachment": true,
+          "prolongation": false,
+          "receiptDate": "2024-03-22"
+        }
+      ],
+      "sentDate": "2024-03-07",
+      "to": [
+        "minister kultury i dziedzictwa narodowego"
+      ]
+    }
+  ]
+}

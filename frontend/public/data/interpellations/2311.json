@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-05-14T22:00:27",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2311",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D46HBF",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2311/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2311,
+  "receiptDate": "2024-03-23",
+  "term": 10,
+  "title": "Interpelacja w sprawie wypowiedzi w mediach społecznościowych głównego konserwatora przyrody na temat robinii akacjowej",
+  "answerDelayedDays": 0,
+  "from": [
+    "322"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister klimatu i środowiska",
+      "sent": "2024-04-12"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD59HP5/i02311-o1.pdf",
+          "lastModified": "2024-05-14T22:00:27",
+          "name": "i02311-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Mikołaj Dorożała",
+      "key": "D59HP5",
+      "lastModified": "2024-05-14T22:00:27",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D59HP5",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2311/reply/D59HP5/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-05-10"
+    }
+  ],
+  "sentDate": "2024-04-12",
+  "to": [
+    "minister klimatu i środowiska"
+  ]
+}

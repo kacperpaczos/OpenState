@@ -1,0 +1,69 @@
+{
+  "lastModified": "2024-11-21T22:00:08",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5821",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAJAV3",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5821/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5821,
+  "receiptDate": "2024-10-25",
+  "term": 10,
+  "title": "Interpelacja w sprawie realizacji obowiązków ministra do spraw społeczeństwa obywatelskiego",
+  "answerDelayedDays": 0,
+  "from": [
+    "016",
+    "032",
+    "080",
+    "285",
+    "296",
+    "399",
+    "422"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister ds. społeczeństwa obywatelskiego",
+      "sent": "2024-10-30"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDB8KK4/i05821-o1.pdf",
+          "lastModified": "2024-11-21T22:00:08",
+          "name": "i05821-o1.pdf"
+        }
+      ],
+      "from": "Minister Adriana Porowska",
+      "key": "DB8KK4",
+      "lastModified": "2024-11-21T22:00:08",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DB8KK4",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5821/reply/DB8KK4/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-11-20"
+    }
+  ],
+  "sentDate": "2024-10-30",
+  "to": [
+    "minister ds. społeczeństwa obywatelskiego"
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "lastModified": "2024-02-06T22:00:16",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=198",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CYNKFS",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/198/body",
+      "rel": "body"
+    }
+  ],
+  "num": 198,
+  "receiptDate": "2023-12-05",
+  "term": 10,
+  "title": "Interpelacja w sprawie północnej obwodnicy Starachowic w ciągu DK42",
+  "answerDelayedDays": 0,
+  "from": [
+    "023",
+    "036",
+    "053",
+    "106",
+    "112",
+    "117",
+    "158",
+    "219",
+    "252",
+    "271",
+    "327",
+    "358",
+    "359",
+    "391",
+    "441"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister infrastruktury",
+      "sent": "2023-12-19"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD27K5N/i00198-o1.pdf",
+          "lastModified": "2024-02-06T22:00:16",
+          "name": "i00198-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Paweł Gancarz",
+      "key": "D27K5N",
+      "lastModified": "2024-02-06T22:00:16",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D27K5N",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/198/reply/D27K5N/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-02-05"
+    },
+    {
+      "from": "podsekretarz stanu w Ministerstwie Infrastruktury - Paweł Gancarz",
+      "lastModified": "2024-01-09T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-01-09"
+    }
+  ],
+  "sentDate": "2023-12-19",
+  "to": [
+    "minister infrastruktury"
+  ]
+}

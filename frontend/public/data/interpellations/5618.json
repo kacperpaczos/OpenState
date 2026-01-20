@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-11-14T15:43:04",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5618",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAJB3R",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5618/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5618,
+  "receiptDate": "2024-10-18",
+  "term": 10,
+  "title": "Interpelacja w sprawie wysokości progów dochodowych w rządowym programie \"Czyste Powietrze\"",
+  "answerDelayedDays": 0,
+  "from": [
+    "468"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister klimatu i środowiska",
+      "sent": "2024-10-29"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDATJN2/i05618-o1.pdf",
+          "lastModified": "2024-11-08T22:00:54",
+          "name": "i05618-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Krzysztof Bolesta",
+      "key": "DATJN2",
+      "lastModified": "2024-11-08T22:00:54",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DATJN2",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5618/reply/DATJN2/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-11-06"
+    }
+  ],
+  "sentDate": "2024-10-29",
+  "to": [
+    "minister klimatu i środowiska"
+  ]
+}

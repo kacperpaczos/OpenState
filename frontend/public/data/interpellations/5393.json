@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-11-12T22:00:46",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5393",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DA2C27",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5393/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5393,
+  "receiptDate": "2024-10-10",
+  "term": 10,
+  "title": "Interpelacja w sprawie planowanej budowy drogi S10",
+  "answerDelayedDays": 0,
+  "from": [
+    "223"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister infrastruktury",
+      "sent": "2024-10-14"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDAXK5T/i05393-o1.pdf",
+          "lastModified": "2024-11-12T22:00:46",
+          "name": "i05393-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Stanisław Bukowiec",
+      "key": "DAXK5T",
+      "lastModified": "2024-11-12T22:00:46",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAXK5T",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5393/reply/DAXK5T/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-11-07"
+    }
+  ],
+  "sentDate": "2024-10-14",
+  "to": [
+    "minister infrastruktury"
+  ]
+}

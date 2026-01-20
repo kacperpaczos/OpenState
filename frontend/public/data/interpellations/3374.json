@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-08-13T22:00:40",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=3374",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D6FJ2B",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3374/body",
+      "rel": "body"
+    }
+  ],
+  "num": 3374,
+  "receiptDate": "2024-06-12",
+  "term": 10,
+  "title": "Interpelacja w sprawie podwyżek cen biletów okresowych",
+  "answerDelayedDays": 0,
+  "from": [
+    "051"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister infrastruktury",
+      "sent": "2024-06-21"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD84GRF/i03374-o1.pdf",
+          "lastModified": "2024-08-13T22:00:40",
+          "name": "i03374-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Piotr Malepszak",
+      "key": "D84GRF",
+      "lastModified": "2024-08-13T22:00:40",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D84GRF",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3374/reply/D84GRF/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-08-05"
+    }
+  ],
+  "sentDate": "2024-06-21",
+  "to": [
+    "minister infrastruktury"
+  ]
+}

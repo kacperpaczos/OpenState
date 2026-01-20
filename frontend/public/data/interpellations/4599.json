@@ -1,0 +1,64 @@
+{
+  "lastModified": "2024-09-25T22:00:19",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=4599",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D93FA3",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4599/body",
+      "rel": "body"
+    }
+  ],
+  "num": 4599,
+  "receiptDate": "2024-09-04",
+  "term": 10,
+  "title": "Interpelacja w sprawie portalu 35mm.online",
+  "answerDelayedDays": 0,
+  "from": [
+    "110",
+    "273"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister kultury i dziedzictwa narodowego",
+      "sent": "2024-09-13"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD9FFSU/i04599-o1.pdf",
+          "lastModified": "2024-09-25T22:00:19",
+          "name": "i04599-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Andrzej Wyrobiec",
+      "key": "D9FFSU",
+      "lastModified": "2024-09-25T22:00:19",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D9FFSU",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4599/reply/D9FFSU/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-09-24"
+    }
+  ],
+  "sentDate": "2024-09-13",
+  "to": [
+    "minister kultury i dziedzictwa narodowego"
+  ]
+}

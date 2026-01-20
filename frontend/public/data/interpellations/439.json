@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-01-25T22:00:58",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=439",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CZDB4C",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/439/body",
+      "rel": "body"
+    }
+  ],
+  "num": 439,
+  "receiptDate": "2023-12-29",
+  "term": 10,
+  "title": "Interpelacja w sprawie działań podejmowanych przez Ministerstwo Kultury i Dziedzictwa Narodowego wobec Polskiego Radia SA",
+  "answerDelayedDays": 0,
+  "from": [
+    "028"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister kultury i dziedzictwa narodowego",
+      "sent": "2024-01-11"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTCZTJMH/i00439-o1.pdf",
+          "lastModified": "2024-01-25T22:00:58",
+          "name": "i00439-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Andrzej Wyrobiec",
+      "key": "CZTJMH",
+      "lastModified": "2024-01-25T22:00:58",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CZTJMH",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/439/reply/CZTJMH/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-01-24"
+    }
+  ],
+  "sentDate": "2024-01-11",
+  "to": [
+    "minister kultury i dziedzictwa narodowego"
+  ]
+}

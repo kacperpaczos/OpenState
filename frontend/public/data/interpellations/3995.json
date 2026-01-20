@@ -1,0 +1,69 @@
+{
+  "lastModified": "2024-09-18T22:00:26",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=3995",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D7HHM4",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3995/body",
+      "rel": "body"
+    }
+  ],
+  "num": 3995,
+  "receiptDate": "2024-07-23",
+  "term": 10,
+  "title": "Interpelacja w sprawie ochrony stosunków pracy żołnierzy Wojsk Obrony Terytorialnej",
+  "answerDelayedDays": 0,
+  "from": [
+    "020",
+    "027",
+    "040",
+    "131",
+    "226",
+    "242",
+    "428"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister obrony narodowej",
+      "sent": "2024-07-25"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD98HCK/i03995-o1.pdf",
+          "lastModified": "2024-09-18T22:00:26",
+          "name": "i03995-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Paweł Bejda",
+      "key": "D98HCK",
+      "lastModified": "2024-09-18T22:00:26",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D98HCK",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3995/reply/D98HCK/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-08-20"
+    }
+  ],
+  "sentDate": "2024-07-25",
+  "to": [
+    "minister obrony narodowej"
+  ]
+}

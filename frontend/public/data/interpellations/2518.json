@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-05-22T22:00:13",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2518",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D4N98R",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2518/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2518,
+  "receiptDate": "2024-04-08",
+  "term": 10,
+  "title": "Interpelacja w sprawie skutków prawnych przyjętego przez Parlament Europejski rozporządzenia o odbudowie zasobów przyrodniczych (Nature Restoration Law)",
+  "answerDelayedDays": 0,
+  "from": [
+    "135"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister klimatu i środowiska",
+      "sent": "2024-04-25"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD5HHHH/i02518-o1.pdf",
+          "lastModified": "2024-05-22T22:00:13",
+          "name": "i02518-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Miłosz Motyka",
+      "key": "D5HHHH",
+      "lastModified": "2024-05-22T22:00:13",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D5HHHH",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2518/reply/D5HHHH/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-05-20"
+    }
+  ],
+  "sentDate": "2024-04-25",
+  "to": [
+    "minister klimatu i środowiska"
+  ]
+}

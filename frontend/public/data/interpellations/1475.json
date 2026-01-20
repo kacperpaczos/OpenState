@@ -1,0 +1,87 @@
+{
+  "lastModified": "2024-03-22T22:00:02",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=1475",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D2NGTF",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1475/body",
+      "rel": "body"
+    }
+  ],
+  "num": 1475,
+  "receiptDate": "2024-02-15",
+  "term": 10,
+  "title": "Interpelacja w sprawie obrony cywilnej",
+  "answerDelayedDays": 0,
+  "from": [
+    "234"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister spraw wewnętrznych i administracji",
+      "sent": "2024-02-21"
+    },
+    {
+      "answerDelayedDays": 0,
+      "name": "minister obrony narodowej",
+      "sent": "2024-02-21"
+    }
+  ],
+  "replies": [
+    {
+      "from": "Podsekretarz stanu Wiesław Leśniakiewicz",
+      "key": "D3AJKH",
+      "lastModified": "2024-03-12T15:03:23",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D3AJKH",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1475/reply/D3AJKH/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-03-11"
+    },
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD3LJZJ/i01475-o2.pdf",
+          "lastModified": "2024-03-22T22:00:02",
+          "name": "i01475-o2.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Paweł Bejda",
+      "key": "D3LJZJ",
+      "lastModified": "2024-03-22T22:00:02",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D3LJZJ",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1475/reply/D3LJZJ/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-03-11"
+    }
+  ],
+  "sentDate": "2024-02-21",
+  "to": [
+    "minister obrony narodowej",
+    "minister spraw wewnętrznych i administracji"
+  ]
+}

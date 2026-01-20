@@ -1,0 +1,71 @@
+{
+  "lastModified": "2024-02-06T22:00:16",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=182",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CYHFYG",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/182/body",
+      "rel": "body"
+    }
+  ],
+  "num": 182,
+  "receiptDate": "2023-12-01",
+  "term": 10,
+  "title": "Interpelacja w sprawie rządowego Programu Inwestycji Strategicznych dla gm. Piła",
+  "answerDelayedDays": 0,
+  "from": [
+    "303"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "prezes Rady Ministrów",
+      "sent": "2023-12-14"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD27K5M/i00182-o1.pdf",
+          "lastModified": "2024-02-06T22:00:16",
+          "name": "i00182-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Grzegorz Karpiński",
+      "key": "D27K5M",
+      "lastModified": "2024-02-06T22:00:16",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D27K5M",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/182/reply/D27K5M/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-02-02"
+    },
+    {
+      "from": "minister - członek Rady Ministrów - Maciej Berek",
+      "lastModified": "2024-01-09T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-01-09"
+    }
+  ],
+  "sentDate": "2023-12-14",
+  "to": [
+    "prezes Rady Ministrów"
+  ]
+}

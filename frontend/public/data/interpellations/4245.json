@@ -1,0 +1,68 @@
+{
+  "lastModified": "2024-08-21T22:00:59",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=4245",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D7VEJU",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4245/body",
+      "rel": "body"
+    }
+  ],
+  "num": 4245,
+  "receiptDate": "2024-08-02",
+  "term": 10,
+  "title": "Interpelacja w sprawie minimalnych stawek godzinowych za pracę fizjoterapeutów i innych zawodów medycznych",
+  "answerDelayedDays": 0,
+  "from": [
+    "445"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister zdrowia",
+      "sent": "2024-08-06"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD8CHD2/i04245-o1_2.pdf",
+          "lastModified": "2024-08-21T22:00:59",
+          "name": "i04245-o1_2.pdf"
+        },
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD8CHD2/i04245-o1_1.pdf",
+          "lastModified": "2024-08-21T22:00:59",
+          "name": "i04245-o1_1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Jerzy Szafranowicz",
+      "key": "D8CHD2",
+      "lastModified": "2024-08-21T22:00:59",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D8CHD2",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4245/reply/D8CHD2/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-08-20"
+    }
+  ],
+  "sentDate": "2024-08-06",
+  "to": [
+    "minister zdrowia"
+  ]
+}

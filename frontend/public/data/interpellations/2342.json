@@ -1,0 +1,57 @@
+{
+  "lastModified": "2024-04-22T15:47:24",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2342",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D3SJ7Y",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2342/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2342,
+  "receiptDate": "2024-03-22",
+  "term": 10,
+  "title": "Interpelacja w sprawie utworzenia Centralnego Biura Monitorowania Policji (obietnica wyborcza Lewicy)",
+  "answerDelayedDays": 0,
+  "from": [
+    "150",
+    "234"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister spraw wewnętrznych i administracji",
+      "sent": "2024-04-04"
+    }
+  ],
+  "replies": [
+    {
+      "from": "Sekretarz stanu Czesław Mroczek",
+      "key": "D4KJ7L",
+      "lastModified": "2024-04-22T15:47:24",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D4KJ7L",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2342/reply/D4KJ7L/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-04-22"
+    }
+  ],
+  "sentDate": "2024-04-04",
+  "to": [
+    "minister spraw wewnętrznych i administracji"
+  ]
+}

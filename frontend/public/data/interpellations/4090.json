@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-08-30T22:00:18",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=4090",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D7PBBX",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4090/body",
+      "rel": "body"
+    }
+  ],
+  "num": 4090,
+  "receiptDate": "2024-07-26",
+  "term": 10,
+  "title": "Interpelacja w sprawie trudnej sytuacji przedsiębiorców z branży stacji kontroli pojazdów",
+  "answerDelayedDays": 0,
+  "from": [
+    "406"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister infrastruktury",
+      "sent": "2024-07-31"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD8MJ9H/i04090-o1.pdf",
+          "lastModified": "2024-08-30T22:00:18",
+          "name": "i04090-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Stanisław Bukowiec",
+      "key": "D8MJ9H",
+      "lastModified": "2024-08-30T22:00:18",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D8MJ9H",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4090/reply/D8MJ9H/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-08-28"
+    }
+  ],
+  "sentDate": "2024-07-31",
+  "to": [
+    "minister infrastruktury"
+  ]
+}

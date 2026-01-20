@@ -1,0 +1,94 @@
+{
+  "lastModified": "2024-12-02T22:00:26",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5465",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DA6BCM",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5465/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5465,
+  "receiptDate": "2024-10-14",
+  "term": 10,
+  "title": "Interpelacja w sprawie stosowanej przez notariuszy praktyki doliczania do taksy notarialnej maksymalnej 23% stawki podatku od towarów i usług (VAT)",
+  "answerDelayedDays": 0,
+  "from": [
+    "489"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister finansów",
+      "sent": "2024-10-18"
+    },
+    {
+      "answerDelayedDays": 0,
+      "name": "minister sprawiedliwości",
+      "sent": "2024-10-18"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDAPJWG/i05465-o1.pdf",
+          "lastModified": "2024-11-04T15:26:09",
+          "name": "i05465-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Jarosław Neneman",
+      "key": "DAPJWG",
+      "lastModified": "2024-11-04T15:26:45",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAPJWG",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5465/reply/DAPJWG/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-10-31"
+    },
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDBKK8F/i05465-o2.pdf",
+          "lastModified": "2024-12-02T22:00:26",
+          "name": "i05465-o2.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Maria Ejchart",
+      "key": "DBKK8F",
+      "lastModified": "2024-12-02T22:00:26",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DBKK8F",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5465/reply/DBKK8F/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-11-28"
+    }
+  ],
+  "sentDate": "2024-10-18",
+  "to": [
+    "minister finansów",
+    "minister sprawiedliwości"
+  ]
+}

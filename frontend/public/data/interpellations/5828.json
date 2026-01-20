@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-11-19T22:00:07",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5828",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAJAV9",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5828/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5828,
+  "receiptDate": "2024-10-25",
+  "term": 10,
+  "title": "Interpelacja w sprawie zagospodarowania opadających liści jako odpadów na terenach spółdzielni mieszkaniowych",
+  "answerDelayedDays": 0,
+  "from": [
+    "126"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister klimatu i środowiska",
+      "sent": "2024-10-30"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDB6KNY/i05828-o1.pdf",
+          "lastModified": "2024-11-19T22:00:07",
+          "name": "i05828-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Anita Sowińska",
+      "key": "DB6KNY",
+      "lastModified": "2024-11-19T22:00:07",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DB6KNY",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5828/reply/DB6KNY/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-11-16"
+    }
+  ],
+  "sentDate": "2024-10-30",
+  "to": [
+    "minister klimatu i środowiska"
+  ]
+}

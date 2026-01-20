@@ -1,0 +1,132 @@
+{
+  "lastModified": "2025-03-21T22:00:11",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=3263",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D65A2S",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3263/body",
+      "rel": "body"
+    }
+  ],
+  "num": 3263,
+  "receiptDate": "2024-06-03",
+  "term": 10,
+  "title": "Interpelacja w sprawie budowy elektrowni szczytowo-pompowej \"Młoty\"",
+  "answerDelayedDays": 0,
+  "from": [
+    "209",
+    "421"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister klimatu i środowiska",
+      "sent": "2024-06-11"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD6JJEC/i03263-o1.pdf",
+          "lastModified": "2024-06-24T22:00:34",
+          "name": "i03263-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Miłosz Motyka",
+      "key": "D6JJEC",
+      "lastModified": "2024-06-24T22:00:34",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D6JJEC",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3263/reply/D6JJEC/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-06-21"
+    },
+    {
+      "from": "podsekretarz stanu w Ministerstwie Klimatu i Środowiska - Miłosz Motyka",
+      "lastModified": "2024-08-19T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-08-19"
+    }
+  ],
+  "sentDate": "2024-07-23",
+  "to": [
+    "minister klimatu i środowiska"
+  ],
+  "repeatedInterpellation": [
+    {
+      "lastModified": "2025-03-21T22:00:11",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=3263",
+          "rel": "web-description"
+        },
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D7FGQX",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3263p/body",
+          "rel": "body"
+        }
+      ],
+      "num": 3263,
+      "receiptDate": "2024-07-18",
+      "term": 10,
+      "title": "Interpelacja w sprawie budowy elektrowni szczytowo-pompowej \"Młoty\"",
+      "answerDelayedDays": 0,
+      "from": [
+        "209",
+        "421"
+      ],
+      "recipientDetails": [],
+      "replies": [
+        {
+          "attachments": [
+            {
+              "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDEYJWA/i03263-o2.pdf",
+              "lastModified": "2025-03-21T22:00:11",
+              "name": "i03263-o2.pdf"
+            }
+          ],
+          "from": "Podsekretarz stanu Miłosz Motyka",
+          "key": "DEYJWA",
+          "lastModified": "2025-03-21T22:00:11",
+          "links": [
+            {
+              "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DEYJWA",
+              "rel": "web-body"
+            },
+            {
+              "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3263p/reply/DEYJWA/body",
+              "rel": "body"
+            }
+          ],
+          "onlyAttachment": true,
+          "prolongation": false,
+          "receiptDate": "2025-03-20"
+        }
+      ],
+      "sentDate": "2024-07-23",
+      "to": [
+        "minister klimatu i środowiska"
+      ]
+    }
+  ]
+}

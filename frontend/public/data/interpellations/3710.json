@@ -1,0 +1,64 @@
+{
+  "lastModified": "2024-07-31T22:00:09",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=3710",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D73FCD",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3710/body",
+      "rel": "body"
+    }
+  ],
+  "num": 3710,
+  "receiptDate": "2024-07-08",
+  "term": 10,
+  "title": "Interpelacja w sprawie rządowego programu \"Moja Woda\"",
+  "answerDelayedDays": 0,
+  "from": [
+    "155",
+    "410"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister klimatu i środowiska",
+      "sent": "2024-07-11"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD7PHP8/i03710-o1.pdf",
+          "lastModified": "2024-07-31T22:00:09",
+          "name": "i03710-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Krzysztof Bolesta",
+      "key": "D7PHP8",
+      "lastModified": "2024-07-31T22:00:09",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D7PHP8",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3710/reply/D7PHP8/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-07-25"
+    }
+  ],
+  "sentDate": "2024-07-11",
+  "to": [
+    "minister klimatu i środowiska"
+  ]
+}

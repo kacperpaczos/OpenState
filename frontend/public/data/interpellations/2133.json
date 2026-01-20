@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-04-26T22:00:05",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2133",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D3SHYV",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2133/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2133,
+  "receiptDate": "2024-03-18",
+  "term": 10,
+  "title": "Interpelacja w sprawie odbudowy polskiej, morskiej floty handlowej",
+  "answerDelayedDays": 0,
+  "from": [
+    "406"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister infrastruktury",
+      "sent": "2024-04-03"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD4PHY7/i02133-o1.pdf",
+          "lastModified": "2024-04-26T22:00:05",
+          "name": "i02133-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Arkadiusz Marchewka",
+      "key": "D4PHY7",
+      "lastModified": "2024-04-26T22:00:05",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D4PHY7",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2133/reply/D4PHY7/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-04-24"
+    }
+  ],
+  "sentDate": "2024-04-03",
+  "to": [
+    "minister infrastruktury"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-07-02T22:00:35",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=3004",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D65AQ6",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3004/body",
+      "rel": "body"
+    }
+  ],
+  "num": 3004,
+  "receiptDate": "2024-05-29",
+  "term": 10,
+  "title": "Interpelacja w sprawie wsparcia przedsiębiorców z woj. świętokrzyskiego w ramach programu \"Pomoc dla przemysłu energochłonnego związana z cenami gazu ziemnego i energii elektrycznej w 2023 r.\"",
+  "answerDelayedDays": 0,
+  "from": [
+    "342"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rozwoju i technologii",
+      "sent": "2024-06-11"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD6SHUW/i03004-o1.pdf",
+          "lastModified": "2024-07-02T22:00:35",
+          "name": "i03004-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Waldemar Sługocki",
+      "key": "D6SHUW",
+      "lastModified": "2024-07-02T22:00:35",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D6SHUW",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3004/reply/D6SHUW/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-06-26"
+    }
+  ],
+  "sentDate": "2024-06-11",
+  "to": [
+    "minister rozwoju i technologii"
+  ]
+}

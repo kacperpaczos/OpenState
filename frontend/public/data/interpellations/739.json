@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-01-29T22:00:51",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=739",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CZDASR",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/739/body",
+      "rel": "body"
+    }
+  ],
+  "num": 739,
+  "receiptDate": "2024-01-05",
+  "term": 10,
+  "title": "Interpelacja w sprawie mediów publicznych",
+  "answerDelayedDays": 0,
+  "from": [
+    "007"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister kultury i dziedzictwa narodowego",
+      "sent": "2024-01-11"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTCZXK7T/i00739-o1.pdf",
+          "lastModified": "2024-01-29T22:00:51",
+          "name": "i00739-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Andrzej Wyrobiec",
+      "key": "CZXK7T",
+      "lastModified": "2024-01-29T22:00:51",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CZXK7T",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/739/reply/CZXK7T/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-01-26"
+    }
+  ],
+  "sentDate": "2024-01-11",
+  "to": [
+    "minister kultury i dziedzictwa narodowego"
+  ]
+}

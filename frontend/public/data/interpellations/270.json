@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-01-18T22:00:26",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=270",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CYNKHM",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/270/body",
+      "rel": "body"
+    }
+  ],
+  "num": 270,
+  "receiptDate": "2023-12-15",
+  "term": 10,
+  "title": "Interpelacja w sprawie sytuacji pracowników stacji kontroli pojazdów",
+  "answerDelayedDays": 0,
+  "from": [
+    "406"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister infrastruktury",
+      "sent": "2023-12-19"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTCZLJNM/i00270-o1.pdf",
+          "lastModified": "2024-01-18T22:00:26",
+          "name": "i00270-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Paweł Gancarz",
+      "key": "CZLJNM",
+      "lastModified": "2024-01-18T22:00:26",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CZLJNM",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/270/reply/CZLJNM/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-01-16"
+    }
+  ],
+  "sentDate": "2023-12-19",
+  "to": [
+    "minister infrastruktury"
+  ]
+}

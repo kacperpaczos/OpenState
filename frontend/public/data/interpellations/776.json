@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-02-13T22:00:09",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=776",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CZKAQA",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/776/body",
+      "rel": "body"
+    }
+  ],
+  "num": 776,
+  "receiptDate": "2024-01-09",
+  "term": 10,
+  "title": "Interpelacja w sprawie barier architektonicznych na dworcach kolejowych na przykładzie dworca kolejowego Iława Główna",
+  "answerDelayedDays": 0,
+  "from": [
+    "304"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister infrastruktury",
+      "sent": "2024-01-16"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD2EK8V/i00776-o1.pdf",
+          "lastModified": "2024-02-13T22:00:09",
+          "name": "i00776-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Piotr Malepszak",
+      "key": "D2EK8V",
+      "lastModified": "2024-02-13T22:00:09",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D2EK8V",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/776/reply/D2EK8V/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-02-12"
+    }
+  ],
+  "sentDate": "2024-01-16",
+  "to": [
+    "minister infrastruktury"
+  ]
+}

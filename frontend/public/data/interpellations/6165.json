@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-12-11T22:00:07",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=6165",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DB2JD6",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/6165/body",
+      "rel": "body"
+    }
+  ],
+  "num": 6165,
+  "receiptDate": "2024-11-12",
+  "term": 10,
+  "title": "Interpelacja w sprawie dostępu do podskórnej terapii skojarzonej chorych na raka piersi",
+  "answerDelayedDays": 0,
+  "from": [
+    "417"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister zdrowia",
+      "sent": "2024-11-15"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDBUJNA/i06165-o1.pdf",
+          "lastModified": "2024-12-11T22:00:07",
+          "name": "i06165-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Marek Kos",
+      "key": "DBUJNA",
+      "lastModified": "2024-12-11T22:00:07",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DBUJNA",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/6165/reply/DBUJNA/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-12-08"
+    }
+  ],
+  "sentDate": "2024-11-15",
+  "to": [
+    "minister zdrowia"
+  ]
+}

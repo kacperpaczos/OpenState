@@ -1,0 +1,62 @@
+{
+  "lastModified": "2024-10-16T15:05:30",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5003",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D9GGUW",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5003/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5003,
+  "receiptDate": "2024-09-23",
+  "term": 10,
+  "title": "Interpelacja w sprawie ekshumacji Polaków pomordowanych na Wołyniu",
+  "answerDelayedDays": 0,
+  "from": [
+    "080",
+    "234",
+    "296",
+    "333",
+    "404",
+    "435",
+    "443"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister spraw zagranicznych",
+      "sent": "2024-09-26"
+    }
+  ],
+  "replies": [
+    {
+      "from": "Sekretarz stanu Władysław Teofil Bartoszewski",
+      "key": "DA4HDQ",
+      "lastModified": "2024-10-16T15:05:30",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DA4HDQ",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5003/reply/DA4HDQ/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-10-15"
+    }
+  ],
+  "sentDate": "2024-09-26",
+  "to": [
+    "minister spraw zagranicznych"
+  ]
+}

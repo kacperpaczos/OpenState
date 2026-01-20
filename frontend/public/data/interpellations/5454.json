@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-11-07T22:00:54",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5454",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DA6BCB",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5454/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5454,
+  "receiptDate": "2024-10-14",
+  "term": 10,
+  "title": "Interpelacja w sprawie projektu nowelizacji z dnia 7 października 2024 r. przepisów rozporządzenia Ministra Rolnictwa i Rozwoju Wsi w sprawie określenia wysokości limitów środków dostępnych w ramach schematów pomocy technicznej Programu Rozwoju Obszarów Wiejskich na lata 2014-2020",
+  "answerDelayedDays": 0,
+  "from": [
+    "119"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rolnictwa i rozwoju wsi",
+      "sent": "2024-10-18"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDASJMX/i05454-o1.pdf",
+          "lastModified": "2024-11-07T22:00:54",
+          "name": "i05454-o1.pdf"
+        }
+      ],
+      "from": "Minister Czesław Siekierski",
+      "key": "DASJMX",
+      "lastModified": "2024-11-07T22:00:54",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DASJMX",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5454/reply/DASJMX/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-11-06"
+    }
+  ],
+  "sentDate": "2024-10-18",
+  "to": [
+    "minister rolnictwa i rozwoju wsi"
+  ]
+}

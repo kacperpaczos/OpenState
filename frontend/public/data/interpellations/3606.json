@@ -1,0 +1,94 @@
+{
+  "lastModified": "2025-05-23T22:00:45",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=3606",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D73F97",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3606/body",
+      "rel": "body"
+    }
+  ],
+  "num": 3606,
+  "receiptDate": "2024-07-01",
+  "term": 10,
+  "title": "Interpelacja w sprawie zaliczania do przychodu pracowników wartości noclegów pracowniczych finansowanych przez pracodawcę",
+  "answerDelayedDays": 0,
+  "from": [
+    "357"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister finansów",
+      "sent": "2024-07-11"
+    },
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rodziny, pracy i polityki społecznej",
+      "sent": "2024-07-11"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD83JAD/i03606-o1.pdf",
+          "lastModified": "2024-08-12T22:00:39",
+          "name": "i03606-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Jarosław Neneman",
+      "key": "D83JAD",
+      "lastModified": "2024-08-12T22:00:39",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D83JAD",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3606/reply/D83JAD/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-08-01"
+    },
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDGXHWG/i03606-o2.pdf",
+          "lastModified": "2025-05-23T22:00:45",
+          "name": "i03606-o2.pdf"
+        }
+      ],
+      "from": "Minister Agnieszka Dziemianowicz-Bąk",
+      "key": "DGXHWG",
+      "lastModified": "2025-05-23T22:00:45",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DGXHWG",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3606/reply/DGXHWG/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2025-05-22"
+    }
+  ],
+  "sentDate": "2024-07-11",
+  "to": [
+    "minister finansów",
+    "minister rodziny, pracy i polityki społecznej"
+  ]
+}

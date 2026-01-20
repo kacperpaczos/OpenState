@@ -1,0 +1,68 @@
+{
+  "lastModified": "2024-11-25T22:00:49",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5808",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAJAUP",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5808/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5808,
+  "receiptDate": "2024-10-25",
+  "term": 10,
+  "title": "Interpelacja w sprawie wysokości środków z rządowego Programu Inwestycji Strategicznych, jakie pozyskało miasto Mirsk",
+  "answerDelayedDays": 0,
+  "from": [
+    "225"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister finansów",
+      "sent": "2024-10-30"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDBCKF4/i05808-o1_1.pdf",
+          "lastModified": "2024-11-25T22:00:49",
+          "name": "i05808-o1_1.pdf"
+        },
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDBCKF4/i05808-o1_2.pdf",
+          "lastModified": "2024-11-25T22:00:49",
+          "name": "i05808-o1_2.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Hanna Majszczyk",
+      "key": "DBCKF4",
+      "lastModified": "2024-11-25T22:00:49",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DBCKF4",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5808/reply/DBCKF4/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-11-21"
+    }
+  ],
+  "sentDate": "2024-10-30",
+  "to": [
+    "minister finansów"
+  ]
+}

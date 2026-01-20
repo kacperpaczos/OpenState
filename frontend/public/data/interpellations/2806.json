@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-07-15T22:00:51",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2806",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D65B3E",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2806/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2806,
+  "receiptDate": "2024-05-13",
+  "term": 10,
+  "title": "Interpelacja w sprawie stanu finansów PZHL oraz ewentualnych nieprawidłowości w gospodarowaniu środkami publicznymi w tej dyscyplinie sportu",
+  "answerDelayedDays": 0,
+  "from": [
+    "260"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister sportu i turystyki",
+      "sent": "2024-06-10"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD77JBK/i02806-o1.pdf",
+          "lastModified": "2024-07-15T22:00:51",
+          "name": "i02806-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Piotr Borys",
+      "key": "D77JBK",
+      "lastModified": "2024-07-15T22:00:51",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D77JBK",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2806/reply/D77JBK/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-07-12"
+    }
+  ],
+  "sentDate": "2024-06-10",
+  "to": [
+    "minister sportu i turystyki"
+  ]
+}

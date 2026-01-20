@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-11-27T22:00:48",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=6151",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DB2JCS",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/6151/body",
+      "rel": "body"
+    }
+  ],
+  "num": 6151,
+  "receiptDate": "2024-11-12",
+  "term": 10,
+  "title": "Interpelacja w sprawie Parku Narodowego Doliny Dolnej Odry",
+  "answerDelayedDays": 0,
+  "from": [
+    "362"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister klimatu i środowiska",
+      "sent": "2024-11-15"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDBEJPA/i06151-o1.pdf",
+          "lastModified": "2024-11-27T22:00:48",
+          "name": "i06151-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Mikołaj Dorożała",
+      "key": "DBEJPA",
+      "lastModified": "2024-11-27T22:00:48",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DBEJPA",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/6151/reply/DBEJPA/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-11-22"
+    }
+  ],
+  "sentDate": "2024-11-15",
+  "to": [
+    "minister klimatu i środowiska"
+  ]
+}

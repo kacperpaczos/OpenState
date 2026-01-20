@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-10-14T22:00:21",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=4455",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D8JBQT",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4455/body",
+      "rel": "body"
+    }
+  ],
+  "num": 4455,
+  "receiptDate": "2024-08-23",
+  "term": 10,
+  "title": "Interpelacja w sprawie zaostrzenia kar za rażące uchybienia w przygotowywaniu cateringu dla szpitali",
+  "answerDelayedDays": 0,
+  "from": [
+    "445"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister sprawiedliwości",
+      "sent": "2024-09-13"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDA2HNF/i04455-o1.pdf",
+          "lastModified": "2024-10-14T22:00:21",
+          "name": "i04455-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Arkadiusz Myrcha",
+      "key": "DA2HNF",
+      "lastModified": "2024-10-14T22:00:21",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DA2HNF",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4455/reply/DA2HNF/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-10-10"
+    }
+  ],
+  "sentDate": "2024-09-13",
+  "to": [
+    "minister sprawiedliwości"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-07-19T22:00:51",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2769",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D65B2D",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2769/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2769,
+  "receiptDate": "2024-05-09",
+  "term": 10,
+  "title": "Interpelacja w sprawie rzeczywistych przyczyn opóźnienia w realizacji Rządowego Programu Budowy Dróg Krajowych do 2030 r. (z perspektywą do 2033 r.) w zakresie budowy drogi ekspresowej S8 Białystok-Augustów-Suwałki",
+  "answerDelayedDays": 0,
+  "from": [
+    "452"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister infrastruktury",
+      "sent": "2024-06-10"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD7BJGD/i02769-o1.pdf",
+          "lastModified": "2024-07-19T22:00:51",
+          "name": "i02769-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Przemysław Koperski",
+      "key": "D7BJGD",
+      "lastModified": "2024-07-19T22:00:51",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D7BJGD",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2769/reply/D7BJGD/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-07-17"
+    }
+  ],
+  "sentDate": "2024-06-10",
+  "to": [
+    "minister infrastruktury"
+  ]
+}

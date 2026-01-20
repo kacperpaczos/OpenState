@@ -1,0 +1,122 @@
+{
+  "lastModified": "2025-01-30T22:00:45",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=6221",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DB5K53",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/6221/body",
+      "rel": "body"
+    }
+  ],
+  "num": 6221,
+  "receiptDate": "2024-11-14",
+  "term": 10,
+  "title": "Interpelacja w sprawie warunków realizacji przez gminy zadań inwestycyjnych w ramach \"Rządowego programu rozwoju północno-wschodnich obszarów przygranicznych na lata 2024-2030\"",
+  "answerDelayedDays": 0,
+  "from": [
+    "118"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister funduszy i polityki regionalnej",
+      "sent": "2024-11-18"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDBUFZE/i06221-o1.pdf",
+          "lastModified": "2024-12-11T22:00:07",
+          "name": "i06221-o1.pdf"
+        }
+      ],
+      "from": "Minister Katarzyna Pełczyńska-Nałęcz",
+      "key": "DBUFZE",
+      "lastModified": "2024-12-11T22:00:07",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DBUFZE",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/6221/reply/DBUFZE/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-12-09"
+    }
+  ],
+  "sentDate": "2025-01-09",
+  "to": [
+    "minister funduszy i polityki regionalnej"
+  ],
+  "repeatedInterpellation": [
+    {
+      "lastModified": "2025-01-30T22:00:45",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=6221",
+          "rel": "web-description"
+        },
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DCRKP3",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/6221p/body",
+          "rel": "body"
+        }
+      ],
+      "num": 6221,
+      "receiptDate": "2025-01-07",
+      "term": 10,
+      "title": "Interpelacja w sprawie warunków realizacji przez gminy zadań inwestycyjnych w ramach \"Rządowego programu rozwoju północno-wschodnich obszarów przygranicznych na lata 2024-2030\"",
+      "answerDelayedDays": 0,
+      "from": [
+        "118"
+      ],
+      "recipientDetails": [],
+      "replies": [
+        {
+          "attachments": [
+            {
+              "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDDEJYJ/i06221-o2.pdf",
+              "lastModified": "2025-01-30T22:00:45",
+              "name": "i06221-o2.pdf"
+            }
+          ],
+          "from": "Minister Katarzyna Pełczyńska-Nałęcz",
+          "key": "DDEJYJ",
+          "lastModified": "2025-01-30T22:00:45",
+          "links": [
+            {
+              "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DDEJYJ",
+              "rel": "web-body"
+            },
+            {
+              "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/6221p/reply/DDEJYJ/body",
+              "rel": "body"
+            }
+          ],
+          "onlyAttachment": true,
+          "prolongation": false,
+          "receiptDate": "2025-01-29"
+        }
+      ],
+      "sentDate": "2025-01-09",
+      "to": [
+        "minister funduszy i polityki regionalnej"
+      ]
+    }
+  ]
+}

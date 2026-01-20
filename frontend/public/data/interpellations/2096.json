@@ -1,0 +1,56 @@
+{
+  "lastModified": "2024-04-04T15:08:13",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2096",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D3KFCS",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2096/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2096,
+  "receiptDate": "2024-03-16",
+  "term": 10,
+  "title": "Interpelacja w sprawie odebrania 30 mln zł Akademii Nauk Stosowanych w Raciborzu przez rząd PO",
+  "answerDelayedDays": 0,
+  "from": [
+    "137"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister nauki",
+      "sent": "2024-03-21"
+    }
+  ],
+  "replies": [
+    {
+      "from": "Sekretarz stanu Marek Gzik",
+      "key": "D3ZHHW",
+      "lastModified": "2024-04-04T15:08:13",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D3ZHHW",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2096/reply/D3ZHHW/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-04-02"
+    }
+  ],
+  "sentDate": "2024-03-21",
+  "to": [
+    "minister nauki"
+  ]
+}

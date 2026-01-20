@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-11-27T22:00:48",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5482",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAXK7J",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5482/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5482,
+  "receiptDate": "2024-10-15",
+  "term": 10,
+  "title": "Interpelacja w sprawie projektu ustawy o funduszach promocji produktów rolno-spożywczych",
+  "answerDelayedDays": 0,
+  "from": [
+    "215"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rolnictwa i rozwoju wsi",
+      "sent": "2024-11-12"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDBEJNP/i05482-o1.pdf",
+          "lastModified": "2024-11-27T22:00:48",
+          "name": "i05482-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Stefan Krajewski",
+      "key": "DBEJNP",
+      "lastModified": "2024-11-27T22:00:48",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DBEJNP",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5482/reply/DBEJNP/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-11-26"
+    }
+  ],
+  "sentDate": "2024-11-12",
+  "to": [
+    "minister rolnictwa i rozwoju wsi"
+  ]
+}

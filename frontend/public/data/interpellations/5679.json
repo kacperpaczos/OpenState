@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-11-20T22:00:11",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5679",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAJB5M",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5679/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5679,
+  "receiptDate": "2024-10-22",
+  "term": 10,
+  "title": "Interpelacja w sprawie rozdysponowania gruntów po Przedsiębiorstwie Rolno-Przemysłowym Agromax sp. z o.o.",
+  "answerDelayedDays": 0,
+  "from": [
+    "435"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rolnictwa i rozwoju wsi",
+      "sent": "2024-10-29"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDB7G4X/i05679-o1.pdf",
+          "lastModified": "2024-11-20T22:00:11",
+          "name": "i05679-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Stefan Krajewski",
+      "key": "DB7G4X",
+      "lastModified": "2024-11-20T22:00:11",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DB7G4X",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5679/reply/DB7G4X/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-11-18"
+    }
+  ],
+  "sentDate": "2024-10-29",
+  "to": [
+    "minister rolnictwa i rozwoju wsi"
+  ]
+}

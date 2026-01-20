@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-03-28T22:00:46",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=1708",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D36CRK",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1708/body",
+      "rel": "body"
+    }
+  ],
+  "num": 1708,
+  "receiptDate": "2024-02-21",
+  "term": 10,
+  "title": "Interpelacja w sprawie przedsięwzięcia komunikacyjnego - droga ekspresowa S7",
+  "answerDelayedDays": 0,
+  "from": [
+    "411"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister infrastruktury",
+      "sent": "2024-03-07"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD3SHX6/i01708-o1.pdf",
+          "lastModified": "2024-03-28T22:00:46",
+          "name": "i01708-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Paweł Gancarz",
+      "key": "D3SHX6",
+      "lastModified": "2024-03-28T22:00:46",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D3SHX6",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1708/reply/D3SHX6/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-03-26"
+    }
+  ],
+  "sentDate": "2024-03-07",
+  "to": [
+    "minister infrastruktury"
+  ]
+}

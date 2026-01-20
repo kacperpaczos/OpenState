@@ -1,0 +1,71 @@
+{
+  "lastModified": "2024-11-07T22:00:54",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=4952",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D9FFZ6",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4952/body",
+      "rel": "body"
+    }
+  ],
+  "num": 4952,
+  "receiptDate": "2024-09-20",
+  "term": 10,
+  "title": "Interpelacja w sprawie realizacji obietnicy organizowania comiesięcznych spotkań z obywatelami złożonej przez premiera Donalda Tuska w exposé wygłoszonym 13 grudnia 2023 r.",
+  "answerDelayedDays": 0,
+  "from": [
+    "007"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "prezes Rady Ministrów",
+      "sent": "2024-09-25"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDASJMD/i04952-o1.pdf",
+          "lastModified": "2024-11-07T22:00:54",
+          "name": "i04952-o1.pdf"
+        }
+      ],
+      "from": "Minister Maciej Berek",
+      "key": "DASJMD",
+      "lastModified": "2024-11-07T22:00:54",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DASJMD",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4952/reply/DASJMD/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-11-05"
+    },
+    {
+      "from": "podsekretarz stanu w Kancelarii Prezesa Rady Ministrów - Karol Grzybowski",
+      "lastModified": "2024-10-16T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-10-16"
+    }
+  ],
+  "sentDate": "2024-09-25",
+  "to": [
+    "prezes Rady Ministrów"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-07-23T22:00:38",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=3808",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D73FFD",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3808/body",
+      "rel": "body"
+    }
+  ],
+  "num": 3808,
+  "receiptDate": "2024-07-09",
+  "term": 10,
+  "title": "Interpelacja w sprawie realizacji budowy elektrowni atomowej",
+  "answerDelayedDays": 0,
+  "from": [
+    "434"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister klimatu i środowiska",
+      "sent": "2024-07-11"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD7FGPX/i03808-o1.pdf",
+          "lastModified": "2024-07-23T22:00:38",
+          "name": "i03808-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Maciej Bando",
+      "key": "D7FGPX",
+      "lastModified": "2024-07-23T22:00:38",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D7FGPX",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3808/reply/D7FGPX/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-07-19"
+    }
+  ],
+  "sentDate": "2024-07-11",
+  "to": [
+    "minister klimatu i środowiska"
+  ]
+}

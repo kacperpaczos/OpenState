@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-03-29T22:00:46",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=1689",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D36CQY",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1689/body",
+      "rel": "body"
+    }
+  ],
+  "num": 1689,
+  "receiptDate": "2024-02-20",
+  "term": 10,
+  "title": "Interpelacja w sprawie niekontrolowanego przywozu produktów rolnych z Ukrainy",
+  "answerDelayedDays": 0,
+  "from": [
+    "065"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rolnictwa i rozwoju wsi",
+      "sent": "2024-03-07"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD3TF7U/i01689-o1.pdf",
+          "lastModified": "2024-03-29T22:00:46",
+          "name": "i01689-o1.pdf"
+        }
+      ],
+      "from": "Minister Czesław Siekierski",
+      "key": "D3TF7U",
+      "lastModified": "2024-03-29T22:00:46",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D3TF7U",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1689/reply/D3TF7U/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-03-28"
+    }
+  ],
+  "sentDate": "2024-03-07",
+  "to": [
+    "minister rolnictwa i rozwoju wsi"
+  ]
+}

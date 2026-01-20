@@ -1,0 +1,68 @@
+{
+  "lastModified": "2024-04-11T22:00:28",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2115",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D3KFDB",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2115/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2115,
+  "receiptDate": "2024-03-17",
+  "term": 10,
+  "title": "Interpelacja w sprawie wyjazdów kierownictwa Ministerstwa Finansów",
+  "answerDelayedDays": 0,
+  "from": [
+    "279"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister finansów",
+      "sent": "2024-03-21"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD48HNB/i02115-o1_1.pdf",
+          "lastModified": "2024-04-11T22:00:28",
+          "name": "i02115-o1_1.pdf"
+        },
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD48HNB/i02115-o1_2.pdf",
+          "lastModified": "2024-04-11T22:00:28",
+          "name": "i02115-o1_2.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Paweł Karbownik",
+      "key": "D48HNB",
+      "lastModified": "2024-04-11T22:00:28",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D48HNB",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2115/reply/D48HNB/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-04-09"
+    }
+  ],
+  "sentDate": "2024-03-21",
+  "to": [
+    "minister finansów"
+  ]
+}

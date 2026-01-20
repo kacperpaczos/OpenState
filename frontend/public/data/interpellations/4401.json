@@ -1,0 +1,71 @@
+{
+  "lastModified": "2024-10-08T22:01:00",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=4401",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D8DDE6",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4401/body",
+      "rel": "body"
+    }
+  ],
+  "num": 4401,
+  "receiptDate": "2024-08-20",
+  "term": 10,
+  "title": "Interpelacja w sprawie obowiązku ustalania planu remediacji przez regionalnego dyrektora ochrony środowiska",
+  "answerDelayedDays": 0,
+  "from": [
+    "209"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister klimatu i środowiska",
+      "sent": "2024-08-22"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD9UJ5J/i04401-o1.pdf",
+          "lastModified": "2024-10-08T22:01:00",
+          "name": "i04401-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Anita Sowińska",
+      "key": "D9UJ5J",
+      "lastModified": "2024-10-08T22:01:00",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D9UJ5J",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4401/reply/D9UJ5J/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-10-04"
+    },
+    {
+      "from": "podsekretarz stanu w Ministerstwie Klimatu i Środowiska - Anita Sowińska",
+      "lastModified": "2024-09-09T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-09-09"
+    }
+  ],
+  "sentDate": "2024-08-22",
+  "to": [
+    "minister klimatu i środowiska"
+  ]
+}

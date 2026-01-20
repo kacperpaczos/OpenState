@@ -1,0 +1,71 @@
+{
+  "lastModified": "2024-11-26T22:00:48",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5518",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DA9EG8",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5518/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5518,
+  "receiptDate": "2024-10-17",
+  "term": 10,
+  "title": "Interpelacja w sprawie wycofania kontrasygnaty pod postanowieniem Prezydenta RP",
+  "answerDelayedDays": 0,
+  "from": [
+    "137"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "prezes Rady Ministrów",
+      "sent": "2024-10-21"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDBDKG2/i05518-o1.pdf",
+          "lastModified": "2024-11-26T22:00:48",
+          "name": "i05518-o1.pdf"
+        }
+      ],
+      "from": "Minister Jan Grabiec",
+      "key": "DBDKG2",
+      "lastModified": "2024-11-26T22:00:48",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DBDKG2",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5518/reply/DBDKG2/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-11-25"
+    },
+    {
+      "from": "podsekretarz stanu w Kancelarii Prezesa Rady Ministrów - Karol Grzybowski",
+      "lastModified": "2024-11-05T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-11-05"
+    }
+  ],
+  "sentDate": "2024-10-21",
+  "to": [
+    "prezes Rady Ministrów"
+  ]
+}

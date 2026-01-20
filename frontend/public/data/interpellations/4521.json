@@ -1,0 +1,56 @@
+{
+  "lastModified": "2024-09-23T15:09:48",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=4521",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D8TC53",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4521/body",
+      "rel": "body"
+    }
+  ],
+  "num": 4521,
+  "receiptDate": "2024-08-29",
+  "term": 10,
+  "title": "Interpelacja w sprawie wyjaśnienia wypowiedzi ministra spraw zagranicznych Ukrainy dotyczących określenia miast Lubelszczyzny i Podkarpacia jako \"terytoriów ukraińskich\" oraz działań podjętych przez Ministerstwo Spraw Zagranicznych RP",
+  "answerDelayedDays": 0,
+  "from": [
+    "234"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister spraw zagranicznych",
+      "sent": "2024-09-05"
+    }
+  ],
+  "replies": [
+    {
+      "from": "Sekretarz stanu Władysław Teofil Bartoszewski",
+      "key": "D9DHGH",
+      "lastModified": "2024-09-23T15:09:48",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D9DHGH",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4521/reply/D9DHGH/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-09-20"
+    }
+  ],
+  "sentDate": "2024-09-05",
+  "to": [
+    "minister spraw zagranicznych"
+  ]
+}

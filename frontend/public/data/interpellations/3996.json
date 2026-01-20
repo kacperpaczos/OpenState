@@ -1,0 +1,71 @@
+{
+  "lastModified": "2024-08-27T22:00:17",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=3996",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D7HHM5",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3996/body",
+      "rel": "body"
+    }
+  ],
+  "num": 3996,
+  "receiptDate": "2024-07-23",
+  "term": 10,
+  "title": "Interpelacja w sprawie rządowych planów odejścia od realizacji połączenia kolejowego Warszawa-Ostrołęka-Łomża-Giżycko w ramach Centralnego Portu Komunikacyjnego",
+  "answerDelayedDays": 0,
+  "from": [
+    "122"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister infrastruktury",
+      "sent": "2024-07-25"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD8JJBM/i03996-o1.pdf",
+          "lastModified": "2024-08-27T22:00:17",
+          "name": "i03996-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Maciej Lasek",
+      "key": "D8JJBM",
+      "lastModified": "2024-08-27T22:00:17",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D8JJBM",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3996/reply/D8JJBM/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-08-26"
+    },
+    {
+      "from": "podsekretarz stanu w Ministerstwie Infrastruktury - Piotr Malepszak",
+      "lastModified": "2024-08-19T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-08-19"
+    }
+  ],
+  "sentDate": "2024-07-25",
+  "to": [
+    "minister infrastruktury"
+  ]
+}

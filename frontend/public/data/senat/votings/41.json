@@ -1,0 +1,72 @@
+[
+  {
+    "pertaining_to": "Wyrażenie zgody na powołanie Prezesa Najwyższej Izby Kontroli",
+    "description": "",
+    "votingNumber": "1",
+    "date": "",
+    "yes": 83,
+    "no": 1,
+    "abstain": 0,
+    "notParticipating": 16,
+    "totalVoted": 84,
+    "kind": "Electronic",
+    "sitting": 41,
+    "term": 11
+  },
+  {
+    "pertaining_to": "Ustawa o bonie ciepłowniczym oraz o zmianie niektórych ustaw w celu ograniczenia wysokości cen energii elektrycznej",
+    "description": "Wniosek o przyjęcie ustawy bez poprawek",
+    "votingNumber": "2",
+    "date": "",
+    "yes": 87,
+    "no": 0,
+    "abstain": 0,
+    "notParticipating": 13,
+    "totalVoted": 87,
+    "kind": "Electronic",
+    "sitting": 41,
+    "term": 11
+  },
+  {
+    "pertaining_to": "Ustawa o zmianie ustawy o zapasach ropy naftowej, produktów naftowych i gazu ziemnego oraz zasadach postępowania w sytuacjach zagrożenia bezpieczeństwa paliwowego państwa i zakłóceń na rynku naftowym oraz ustawy – Prawo energetyczne",
+    "description": "Wniosek o przyjęcie ustawy bez poprawek",
+    "votingNumber": "3",
+    "date": "",
+    "yes": 88,
+    "no": 0,
+    "abstain": 0,
+    "notParticipating": 12,
+    "totalVoted": 88,
+    "kind": "Electronic",
+    "sitting": 41,
+    "term": 11
+  },
+  {
+    "pertaining_to": "Ustawa o zmianie niektórych ustaw w celu weryfikacji prawa do świadczeń na rzecz rodziny dla cudzoziemców oraz o warunkach pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa",
+    "description": "Wniosek o przyjęcie ustawy bez poprawek",
+    "votingNumber": "4",
+    "date": "",
+    "yes": 57,
+    "no": 32,
+    "abstain": 0,
+    "notParticipating": 11,
+    "totalVoted": 89,
+    "kind": "Electronic",
+    "sitting": 41,
+    "term": 11
+  },
+  {
+    "pertaining_to": "Ustawa o zmianie niektórych ustaw w związku z określeniem zasad zakwaterowania funkcjonariuszy Policji, Straży Granicznej, Państwowej Straży Pożarnej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Służby Ochrony Państwa oraz poprawy niektórych warunków pełnienia służby",
+    "description": "Wniosek o przyjęcie ustawy bez poprawek",
+    "votingNumber": "5",
+    "date": "",
+    "yes": 89,
+    "no": 0,
+    "abstain": 0,
+    "notParticipating": 11,
+    "totalVoted": 89,
+    "kind": "Electronic",
+    "sitting": 41,
+    "term": 11
+  }
+]

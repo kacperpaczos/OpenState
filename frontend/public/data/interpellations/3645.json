@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-07-30T22:00:09",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=3645",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D73FAE",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3645/body",
+      "rel": "body"
+    }
+  ],
+  "num": 3645,
+  "receiptDate": "2024-07-03",
+  "term": 10,
+  "title": "Interpelacja w sprawie ekoschematów",
+  "answerDelayedDays": 0,
+  "from": [
+    "050"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rolnictwa i rozwoju wsi",
+      "sent": "2024-07-11"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD7NHVA/i03645-o1.pdf",
+          "lastModified": "2024-07-30T22:00:09",
+          "name": "i03645-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Stefan Krajewski",
+      "key": "D7NHVA",
+      "lastModified": "2024-07-30T22:00:09",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D7NHVA",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3645/reply/D7NHVA/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-07-29"
+    }
+  ],
+  "sentDate": "2024-07-11",
+  "to": [
+    "minister rolnictwa i rozwoju wsi"
+  ]
+}

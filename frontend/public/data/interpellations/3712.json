@@ -1,0 +1,64 @@
+{
+  "lastModified": "2024-07-30T22:00:09",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=3712",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D73FCF",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3712/body",
+      "rel": "body"
+    }
+  ],
+  "num": 3712,
+  "receiptDate": "2024-07-08",
+  "term": 10,
+  "title": "Interpelacja w sprawie bardzo niepokojącej i niezrozumiałej decyzji minister klimatu i środowiska w kwestii opóźnienia rozpoczęcia budowy pierwszej elektrowni jądrowej o 2 lata oraz kilkuletniego opóźnienia oddania jej do użytku w sytuacji możliwego zamknięcia kopalni Turów po 2026 r. (w związku z wyrokiem WSA) i planowanego zakończenia wydobycia węgla w polu Bełchatów po 2028 r.",
+  "answerDelayedDays": 0,
+  "from": [
+    "119",
+    "130"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister klimatu i środowiska",
+      "sent": "2024-07-11"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD7NHVF/i03712-o1.pdf",
+          "lastModified": "2024-07-30T22:00:09",
+          "name": "i03712-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Maciej Bando",
+      "key": "D7NHVF",
+      "lastModified": "2024-07-30T22:00:09",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D7NHVF",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3712/reply/D7NHVF/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-07-29"
+    }
+  ],
+  "sentDate": "2024-07-11",
+  "to": [
+    "minister klimatu i środowiska"
+  ]
+}

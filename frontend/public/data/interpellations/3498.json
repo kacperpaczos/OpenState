@@ -1,0 +1,60 @@
+{
+  "lastModified": "2024-07-23T14:30:48",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=3498",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D6SAHE",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3498/body",
+      "rel": "body"
+    }
+  ],
+  "num": 3498,
+  "receiptDate": "2024-06-21",
+  "term": 10,
+  "title": "Interpelacja w sprawie lekcji religii oraz sytuacji zawodowej katechetów",
+  "answerDelayedDays": 0,
+  "from": [
+    "224",
+    "234",
+    "404",
+    "435",
+    "437"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister edukacji",
+      "sent": "2024-07-01"
+    }
+  ],
+  "replies": [
+    {
+      "from": "Sekretarz stanu Katarzyna Lubnauer",
+      "key": "D7EHGD",
+      "lastModified": "2024-07-23T14:30:48",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D7EHGD",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3498/reply/D7EHGD/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-07-18"
+    }
+  ],
+  "sentDate": "2024-07-01",
+  "to": [
+    "minister edukacji"
+  ]
+}

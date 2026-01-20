@@ -1,0 +1,57 @@
+{
+  "lastModified": "2024-08-02T15:39:13",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=3257",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D65A2L",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3257/body",
+      "rel": "body"
+    }
+  ],
+  "num": 3257,
+  "receiptDate": "2024-06-03",
+  "term": 10,
+  "title": "Interpelacja w sprawie zatrudniania cudzoziemców w polskich służbach mundurowych, głównie w Policji",
+  "answerDelayedDays": 0,
+  "from": [
+    "095",
+    "321"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister spraw wewnętrznych i administracji",
+      "sent": "2024-06-11"
+    }
+  ],
+  "replies": [
+    {
+      "from": "Sekretarz stanu Czesław Mroczek",
+      "key": "D7RHZZ",
+      "lastModified": "2024-08-02T15:39:13",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D7RHZZ",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3257/reply/D7RHZZ/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-08-01"
+    }
+  ],
+  "sentDate": "2024-06-11",
+  "to": [
+    "minister spraw wewnętrznych i administracji"
+  ]
+}

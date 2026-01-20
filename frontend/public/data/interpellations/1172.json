@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-02-28T22:00:42",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=1172",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CZYFV5",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1172/body",
+      "rel": "body"
+    }
+  ],
+  "num": 1172,
+  "receiptDate": "2024-01-26",
+  "term": 10,
+  "title": "Interpelacja w sprawie decyzji o osadzeniu w więzieniu dwóch posłów w kontekście liczby skazanych na pobyt w zakładach penitencjarnych",
+  "answerDelayedDays": 0,
+  "from": [
+    "432"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister sprawiedliwości",
+      "sent": "2024-01-30"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD2VJHQ/i01172-o1.pdf",
+          "lastModified": "2024-02-28T22:00:42",
+          "name": "i01172-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Maria Ejchart",
+      "key": "D2VJHQ",
+      "lastModified": "2024-02-28T22:00:42",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D2VJHQ",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1172/reply/D2VJHQ/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-02-23"
+    }
+  ],
+  "sentDate": "2024-01-30",
+  "to": [
+    "minister sprawiedliwości"
+  ]
+}

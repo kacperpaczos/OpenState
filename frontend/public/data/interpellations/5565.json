@@ -1,0 +1,64 @@
+{
+  "lastModified": "2024-11-14T22:00:50",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5565",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DA9EH9",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5565/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5565,
+  "receiptDate": "2024-10-17",
+  "term": 10,
+  "title": "Interpelacja w sprawie planów rozwoju transportu zbiorowego oraz połączeń kolejowych ze słowackim Popradem i Koszycami",
+  "answerDelayedDays": 0,
+  "from": [
+    "110",
+    "273"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister infrastruktury",
+      "sent": "2024-10-21"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDAZKAF/i05565-o1.pdf",
+          "lastModified": "2024-11-14T22:00:50",
+          "name": "i05565-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Stanisław Bukowiec",
+      "key": "DAZKAF",
+      "lastModified": "2024-11-14T22:00:50",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAZKAF",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5565/reply/DAZKAF/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-11-12"
+    }
+  ],
+  "sentDate": "2024-10-21",
+  "to": [
+    "minister infrastruktury"
+  ]
+}

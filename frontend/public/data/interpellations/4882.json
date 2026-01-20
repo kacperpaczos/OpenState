@@ -1,0 +1,71 @@
+{
+  "lastModified": "2025-01-02T22:00:42",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=4882",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D9FFX4",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4882/body",
+      "rel": "body"
+    }
+  ],
+  "num": 4882,
+  "receiptDate": "2024-09-16",
+  "term": 10,
+  "title": "Interpelacja w sprawie planowanej nowelizacji tzw. specustawy odrzańskiej i likwidacji inwestycji hydrotechnicznych na Odrze",
+  "answerDelayedDays": 0,
+  "from": [
+    "234"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister infrastruktury",
+      "sent": "2024-09-27"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDCJJWG/i04882-o1.pdf",
+          "lastModified": "2025-01-02T22:00:42",
+          "name": "i04882-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Przemysław Koperski",
+      "key": "DCJJWG",
+      "lastModified": "2025-01-02T22:00:42",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DCJJWG",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4882/reply/DCJJWG/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-12-31"
+    },
+    {
+      "from": "podsekretarz stanu w Ministerstwie Infrastruktury - Piotr Malepszak",
+      "lastModified": "2024-10-07T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-10-07"
+    }
+  ],
+  "sentDate": "2024-09-27",
+  "to": [
+    "minister infrastruktury"
+  ]
+}

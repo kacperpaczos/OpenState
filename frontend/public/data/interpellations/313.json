@@ -1,0 +1,80 @@
+{
+  "lastModified": "2024-01-29T15:37:30",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=313",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CZDAYG",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/313/body",
+      "rel": "body"
+    }
+  ],
+  "num": 313,
+  "receiptDate": "2023-12-21",
+  "term": 10,
+  "title": "Interpelacja w sprawie działań ministra edukacji i nauki w okresie od 27 listopada do 12 grudnia 2023 r.",
+  "answerDelayedDays": 0,
+  "from": [
+    "086"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister edukacji",
+      "sent": "2024-01-10"
+    },
+    {
+      "answerDelayedDays": 0,
+      "name": "minister nauki",
+      "sent": "2024-01-12"
+    }
+  ],
+  "replies": [
+    {
+      "from": "Minister Dariusz Wieczorek",
+      "key": "CZXK6G",
+      "lastModified": "2024-01-29T15:37:30",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CZXK6G",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/313/reply/CZXK6G/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-01-26"
+    },
+    {
+      "from": "Podsekretarz stanu Paulina Piechna-Więckiewicz",
+      "key": "CZXK6H",
+      "lastModified": "2024-01-29T15:37:30",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CZXK6H",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/313/reply/CZXK6H/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-01-26"
+    }
+  ],
+  "sentDate": "2024-01-12",
+  "to": [
+    "minister edukacji",
+    "minister nauki"
+  ]
+}

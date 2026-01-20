@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-11-29T22:00:48",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5918",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAQCMV",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5918/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5918,
+  "receiptDate": "2024-10-31",
+  "term": 10,
+  "title": "Interpelacja w sprawie dodatków emerytalnych dla zasłużonych honorowych dawców krwi",
+  "answerDelayedDays": 0,
+  "from": [
+    "481"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rodziny, pracy i polityki społecznej",
+      "sent": "2024-11-05"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDBGKBT/i05918-o1.pdf",
+          "lastModified": "2024-11-29T22:00:48",
+          "name": "i05918-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Sebastian Gajewski",
+      "key": "DBGKBT",
+      "lastModified": "2024-11-29T22:00:48",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DBGKBT",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5918/reply/DBGKBT/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-11-28"
+    }
+  ],
+  "sentDate": "2024-11-05",
+  "to": [
+    "minister rodziny, pracy i polityki społecznej"
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "lastModified": "2025-06-23T15:20:16",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2609",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D4N9BG",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2609/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2609,
+  "receiptDate": "2024-04-18",
+  "term": 10,
+  "title": "Interpelacja w sprawie kryteriów dochodowych w pomocy społecznej i świadczeniach rodzinnych",
+  "answerDelayedDays": 0,
+  "from": [
+    "118"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rodziny, pracy i polityki społecznej",
+      "sent": "2024-04-25"
+    }
+  ],
+  "replies": [
+    {
+      "from": "Podsekretarz stanu Sebastian Gajewski",
+      "key": "DHTHSU",
+      "lastModified": "2025-06-23T15:20:16",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DHTHSU",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2609/reply/DHTHSU/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2025-06-18"
+    },
+    {
+      "from": "podsekretarz stanu w Ministerstwie Rodziny, Pracy i Polityki Społecznej - Sebastian Gajewski",
+      "lastModified": "2024-05-20T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-05-20"
+    }
+  ],
+  "sentDate": "2024-04-25",
+  "to": [
+    "minister rodziny, pracy i polityki społecznej"
+  ]
+}

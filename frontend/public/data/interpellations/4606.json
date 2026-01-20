@@ -1,0 +1,64 @@
+{
+  "lastModified": "2024-10-04T22:00:31",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=4606",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D93FAA",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4606/body",
+      "rel": "body"
+    }
+  ],
+  "num": 4606,
+  "receiptDate": "2024-09-04",
+  "term": 10,
+  "title": "Interpelacja w sprawie łączenia mandatu posła na Sejm z funkcją dyrektora generalnego KOWR",
+  "answerDelayedDays": 0,
+  "from": [
+    "095",
+    "137"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rolnictwa i rozwoju wsi",
+      "sent": "2024-09-13"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD9QHR8/i04606-o1.pdf",
+          "lastModified": "2024-10-04T22:00:31",
+          "name": "i04606-o1.pdf"
+        }
+      ],
+      "from": "Minister Czesław Siekierski",
+      "key": "D9QHR8",
+      "lastModified": "2024-10-04T22:00:31",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D9QHR8",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4606/reply/D9QHR8/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-10-02"
+    }
+  ],
+  "sentDate": "2024-09-13",
+  "to": [
+    "minister rolnictwa i rozwoju wsi"
+  ]
+}

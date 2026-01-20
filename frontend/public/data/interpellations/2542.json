@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-05-15T22:00:23",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2542",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D4N99H",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2542/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2542,
+  "receiptDate": "2024-04-11",
+  "term": 10,
+  "title": "Interpelacja w sprawie wadliwego działania urządzeń melioracyjnych przy autostradzie A1",
+  "answerDelayedDays": 0,
+  "from": [
+    "223"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister infrastruktury",
+      "sent": "2024-04-25"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD5AHKY/i02542-o1.pdf",
+          "lastModified": "2024-05-15T22:00:23",
+          "name": "i02542-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Paweł Gancarz",
+      "key": "D5AHKY",
+      "lastModified": "2024-05-15T22:00:23",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D5AHKY",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2542/reply/D5AHKY/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-05-14"
+    }
+  ],
+  "sentDate": "2024-04-25",
+  "to": [
+    "minister infrastruktury"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-07-31T22:00:10",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=3886",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D7AHED",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3886/body",
+      "rel": "body"
+    }
+  ],
+  "num": 3886,
+  "receiptDate": "2024-07-15",
+  "term": 10,
+  "title": "Interpelacja w sprawie dopłat do zboża dla podmiotów skupujących",
+  "answerDelayedDays": 0,
+  "from": [
+    "164"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rolnictwa i rozwoju wsi",
+      "sent": "2024-07-18"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD7PHQF/i03886-o1.pdf",
+          "lastModified": "2024-07-31T22:00:10",
+          "name": "i03886-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Stefan Krajewski",
+      "key": "D7PHQF",
+      "lastModified": "2024-07-31T22:00:10",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D7PHQF",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3886/reply/D7PHQF/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-07-29"
+    }
+  ],
+  "sentDate": "2024-07-18",
+  "to": [
+    "minister rolnictwa i rozwoju wsi"
+  ]
+}

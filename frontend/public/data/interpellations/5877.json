@@ -1,0 +1,64 @@
+{
+  "lastModified": "2024-12-06T22:00:26",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5877",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAPCWH",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5877/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5877,
+  "receiptDate": "2024-10-28",
+  "term": 10,
+  "title": "Interpelacja w sprawie nieczynnego od kilku lat dworca PKP w Krynicy-Zdroju",
+  "answerDelayedDays": 0,
+  "from": [
+    "121",
+    "388"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister infrastruktury",
+      "sent": "2024-11-04"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDBPJK3/i05877-o1.pdf",
+          "lastModified": "2024-12-06T22:00:26",
+          "name": "i05877-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Piotr Malepszak",
+      "key": "DBPJK3",
+      "lastModified": "2024-12-06T22:00:26",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DBPJK3",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5877/reply/DBPJK3/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-12-04"
+    }
+  ],
+  "sentDate": "2024-11-04",
+  "to": [
+    "minister infrastruktury"
+  ]
+}

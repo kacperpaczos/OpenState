@@ -1,0 +1,68 @@
+{
+  "lastModified": "2024-05-22T15:12:38",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=1410",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D2FC46",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1410/body",
+      "rel": "body"
+    }
+  ],
+  "num": 1410,
+  "receiptDate": "2024-02-09",
+  "term": 10,
+  "title": "Interpelacja w sprawie przetargów na dostawę wyposażenia wozów ratowniczo-gaśniczych",
+  "answerDelayedDays": 0,
+  "from": [
+    "132",
+    "190",
+    "462",
+    "268",
+    "287"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister spraw wewnętrznych i administracji",
+      "sent": "2024-02-14"
+    }
+  ],
+  "replies": [
+    {
+      "from": "Podsekretarz stanu Wiesław Leśniakiewicz",
+      "key": "D5HHHC",
+      "lastModified": "2024-05-22T15:12:38",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D5HHHC",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1410/reply/D5HHHC/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-05-21"
+    },
+    {
+      "from": "podsekretarz stanu w Ministerstwie Spraw Wewnętrznych i Administracji - Wiesław Leśniakiewicz",
+      "lastModified": "2024-03-15T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-03-15"
+    }
+  ],
+  "sentDate": "2024-02-14",
+  "to": [
+    "minister spraw wewnętrznych i administracji"
+  ]
+}

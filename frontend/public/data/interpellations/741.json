@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-03-04T22:00:31",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=741",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CZDAST",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/741/body",
+      "rel": "body"
+    }
+  ],
+  "num": 741,
+  "receiptDate": "2024-01-05",
+  "term": 10,
+  "title": "Interpelacja w sprawie rozwoju Sił Zbrojnych RP, procesu rozbudowy i wzmacniania jednostek wojskowych oraz zwiększania liczby żołnierzy",
+  "answerDelayedDays": 0,
+  "from": [
+    "452"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister obrony narodowej",
+      "sent": "2024-01-11"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD32KK6/i00741-o1.pdf",
+          "lastModified": "2024-03-04T22:00:31",
+          "name": "i00741-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Paweł Bejda",
+      "key": "D32KK6",
+      "lastModified": "2024-03-04T22:00:31",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D32KK6",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/741/reply/D32KK6/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-02-21"
+    }
+  ],
+  "sentDate": "2024-01-11",
+  "to": [
+    "minister obrony narodowej"
+  ]
+}

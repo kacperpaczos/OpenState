@@ -1,0 +1,67 @@
+{
+  "lastModified": "2024-08-14T22:00:39",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=3976",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D7GHG9",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3976/body",
+      "rel": "body"
+    }
+  ],
+  "num": 3976,
+  "receiptDate": "2024-07-22",
+  "term": 10,
+  "title": "Interpelacja w sprawie możliwości wykupu mieszkań od towarzystw budownictwa społecznego (TBS)",
+  "answerDelayedDays": 0,
+  "from": [
+    "021",
+    "145",
+    "168",
+    "182",
+    "357"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rozwoju i technologii",
+      "sent": "2024-07-24"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD85HJM/i03976-o1.pdf",
+          "lastModified": "2024-08-14T22:00:39",
+          "name": "i03976-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Jacek Tomczak",
+      "key": "D85HJM",
+      "lastModified": "2024-08-14T22:00:39",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D85HJM",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3976/reply/D85HJM/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-08-12"
+    }
+  ],
+  "sentDate": "2024-07-24",
+  "to": [
+    "minister rozwoju i technologii"
+  ]
+}

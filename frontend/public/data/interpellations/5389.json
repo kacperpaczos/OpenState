@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-11-19T22:00:07",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5389",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DA6BAH",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5389/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5389,
+  "receiptDate": "2024-10-11",
+  "term": 10,
+  "title": "Interpelacja w sprawie przedłużenia terminu wymiany kotłów pozaklasowych",
+  "answerDelayedDays": 0,
+  "from": [
+    "389"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister klimatu i środowiska",
+      "sent": "2024-10-18"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDB6KNE/i05389-o1.pdf",
+          "lastModified": "2024-11-19T22:00:07",
+          "name": "i05389-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Krzysztof Bolesta",
+      "key": "DB6KNE",
+      "lastModified": "2024-11-19T22:00:07",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DB6KNE",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5389/reply/DB6KNE/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-11-15"
+    }
+  ],
+  "sentDate": "2024-10-18",
+  "to": [
+    "minister klimatu i środowiska"
+  ]
+}

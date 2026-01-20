@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-12-06T15:06:11",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=6003",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DATBAT",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/6003/body",
+      "rel": "body"
+    }
+  ],
+  "num": 6003,
+  "receiptDate": "2024-11-04",
+  "term": 10,
+  "title": "Interpelacja w sprawie działalności, zakresu obowiązków oraz kosztów funkcjonowania Komisji ds. usuwania skutków prawnych decyzji reprywatyzacyjnych dotyczących nieruchomości warszawskich, wydanych z naruszeniem prawa",
+  "answerDelayedDays": 0,
+  "from": [
+    "234"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister sprawiedliwości",
+      "sent": "2024-11-07"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDBNJZ3/i06003-o1.pdf",
+          "lastModified": "2024-12-05T22:00:26",
+          "name": "i06003-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Arkadiusz Myrcha",
+      "key": "DBNJZ3",
+      "lastModified": "2024-12-05T22:00:26",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DBNJZ3",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/6003/reply/DBNJZ3/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-12-03"
+    }
+  ],
+  "sentDate": "2024-11-07",
+  "to": [
+    "minister sprawiedliwości"
+  ]
+}

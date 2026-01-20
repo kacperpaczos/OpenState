@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-05-10T22:00:34",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2523",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D4N98W",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2523/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2523,
+  "receiptDate": "2024-04-09",
+  "term": 10,
+  "title": "Interpelacja w sprawie dopłaty na wynajem mieszkania dla młodych",
+  "answerDelayedDays": 0,
+  "from": [
+    "205"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rozwoju i technologii",
+      "sent": "2024-04-25"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD55JDA/i02523-o1.pdf",
+          "lastModified": "2024-05-10T22:00:34",
+          "name": "i02523-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Jacek Tomczak",
+      "key": "D55JDA",
+      "lastModified": "2024-05-10T22:00:34",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D55JDA",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2523/reply/D55JDA/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-05-08"
+    }
+  ],
+  "sentDate": "2024-04-25",
+  "to": [
+    "minister rozwoju i technologii"
+  ]
+}

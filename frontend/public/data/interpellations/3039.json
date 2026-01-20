@@ -1,0 +1,143 @@
+{
+  "lastModified": "2024-07-10T22:00:50",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=3039",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D65AR9",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3039/body",
+      "rel": "body"
+    }
+  ],
+  "num": 3039,
+  "receiptDate": "2024-06-02",
+  "term": 10,
+  "title": "Interpelacja w sprawie dostępności i otwartości instytucji publicznych dla obywateli i przedsiębiorców",
+  "answerDelayedDays": 0,
+  "from": [
+    "243"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister cyfryzacji",
+      "sent": "2024-06-19"
+    },
+    {
+      "answerDelayedDays": 0,
+      "name": "minister funduszy i polityki regionalnej",
+      "sent": "2024-06-20"
+    },
+    {
+      "answerDelayedDays": 0,
+      "name": "minister spraw wewnętrznych i administracji, koordynator służb specjalnych",
+      "sent": "2024-06-20"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD6THFA/i03039-o1.pdf",
+          "lastModified": "2024-07-03T22:00:35",
+          "name": "i03039-o1.pdf"
+        }
+      ],
+      "from": "Minister Katarzyna Pełczyńska-Nałęcz",
+      "key": "D6THFA",
+      "lastModified": "2024-07-03T22:00:35",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D6THFA",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3039/reply/D6THFA/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-07-01"
+    },
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD6THFB/i03039-o2.pdf",
+          "lastModified": "2024-07-03T22:00:35",
+          "name": "i03039-o2.pdf"
+        }
+      ],
+      "from": "szef Służby Cywilnej Anita Noskowska-Piątkowska",
+      "key": "D6THFB",
+      "lastModified": "2024-07-03T22:00:35",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D6THFB",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3039/reply/D6THFB/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-07-02"
+    },
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD72HJV/i03039-o3.pdf",
+          "lastModified": "2024-07-10T22:00:50",
+          "name": "i03039-o3.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Michał Gramatyka",
+      "key": "D72HJV",
+      "lastModified": "2024-07-10T22:00:50",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D72HJV",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3039/reply/D72HJV/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-07-09"
+    },
+    {
+      "from": "Sekretarz stanu Tomasz Szymański",
+      "key": "D72HJW",
+      "lastModified": "2024-07-10T15:15:00",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D72HJW",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3039/reply/D72HJW/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-07-09"
+    }
+  ],
+  "sentDate": "2024-06-20",
+  "to": [
+    "minister cyfryzacji",
+    "minister funduszy i polityki regionalnej",
+    "minister spraw wewnętrznych i administracji, koordynator służb specjalnych"
+  ]
+}

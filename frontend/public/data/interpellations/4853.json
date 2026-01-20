@@ -1,0 +1,75 @@
+{
+  "lastModified": "2024-10-29T22:00:11",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=4853",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D9FFW9",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4853/body",
+      "rel": "body"
+    }
+  ],
+  "num": 4853,
+  "receiptDate": "2024-09-16",
+  "term": 10,
+  "title": "Interpelacja w sprawie dostępności urządzeń potrzebnych po hospitalizacji dla pacjentów pulmonologicznych",
+  "answerDelayedDays": 0,
+  "from": [
+    "142",
+    "161",
+    "170",
+    "221",
+    "426"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rodziny, pracy i polityki społecznej",
+      "sent": "2024-09-25"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDAHJZY/i04853-o1.pdf",
+          "lastModified": "2024-10-29T22:00:11",
+          "name": "i04853-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Łukasz Krasoń",
+      "key": "DAHJZY",
+      "lastModified": "2024-10-29T22:00:11",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAHJZY",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4853/reply/DAHJZY/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-10-28"
+    },
+    {
+      "from": "sekretarz stanu w Ministerstwie Rodziny, Pracy i Polityki Społecznej - Łukasz Krasoń",
+      "lastModified": "2024-10-22T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-10-22"
+    }
+  ],
+  "sentDate": "2024-09-25",
+  "to": [
+    "minister rodziny, pracy i polityki społecznej"
+  ]
+}

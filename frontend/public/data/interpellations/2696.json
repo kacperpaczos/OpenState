@@ -1,0 +1,65 @@
+{
+  "lastModified": "2024-06-03T22:00:53",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2696",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D55B2S",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2696/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2696,
+  "receiptDate": "2024-05-02",
+  "term": 10,
+  "title": "Interpelacja w sprawie programu pn. \"Budowa ogólnokrajowej sieci bibliotecznej poprzez zintegrowany system zarządzania zasobami bibliotek\" i zakupu przez Bibliotekę Narodową systemu Alma",
+  "answerDelayedDays": 0,
+  "from": [
+    "138",
+    "357",
+    "394"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister kultury i dziedzictwa narodowego",
+      "sent": "2024-05-10"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD5VJLB/i02696-o1.pdf",
+          "lastModified": "2024-06-03T22:00:53",
+          "name": "i02696-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Andrzej Wyrobiec",
+      "key": "D5VJLB",
+      "lastModified": "2024-06-03T22:00:53",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D5VJLB",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2696/reply/D5VJLB/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-05-31"
+    }
+  ],
+  "sentDate": "2024-05-10",
+  "to": [
+    "minister kultury i dziedzictwa narodowego"
+  ]
+}

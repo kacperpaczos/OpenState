@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-12-04T22:00:26",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5566",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DA9EHA",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5566/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5566,
+  "receiptDate": "2024-10-17",
+  "term": 10,
+  "title": "Interpelacja w sprawie braku orzekania środków karnych przez sądy powszechne w sprawach przestępstw przeciwko wolności seksualnej na szkodę osoby małoletniej",
+  "answerDelayedDays": 0,
+  "from": [
+    "313"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister sprawiedliwości",
+      "sent": "2024-10-21"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDBMBBQ/i05566-o1.pdf",
+          "lastModified": "2024-12-04T22:00:26",
+          "name": "i05566-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Arkadiusz Myrcha",
+      "key": "DBMBBQ",
+      "lastModified": "2024-12-04T22:00:26",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DBMBBQ",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5566/reply/DBMBBQ/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-11-26"
+    }
+  ],
+  "sentDate": "2024-10-21",
+  "to": [
+    "minister sprawiedliwości"
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "lastModified": "2024-12-10T22:00:07",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5962",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DATB9J",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5962/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5962,
+  "receiptDate": "2024-11-01",
+  "term": 10,
+  "title": "Interpelacja w sprawie konieczności wydania postanowienia o odmowie wszczęcia postępowania w procedurze tworzenia aktów planowania przestrzennego",
+  "answerDelayedDays": 0,
+  "from": [
+    "489"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister - członek Rady Ministrów",
+      "sent": "2024-11-07"
+    },
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rozwoju i technologii",
+      "sent": "2024-11-07"
+    },
+    {
+      "answerDelayedDays": 0,
+      "name": "minister sprawiedliwości",
+      "sent": "2024-11-07"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDBKK8Z/i05962-o1.pdf",
+          "lastModified": "2024-12-02T22:00:26",
+          "name": "i05962-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Michał Jaros",
+      "key": "DBKK8Z",
+      "lastModified": "2024-12-02T22:00:26",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DBKK8Z",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5962/reply/DBKK8Z/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-11-29"
+    },
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDBNJZ2/i05962-o2.pdf",
+          "lastModified": "2024-12-05T22:00:26",
+          "name": "i05962-o2.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Arkadiusz Myrcha",
+      "key": "DBNJZ2",
+      "lastModified": "2024-12-05T22:00:26",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DBNJZ2",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5962/reply/DBNJZ2/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-12-03"
+    },
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDBTJTK/i05962-o3.pdf",
+          "lastModified": "2024-12-10T22:00:07",
+          "name": "i05962-o3.pdf"
+        }
+      ],
+      "from": "Minister Maciej Berek",
+      "key": "DBTJTK",
+      "lastModified": "2024-12-10T22:00:07",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DBTJTK",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5962/reply/DBTJTK/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-12-09"
+    },
+    {
+      "from": "minister - członek Rady Ministrów - Maciej Berek",
+      "lastModified": "2024-11-28T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-11-28"
+    }
+  ],
+  "sentDate": "2024-11-07",
+  "to": [
+    "minister - członek Rady Ministrów",
+    "minister rozwoju i technologii",
+    "minister sprawiedliwości"
+  ]
+}

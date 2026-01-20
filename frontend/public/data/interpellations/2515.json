@@ -1,0 +1,71 @@
+{
+  "lastModified": "2024-06-13T22:00:18",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2515",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D4N98N",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2515/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2515,
+  "receiptDate": "2024-04-08",
+  "term": 10,
+  "title": "Interpelacja w sprawie braku rozstrzygnięcia konkursów w ramach Rządowego Programu Rozwoju Organizacji Obywatelskich na lata 2018-2030 - edycja 2024",
+  "answerDelayedDays": 0,
+  "from": [
+    "100"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister ds. społeczeństwa obywatelskiego",
+      "sent": "2024-04-25"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD67JEF/i02515-o1.pdf",
+          "lastModified": "2024-06-13T22:00:18",
+          "name": "i02515-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Marek Krawczyk",
+      "key": "D67JEF",
+      "lastModified": "2024-06-13T22:00:18",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D67JEF",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2515/reply/D67JEF/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-06-12"
+    },
+    {
+      "from": "minister - członek Rady Ministrów - Maciej Berek",
+      "lastModified": "2024-05-20T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-05-20"
+    }
+  ],
+  "sentDate": "2024-04-25",
+  "to": [
+    "minister ds. społeczeństwa obywatelskiego"
+  ]
+}

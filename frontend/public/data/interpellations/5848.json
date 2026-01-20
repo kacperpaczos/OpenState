@@ -1,0 +1,65 @@
+{
+  "lastModified": "2024-12-23T22:00:38",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5848",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAPCVL",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5848/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5848,
+  "receiptDate": "2024-10-28",
+  "term": 10,
+  "title": "Interpelacja w sprawie poziomu bezpieczeństwa ruchu drogowego w Polsce w 2024 r.",
+  "answerDelayedDays": 0,
+  "from": [
+    "001",
+    "193",
+    "415"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister spraw wewnętrznych i administracji",
+      "sent": "2024-11-04"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDC8K6M/i05848-o1.pdf",
+          "lastModified": "2024-12-23T22:00:38",
+          "name": "i05848-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Czesław Mroczek",
+      "key": "DC8K6M",
+      "lastModified": "2024-12-23T22:00:38",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DC8K6M",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5848/reply/DC8K6M/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-12-20"
+    }
+  ],
+  "sentDate": "2024-11-04",
+  "to": [
+    "minister spraw wewnętrznych i administracji"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "lastModified": "2025-04-17T22:00:09",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=1370",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D2FC2W",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1370/body",
+      "rel": "body"
+    }
+  ],
+  "num": 1370,
+  "receiptDate": "2024-02-07",
+  "term": 10,
+  "title": "Interpelacja w sprawie informacji o polskich olimpijczykach w związku z ustanowieniem roku 2024 Rokiem Polskich Olimpijczyków",
+  "answerDelayedDays": 0,
+  "from": [
+    "455"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister sportu i turystyki",
+      "sent": "2024-02-13"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDFTHYS/i01370-o1.pdf",
+          "lastModified": "2025-04-17T22:00:09",
+          "name": "i01370-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Piotr Borys",
+      "key": "DFTHYS",
+      "lastModified": "2025-04-17T22:00:09",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DFTHYS",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1370/reply/DFTHYS/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2025-04-15"
+    },
+    {
+      "from": "sekretarz stanu w Ministerstwie Sportu i Turystyki - Piotr Borys",
+      "lastModified": "2024-04-02T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-04-02"
+    }
+  ],
+  "sentDate": "2024-02-13",
+  "to": [
+    "minister sportu i turystyki"
+  ]
+}

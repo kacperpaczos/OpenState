@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-05-16T22:00:23",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2606",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D4N9BD",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2606/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2606,
+  "receiptDate": "2024-04-18",
+  "term": 10,
+  "title": "Interpelacja w sprawie programu \"Czyste Powietrze\"",
+  "answerDelayedDays": 0,
+  "from": [
+    "220"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister klimatu i środowiska",
+      "sent": "2024-04-25"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD5BHQC/i02606-o1.pdf",
+          "lastModified": "2024-05-16T22:00:23",
+          "name": "i02606-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Krzysztof Bolesta",
+      "key": "D5BHQC",
+      "lastModified": "2024-05-16T22:00:23",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D5BHQC",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2606/reply/D5BHQC/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-05-14"
+    }
+  ],
+  "sentDate": "2024-04-25",
+  "to": [
+    "minister klimatu i środowiska"
+  ]
+}

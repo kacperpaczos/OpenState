@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-04-15T22:00:16",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2047",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D3KFBA",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2047/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2047,
+  "receiptDate": "2024-03-13",
+  "term": 10,
+  "title": "Interpelacja w sprawie środków z rządowego Programu Inwestycji Strategicznych dla gm. Modliborzyce",
+  "answerDelayedDays": 0,
+  "from": [
+    "461"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "prezes Rady Ministrów",
+      "sent": "2024-03-21"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD4CHXU/i02047-o1.pdf",
+          "lastModified": "2024-04-15T22:00:16",
+          "name": "i02047-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Grzegorz Karpiński",
+      "key": "D4CHXU",
+      "lastModified": "2024-04-15T22:00:16",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D4CHXU",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2047/reply/D4CHXU/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-04-12"
+    }
+  ],
+  "sentDate": "2024-03-21",
+  "to": [
+    "prezes Rady Ministrów"
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "lastModified": "2024-07-05T22:00:35",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=3322",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D67JFR",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3322/body",
+      "rel": "body"
+    }
+  ],
+  "num": 3322,
+  "receiptDate": "2024-06-06",
+  "term": 10,
+  "title": "Interpelacja w sprawie ujawnienia informacji niejawnej przez szefa Kancelarii Prezesa Rady Ministrów ministra Michała Dworczyka, o której mowa w art. 5 ust. 1 pkt 5 lub 6 ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych",
+  "answerDelayedDays": 0,
+  "from": [
+    "274"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister spraw wewnętrznych i administracji, koordynator służb specjalnych",
+      "sent": "2024-06-18"
+    },
+    {
+      "answerDelayedDays": 0,
+      "name": "minister sprawiedliwości",
+      "sent": "2024-06-19"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD6NHRD/i03322-o1.pdf",
+          "lastModified": "2024-06-28T22:00:34",
+          "name": "i03322-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Arkadiusz Myrcha",
+      "key": "D6NHRD",
+      "lastModified": "2024-06-28T22:00:34",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D6NHRD",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3322/reply/D6NHRD/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-06-27"
+    },
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD6VHYB/i03322-o2.pdf",
+          "lastModified": "2024-07-05T22:00:35",
+          "name": "i03322-o2.pdf"
+        }
+      ],
+      "from": "Minister Tomasz Siemoniak",
+      "key": "D6VHYB",
+      "lastModified": "2024-07-05T22:00:35",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D6VHYB",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3322/reply/D6VHYB/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-07-04"
+    }
+  ],
+  "sentDate": "2024-06-19",
+  "to": [
+    "minister spraw wewnętrznych i administracji, koordynator służb specjalnych",
+    "minister sprawiedliwości"
+  ]
+}

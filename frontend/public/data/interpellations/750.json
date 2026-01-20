@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-01-29T22:00:51",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=750",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CZDAT4",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/750/body",
+      "rel": "body"
+    }
+  ],
+  "num": 750,
+  "receiptDate": "2024-01-06",
+  "term": 10,
+  "title": "Interpelacja w sprawie świadczenia pieniężnego dla sołtysów",
+  "answerDelayedDays": 0,
+  "from": [
+    "186"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rolnictwa i rozwoju wsi",
+      "sent": "2024-01-11"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTCZXK7U/i00750-o1.pdf",
+          "lastModified": "2024-01-29T22:00:51",
+          "name": "i00750-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Michał Kołodziejczak",
+      "key": "CZXK7U",
+      "lastModified": "2024-01-29T22:00:51",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CZXK7U",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/750/reply/CZXK7U/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-01-25"
+    }
+  ],
+  "sentDate": "2024-01-11",
+  "to": [
+    "minister rolnictwa i rozwoju wsi"
+  ]
+}

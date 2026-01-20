@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-10-29T22:00:11",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5133",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D9W8WR",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5133/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5133,
+  "receiptDate": "2024-09-29",
+  "term": 10,
+  "title": "Interpelacja w sprawie planowanych zmian dotyczących fundacji rodzinnych, tj. projektu ustawy o zmianie ustawy o podatku dochodowym od osób fizycznych, ustawy o podatku dochodowym od osób prawnych oraz niektórych innych ustaw",
+  "answerDelayedDays": 0,
+  "from": [
+    "180"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister finansów",
+      "sent": "2024-10-10"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDAHK26/i05133-o1.pdf",
+          "lastModified": "2024-10-29T22:00:11",
+          "name": "i05133-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Jarosław Neneman",
+      "key": "DAHK26",
+      "lastModified": "2024-10-29T22:00:11",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAHK26",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5133/reply/DAHK26/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-10-28"
+    }
+  ],
+  "sentDate": "2024-10-10",
+  "to": [
+    "minister finansów"
+  ]
+}

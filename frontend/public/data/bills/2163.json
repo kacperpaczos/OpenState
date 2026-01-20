@@ -1,0 +1,50 @@
+{
+    "UE": "NO",
+    "changeDate": "2026-01-20T18:30:56",
+    "description": "projekt dotyczy usunięcia zbędnych formalności dla niepublicznych funduszy inwestycyjnych zamkniętych (FIZ). To fundusze, które nie są oferowane szerokiemu gronu klientów, lecz kierowane głównie do inwestorów profesjonalnych. Nowe rozwiązania znoszą m.in. obowiązek rejestracji certyfikatów inwestycyjnych FIZ w Krajowym Depozycie Papierów Wartościowych. Dzięki zmianie, zamiast przeznaczać środki na opłaty depozytowe i obsługę formalną, FIZ będą mogły przeznaczyć więcej kapitału na inwestycje. Zmiany przywracają rozwiązania sprzed 2019 roku. Ich celem jest uproszenie procesu emisji certyfikatów, obniżenie kosztów funkcjonowania FIZ i zachowanie odpowiedniego poziomu bezpieczeństwa dla inwestorów. Nowe przepisy realizują działania deregulacyjne rządu.",
+    "documentDate": "2026-01-15",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "2163",
+    "passed": false,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2026-01-15",
+    "rclLink": "https://legislacja.rcl.gov.pl/getIdFromLegislacja?number=RM-0610-1-26",
+    "rclNum": "RM-0610-1-26",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2026-01-15",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "2163",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2026-01-20",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "FPB",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                },
+                {
+                    "date": "2026-01-20",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "DER",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2026-01-20",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o zmianie ustawy o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi oraz ustawy o obrocie instrumentami finansowymi",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2026-01-20T18:41:13"
+}

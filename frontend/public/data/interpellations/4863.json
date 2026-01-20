@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-10-15T22:00:21",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=4863",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D9FFWK",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4863/body",
+      "rel": "body"
+    }
+  ],
+  "num": 4863,
+  "receiptDate": "2024-09-16",
+  "term": 10,
+  "title": "Interpelacja w sprawie przystępowania przez fundacje rodzinne do zagranicznych podmiotów transparentnych podatkowo",
+  "answerDelayedDays": 0,
+  "from": [
+    "241"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister finansów",
+      "sent": "2024-09-25"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDA3HKJ/i04863-o1.pdf",
+          "lastModified": "2024-10-15T22:00:21",
+          "name": "i04863-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Jarosław Neneman",
+      "key": "DA3HKJ",
+      "lastModified": "2024-10-15T22:00:21",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DA3HKJ",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4863/reply/DA3HKJ/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-10-14"
+    }
+  ],
+  "sentDate": "2024-09-25",
+  "to": [
+    "minister finansów"
+  ]
+}

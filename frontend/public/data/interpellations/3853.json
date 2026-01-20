@@ -1,0 +1,68 @@
+{
+  "lastModified": "2024-08-20T22:00:59",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=3853",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D78E9N",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3853/body",
+      "rel": "body"
+    }
+  ],
+  "num": 3853,
+  "receiptDate": "2024-07-11",
+  "term": 10,
+  "title": "Interpelacja w sprawie kolei dużych prędkości",
+  "answerDelayedDays": 0,
+  "from": [
+    "476"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister infrastruktury",
+      "sent": "2024-07-18"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD8BHV9/i03853-o1_1.pdf",
+          "lastModified": "2024-08-20T22:00:59",
+          "name": "i03853-o1_1.pdf"
+        },
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD8BHV9/i03853-o1_2.jpg",
+          "lastModified": "2024-08-20T22:00:59",
+          "name": "i03853-o1_2.jpg"
+        }
+      ],
+      "from": "Podsekretarz stanu Piotr Malepszak",
+      "key": "D8BHV9",
+      "lastModified": "2024-08-20T22:00:59",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D8BHV9",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3853/reply/D8BHV9/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-08-17"
+    }
+  ],
+  "sentDate": "2024-07-18",
+  "to": [
+    "minister infrastruktury"
+  ]
+}

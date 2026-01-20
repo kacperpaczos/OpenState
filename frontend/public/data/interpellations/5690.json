@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-11-20T22:00:11",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5690",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAJAR5",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5690/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5690,
+  "receiptDate": "2024-10-21",
+  "term": 10,
+  "title": "Interpelacja w sprawie obywatelskiego projektu ustawy z dnia 24 września 2024 r. o zmianie ustawy o ochronie zwierząt w zakresie systemów zabezpieczających elewacje budynków przed ptakami",
+  "answerDelayedDays": 0,
+  "from": [
+    "234"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rolnictwa i rozwoju wsi",
+      "sent": "2024-10-29"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDB7G52/i05690-o1.pdf",
+          "lastModified": "2024-11-20T22:00:11",
+          "name": "i05690-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Jacek Czerniak",
+      "key": "DB7G52",
+      "lastModified": "2024-11-20T22:00:11",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DB7G52",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5690/reply/DB7G52/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-11-19"
+    }
+  ],
+  "sentDate": "2024-10-29",
+  "to": [
+    "minister rolnictwa i rozwoju wsi"
+  ]
+}

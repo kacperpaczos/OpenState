@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-11-14T22:00:50",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5501",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DA6BDP",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5501/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5501,
+  "receiptDate": "2024-10-15",
+  "term": 10,
+  "title": "Interpelacja w sprawie zawieszenia prawa do azylu",
+  "answerDelayedDays": 0,
+  "from": [
+    "020"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister obrony narodowej",
+      "sent": "2024-10-18"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDAZKAC/i05501-o1.pdf",
+          "lastModified": "2024-11-14T22:00:50",
+          "name": "i05501-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Paweł Bejda",
+      "key": "DAZKAC",
+      "lastModified": "2024-11-14T22:00:50",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAZKAC",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5501/reply/DAZKAC/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-11-05"
+    }
+  ],
+  "sentDate": "2024-10-18",
+  "to": [
+    "minister obrony narodowej"
+  ]
+}

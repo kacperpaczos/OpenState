@@ -1,0 +1,240 @@
+{
+    "ELI": "DU/2026/24",
+    "UE": "NO",
+    "address": "WDU20260000024",
+    "changeDate": "2026-01-19T13:45:18",
+    "closureDate": "2025-12-04",
+    "description": "projekt dotyczy wprowadzenia nowych zasad określania umów urbanistycznych: rada gminy będzie mogła uchwalić - jako akt prawa miejscowego - ogólne zasady kształtowania postanowień umów urbanistycznych. Zasady te mogą objąć m.in. zakres zobowiązań inwestora w realizacji i finansowaniu inwestycji uzupełniających. Proces inwestycyjny będzie mógł zostać skrócony nawet o 45 dni. Nowe przepisy realizują działania deregulacyjne rządu.",
+    "displayAddress": "Dz.U. 2026 poz. 24",
+    "documentDate": "2025-07-25",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [
+        {
+            "href": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000024",
+            "rel": "isap"
+        },
+        {
+            "href": "https://eli.gov.pl/eli/DU/2026/24/ogl",
+            "rel": "eli"
+        },
+        {
+            "href": "https://api.sejm.gov.pl/eli/acts/DU/2026/24",
+            "rel": "eli-api"
+        }
+    ],
+    "number": "1608",
+    "passed": true,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2025-07-25",
+    "rclLink": "https://legislacja.rcl.gov.pl/getIdFromLegislacja?number=RM-0610-140-25",
+    "rclNum": "RM-0610-140-25",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2025-07-25",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "1608",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-08-04",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "STR",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                },
+                {
+                    "date": "2025-08-04",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "DER",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-08-04",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        },
+        {
+            "date": "2025-09-12",
+            "stageName": "I czytanie w komisjach",
+            "stageType": "Reading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-09-12",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 4,
+                    "printNumber": "1667",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "300",
+                    "rapporteurName": "Elżbieta Anna Polak",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1667/1667.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-09-12",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-09-25",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "DER",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                },
+                {
+                    "date": "2025-09-25",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "STR",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-09-25",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "comment": "poprawki",
+            "decision": "skierowano ponownie do komisji w celu przedstawienia sprawozdania",
+            "sittingNum": 41,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-11-20",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "1947",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "41",
+                    "rapporteurName": "Marek Jan Chmielewski",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1947/1947.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-11-20",
+            "stageName": "Praca w komisjach podczas II czytania",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-12-03",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "DER",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                },
+                {
+                    "date": "2025-12-03",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "STR",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2025-12-03",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "comment": "poprawki",
+            "decision": "skierowano ponownie do komisji w celu przedstawienia sprawozdania",
+            "sittingNum": 46,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-12-04",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "1947-A",
+                    "proposal": "odrzucić poprawki",
+                    "rapporteurID": "41",
+                    "rapporteurName": "Marek Jan Chmielewski",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/1947-A/1947-A.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-12-04",
+            "stageName": "Praca w komisjach po II czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-12-04",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 19,
+                        "date": "2025-12-04T19:59:16",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/46/36/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 2,
+                        "no": 1,
+                        "notParticipating": 25,
+                        "present": 0,
+                        "sitting": 46,
+                        "sittingDay": 2,
+                        "term": 10,
+                        "title": "Pkt. 6 Poprawione sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o planowaniu i zagospodarowaniu przestrzennym (druki nr 1608, 1947 i 1947-A)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 435,
+                        "votingNumber": 36,
+                        "yes": 415
+                    }
+                }
+            ],
+            "date": "2025-12-04",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "comment": "poprawki",
+            "decision": "uchwalono",
+            "sittingNum": 46,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/1608/attachment/1608_u3.pdf"
+        },
+        {
+            "date": "2025-12-19",
+            "stageName": "Stanowisko Senatu",
+            "position": "nie wniósł poprawek",
+            "stageType": "SenatePosition"
+        },
+        {
+            "date": "2025-12-19",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
+            "date": "2026-01-07",
+            "stageName": "Prezydent podpisał ustawę",
+            "omittedInconsistent": false,
+            "stageType": "PresidentSignature"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o zmianie ustawy o planowaniu i zagospodarowaniu przestrzennym",
+    "titleFinal": "o zmianie ustawy o planowaniu i zagospodarowaniu przestrzennym",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2026-01-19T14:41:48"
+}

@@ -1,0 +1,56 @@
+{
+  "lastModified": "2025-02-03T15:40:57",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=6285",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DB7G89",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/6285/body",
+      "rel": "body"
+    }
+  ],
+  "num": 6285,
+  "receiptDate": "2024-11-15",
+  "term": 10,
+  "title": "Interpelacja w sprawie kandydowania funkcjonariuszy służb podległych MSWiA w wyborach parlamentarnych i samorządowych w woj. pomorskim z list partii politycznych",
+  "answerDelayedDays": 0,
+  "from": [
+    "074"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister spraw wewnętrznych i administracji",
+      "sent": "2024-11-20"
+    }
+  ],
+  "replies": [
+    {
+      "from": "Sekretarz stanu Czesław Mroczek",
+      "key": "DDJK93",
+      "lastModified": "2025-02-03T15:40:57",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DDJK93",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/6285/reply/DDJK93/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2025-01-31"
+    }
+  ],
+  "sentDate": "2024-11-20",
+  "to": [
+    "minister spraw wewnętrznych i administracji"
+  ]
+}

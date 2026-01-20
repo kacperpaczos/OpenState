@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-10-07T22:00:59",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=4264",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D84GSZ",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4264/body",
+      "rel": "body"
+    }
+  ],
+  "num": 4264,
+  "receiptDate": "2024-08-05",
+  "term": 10,
+  "title": "Interpelacja w sprawie budowy przyszkolnych hal sportowych w ramach programu Olimpia",
+  "answerDelayedDays": 0,
+  "from": [
+    "303"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister sportu i turystyki",
+      "sent": "2024-08-13"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD9THSX/i04264-o1.pdf",
+          "lastModified": "2024-10-07T22:00:59",
+          "name": "i04264-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Piotr Borys",
+      "key": "D9THSX",
+      "lastModified": "2024-10-07T22:00:59",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D9THSX",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4264/reply/D9THSX/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-10-02"
+    }
+  ],
+  "sentDate": "2024-08-13",
+  "to": [
+    "minister sportu i turystyki"
+  ]
+}

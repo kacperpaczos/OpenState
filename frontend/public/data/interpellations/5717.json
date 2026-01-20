@@ -1,0 +1,71 @@
+{
+  "lastModified": "2024-12-10T22:00:07",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5717",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAJARY",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5717/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5717,
+  "receiptDate": "2024-10-23",
+  "term": 10,
+  "title": "Interpelacja w sprawie postępowań administracyjnych wszczynanych wobec JST w związku z niespełnieniem wymogów określonych w art. 37 ust. 1 oraz 2 ustawy o szczególnych rozwiązaniach służących ochronie odbiorców energii elektrycznej w 2023 roku oraz w 2024 roku w związku z sytuacją na rynku energii elektrycznej",
+  "answerDelayedDays": 0,
+  "from": [
+    "467"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister klimatu i środowiska",
+      "sent": "2024-10-29"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDBTJTD/i05717-o1.pdf",
+          "lastModified": "2024-12-10T22:00:07",
+          "name": "i05717-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Urszula Zielińska",
+      "key": "DBTJTD",
+      "lastModified": "2024-12-10T22:00:07",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DBTJTD",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5717/reply/DBTJTD/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-12-08"
+    },
+    {
+      "from": "sekretarz stanu w Ministerstwie Klimatu i Środowiska - Urszula Zielińska",
+      "lastModified": "2024-11-18T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-11-18"
+    }
+  ],
+  "sentDate": "2024-10-29",
+  "to": [
+    "minister klimatu i środowiska"
+  ]
+}

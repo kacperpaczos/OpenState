@@ -1,0 +1,56 @@
+{
+  "lastModified": "2024-04-12T15:06:02",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=1976",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D3DKNE",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1976/body",
+      "rel": "body"
+    }
+  ],
+  "num": 1976,
+  "receiptDate": "2024-03-08",
+  "term": 10,
+  "title": "Interpelacja w sprawie kontynuacji programu \"Poznaj Polskę\"",
+  "answerDelayedDays": 0,
+  "from": [
+    "066"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister edukacji",
+      "sent": "2024-03-15"
+    }
+  ],
+  "replies": [
+    {
+      "from": "Minister Barbara Nowacka",
+      "key": "D49HDK",
+      "lastModified": "2024-04-12T15:06:02",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D49HDK",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1976/reply/D49HDK/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-04-11"
+    }
+  ],
+  "sentDate": "2024-03-15",
+  "to": [
+    "minister edukacji"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-07-04T22:00:35",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2789",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D65B2Y",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2789/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2789,
+  "receiptDate": "2024-05-13",
+  "term": 10,
+  "title": "Interpelacja w sprawie konieczności zmian legislacyjnych w związku z wyrokiem Trybunału Konstytucyjnego z dnia 15 listopada 2023 roku dotyczącym tzw. emerytur czerwcowych",
+  "answerDelayedDays": 0,
+  "from": [
+    "014"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rodziny, pracy i polityki społecznej",
+      "sent": "2024-06-10"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD6UHA2/i02789-o1.pdf",
+          "lastModified": "2024-07-04T22:00:35",
+          "name": "i02789-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Sebastian Gajewski",
+      "key": "D6UHA2",
+      "lastModified": "2024-07-04T22:00:35",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D6UHA2",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2789/reply/D6UHA2/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-07-03"
+    }
+  ],
+  "sentDate": "2024-06-10",
+  "to": [
+    "minister rodziny, pracy i polityki społecznej"
+  ]
+}

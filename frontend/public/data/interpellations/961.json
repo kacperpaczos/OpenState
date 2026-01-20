@@ -1,0 +1,64 @@
+{
+  "lastModified": "2024-03-04T22:00:31",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=961",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CZYFNN",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/961/body",
+      "rel": "body"
+    }
+  ],
+  "num": 961,
+  "receiptDate": "2024-01-16",
+  "term": 10,
+  "title": "Interpelacja w sprawie rozważenia zmiany planów dotyczących przebiegu drogi DK24 na wysokości miejscowości Wierzbno, gm. Przytoczna, woj. lubuskie",
+  "answerDelayedDays": 0,
+  "from": [
+    "277",
+    "334"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister infrastruktury",
+      "sent": "2024-01-30"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD32KKB/i00961-o1.pdf",
+          "lastModified": "2024-03-04T22:00:31",
+          "name": "i00961-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Paweł Gancarz",
+      "key": "D32KKB",
+      "lastModified": "2024-03-04T22:00:31",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D32KKB",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/961/reply/D32KKB/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-02-29"
+    }
+  ],
+  "sentDate": "2024-01-30",
+  "to": [
+    "minister infrastruktury"
+  ]
+}

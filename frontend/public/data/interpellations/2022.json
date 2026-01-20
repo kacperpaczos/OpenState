@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-04-11T22:00:28",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2022",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D3KFAJ",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2022/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2022,
+  "receiptDate": "2024-03-13",
+  "term": 10,
+  "title": "Interpelacja w sprawie braku możliwości zgłoszenia do odprawy celnej towaru eksportowanego w urzędach celnych w Łodzi",
+  "answerDelayedDays": 0,
+  "from": [
+    "125"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister finansów",
+      "sent": "2024-03-21"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD48HMV/i02022-o1.pdf",
+          "lastModified": "2024-04-11T22:00:28",
+          "name": "i02022-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Zbigniew Stawicki",
+      "key": "D48HMV",
+      "lastModified": "2024-04-11T22:00:28",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D48HMV",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2022/reply/D48HMV/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-04-08"
+    }
+  ],
+  "sentDate": "2024-03-21",
+  "to": [
+    "minister finansów"
+  ]
+}

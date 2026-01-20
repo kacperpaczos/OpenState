@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-01-10T22:00:38",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=243",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CYNKGU",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/243/body",
+      "rel": "body"
+    }
+  ],
+  "num": 243,
+  "receiptDate": "2023-12-13",
+  "term": 10,
+  "title": "Interpelacja w sprawie przeprowadzenia audytu i najbliższych planów ministra cyfryzacji",
+  "answerDelayedDays": 0,
+  "from": [
+    "406"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister cyfryzacji",
+      "sent": "2023-12-19"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTCZCJRX/i00243-o1.pdf",
+          "lastModified": "2024-01-10T22:00:38",
+          "name": "i00243-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Dariusz Standerski",
+      "key": "CZCJRX",
+      "lastModified": "2024-01-10T22:00:38",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CZCJRX",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/243/reply/CZCJRX/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-01-09"
+    }
+  ],
+  "sentDate": "2023-12-19",
+  "to": [
+    "minister cyfryzacji"
+  ]
+}

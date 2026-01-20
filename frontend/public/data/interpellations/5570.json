@@ -1,0 +1,81 @@
+{
+  "lastModified": "2024-12-18T22:00:27",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5570",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAJB29",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5570/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5570,
+  "receiptDate": "2024-10-18",
+  "term": 10,
+  "title": "Interpelacja w sprawie możliwości kontynuowania nauki w wybranym kierunku przez absolwentów szkół branżowych I stopnia w woj. zachodniopomorskim",
+  "answerDelayedDays": 0,
+  "from": [
+    "481"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister edukacji",
+      "sent": "2024-10-30"
+    }
+  ],
+  "replies": [
+    {
+      "from": "Sekretarz stanu Henryk Kiepura",
+      "key": "DB2JAB",
+      "lastModified": "2024-11-15T14:52:00",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DB2JAB",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5570/reply/DB2JAB/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-11-13"
+    },
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDC3FKC/i05570-o2.xlsx",
+          "lastModified": "2024-12-18T22:00:27",
+          "name": "i05570-o2.xlsx"
+        }
+      ],
+      "from": "Sekretarz stanu Henryk Kiepura",
+      "key": "DC3FKC",
+      "lastModified": "2024-12-18T22:00:27",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DC3FKC",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5570/reply/DC3FKC/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-12-12"
+    }
+  ],
+  "sentDate": "2024-10-30",
+  "to": [
+    "minister edukacji"
+  ]
+}

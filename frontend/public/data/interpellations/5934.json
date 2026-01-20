@@ -1,0 +1,167 @@
+{
+  "lastModified": "2025-01-17T22:00:58",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5934",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DATB8W",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5934/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5934,
+  "receiptDate": "2024-10-31",
+  "term": 10,
+  "title": "Interpelacja w sprawie postulatów Zarządu Regionu NSZZ \"Solidarność\" Pomorza Zachodniego",
+  "answerDelayedDays": 0,
+  "from": [
+    "104",
+    "119",
+    "234",
+    "362"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister infrastruktury",
+      "sent": "2024-11-12"
+    },
+    {
+      "answerDelayedDays": 0,
+      "name": "minister klimatu i środowiska",
+      "sent": "2024-11-13"
+    },
+    {
+      "answerDelayedDays": 0,
+      "name": "minister aktywów państwowych",
+      "sent": "2024-11-13"
+    },
+    {
+      "answerDelayedDays": 0,
+      "name": "minister spraw wewnętrznych i administracji",
+      "sent": "2024-11-13"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDBMBBY/i05934-o1.pdf",
+          "lastModified": "2024-12-04T22:00:26",
+          "name": "i05934-o1.pdf"
+        }
+      ],
+      "from": "Minister Paulina Hennig-Kloska",
+      "key": "DBMBBY",
+      "lastModified": "2024-12-04T22:00:26",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DBMBBY",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5934/reply/DBMBBY/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-12-01"
+    },
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDBWJKC/i05934-o2.pdf",
+          "lastModified": "2024-12-13T22:00:11",
+          "name": "i05934-o2.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Robert Kropiwnicki",
+      "key": "DBWJKC",
+      "lastModified": "2024-12-13T22:00:11",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DBWJKC",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5934/reply/DBWJKC/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-12-11"
+    },
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDBWJKD/i05934-o3.pdf",
+          "lastModified": "2024-12-13T22:00:11",
+          "name": "i05934-o3.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Wiesław Szczepański",
+      "key": "DBWJKD",
+      "lastModified": "2024-12-13T22:00:11",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DBWJKD",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5934/reply/DBWJKD/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-12-13"
+    },
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDCZK7E/i05934-o4.pdf",
+          "lastModified": "2025-01-17T22:00:58",
+          "name": "i05934-o4.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Piotr Malepszak",
+      "key": "DCZK7E",
+      "lastModified": "2025-01-17T22:00:58",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DCZK7E",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5934/reply/DCZK7E/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2025-01-15"
+    },
+    {
+      "from": "podsekretarz stanu w Ministerstwie Infrastruktury - Piotr Malepszak",
+      "lastModified": "2024-12-09T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-12-09"
+    }
+  ],
+  "sentDate": "2024-11-13",
+  "to": [
+    "minister aktywów państwowych",
+    "minister infrastruktury",
+    "minister klimatu i środowiska",
+    "minister spraw wewnętrznych i administracji"
+  ]
+}

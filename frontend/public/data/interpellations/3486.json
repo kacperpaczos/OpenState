@@ -1,0 +1,66 @@
+{
+  "lastModified": "2024-07-24T22:00:38",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=3486",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D6LHLE",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3486/body",
+      "rel": "body"
+    }
+  ],
+  "num": 3486,
+  "receiptDate": "2024-06-20",
+  "term": 10,
+  "title": "Interpelacja w sprawie zamiaru dokonania wycinki lasów w okolicy miasta Stalowa Wola",
+  "answerDelayedDays": 0,
+  "from": [
+    "039",
+    "219",
+    "271",
+    "376"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister klimatu i środowiska",
+      "sent": "2024-06-26"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD7GHEQ/i03486-o1.pdf",
+          "lastModified": "2024-07-24T22:00:38",
+          "name": "i03486-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Mikołaj Dorożała",
+      "key": "D7GHEQ",
+      "lastModified": "2024-07-24T22:00:38",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D7GHEQ",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3486/reply/D7GHEQ/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-07-22"
+    }
+  ],
+  "sentDate": "2024-06-26",
+  "to": [
+    "minister klimatu i środowiska"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-11-07T22:00:54",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=4758",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D93FEZ",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4758/body",
+      "rel": "body"
+    }
+  ],
+  "num": 4758,
+  "receiptDate": "2024-09-11",
+  "term": 10,
+  "title": "Interpelacja w sprawie polowań na ptaki",
+  "answerDelayedDays": 0,
+  "from": [
+    "110"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister klimatu i środowiska",
+      "sent": "2024-09-13"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDASJM9/i04758-o1.pdf",
+          "lastModified": "2024-11-07T22:00:54",
+          "name": "i04758-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Mikołaj Dorożała",
+      "key": "DASJM9",
+      "lastModified": "2024-11-07T22:00:54",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DASJM9",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4758/reply/DASJM9/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-11-05"
+    }
+  ],
+  "sentDate": "2024-09-13",
+  "to": [
+    "minister klimatu i środowiska"
+  ]
+}

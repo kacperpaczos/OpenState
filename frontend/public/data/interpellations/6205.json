@@ -1,0 +1,56 @@
+{
+  "lastModified": "2025-01-09T16:01:22",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=6205",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DB5K4L",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/6205/body",
+      "rel": "body"
+    }
+  ],
+  "num": 6205,
+  "receiptDate": "2024-11-14",
+  "term": 10,
+  "title": "Interpelacja w sprawie utworzenia centrów integracji cudzoziemców w woj. lubelskim",
+  "answerDelayedDays": 0,
+  "from": [
+    "167"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister spraw wewnętrznych i administracji",
+      "sent": "2024-11-18"
+    }
+  ],
+  "replies": [
+    {
+      "from": "Sekretarz stanu Wiesław Szczepański",
+      "key": "DCRKMF",
+      "lastModified": "2025-01-09T16:01:22",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DCRKMF",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/6205/reply/DCRKMF/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2025-01-08"
+    }
+  ],
+  "sentDate": "2024-11-18",
+  "to": [
+    "minister spraw wewnętrznych i administracji"
+  ]
+}

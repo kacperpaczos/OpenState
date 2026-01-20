@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-07-01T22:00:36",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=3044",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D65ARE",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3044/body",
+      "rel": "body"
+    }
+  ],
+  "num": 3044,
+  "receiptDate": "2024-06-02",
+  "term": 10,
+  "title": "Interpelacja w sprawie zwiększenia udziału kapitału społecznego w rozwoju społeczno-gospodarczym kraju",
+  "answerDelayedDays": 0,
+  "from": [
+    "243"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister ds. społeczeństwa obywatelskiego",
+      "sent": "2024-06-11"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD6RHWL/i03044-o1.pdf",
+          "lastModified": "2024-07-01T22:00:36",
+          "name": "i03044-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Marek Krawczyk",
+      "key": "D6RHWL",
+      "lastModified": "2024-07-01T22:00:36",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D6RHWL",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3044/reply/D6RHWL/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-06-28"
+    }
+  ],
+  "sentDate": "2024-06-11",
+  "to": [
+    "minister ds. społeczeństwa obywatelskiego"
+  ]
+}

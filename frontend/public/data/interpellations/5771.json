@@ -1,0 +1,64 @@
+{
+  "lastModified": "2024-11-21T22:00:08",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5771",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAJATJ",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5771/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5771,
+  "receiptDate": "2024-10-24",
+  "term": 10,
+  "title": "Interpelacja w sprawie realizacji modernizacji linii kolejowej nr 104 Rabka Zaryte-Mszana Dolna",
+  "answerDelayedDays": 0,
+  "from": [
+    "001",
+    "193"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister infrastruktury",
+      "sent": "2024-10-30"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDB8KK2/i05771-o1.pdf",
+          "lastModified": "2024-11-21T22:00:08",
+          "name": "i05771-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Piotr Malepszak",
+      "key": "DB8KK2",
+      "lastModified": "2024-11-21T22:00:08",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DB8KK2",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5771/reply/DB8KK2/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-11-20"
+    }
+  ],
+  "sentDate": "2024-10-30",
+  "to": [
+    "minister infrastruktury"
+  ]
+}

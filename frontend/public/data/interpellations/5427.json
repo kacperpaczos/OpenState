@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-11-04T15:26:45",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5427",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DA6BBG",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5427/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5427,
+  "receiptDate": "2024-10-11",
+  "term": 10,
+  "title": "Interpelacja w sprawie programów wspierających instytucje zasłużone dla polskiej kinematografii",
+  "answerDelayedDays": 0,
+  "from": [
+    "481"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister kultury i dziedzictwa narodowego",
+      "sent": "2024-10-18"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDAPJWE/i05427-o1.pdf",
+          "lastModified": "2024-11-04T15:26:09",
+          "name": "i05427-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Andrzej Wyrobiec",
+      "key": "DAPJWE",
+      "lastModified": "2024-11-04T15:26:45",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAPJWE",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5427/reply/DAPJWE/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-10-30"
+    }
+  ],
+  "sentDate": "2024-10-18",
+  "to": [
+    "minister kultury i dziedzictwa narodowego"
+  ]
+}

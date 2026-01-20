@@ -1,0 +1,71 @@
+{
+  "lastModified": "2024-08-06T22:00:24",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2855",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D65B4W",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2855/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2855,
+  "receiptDate": "2024-05-16",
+  "term": 10,
+  "title": "Interpelacja w sprawie nielegalnych składowisk odpadów",
+  "answerDelayedDays": 0,
+  "from": [
+    "379"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister klimatu i środowiska",
+      "sent": "2024-06-10"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD7VEFF/i02855-o1.pdf",
+          "lastModified": "2024-08-06T22:00:24",
+          "name": "i02855-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Krzysztof Galos",
+      "key": "D7VEFF",
+      "lastModified": "2024-08-06T22:00:24",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D7VEFF",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2855/reply/D7VEFF/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-08-03"
+    },
+    {
+      "from": "podsekretarz stanu w Ministerstwie Klimatu i Środowiska - Anita Sowińska",
+      "lastModified": "2024-06-17T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-06-17"
+    }
+  ],
+  "sentDate": "2024-06-10",
+  "to": [
+    "minister klimatu i środowiska"
+  ]
+}

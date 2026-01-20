@@ -1,0 +1,72 @@
+{
+  "lastModified": "2024-04-16T22:00:16",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2383",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D3SJ99",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2383/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2383,
+  "receiptDate": "2024-03-25",
+  "term": 10,
+  "title": "Interpelacja w sprawie zwolnienia z podatku za wynajem długoterminowy",
+  "answerDelayedDays": 0,
+  "from": [
+    "146",
+    "150",
+    "154",
+    "202",
+    "234",
+    "279",
+    "311",
+    "356",
+    "404",
+    "435"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister finansów",
+      "sent": "2024-03-28"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD4DHU9/i02383-o1.pdf",
+          "lastModified": "2024-04-16T22:00:16",
+          "name": "i02383-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Jarosław Neneman",
+      "key": "D4DHU9",
+      "lastModified": "2024-04-16T22:00:16",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D4DHU9",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2383/reply/D4DHU9/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-04-15"
+    }
+  ],
+  "sentDate": "2024-03-28",
+  "to": [
+    "minister finansów"
+  ]
+}

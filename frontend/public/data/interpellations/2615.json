@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-06-13T22:00:18",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2615",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D4TAEJ",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2615/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2615,
+  "receiptDate": "2024-04-19",
+  "term": 10,
+  "title": "Interpelacja w sprawie wynagrodzeń w Państwowym Gospodarstwie Wodnym Wody Polskie",
+  "answerDelayedDays": 0,
+  "from": [
+    "321"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister infrastruktury",
+      "sent": "2024-04-30"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD67JEH/i02615-o1.pdf",
+          "lastModified": "2024-06-13T22:00:18",
+          "name": "i02615-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Przemysław Koperski",
+      "key": "D67JEH",
+      "lastModified": "2024-06-13T22:00:18",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D67JEH",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2615/reply/D67JEH/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-06-11"
+    }
+  ],
+  "sentDate": "2024-04-30",
+  "to": [
+    "minister infrastruktury"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-09-12T22:00:35",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=4331",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D85HLT",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4331/body",
+      "rel": "body"
+    }
+  ],
+  "num": 4331,
+  "receiptDate": "2024-08-12",
+  "term": 10,
+  "title": "Interpelacja w sprawie zwiększenia dotacji na jednego uczestnika środowiskowych domów samopomocy",
+  "answerDelayedDays": 0,
+  "from": [
+    "336"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rodziny, pracy i polityki społecznej",
+      "sent": "2024-08-14"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD92HMP/i04331-o1.pdf",
+          "lastModified": "2024-09-12T22:00:35",
+          "name": "i04331-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Katarzyna Nowakowska",
+      "key": "D92HMP",
+      "lastModified": "2024-09-12T22:00:35",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D92HMP",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4331/reply/D92HMP/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-09-11"
+    }
+  ],
+  "sentDate": "2024-08-14",
+  "to": [
+    "minister rodziny, pracy i polityki społecznej"
+  ]
+}

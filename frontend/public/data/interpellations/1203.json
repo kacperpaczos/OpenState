@@ -1,0 +1,65 @@
+{
+  "lastModified": "2024-02-20T22:00:33",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=1203",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CZYFW4",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1203/body",
+      "rel": "body"
+    }
+  ],
+  "num": 1203,
+  "receiptDate": "2024-01-28",
+  "term": 10,
+  "title": "Interpelacja w sprawie emisji dwutlenku siarki przez rafinerię w Schwedt nad Odrą",
+  "answerDelayedDays": 0,
+  "from": [
+    "104",
+    "130",
+    "297"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister klimatu i środowiska",
+      "sent": "2024-01-30"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD2MKD7/i01203-o1.pdf",
+          "lastModified": "2024-02-20T22:00:33",
+          "name": "i01203-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Urszula Zielińska",
+      "key": "D2MKD7",
+      "lastModified": "2024-02-20T22:00:33",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D2MKD7",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1203/reply/D2MKD7/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-02-14"
+    }
+  ],
+  "sentDate": "2024-01-30",
+  "to": [
+    "minister klimatu i środowiska"
+  ]
+}

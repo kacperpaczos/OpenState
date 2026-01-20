@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-07-09T22:00:50",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2842",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D65B4H",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2842/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2842,
+  "receiptDate": "2024-05-16",
+  "term": 10,
+  "title": "Interpelacja w sprawie podniesienia opłat za badania techniczne pojazdów, aby odpowiadały realiom rynkowym",
+  "answerDelayedDays": 0,
+  "from": [
+    "357"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister infrastruktury",
+      "sent": "2024-06-10"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD6ZHP7/i02842-o1.pdf",
+          "lastModified": "2024-07-09T22:00:50",
+          "name": "i02842-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Piotr Malepszak",
+      "key": "D6ZHP7",
+      "lastModified": "2024-07-09T22:00:50",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D6ZHP7",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2842/reply/D6ZHP7/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-07-08"
+    }
+  ],
+  "sentDate": "2024-06-10",
+  "to": [
+    "minister infrastruktury"
+  ]
+}

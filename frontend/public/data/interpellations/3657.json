@@ -1,0 +1,72 @@
+{
+  "lastModified": "2024-08-13T22:00:40",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=3657",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D73FAS",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3657/body",
+      "rel": "body"
+    }
+  ],
+  "num": 3657,
+  "receiptDate": "2024-07-04",
+  "term": 10,
+  "title": "Interpelacja w sprawie specjalistycznych porad laktacyjnych",
+  "answerDelayedDays": 0,
+  "from": [
+    "110",
+    "445"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister zdrowia",
+      "sent": "2024-07-11"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD84GRK/i03657-o1.pdf",
+          "lastModified": "2024-08-13T22:00:40",
+          "name": "i03657-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Jerzy Szafranowicz",
+      "key": "D84GRK",
+      "lastModified": "2024-08-13T22:00:40",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D84GRK",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3657/reply/D84GRK/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-08-12"
+    },
+    {
+      "from": "podsekretarz stanu w Ministerstwie Zdrowia - Jerzy Szafranowicz",
+      "lastModified": "2024-07-25T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-07-25"
+    }
+  ],
+  "sentDate": "2024-07-11",
+  "to": [
+    "minister zdrowia"
+  ]
+}

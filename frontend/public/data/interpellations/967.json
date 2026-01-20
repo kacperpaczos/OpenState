@@ -1,0 +1,71 @@
+{
+  "lastModified": "2024-03-07T22:00:35",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=967",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CZYFNU",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/967/body",
+      "rel": "body"
+    }
+  ],
+  "num": 967,
+  "receiptDate": "2024-01-17",
+  "term": 10,
+  "title": "Interpelacja w sprawie obniżenia cen paliwa do 5 zł/l",
+  "answerDelayedDays": 0,
+  "from": [
+    "303"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister aktywów państwowych",
+      "sent": "2024-02-08"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD35JVA/i00967-o1.pdf",
+          "lastModified": "2024-03-07T22:00:35",
+          "name": "i00967-o1.pdf"
+        }
+      ],
+      "from": "Minister Borys Budka",
+      "key": "D35JVA",
+      "lastModified": "2024-03-07T22:00:35",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D35JVA",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/967/reply/D35JVA/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-03-06"
+    },
+    {
+      "from": "minister aktywów państwowych - Borys Budka",
+      "lastModified": "2024-02-15T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-02-15"
+    }
+  ],
+  "sentDate": "2024-02-08",
+  "to": [
+    "minister aktywów państwowych"
+  ]
+}

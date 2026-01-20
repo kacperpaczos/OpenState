@@ -1,0 +1,76 @@
+{
+  "lastModified": "2024-12-09T22:00:07",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5976",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DATB9Y",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5976/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5976,
+  "receiptDate": "2024-11-04",
+  "term": 10,
+  "title": "Interpelacja w sprawie nowelizacji rozporządzenia Ministra Infrastruktury i Budownictwa z dnia 4 marca 2016 r. w sprawie szkolenia osób ubiegających się o uprawnienia do kierowania pojazdami, instruktorów i wykładowców poprzez wprowadzenie obligatoryjnej nauki jazdy po drogach szybkiego ruchu i autostradach",
+  "answerDelayedDays": 0,
+  "from": [
+    "023",
+    "470",
+    "158",
+    "171",
+    "219",
+    "271",
+    "276",
+    "327",
+    "341",
+    "358",
+    "376",
+    "391",
+    "430",
+    "455"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister infrastruktury",
+      "sent": "2024-11-07"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDBSJRZ/i05976-o1.pdf",
+          "lastModified": "2024-12-09T22:00:07",
+          "name": "i05976-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Stanisław Bukowiec",
+      "key": "DBSJRZ",
+      "lastModified": "2024-12-09T22:00:07",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DBSJRZ",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5976/reply/DBSJRZ/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-12-06"
+    }
+  ],
+  "sentDate": "2024-11-07",
+  "to": [
+    "minister infrastruktury"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-02-06T22:00:16",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=1041",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CZYFR4",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1041/body",
+      "rel": "body"
+    }
+  ],
+  "num": 1041,
+  "receiptDate": "2024-01-19",
+  "term": 10,
+  "title": "Interpelacja w sprawie dramatycznej sytuacji finansowej i logistycznej Poczty Polskiej SA",
+  "answerDelayedDays": 0,
+  "from": [
+    "130"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister aktywów państwowych",
+      "sent": "2024-01-30"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD27K64/i01041-o1.pdf",
+          "lastModified": "2024-02-06T22:00:16",
+          "name": "i01041-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Jacek Bartmiński",
+      "key": "D27K64",
+      "lastModified": "2024-02-06T22:00:16",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D27K64",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1041/reply/D27K64/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-02-02"
+    }
+  ],
+  "sentDate": "2024-01-30",
+  "to": [
+    "minister aktywów państwowych"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-10-29T22:00:11",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5322",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DA2BY4",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5322/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5322,
+  "receiptDate": "2024-10-08",
+  "term": 10,
+  "title": "Interpelacja w sprawie związków zawodowych w PKP Cargo SA",
+  "answerDelayedDays": 0,
+  "from": [
+    "078"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister infrastruktury",
+      "sent": "2024-10-14"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDAHK2L/i05322-o1.pdf",
+          "lastModified": "2024-10-29T22:00:11",
+          "name": "i05322-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Piotr Malepszak",
+      "key": "DAHK2L",
+      "lastModified": "2024-10-29T22:00:11",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAHK2L",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5322/reply/DAHK2L/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-10-28"
+    }
+  ],
+  "sentDate": "2024-10-14",
+  "to": [
+    "minister infrastruktury"
+  ]
+}

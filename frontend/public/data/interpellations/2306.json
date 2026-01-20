@@ -1,0 +1,122 @@
+{
+  "lastModified": "2024-06-28T15:24:31",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2306",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D3SJ6V",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2306/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2306,
+  "receiptDate": "2024-03-23",
+  "term": 10,
+  "title": "Interpelacja w sprawie przedłużającego się braku odpowiedzi na pytania posłów zadane Donaldowi Tuskowi jako kandydatowi na premiera",
+  "answerDelayedDays": 0,
+  "from": [
+    "137"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "prezes Rady Ministrów",
+      "sent": "2024-03-28"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD4GJBH/i02306-o1.pdf",
+          "lastModified": "2024-04-19T22:00:16",
+          "name": "i02306-o1.pdf"
+        }
+      ],
+      "from": "Minister Maciej Berek",
+      "key": "D4GJBH",
+      "lastModified": "2024-04-19T22:00:16",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D4GJBH",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2306/reply/D4GJBH/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-04-18"
+    }
+  ],
+  "sentDate": "2024-05-10",
+  "to": [
+    "prezes Rady Ministrów"
+  ],
+  "repeatedInterpellation": [
+    {
+      "lastModified": "2024-06-28T15:24:31",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2306",
+          "rel": "web-description"
+        },
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D55B2C",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2306p/body",
+          "rel": "body"
+        }
+      ],
+      "num": 2306,
+      "receiptDate": "2024-05-06",
+      "term": 10,
+      "title": "Interpelacja w sprawie przedłużającego się braku odpowiedzi na pytania posłów zadane Donaldowi Tuskowi jako kandydatowi na premiera",
+      "answerDelayedDays": 0,
+      "from": [
+        "137"
+      ],
+      "recipientDetails": [],
+      "replies": [
+        {
+          "attachments": [
+            {
+              "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD6KJ7V/i02306-o2.pdf",
+              "lastModified": "2024-06-28T15:23:54",
+              "name": "i02306-o2.pdf"
+            }
+          ],
+          "from": "Minister Jan Grabiec",
+          "key": "D6KJ7V",
+          "lastModified": "2024-06-28T15:24:31",
+          "links": [
+            {
+              "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D6KJ7V",
+              "rel": "web-body"
+            },
+            {
+              "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2306p/reply/D6KJ7V/body",
+              "rel": "body"
+            }
+          ],
+          "onlyAttachment": true,
+          "prolongation": false,
+          "receiptDate": "2024-06-24"
+        }
+      ],
+      "sentDate": "2024-05-09",
+      "to": [
+        "prezes Rady Ministrów"
+      ]
+    }
+  ]
+}

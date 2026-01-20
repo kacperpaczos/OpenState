@@ -1,0 +1,71 @@
+{
+  "lastModified": "2025-01-16T22:00:58",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=6092",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAYJVG",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/6092/body",
+      "rel": "body"
+    }
+  ],
+  "num": 6092,
+  "receiptDate": "2024-11-07",
+  "term": 10,
+  "title": "Interpelacja w sprawie możliwości nowelizacji ustawy o działaczach opozycji antykomunistycznej oraz osobach represjonowanych z powodów politycznych",
+  "answerDelayedDays": 0,
+  "from": [
+    "300"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rodziny, pracy i polityki społecznej",
+      "sent": "2024-11-13"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDCYKK8/i06092-o1.pdf",
+          "lastModified": "2025-01-16T22:00:58",
+          "name": "i06092-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Sebastian Gajewski",
+      "key": "DCYKK8",
+      "lastModified": "2025-01-16T22:00:58",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DCYKK8",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/6092/reply/DCYKK8/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2025-01-16"
+    },
+    {
+      "from": "podsekretarz stanu w Ministerstwie Rodziny, Pracy i Polityki Społecznej - Sebastian Gajewski",
+      "lastModified": "2024-12-09T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-12-09"
+    }
+  ],
+  "sentDate": "2024-11-13",
+  "to": [
+    "minister rodziny, pracy i polityki społecznej"
+  ]
+}

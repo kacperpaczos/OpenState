@@ -1,0 +1,59 @@
+{
+  "lastModified": "2024-12-12T15:39:34",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=6267",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DB7G7P",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/6267/body",
+      "rel": "body"
+    }
+  ],
+  "num": 6267,
+  "receiptDate": "2024-11-15",
+  "term": 10,
+  "title": "Interpelacja w sprawie tzw. dodatku wiejskiego dla nauczycieli",
+  "answerDelayedDays": 0,
+  "from": [
+    "060",
+    "102",
+    "140",
+    "334"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister edukacji",
+      "sent": "2024-11-20"
+    }
+  ],
+  "replies": [
+    {
+      "from": "Sekretarz stanu Henryk Kiepura",
+      "key": "DBKK9W",
+      "lastModified": "2024-12-02T15:40:15",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DBKK9W",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/6267/reply/DBKK9W/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-11-28"
+    }
+  ],
+  "sentDate": "2024-11-20",
+  "to": [
+    "minister edukacji"
+  ]
+}

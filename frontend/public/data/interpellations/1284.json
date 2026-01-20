@@ -1,0 +1,132 @@
+{
+  "lastModified": "2024-05-08T22:00:34",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=1284",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D28GNL",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1284/body",
+      "rel": "body"
+    }
+  ],
+  "num": 1284,
+  "receiptDate": "2024-02-01",
+  "term": 10,
+  "title": "Interpelacja w sprawie pism wysłanych do instytucji kultury dotyczących informacji o współpracy z podmiotami i organizacjami",
+  "answerDelayedDays": 0,
+  "from": [
+    "100"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister kultury i dziedzictwa narodowego",
+      "sent": "2024-02-07"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD3BJCU/i01284-o1.pdf",
+          "lastModified": "2024-03-13T22:00:10",
+          "name": "i01284-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Joanna Scheuring-Wielgus",
+      "key": "D3BJCU",
+      "lastModified": "2024-03-13T22:00:10",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D3BJCU",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1284/reply/D3BJCU/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-03-12"
+    }
+  ],
+  "sentDate": "2024-04-09",
+  "to": [
+    "minister kultury i dziedzictwa narodowego"
+  ],
+  "repeatedInterpellation": [
+    {
+      "lastModified": "2024-05-08T22:00:34",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=1284",
+          "rel": "web-description"
+        },
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D46HB9",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1284p/body",
+          "rel": "body"
+        }
+      ],
+      "num": 1284,
+      "receiptDate": "2024-03-27",
+      "term": 10,
+      "title": "Interpelacja w sprawie pism wysłanych do instytucji kultury dotyczących informacji o współpracy z podmiotami i organizacjami",
+      "answerDelayedDays": 0,
+      "from": [
+        "100"
+      ],
+      "recipientDetails": [],
+      "replies": [
+        {
+          "attachments": [
+            {
+              "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD53HEU/i01284-o2_1.pdf",
+              "lastModified": "2024-05-08T22:00:34",
+              "name": "i01284-o2_1.pdf"
+            },
+            {
+              "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD53HEU/i01284-o2_2.pdf",
+              "lastModified": "2024-05-08T22:00:34",
+              "name": "i01284-o2_2.pdf"
+            },
+            {
+              "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD53HEU/i01284-o2_3.pdf",
+              "lastModified": "2024-05-08T22:00:34",
+              "name": "i01284-o2_3.pdf"
+            }
+          ],
+          "from": "Podsekretarz stanu Andrzej Wyrobiec",
+          "key": "D53HEU",
+          "lastModified": "2024-05-08T22:00:34",
+          "links": [
+            {
+              "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D53HEU",
+              "rel": "web-body"
+            },
+            {
+              "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1284p/reply/D53HEU/body",
+              "rel": "body"
+            }
+          ],
+          "onlyAttachment": false,
+          "prolongation": false,
+          "receiptDate": "2024-05-07"
+        }
+      ],
+      "sentDate": "2024-04-09",
+      "to": [
+        "minister kultury i dziedzictwa narodowego"
+      ]
+    }
+  ]
+}

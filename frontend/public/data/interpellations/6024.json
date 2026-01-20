@@ -1,0 +1,56 @@
+{
+  "lastModified": "2024-11-29T15:45:36",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=6024",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DATBBG",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/6024/body",
+      "rel": "body"
+    }
+  ],
+  "num": 6024,
+  "receiptDate": "2024-11-05",
+  "term": 10,
+  "title": "Interpelacja w sprawie edukacji zdrowotnej",
+  "answerDelayedDays": 0,
+  "from": [
+    "145"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister edukacji",
+      "sent": "2024-11-07"
+    }
+  ],
+  "replies": [
+    {
+      "from": "Sekretarz stanu Katarzyna Lubnauer",
+      "key": "DBGKC5",
+      "lastModified": "2024-11-29T15:45:36",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DBGKC5",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/6024/reply/DBGKC5/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-11-28"
+    }
+  ],
+  "sentDate": "2024-11-07",
+  "to": [
+    "minister edukacji"
+  ]
+}

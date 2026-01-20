@@ -1,0 +1,64 @@
+{
+  "lastModified": "2024-04-11T22:00:28",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=830",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D3KFA8",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/830/body",
+      "rel": "body"
+    }
+  ],
+  "num": 830,
+  "receiptDate": "2024-01-15",
+  "term": 10,
+  "title": "Interpelacja w sprawie etapu realizacji zwiększenia dostępności lekarzy geriatrów oraz opieki długoterminowej - w ramach \"100 konkretów na 100 dni\"",
+  "answerDelayedDays": 0,
+  "from": [
+    "119",
+    "130"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister zdrowia",
+      "sent": "2024-03-21"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD48HME/i00830-o1.pdf",
+          "lastModified": "2024-04-11T22:00:28",
+          "name": "i00830-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Wojciech Konieczny",
+      "key": "D48HME",
+      "lastModified": "2024-04-11T22:00:28",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D48HME",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/830/reply/D48HME/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-04-08"
+    }
+  ],
+  "sentDate": "2024-03-21",
+  "to": [
+    "minister zdrowia"
+  ]
+}

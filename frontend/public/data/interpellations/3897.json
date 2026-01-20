@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-09-18T22:00:26",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=3897",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D7AHEP",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3897/body",
+      "rel": "body"
+    }
+  ],
+  "num": 3897,
+  "receiptDate": "2024-07-15",
+  "term": 10,
+  "title": "Interpelacja w sprawie bezpieczeństwa Polski wobec dramatycznych zmian w PKP Cargo w 2024 r.",
+  "answerDelayedDays": 0,
+  "from": [
+    "003"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister obrony narodowej",
+      "sent": "2024-07-18"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD98HCF/i03897-o1.pdf",
+          "lastModified": "2024-09-18T22:00:26",
+          "name": "i03897-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Paweł Bejda",
+      "key": "D98HCF",
+      "lastModified": "2024-09-18T22:00:26",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D98HCF",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3897/reply/D98HCF/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-08-06"
+    }
+  ],
+  "sentDate": "2024-07-18",
+  "to": [
+    "minister obrony narodowej"
+  ]
+}

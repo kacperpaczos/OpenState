@@ -1,0 +1,56 @@
+{
+  "lastModified": "2024-01-30T12:34:28",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=701",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CZDARK",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/701/body",
+      "rel": "body"
+    }
+  ],
+  "num": 701,
+  "receiptDate": "2024-01-05",
+  "term": 10,
+  "title": "Interpelacja w sprawie przedłużenia kontroli na granicy Polski ze Słowacją",
+  "answerDelayedDays": 0,
+  "from": [
+    "303"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister spraw wewnętrznych i administracji",
+      "sent": "2024-01-19"
+    }
+  ],
+  "replies": [
+    {
+      "from": "Podsekretarz stanu Maciej Duszczyk",
+      "key": "CZYFL4",
+      "lastModified": "2024-01-30T12:34:28",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CZYFL4",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/701/reply/CZYFL4/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-01-29"
+    }
+  ],
+  "sentDate": "2024-01-19",
+  "to": [
+    "minister spraw wewnętrznych i administracji"
+  ]
+}

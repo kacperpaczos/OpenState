@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-02-02T22:00:52",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=300",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CZDAY3",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/300/body",
+      "rel": "body"
+    }
+  ],
+  "num": 300,
+  "receiptDate": "2023-12-20",
+  "term": 10,
+  "title": "Interpelacja w sprawie nierespektowania przez Pocztę Polską SA pełnomocnictwa notarialnego, którego udziela osoba niepełnosprawna członkom rodziny lub innym osobom",
+  "answerDelayedDays": 0,
+  "from": [
+    "127"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister aktywów państwowych",
+      "sent": "2024-01-10"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD23KE4/i00300-o1.pdf",
+          "lastModified": "2024-02-02T22:00:52",
+          "name": "i00300-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Jacek Bartmiński",
+      "key": "D23KE4",
+      "lastModified": "2024-02-02T22:00:52",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D23KE4",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/300/reply/D23KE4/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-02-01"
+    }
+  ],
+  "sentDate": "2024-01-10",
+  "to": [
+    "minister aktywów państwowych"
+  ]
+}

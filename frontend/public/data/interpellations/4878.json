@@ -1,0 +1,102 @@
+{
+  "lastModified": "2024-11-26T22:00:48",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=4878",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D9GGUD",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4878/body",
+      "rel": "body"
+    }
+  ],
+  "num": 4878,
+  "receiptDate": "2024-09-16",
+  "term": 10,
+  "title": "Interpelacja w sprawie stanowiska Ministerstwa Klimatu i Środowiska dotyczącego inwestycji w zbiorniki zaporowe oraz planów związanych z infrastrukturą przeciwpowodziową",
+  "answerDelayedDays": 0,
+  "from": [
+    "234"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister klimatu i środowiska",
+      "sent": "2024-09-26"
+    },
+    {
+      "answerDelayedDays": 0,
+      "name": "minister infrastruktury",
+      "sent": "2024-10-01"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDA5JG3/i04878-o1.pdf",
+          "lastModified": "2024-10-17T22:00:25",
+          "name": "i04878-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Urszula Zielińska",
+      "key": "DA5JG3",
+      "lastModified": "2024-10-17T22:00:25",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DA5JG3",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4878/reply/DA5JG3/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-10-16"
+    },
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDBDKFR/i04878-o2.pdf",
+          "lastModified": "2024-11-26T22:00:48",
+          "name": "i04878-o2.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Przemysław Koperski",
+      "key": "DBDKFR",
+      "lastModified": "2024-11-26T22:00:48",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DBDKFR",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4878/reply/DBDKFR/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-11-25"
+    },
+    {
+      "from": "podsekretarz stanu w Ministerstwie Infrastruktury - Przemysław Koperski",
+      "lastModified": "2024-10-21T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-10-21"
+    }
+  ],
+  "sentDate": "2024-10-01",
+  "to": [
+    "minister infrastruktury",
+    "minister klimatu i środowiska"
+  ]
+}

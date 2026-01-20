@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-03-12T22:00:11",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=1641",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D2NGYH",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1641/body",
+      "rel": "body"
+    }
+  ],
+  "num": 1641,
+  "receiptDate": "2024-02-19",
+  "term": 10,
+  "title": "Interpelacja w sprawie wysokości zarobków osób zatrudnionych w spółce CPK",
+  "answerDelayedDays": 0,
+  "from": [
+    "239"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister funduszy i polityki regionalnej",
+      "sent": "2024-02-21"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD3AJKL/i01641-o1.pdf",
+          "lastModified": "2024-03-12T22:00:11",
+          "name": "i01641-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Maciej Lasek",
+      "key": "D3AJKL",
+      "lastModified": "2024-03-12T22:00:11",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D3AJKL",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1641/reply/D3AJKL/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-03-11"
+    }
+  ],
+  "sentDate": "2024-02-21",
+  "to": [
+    "minister funduszy i polityki regionalnej"
+  ]
+}

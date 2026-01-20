@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-02-22T22:00:32",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=1311",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D28GPB",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1311/body",
+      "rel": "body"
+    }
+  ],
+  "num": 1311,
+  "receiptDate": "2024-02-02",
+  "term": 10,
+  "title": "Interpelacja w sprawie opieki paliatywnej i hospicyjnej na terenie miasta Leszna",
+  "answerDelayedDays": 0,
+  "from": [
+    "316"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister zdrowia",
+      "sent": "2024-02-07"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD2PJU5/i01311-o1.pdf",
+          "lastModified": "2024-02-22T22:00:32",
+          "name": "i01311-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Wojciech Konieczny",
+      "key": "D2PJU5",
+      "lastModified": "2024-02-22T22:00:32",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D2PJU5",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1311/reply/D2PJU5/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-02-21"
+    }
+  ],
+  "sentDate": "2024-02-07",
+  "to": [
+    "minister zdrowia"
+  ]
+}

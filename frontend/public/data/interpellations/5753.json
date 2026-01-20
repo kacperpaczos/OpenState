@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-11-26T22:00:48",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5753",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAJASZ",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5753/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5753,
+  "receiptDate": "2024-10-24",
+  "term": 10,
+  "title": "Interpelacja w sprawie planowanej inwestycji PKP PLK SA zwiększenia przepustowości na linii kolejowej nr 213 prowadzącej z Redy na Hel",
+  "answerDelayedDays": 0,
+  "from": [
+    "138"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister infrastruktury",
+      "sent": "2024-10-29"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDBDKG5/i05753-o1.pdf",
+          "lastModified": "2024-11-26T22:00:48",
+          "name": "i05753-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Piotr Malepszak",
+      "key": "DBDKG5",
+      "lastModified": "2024-11-26T22:00:48",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DBDKG5",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5753/reply/DBDKG5/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-11-25"
+    }
+  ],
+  "sentDate": "2024-10-29",
+  "to": [
+    "minister infrastruktury"
+  ]
+}

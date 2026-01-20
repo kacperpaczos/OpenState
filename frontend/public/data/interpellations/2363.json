@@ -1,0 +1,105 @@
+{
+  "lastModified": "2025-05-28T15:21:17",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2363",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D3SJ8M",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2363/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2363,
+  "receiptDate": "2024-03-23",
+  "term": 10,
+  "title": "Interpelacja w sprawie pracy emeryta bez podatku dochodowego",
+  "answerDelayedDays": 0,
+  "from": [
+    "150",
+    "154",
+    "234",
+    "311",
+    "356",
+    "435"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister finansów",
+      "sent": "2024-03-28"
+    },
+    {
+      "answerDelayedDays": 0,
+      "name": "minister ds. polityki senioralnej",
+      "sent": "2024-03-28"
+    },
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rodziny, pracy i polityki społecznej",
+      "sent": "2024-03-28"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD4FH5C/i02363-o1.pdf",
+          "lastModified": "2024-04-18T22:00:16",
+          "name": "i02363-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Jarosław Neneman",
+      "key": "D4FH5C",
+      "lastModified": "2024-04-18T22:00:16",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D4FH5C",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2363/reply/D4FH5C/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-04-17"
+    },
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD4KJ7P/i02363-o2.pdf",
+          "lastModified": "2024-04-22T22:00:04",
+          "name": "i02363-o2.pdf"
+        }
+      ],
+      "from": "Minister Marzena Okła-Drewnowicz",
+      "key": "D4KJ7P",
+      "lastModified": "2024-04-22T22:00:04",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D4KJ7P",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2363/reply/D4KJ7P/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-04-16"
+    }
+  ],
+  "sentDate": "2024-03-28",
+  "to": [
+    "minister ds. polityki senioralnej",
+    "minister finansów",
+    "minister rodziny, pracy i polityki społecznej"
+  ]
+}

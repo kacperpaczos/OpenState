@@ -1,0 +1,56 @@
+{
+  "lastModified": "2024-11-20T13:01:07",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5523",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAJAZU",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5523/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5523,
+  "receiptDate": "2024-10-17",
+  "term": 10,
+  "title": "Interpelacja w sprawie edukacji żywieniowej dzieci",
+  "answerDelayedDays": 0,
+  "from": [
+    "469"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister edukacji",
+      "sent": "2024-10-29"
+    }
+  ],
+  "replies": [
+    {
+      "from": "Podsekretarz stanu Paulina Piechna-Więckiewicz",
+      "key": "DB7G4R",
+      "lastModified": "2024-11-20T13:01:07",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DB7G4R",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5523/reply/DB7G4R/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-11-19"
+    }
+  ],
+  "sentDate": "2024-10-29",
+  "to": [
+    "minister edukacji"
+  ]
+}

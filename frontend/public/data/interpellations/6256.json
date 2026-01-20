@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-12-10T15:19:41",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=6256",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DB7G7D",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/6256/body",
+      "rel": "body"
+    }
+  ],
+  "num": 6256,
+  "receiptDate": "2024-11-15",
+  "term": 10,
+  "title": "Interpelacja w sprawie leczenia otyłości",
+  "answerDelayedDays": 0,
+  "from": [
+    "481"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister zdrowia",
+      "sent": "2024-11-20"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDBMJRC/i06256-o1.pdf",
+          "lastModified": "2024-12-04T22:00:26",
+          "name": "i06256-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Wojciech Konieczny",
+      "key": "DBMJRC",
+      "lastModified": "2024-12-04T22:00:26",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DBMJRC",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/6256/reply/DBMJRC/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-12-03"
+    }
+  ],
+  "sentDate": "2024-11-20",
+  "to": [
+    "minister zdrowia"
+  ]
+}

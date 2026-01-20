@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-06-28T22:00:34",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=3022",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D65AQQ",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3022/body",
+      "rel": "body"
+    }
+  ],
+  "num": 3022,
+  "receiptDate": "2024-05-31",
+  "term": 10,
+  "title": "Interpelacja w sprawie podziału środków na realizację programu polityki zdrowotnej \"Leczenie niepłodności obejmujące procedury medycznie wspomaganej prokreacji, w tym zapłodnienie pozaustrojowe prowadzone w ośrodku medycznie wspomaganej prokreacji, na lata 2024-2028\"",
+  "answerDelayedDays": 0,
+  "from": [
+    "282"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister zdrowia",
+      "sent": "2024-06-11"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD6NHR5/i03022-o1.pdf",
+          "lastModified": "2024-06-28T22:00:34",
+          "name": "i03022-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Wojciech Konieczny",
+      "key": "D6NHR5",
+      "lastModified": "2024-06-28T22:00:34",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D6NHR5",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3022/reply/D6NHR5/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-06-26"
+    }
+  ],
+  "sentDate": "2024-06-11",
+  "to": [
+    "minister zdrowia"
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "lastModified": "2024-07-17T22:00:51",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2978",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D65APC",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2978/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2978,
+  "receiptDate": "2024-05-27",
+  "term": 10,
+  "title": "Interpelacja w sprawie nieprawidłowości w Narodowym Centrum Badań i Rozwoju",
+  "answerDelayedDays": 0,
+  "from": [
+    "019",
+    "067",
+    "097",
+    "102",
+    "138",
+    "142",
+    "157",
+    "161",
+    "209",
+    "221",
+    "223",
+    "233",
+    "261",
+    "284",
+    "342",
+    "414"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister sprawiedliwości",
+      "sent": "2024-06-11"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD79HL8/i02978-o1.pdf",
+          "lastModified": "2024-07-17T22:00:51",
+          "name": "i02978-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Arkadiusz Myrcha",
+      "key": "D79HL8",
+      "lastModified": "2024-07-17T22:00:51",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D79HL8",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2978/reply/D79HL8/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-07-16"
+    }
+  ],
+  "sentDate": "2024-06-11",
+  "to": [
+    "minister sprawiedliwości"
+  ]
+}

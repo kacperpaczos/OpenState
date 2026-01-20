@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-11-04T15:26:43",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5017",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D9HJEP",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5017/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5017,
+  "receiptDate": "2024-09-24",
+  "term": 10,
+  "title": "Interpelacja w sprawie zwłoki w udzieleniu informacji na temat stosowania Remote Control System",
+  "answerDelayedDays": 0,
+  "from": [
+    "303"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister sprawiedliwości",
+      "sent": "2024-09-27"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDAPJV7/i05017-o1.pdf",
+          "lastModified": "2024-11-04T15:26:03",
+          "name": "i05017-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Arkadiusz Myrcha",
+      "key": "DAPJV7",
+      "lastModified": "2024-11-04T15:26:43",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAPJV7",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5017/reply/DAPJV7/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-10-30"
+    }
+  ],
+  "sentDate": "2024-09-27",
+  "to": [
+    "minister sprawiedliwości"
+  ]
+}

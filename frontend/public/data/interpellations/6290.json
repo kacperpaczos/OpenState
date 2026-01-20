@@ -1,0 +1,63 @@
+{
+  "lastModified": "2025-01-08T22:00:01",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=6290",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DB7G8E",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/6290/body",
+      "rel": "body"
+    }
+  ],
+  "num": 6290,
+  "receiptDate": "2024-11-15",
+  "term": 10,
+  "title": "Interpelacja w sprawie zapowiadanego przez ministra cyfryzacji Funduszu Sztucznej Inteligencji w związku z podpisanym listem intencyjnym",
+  "answerDelayedDays": 0,
+  "from": [
+    "435"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister obrony narodowej",
+      "sent": "2024-11-20"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDCQJKL/i06290-o1.pdf",
+          "lastModified": "2025-01-08T22:00:01",
+          "name": "i06290-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Paweł Bejda",
+      "key": "DCQJKL",
+      "lastModified": "2025-01-08T22:00:01",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DCQJKL",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/6290/reply/DCQJKL/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-12-03"
+    }
+  ],
+  "sentDate": "2024-11-20",
+  "to": [
+    "minister obrony narodowej"
+  ]
+}

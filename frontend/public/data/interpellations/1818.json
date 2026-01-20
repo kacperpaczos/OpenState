@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-03-29T22:00:47",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=1818",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D36CUV",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1818/body",
+      "rel": "body"
+    }
+  ],
+  "num": 1818,
+  "receiptDate": "2024-02-29",
+  "term": 10,
+  "title": "Interpelacja w sprawie środków z rządowego Programu Inwestycji Strategicznych dla gm. Gościeradów",
+  "answerDelayedDays": 0,
+  "from": [
+    "461"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "prezes Rady Ministrów",
+      "sent": "2024-03-08"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD3TF88/i01818-o1.pdf",
+          "lastModified": "2024-03-29T22:00:47",
+          "name": "i01818-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Grzegorz Karpiński",
+      "key": "D3TF88",
+      "lastModified": "2024-03-29T22:00:47",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D3TF88",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1818/reply/D3TF88/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-03-28"
+    }
+  ],
+  "sentDate": "2024-03-08",
+  "to": [
+    "prezes Rady Ministrów"
+  ]
+}

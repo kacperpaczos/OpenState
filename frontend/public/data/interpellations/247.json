@@ -1,0 +1,56 @@
+{
+  "lastModified": "2024-01-12T15:32:34",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=247",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CYNKGY",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/247/body",
+      "rel": "body"
+    }
+  ],
+  "num": 247,
+  "receiptDate": "2023-12-13",
+  "term": 10,
+  "title": "Interpelacja w sprawie przeprowadzenia audytu i najbliższych planów ministra spraw wewnętrznych i administracji",
+  "answerDelayedDays": 0,
+  "from": [
+    "406"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister spraw wewnętrznych i administracji",
+      "sent": "2023-12-19"
+    }
+  ],
+  "replies": [
+    {
+      "from": "Sekretarz stanu Tomasz Szymański",
+      "key": "CZEK3G",
+      "lastModified": "2024-01-12T15:32:34",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CZEK3G",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/247/reply/CZEK3G/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-01-11"
+    }
+  ],
+  "sentDate": "2023-12-19",
+  "to": [
+    "minister spraw wewnętrznych i administracji"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-10-18T22:00:21",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=4588",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D93F9R",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4588/body",
+      "rel": "body"
+    }
+  ],
+  "num": 4588,
+  "receiptDate": "2024-09-04",
+  "term": 10,
+  "title": "Interpelacja w sprawie wsparcia systemu ochrony zdrowia poprzez zwiększenie liczby miejsc na kierunkach medycznych",
+  "answerDelayedDays": 0,
+  "from": [
+    "190"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister zdrowia",
+      "sent": "2024-09-13"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDA6J6L/i04588-o1.pdf",
+          "lastModified": "2024-10-18T22:00:21",
+          "name": "i04588-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Wojciech Konieczny",
+      "key": "DA6J6L",
+      "lastModified": "2024-10-18T22:00:21",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DA6J6L",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4588/reply/DA6J6L/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-10-16"
+    }
+  ],
+  "sentDate": "2024-09-13",
+  "to": [
+    "minister zdrowia"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "lastModified": "2024-04-02T22:00:59",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=1408",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D2FC44",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1408/body",
+      "rel": "body"
+    }
+  ],
+  "num": 1408,
+  "receiptDate": "2024-02-08",
+  "term": 10,
+  "title": "Interpelacja w sprawie kontynuacji Rządowego Funduszu Polski Ład: Program Inwestycji Strategicznych, z którego do polskich samorządów w ostatnich latach popłynęło prawie 100 mld zł na inwestycje oczekiwane przez mieszkańców od wielu lat",
+  "answerDelayedDays": 0,
+  "from": [
+    "436"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "prezes Rady Ministrów",
+      "sent": "2024-02-22"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD3XJBV/i01408-o1.pdf",
+          "lastModified": "2024-04-02T22:00:59",
+          "name": "i01408-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Grzegorz Karpiński",
+      "key": "D3XJBV",
+      "lastModified": "2024-04-02T22:00:59",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D3XJBV",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1408/reply/D3XJBV/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-03-29"
+    },
+    {
+      "from": "minister - członek Rady Ministrów - Maciej Berek",
+      "lastModified": "2024-02-28T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-02-28"
+    }
+  ],
+  "sentDate": "2024-02-22",
+  "to": [
+    "prezes Rady Ministrów"
+  ]
+}

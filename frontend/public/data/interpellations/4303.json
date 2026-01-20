@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-09-10T22:00:35",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=4303",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D85HKX",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4303/body",
+      "rel": "body"
+    }
+  ],
+  "num": 4303,
+  "receiptDate": "2024-08-08",
+  "term": 10,
+  "title": "Interpelacja w sprawie uzasadnionej konieczności budowy linii kolejowej Warszawa-Ostrołęka-Łomża-Giżycko w ramach Centralnego Portu Komunikacyjnego i włączenia tego odcinka szybkiej kolei do wykazu linii kolejowych o szczególnym znaczeniu obronnym",
+  "answerDelayedDays": 0,
+  "from": [
+    "452"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister infrastruktury",
+      "sent": "2024-08-16"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD8YEZG/i04303-o1.pdf",
+          "lastModified": "2024-09-10T22:00:35",
+          "name": "i04303-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Maciej Lasek",
+      "key": "D8YEZG",
+      "lastModified": "2024-09-10T22:00:35",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D8YEZG",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4303/reply/D8YEZG/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-09-09"
+    }
+  ],
+  "sentDate": "2024-08-16",
+  "to": [
+    "minister infrastruktury"
+  ]
+}

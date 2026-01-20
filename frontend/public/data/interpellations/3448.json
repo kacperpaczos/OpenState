@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-07-12T22:00:50",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=3448",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D6FJ4H",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3448/body",
+      "rel": "body"
+    }
+  ],
+  "num": 3448,
+  "receiptDate": "2024-06-18",
+  "term": 10,
+  "title": "Interpelacja w sprawie tempa tworzenia Komponentu Ochrony Pogranicza",
+  "answerDelayedDays": 0,
+  "from": [
+    "443"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister obrony narodowej",
+      "sent": "2024-06-21"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD74HSR/i03448-o1.pdf",
+          "lastModified": "2024-07-12T22:00:50",
+          "name": "i03448-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Paweł Bejda",
+      "key": "D74HSR",
+      "lastModified": "2024-07-12T22:00:50",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D74HSR",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3448/reply/D74HSR/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-07-05"
+    }
+  ],
+  "sentDate": "2024-06-21",
+  "to": [
+    "minister obrony narodowej"
+  ]
+}

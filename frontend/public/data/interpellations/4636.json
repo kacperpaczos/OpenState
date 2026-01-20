@@ -1,0 +1,71 @@
+{
+  "lastModified": "2024-12-24T22:00:38",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=4636",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D93FB8",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4636/body",
+      "rel": "body"
+    }
+  ],
+  "num": 4636,
+  "receiptDate": "2024-09-06",
+  "term": 10,
+  "title": "Interpelacja w sprawie zagrożenia wstrzymaniem przez rząd D. Tuska rewitalizacji linii kolejowej Racibórz-Głubczyce-Racławice Śląskie w ramach programu Kolej+",
+  "answerDelayedDays": 0,
+  "from": [
+    "435"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister infrastruktury",
+      "sent": "2024-09-13"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDC9ELK/i04636-o1.pdf",
+          "lastModified": "2024-12-24T22:00:38",
+          "name": "i04636-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Piotr Malepszak",
+      "key": "DC9ELK",
+      "lastModified": "2024-12-24T22:00:38",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DC9ELK",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4636/reply/DC9ELK/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-12-23"
+    },
+    {
+      "from": "podsekretarz stanu w Ministerstwie Infrastruktury - Piotr Malepszak",
+      "lastModified": "2024-10-24T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-10-24"
+    }
+  ],
+  "sentDate": "2024-09-13",
+  "to": [
+    "minister infrastruktury"
+  ]
+}

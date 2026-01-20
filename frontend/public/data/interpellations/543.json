@@ -1,0 +1,71 @@
+{
+  "lastModified": "2024-02-22T22:00:32",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=543",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CZDALM",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/543/body",
+      "rel": "body"
+    }
+  ],
+  "num": 543,
+  "receiptDate": "2024-01-04",
+  "term": 10,
+  "title": "Interpelacja w sprawie nowelizacji rozporządzenia Rady Ministrów z dnia 10 grudnia 2021 r. w przedmiocie usunięcia powierzchni 1,34 ha Świętokrzyskiego Parku Narodowego",
+  "answerDelayedDays": 0,
+  "from": [
+    "097"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister klimatu i środowiska",
+      "sent": "2024-01-11"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD2PJTM/i00543-o1.pdf",
+          "lastModified": "2024-02-22T22:00:32",
+          "name": "i00543-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Mikołaj Dorożała",
+      "key": "D2PJTM",
+      "lastModified": "2024-02-22T22:00:32",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D2PJTM",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/543/reply/D2PJTM/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-02-18"
+    },
+    {
+      "from": "podsekretarz stanu w Ministerstwie Klimatu i Środowiska - Mikołaj Dorożała",
+      "lastModified": "2024-01-25T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-01-25"
+    }
+  ],
+  "sentDate": "2024-01-11",
+  "to": [
+    "minister klimatu i środowiska"
+  ]
+}

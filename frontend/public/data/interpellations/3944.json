@@ -1,0 +1,138 @@
+{
+  "lastModified": "2024-12-24T22:00:38",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=3944",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D7FGSA",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3944/body",
+      "rel": "body"
+    }
+  ],
+  "num": 3944,
+  "receiptDate": "2024-07-18",
+  "term": 10,
+  "title": "Interpelacja w sprawie opłacania składek na ubezpieczenie społeczne duchownych z Funduszu Kościelnego",
+  "answerDelayedDays": 0,
+  "from": [
+    "198"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rodziny, pracy i polityki społecznej",
+      "sent": "2024-07-23"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDA5JFT/i03944-o1.pdf",
+          "lastModified": "2024-10-17T22:00:25",
+          "name": "i03944-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Sebastian Gajewski",
+      "key": "DA5JFT",
+      "lastModified": "2024-10-17T22:00:25",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DA5JFT",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3944/reply/DA5JFT/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-10-16"
+    },
+    {
+      "from": "podsekretarz stanu w Ministerstwie Rodziny, Pracy i Polityki Społecznej - Sebastian Gajewski",
+      "lastModified": "2024-09-24T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-09-24"
+    },
+    {
+      "from": "podsekretarz stanu w Ministerstwie Rodziny, Pracy i Polityki Społecznej - Sebastian Gajewski",
+      "lastModified": "2024-12-13T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-12-13"
+    }
+  ],
+  "sentDate": "2024-11-13",
+  "to": [
+    "minister rodziny, pracy i polityki społecznej"
+  ],
+  "repeatedInterpellation": [
+    {
+      "lastModified": "2024-12-24T22:00:38",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=3944",
+          "rel": "web-description"
+        },
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAYJV9",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3944p/body",
+          "rel": "body"
+        }
+      ],
+      "num": 3944,
+      "receiptDate": "2024-11-08",
+      "term": 10,
+      "title": "Interpelacja w sprawie opłacania składek na ubezpieczenie społeczne duchownych z Funduszu Kościelnego",
+      "answerDelayedDays": 0,
+      "from": [
+        "198"
+      ],
+      "recipientDetails": [],
+      "replies": [
+        {
+          "attachments": [
+            {
+              "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDC9ELJ/i03944-o2.pdf",
+              "lastModified": "2024-12-24T22:00:38",
+              "name": "i03944-o2.pdf"
+            }
+          ],
+          "from": "Podsekretarz stanu Sebastian Gajewski",
+          "key": "DC9ELJ",
+          "lastModified": "2024-12-24T22:00:38",
+          "links": [
+            {
+              "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DC9ELJ",
+              "rel": "web-body"
+            },
+            {
+              "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3944p/reply/DC9ELJ/body",
+              "rel": "body"
+            }
+          ],
+          "onlyAttachment": true,
+          "prolongation": false,
+          "receiptDate": "2024-12-23"
+        }
+      ],
+      "sentDate": "2024-11-13",
+      "to": [
+        "minister rodziny, pracy i polityki społecznej"
+      ]
+    }
+  ]
+}

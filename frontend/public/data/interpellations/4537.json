@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-09-26T22:00:16",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=4537",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D8TC5J",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4537/body",
+      "rel": "body"
+    }
+  ],
+  "num": 4537,
+  "receiptDate": "2024-08-30",
+  "term": 10,
+  "title": "Interpelacja w sprawie wsparcia samorządów w usuwaniu szkodliwych składowisk odpadów",
+  "answerDelayedDays": 0,
+  "from": [
+    "085"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister klimatu i środowiska",
+      "sent": "2024-09-05"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD9GGT5/i04537-o1.pdf",
+          "lastModified": "2024-09-26T22:00:16",
+          "name": "i04537-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Anita Sowińska",
+      "key": "D9GGT5",
+      "lastModified": "2024-09-26T22:00:16",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D9GGT5",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4537/reply/D9GGT5/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-09-25"
+    }
+  ],
+  "sentDate": "2024-09-05",
+  "to": [
+    "minister klimatu i środowiska"
+  ]
+}

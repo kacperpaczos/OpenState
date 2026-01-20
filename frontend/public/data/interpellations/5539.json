@@ -1,0 +1,64 @@
+{
+  "lastModified": "2024-11-06T22:00:53",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5539",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DA9EGG",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5539/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5539,
+  "receiptDate": "2024-10-17",
+  "term": 10,
+  "title": "Interpelacja w sprawie zasad opodatkowania działalności humanitarnej Międzynarodowego Komitetu Czerwonego Krzyża (ICRC)",
+  "answerDelayedDays": 0,
+  "from": [
+    "425",
+    "431"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister finansów",
+      "sent": "2024-10-21"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDARJR6/i05539-o1.pdf",
+          "lastModified": "2024-11-06T22:00:53",
+          "name": "i05539-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Jarosław Neneman",
+      "key": "DARJR6",
+      "lastModified": "2024-11-06T22:00:53",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DARJR6",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5539/reply/DARJR6/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-11-04"
+    }
+  ],
+  "sentDate": "2024-10-21",
+  "to": [
+    "minister finansów"
+  ]
+}

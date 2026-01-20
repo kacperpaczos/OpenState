@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-11-06T22:00:53",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5179",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D9W8Y6",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5179/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5179,
+  "receiptDate": "2024-09-30",
+  "term": 10,
+  "title": "Interpelacja w sprawie budowy zbiornika wodnego Orla-Klatka na rzece Orla",
+  "answerDelayedDays": 0,
+  "from": [
+    "468"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister infrastruktury",
+      "sent": "2024-10-10"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDARJQS/i05179-o1.pdf",
+          "lastModified": "2024-11-06T22:00:53",
+          "name": "i05179-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Przemysław Koperski",
+      "key": "DARJQS",
+      "lastModified": "2024-11-06T22:00:53",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DARJQS",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5179/reply/DARJQS/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-11-05"
+    }
+  ],
+  "sentDate": "2024-10-10",
+  "to": [
+    "minister infrastruktury"
+  ]
+}

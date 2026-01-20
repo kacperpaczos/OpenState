@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-10-23T22:00:23",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5261",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D9W92P",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5261/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5261,
+  "receiptDate": "2024-10-03",
+  "term": 10,
+  "title": "Interpelacja w sprawie podjęcia prac legislacyjnych dotyczących utrzymania samodzielności podmiotów sprawujących opiekę nad pacjentami w ramach podstawowej opieki zdrowotnej (POZ)",
+  "answerDelayedDays": 0,
+  "from": [
+    "112"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister zdrowia",
+      "sent": "2024-10-10"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDABHN6/i05261-o1.pdf",
+          "lastModified": "2024-10-23T22:00:23",
+          "name": "i05261-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Jerzy Szafranowicz",
+      "key": "DABHN6",
+      "lastModified": "2024-10-23T22:00:23",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DABHN6",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5261/reply/DABHN6/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-10-18"
+    }
+  ],
+  "sentDate": "2024-10-10",
+  "to": [
+    "minister zdrowia"
+  ]
+}

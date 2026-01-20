@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-12-02T22:00:26",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5727",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAJAS9",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5727/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5727,
+  "receiptDate": "2024-10-23",
+  "term": 10,
+  "title": "Interpelacja w sprawie regulacji dotyczących używania sztucznej inteligencji",
+  "answerDelayedDays": 0,
+  "from": [
+    "491"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister cyfryzacji",
+      "sent": "2024-10-30"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDBKK8M/i05727-o1.pdf",
+          "lastModified": "2024-12-02T22:00:26",
+          "name": "i05727-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Dariusz Standerski",
+      "key": "DBKK8M",
+      "lastModified": "2024-12-02T22:00:26",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DBKK8M",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5727/reply/DBKK8M/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-11-29"
+    }
+  ],
+  "sentDate": "2024-10-30",
+  "to": [
+    "minister cyfryzacji"
+  ]
+}

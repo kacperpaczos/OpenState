@@ -1,0 +1,65 @@
+{
+  "lastModified": "2024-06-03T16:08:08",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2150",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D3SHZD",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2150/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2150,
+  "receiptDate": "2024-03-19",
+  "term": 10,
+  "title": "Interpelacja w sprawie wydłużonego okresu oczekiwania na wydanie orzeczenia w postępowaniach dotyczących wniosków o świadczenia, prowadzonych w oddziale ZUS w Biłgoraju",
+  "answerDelayedDays": 0,
+  "from": [
+    "118",
+    "153"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rodziny, pracy i polityki społecznej",
+      "sent": "2024-03-28"
+    }
+  ],
+  "replies": [
+    {
+      "from": "Podsekretarz stanu Sebastian Gajewski",
+      "key": "D5VJL4",
+      "lastModified": "2024-06-03T16:08:08",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D5VJL4",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2150/reply/D5VJL4/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-06-03"
+    },
+    {
+      "from": "podsekretarz stanu w Ministerstwie Rodziny, Pracy i Polityki Społecznej - Sebastian Gajewski",
+      "lastModified": "2024-04-22T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-04-22"
+    }
+  ],
+  "sentDate": "2024-03-28",
+  "to": [
+    "minister rodziny, pracy i polityki społecznej"
+  ]
+}

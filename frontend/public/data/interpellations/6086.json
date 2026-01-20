@@ -1,0 +1,100 @@
+{
+  "lastModified": "2025-06-23T22:00:58",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=6086",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAXK8Y",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/6086/body",
+      "rel": "body"
+    }
+  ],
+  "num": 6086,
+  "receiptDate": "2024-11-07",
+  "term": 10,
+  "title": "Interpelacja w sprawie skandalicznych działań rządu Donalda Tuska wobec pracowników PKP Cargo",
+  "answerDelayedDays": 0,
+  "from": [
+    "150",
+    "165",
+    "181",
+    "234",
+    "356",
+    "404",
+    "435"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister infrastruktury",
+      "sent": "2024-11-12"
+    },
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rodziny, pracy i polityki społecznej",
+      "sent": "2024-11-12"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDBWJKH/i06086-o1.pdf",
+          "lastModified": "2024-12-13T22:00:11",
+          "name": "i06086-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Piotr Malepszak",
+      "key": "DBWJKH",
+      "lastModified": "2024-12-13T22:00:11",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DBWJKH",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/6086/reply/DBWJKH/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-12-09"
+    },
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDHWHN4/i06086-o2.pdf",
+          "lastModified": "2025-06-23T22:00:58",
+          "name": "i06086-o2.pdf"
+        }
+      ],
+      "from": "Minister Agnieszka Dziemianowicz-Bąk",
+      "key": "DHWHN4",
+      "lastModified": "2025-06-23T22:00:58",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DHWHN4",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/6086/reply/DHWHN4/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2025-06-13"
+    }
+  ],
+  "sentDate": "2024-11-12",
+  "to": [
+    "minister infrastruktury",
+    "minister rodziny, pracy i polityki społecznej"
+  ]
+}

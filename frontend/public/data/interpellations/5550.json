@@ -1,0 +1,56 @@
+{
+  "lastModified": "2024-12-18T12:33:53",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5550",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DA9EGT",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5550/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5550,
+  "receiptDate": "2024-10-17",
+  "term": 10,
+  "title": "Interpelacja w sprawie dodania funkcjonalności umożliwiającej zgłaszanie wymuszeń pierwszeństwa na przejściach dla pieszych w aplikacji Alarm112",
+  "answerDelayedDays": 0,
+  "from": [
+    "484"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister spraw wewnętrznych i administracji",
+      "sent": "2024-10-21"
+    }
+  ],
+  "replies": [
+    {
+      "from": "Podsekretarz stanu Wiesław Leśniakiewicz",
+      "key": "DC3FKB",
+      "lastModified": "2024-12-18T12:33:53",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DC3FKB",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5550/reply/DC3FKB/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-12-17"
+    }
+  ],
+  "sentDate": "2024-10-21",
+  "to": [
+    "minister spraw wewnętrznych i administracji"
+  ]
+}

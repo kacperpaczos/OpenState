@@ -1,0 +1,68 @@
+{
+  "lastModified": "2024-10-04T22:00:31",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=4681",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D93FCM",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4681/body",
+      "rel": "body"
+    }
+  ],
+  "num": 4681,
+  "receiptDate": "2024-09-09",
+  "term": 10,
+  "title": "Interpelacja w sprawie rządowego Programu Inwestycji Strategicznych dla miasta Racibórz",
+  "answerDelayedDays": 0,
+  "from": [
+    "435"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister finansów",
+      "sent": "2024-09-13"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD9QHRP/i04681-o1_2.pdf",
+          "lastModified": "2024-10-04T22:00:31",
+          "name": "i04681-o1_2.pdf"
+        },
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD9QHRP/i04681-o1_1.pdf",
+          "lastModified": "2024-10-04T22:00:31",
+          "name": "i04681-o1_1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Hanna Majszczyk",
+      "key": "D9QHRP",
+      "lastModified": "2024-10-04T22:00:31",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D9QHRP",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4681/reply/D9QHRP/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-10-04"
+    }
+  ],
+  "sentDate": "2024-09-13",
+  "to": [
+    "minister finansów"
+  ]
+}

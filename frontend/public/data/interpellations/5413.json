@@ -1,0 +1,79 @@
+{
+  "lastModified": "2024-12-10T22:00:07",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5413",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DA6BB2",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5413/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5413,
+  "receiptDate": "2024-10-11",
+  "term": 10,
+  "title": "Interpelacja w sprawie zaległych płatności na rzecz przedsiębiorców z terenu woj. podkarpackiego realizujących program \"Czyste Powietrze\"",
+  "answerDelayedDays": 0,
+  "from": [
+    "415"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister klimatu i środowiska",
+      "sent": "2024-10-18"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDBTJT7/i05413-o1.pdf",
+          "lastModified": "2024-12-10T22:00:07",
+          "name": "i05413-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Krzysztof Bolesta",
+      "key": "DBTJT7",
+      "lastModified": "2024-12-10T22:00:07",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DBTJT7",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5413/reply/DBTJT7/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-12-06"
+    },
+    {
+      "from": "sekretarz stanu w Ministerstwie Klimatu i Środowiska - Krzysztof Bolesta",
+      "lastModified": "2024-11-12T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-11-12"
+    },
+    {
+      "from": "sekretarz stanu w Ministerstwie Klimatu i Środowiska - Krzysztof Bolesta",
+      "lastModified": "2024-11-29T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-11-29"
+    }
+  ],
+  "sentDate": "2024-10-18",
+  "to": [
+    "minister klimatu i środowiska"
+  ]
+}

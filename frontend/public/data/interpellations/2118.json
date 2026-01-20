@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-03-28T22:00:46",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2118",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D3KFDE",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2118/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2118,
+  "receiptDate": "2024-03-18",
+  "term": 10,
+  "title": "Interpelacja w sprawie utrudnień w handlu, jakie spowoduje przywrócenie podatku VAT na żywność w okresie świątecznym",
+  "answerDelayedDays": 0,
+  "from": [
+    "167"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister finansów",
+      "sent": "2024-03-21"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD3SHYA/i02118-o1.pdf",
+          "lastModified": "2024-03-28T22:00:46",
+          "name": "i02118-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Jarosław Neneman",
+      "key": "D3SHYA",
+      "lastModified": "2024-03-28T22:00:46",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D3SHYA",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2118/reply/D3SHYA/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-03-27"
+    }
+  ],
+  "sentDate": "2024-03-21",
+  "to": [
+    "minister finansów"
+  ]
+}

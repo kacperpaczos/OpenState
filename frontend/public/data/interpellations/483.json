@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-02-01T22:00:52",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=483",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CZDB5N",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/483/body",
+      "rel": "body"
+    }
+  ],
+  "num": 483,
+  "receiptDate": "2023-12-30",
+  "term": 10,
+  "title": "Interpelacja w sprawie proponowanych zmian w dochodach jednostek samorządu terytorialnego",
+  "answerDelayedDays": 0,
+  "from": [
+    "312"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister finansów",
+      "sent": "2024-01-11"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD22JGD/i00483-o1.pdf",
+          "lastModified": "2024-02-01T22:00:52",
+          "name": "i00483-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Hanna Majszczyk",
+      "key": "D22JGD",
+      "lastModified": "2024-02-01T22:00:52",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D22JGD",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/483/reply/D22JGD/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-01-31"
+    }
+  ],
+  "sentDate": "2024-01-11",
+  "to": [
+    "minister finansów"
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "lastModified": "2024-04-17T15:11:25",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=482",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CZKAQ8",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/482/body",
+      "rel": "body"
+    }
+  ],
+  "num": 482,
+  "receiptDate": "2023-12-29",
+  "term": 10,
+  "title": "Interpelacja w sprawie polskiego obywatelstwa",
+  "answerDelayedDays": 0,
+  "from": [
+    "139"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister spraw zagranicznych",
+      "sent": "2024-01-16"
+    }
+  ],
+  "replies": [
+    {
+      "from": "Sekretarz stanu Władysław Teofil Bartoszewski",
+      "key": "D2FJP2",
+      "lastModified": "2024-02-14T15:12:51",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D2FJP2",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/482/reply/D2FJP2/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-02-13"
+    }
+  ],
+  "sentDate": "2024-03-28",
+  "to": [
+    "minister spraw zagranicznych"
+  ],
+  "repeatedInterpellation": [
+    {
+      "lastModified": "2024-04-17T15:11:25",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=482",
+          "rel": "web-description"
+        },
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D3SHYD",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/482p/body",
+          "rel": "body"
+        }
+      ],
+      "num": 482,
+      "receiptDate": "2024-03-19",
+      "term": 10,
+      "title": "Interpelacja w sprawie polskiego obywatelstwa",
+      "answerDelayedDays": 0,
+      "from": [
+        "139"
+      ],
+      "recipientDetails": [],
+      "replies": [
+        {
+          "from": "Sekretarz stanu Władysław Teofil Bartoszewski",
+          "key": "D4EHGK",
+          "lastModified": "2024-04-17T15:11:25",
+          "links": [
+            {
+              "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D4EHGK",
+              "rel": "web-body"
+            },
+            {
+              "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/482p/reply/D4EHGK/body",
+              "rel": "body"
+            }
+          ],
+          "onlyAttachment": false,
+          "prolongation": false,
+          "receiptDate": "2024-04-16"
+        }
+      ],
+      "sentDate": "2024-03-28",
+      "to": [
+        "minister spraw zagranicznych"
+      ]
+    }
+  ]
+}

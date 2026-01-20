@@ -1,0 +1,68 @@
+{
+  "lastModified": "2024-03-26T22:00:46",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=1831",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D36CVA",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1831/body",
+      "rel": "body"
+    }
+  ],
+  "num": 1831,
+  "receiptDate": "2024-02-29",
+  "term": 10,
+  "title": "Interpelacja w sprawie sytuacji finansowej polskich szpitali",
+  "answerDelayedDays": 0,
+  "from": [
+    "190"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister zdrowia",
+      "sent": "2024-03-07"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD3QK4P/i01831-o1_1.pdf",
+          "lastModified": "2024-03-26T22:00:46",
+          "name": "i01831-o1_1.pdf"
+        },
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD3QK4P/i01831-o1_2.pdf",
+          "lastModified": "2024-03-26T22:00:46",
+          "name": "i01831-o1_2.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Wojciech Konieczny",
+      "key": "D3QK4P",
+      "lastModified": "2024-03-26T22:00:46",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D3QK4P",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1831/reply/D3QK4P/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-03-25"
+    }
+  ],
+  "sentDate": "2024-03-07",
+  "to": [
+    "minister zdrowia"
+  ]
+}

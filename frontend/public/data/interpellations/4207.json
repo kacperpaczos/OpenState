@@ -1,0 +1,75 @@
+{
+  "lastModified": "2024-08-13T22:00:40",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=4207",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D7VEHQ",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4207/body",
+      "rel": "body"
+    }
+  ],
+  "num": 4207,
+  "receiptDate": "2024-08-01",
+  "term": 10,
+  "title": "Interpelacja w sprawie płatności za nadwykonania dla szpitali za I i II kwartał 2024 r.",
+  "answerDelayedDays": 0,
+  "from": [
+    "042",
+    "044",
+    "046",
+    "065",
+    "155",
+    "210",
+    "280",
+    "329",
+    "348",
+    "353",
+    "367",
+    "410",
+    "418"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister zdrowia",
+      "sent": "2024-08-06"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD84GS7/i04207-o1.pdf",
+          "lastModified": "2024-08-13T22:00:40",
+          "name": "i04207-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Jerzy Szafranowicz",
+      "key": "D84GS7",
+      "lastModified": "2024-08-13T22:00:40",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D84GS7",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4207/reply/D84GS7/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-08-12"
+    }
+  ],
+  "sentDate": "2024-08-06",
+  "to": [
+    "minister zdrowia"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastModified": "2025-05-16T22:00:08",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2796",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DFZ97Q",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2796/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2796,
+  "receiptDate": "2024-05-13",
+  "term": 10,
+  "title": "Interpelacja w sprawie potrzeby wprowadzenia obowiązku przesyłania przez komorników rocznych informacji o wyegzekwowanych i pozostałych do wyegzekwowania kwotach zarówno wierzycielom jak też dłużnikom, a także zaniechania naliczania odsetek od długów zakupionych",
+  "answerDelayedDays": 0,
+  "from": [
+    "321"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister sprawiedliwości",
+      "sent": "2025-04-23"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDGQJGB/i02796-o1.pdf",
+          "lastModified": "2025-05-16T22:00:08",
+          "name": "i02796-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Maria Ejchart",
+      "key": "DGQJGB",
+      "lastModified": "2025-05-16T22:00:08",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DGQJGB",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2796/reply/DGQJGB/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2025-05-14"
+    }
+  ],
+  "sentDate": "2025-04-23",
+  "to": [
+    "minister sprawiedliwości"
+  ]
+}

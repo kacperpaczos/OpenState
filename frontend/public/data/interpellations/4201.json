@@ -1,0 +1,71 @@
+{
+  "lastModified": "2024-10-30T22:00:11",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=4201",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D7VEHJ",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4201/body",
+      "rel": "body"
+    }
+  ],
+  "num": 4201,
+  "receiptDate": "2024-08-01",
+  "term": 10,
+  "title": "Interpelacja w sprawie ustawy mającej na celu usankcjonowanie przepisów dotyczących budowy i przygotowywania tras rowerowych",
+  "answerDelayedDays": 0,
+  "from": [
+    "281"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister infrastruktury",
+      "sent": "2024-08-06"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDAJJWQ/i04201-o1.pdf",
+          "lastModified": "2024-10-30T22:00:11",
+          "name": "i04201-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Piotr Malepszak",
+      "key": "DAJJWQ",
+      "lastModified": "2024-10-30T22:00:11",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAJJWQ",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4201/reply/DAJJWQ/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-10-28"
+    },
+    {
+      "from": "podsekretarz stanu w Ministerstwie Infrastruktury - Przemysław Koperski",
+      "lastModified": "2024-08-26T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-08-26"
+    }
+  ],
+  "sentDate": "2024-08-06",
+  "to": [
+    "minister infrastruktury"
+  ]
+}

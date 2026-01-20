@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-10-07T22:00:59",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=4658",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D93FBW",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4658/body",
+      "rel": "body"
+    }
+  ],
+  "num": 4658,
+  "receiptDate": "2024-09-06",
+  "term": 10,
+  "title": "Interpelacja w sprawie dyskryminujących zapisów w programie \"Samodzielność-Aktywność-Mobilność\"",
+  "answerDelayedDays": 0,
+  "from": [
+    "017"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rodziny, pracy i polityki społecznej",
+      "sent": "2024-09-13"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD9THTA/i04658-o1.pdf",
+          "lastModified": "2024-10-07T22:00:59",
+          "name": "i04658-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Łukasz Krasoń",
+      "key": "D9THTA",
+      "lastModified": "2024-10-07T22:00:59",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D9THTA",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4658/reply/D9THTA/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-10-04"
+    }
+  ],
+  "sentDate": "2024-09-13",
+  "to": [
+    "minister rodziny, pracy i polityki społecznej"
+  ]
+}

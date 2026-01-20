@@ -1,0 +1,56 @@
+{
+  "lastModified": "2024-05-15T15:16:16",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2552",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D4N99T",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2552/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2552,
+  "receiptDate": "2024-04-14",
+  "term": 10,
+  "title": "Interpelacja w sprawie naruszenia zasady dobrowolności przez tzw. pakt migracyjny",
+  "answerDelayedDays": 0,
+  "from": [
+    "137"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister spraw wewnętrznych i administracji",
+      "sent": "2024-04-30"
+    }
+  ],
+  "replies": [
+    {
+      "from": "Podsekretarz stanu Maciej Duszczyk",
+      "key": "D5AHL2",
+      "lastModified": "2024-05-15T15:16:16",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D5AHL2",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2552/reply/D5AHL2/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-05-14"
+    }
+  ],
+  "sentDate": "2024-04-30",
+  "to": [
+    "minister spraw wewnętrznych i administracji"
+  ]
+}

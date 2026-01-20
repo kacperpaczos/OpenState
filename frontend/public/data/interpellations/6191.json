@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-12-09T22:00:08",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=6191",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DB5K47",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/6191/body",
+      "rel": "body"
+    }
+  ],
+  "num": 6191,
+  "receiptDate": "2024-11-13",
+  "term": 10,
+  "title": "Interpelacja w sprawie Zakładu Polskie Przetwory we Włocławku",
+  "answerDelayedDays": 0,
+  "from": [
+    "095"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister aktywów państwowych",
+      "sent": "2024-11-18"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDBSJSA/i06191-o1.pdf",
+          "lastModified": "2024-12-09T22:00:08",
+          "name": "i06191-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Zbigniew Ziejewski",
+      "key": "DBSJSA",
+      "lastModified": "2024-12-09T22:00:08",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DBSJSA",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/6191/reply/DBSJSA/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-12-05"
+    }
+  ],
+  "sentDate": "2024-11-18",
+  "to": [
+    "minister aktywów państwowych"
+  ]
+}

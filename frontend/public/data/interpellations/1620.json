@@ -1,0 +1,34 @@
+{
+  "lastModified": "2024-03-06T16:31:47",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=1620",
+      "rel": "web-description"
+    }
+  ],
+  "num": 1620,
+  "receiptDate": "2024-02-19",
+  "term": 10,
+  "title": "Interpelacja w sprawie osób poszkodowanych w wyniku działań piramidy finansowej o nazwie \"Berg Holding SA\"",
+  "answerDelayedDays": 0,
+  "from": [
+    "049",
+    "060",
+    "082",
+    "084",
+    "140",
+    "161",
+    "168",
+    "182",
+    "206",
+    "321",
+    "334",
+    "342",
+    "403"
+  ],
+  "recipientDetails": [],
+  "replies": [],
+  "to": [
+    "minister sprawiedliwości"
+  ]
+}

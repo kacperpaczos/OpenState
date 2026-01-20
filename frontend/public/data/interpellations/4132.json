@@ -1,0 +1,133 @@
+{
+  "lastModified": "2024-11-08T22:00:53",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=4132",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D7PBD8",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4132/body",
+      "rel": "body"
+    }
+  ],
+  "num": 4132,
+  "receiptDate": "2024-07-29",
+  "term": 10,
+  "title": "Interpelacja w sprawie realizacji umowy społecznej dotyczącej transformacji sektora górnictwa węgla kamiennego",
+  "answerDelayedDays": 0,
+  "from": [
+    "004",
+    "030",
+    "137",
+    "228",
+    "288",
+    "299",
+    "420"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister przemysłu",
+      "sent": "2024-07-31"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD98HCP/i04132-o1.pdf",
+          "lastModified": "2024-09-18T22:00:26",
+          "name": "i04132-o1.pdf"
+        }
+      ],
+      "from": "Minister Marzena Czarnecka",
+      "key": "D98HCP",
+      "lastModified": "2024-09-18T22:00:26",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D98HCP",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4132/reply/D98HCP/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-09-17"
+    },
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDATJLV/i04132-o2.pdf",
+          "lastModified": "2024-11-08T22:00:53",
+          "name": "i04132-o2.pdf"
+        }
+      ],
+      "from": "Minister Marzena Czarnecka",
+      "key": "DATJLV",
+      "lastModified": "2024-11-08T22:00:53",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DATJLV",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4132/reply/DATJLV/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-11-07"
+    }
+  ],
+  "sentDate": "2024-10-10",
+  "to": [
+    "minister przemysłu"
+  ],
+  "repeatedInterpellation": [
+    {
+      "lastModified": "2024-10-10T08:13:43",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=4132",
+          "rel": "web-description"
+        },
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D9W9BE",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4132p/body",
+          "rel": "body"
+        }
+      ],
+      "num": 4132,
+      "receiptDate": "2024-09-27",
+      "term": 10,
+      "title": "Interpelacja w sprawie realizacji umowy społecznej dotyczącej transformacji sektora górnictwa węgla kamiennego",
+      "answerDelayedDays": 0,
+      "from": [
+        "004",
+        "030",
+        "137",
+        "228",
+        "288",
+        "299",
+        "420"
+      ],
+      "recipientDetails": [],
+      "replies": [],
+      "sentDate": "2024-10-09",
+      "to": [
+        "minister przemysłu"
+      ]
+    }
+  ]
+}

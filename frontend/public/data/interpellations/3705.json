@@ -1,0 +1,71 @@
+{
+  "lastModified": "2024-09-11T22:00:35",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=3705",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D73FC8",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3705/body",
+      "rel": "body"
+    }
+  ],
+  "num": 3705,
+  "receiptDate": "2024-07-08",
+  "term": 10,
+  "title": "Interpelacja w sprawie branży drzewnej",
+  "answerDelayedDays": 0,
+  "from": [
+    "074"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister klimatu i środowiska",
+      "sent": "2024-07-11"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD8ZHRN/i03705-o1.pdf",
+          "lastModified": "2024-09-11T22:00:35",
+          "name": "i03705-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Mikołaj Dorożała",
+      "key": "D8ZHRN",
+      "lastModified": "2024-09-11T22:00:35",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D8ZHRN",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3705/reply/D8ZHRN/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-09-08"
+    },
+    {
+      "from": "podsekretarz stanu w Ministerstwie Klimatu i Środowiska - Mikołaj Dorożała",
+      "lastModified": "2024-07-29T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-07-29"
+    }
+  ],
+  "sentDate": "2024-07-11",
+  "to": [
+    "minister klimatu i środowiska"
+  ]
+}

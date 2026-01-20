@@ -1,0 +1,67 @@
+{
+  "lastModified": "2024-02-16T22:00:10",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=1338",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D28GQ5",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1338/body",
+      "rel": "body"
+    }
+  ],
+  "num": 1338,
+  "receiptDate": "2024-02-05",
+  "term": 10,
+  "title": "Interpelacja w sprawie \"Tygodnika TVP\"",
+  "answerDelayedDays": 0,
+  "from": [
+    "032",
+    "033",
+    "254",
+    "397",
+    "399"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister kultury i dziedzictwa narodowego",
+      "sent": "2024-02-07"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD2HKBL/i01338-o1.pdf",
+          "lastModified": "2024-02-16T22:00:10",
+          "name": "i01338-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Andrzej Wyrobiec",
+      "key": "D2HKBL",
+      "lastModified": "2024-02-16T22:00:10",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D2HKBL",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1338/reply/D2HKBL/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-02-15"
+    }
+  ],
+  "sentDate": "2024-02-07",
+  "to": [
+    "minister kultury i dziedzictwa narodowego"
+  ]
+}

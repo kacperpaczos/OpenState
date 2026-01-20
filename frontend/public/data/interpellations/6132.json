@@ -1,0 +1,63 @@
+{
+  "lastModified": "2025-01-31T15:35:10",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=6132",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DB2JC9",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/6132/body",
+      "rel": "body"
+    }
+  ],
+  "num": 6132,
+  "receiptDate": "2024-11-08",
+  "term": 10,
+  "title": "Interpelacja w sprawie działań, które zamierza podjąć Ministerstwo Obrony Narodowej w związku z prezentacją ustaleń komisji gen. Stróżyka",
+  "answerDelayedDays": 0,
+  "from": [
+    "020"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister obrony narodowej",
+      "sent": "2024-11-15"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDDFK29/i06132-o1.pdf",
+          "lastModified": "2025-01-31T15:34:59",
+          "name": "i06132-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Paweł Bejda",
+      "key": "DDFK29",
+      "lastModified": "2025-01-31T15:35:10",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DDFK29",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/6132/reply/DDFK29/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2025-01-09"
+    }
+  ],
+  "sentDate": "2024-11-15",
+  "to": [
+    "minister obrony narodowej"
+  ]
+}

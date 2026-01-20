@@ -1,0 +1,87 @@
+{
+  "lastModified": "2024-12-05T15:28:29",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=4914",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D9FFY4",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4914/body",
+      "rel": "body"
+    }
+  ],
+  "num": 4914,
+  "receiptDate": "2024-09-18",
+  "term": 10,
+  "title": "Interpelacja w sprawie braku reakcji polskich władz na ostrzeżenia o nadciągającej powodzi oraz zaniechań w uruchomieniu wsparcia z Mechanizmu Ochrony Ludności UE - na podstawie wypowiedzi komisarza Janeza Lenarčica",
+  "answerDelayedDays": 0,
+  "from": [
+    "234"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "prezes Rady Ministrów",
+      "sent": "2024-09-25"
+    },
+    {
+      "answerDelayedDays": 0,
+      "name": "minister spraw wewnętrznych i administracji",
+      "sent": "2024-10-23"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDAKJYN/i04914-o1.pdf",
+          "lastModified": "2024-10-31T22:00:15",
+          "name": "i04914-o1.pdf"
+        }
+      ],
+      "from": "Minister Jan Grabiec",
+      "key": "DAKJYN",
+      "lastModified": "2024-10-31T22:00:15",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAKJYN",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4914/reply/DAKJYN/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-10-29"
+    },
+    {
+      "from": "Podsekretarz stanu Wiesław Leśniakiewicz",
+      "key": "DBNJYP",
+      "lastModified": "2024-12-05T15:28:29",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DBNJYP",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4914/reply/DBNJYP/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-12-05"
+    }
+  ],
+  "sentDate": "2024-10-23",
+  "to": [
+    "minister spraw wewnętrznych i administracji",
+    "prezes Rady Ministrów"
+  ]
+}

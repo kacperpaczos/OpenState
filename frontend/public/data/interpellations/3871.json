@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-07-29T22:00:09",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=3871",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D78EA7",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3871/body",
+      "rel": "body"
+    }
+  ],
+  "num": 3871,
+  "receiptDate": "2024-07-12",
+  "term": 10,
+  "title": "Interpelacja w sprawie dofinansowania wypoczynku dla dzieci i młodzieży umieszczonych w rodzinnej pieczy zastępczej",
+  "answerDelayedDays": 0,
+  "from": [
+    "190"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rodziny, pracy i polityki społecznej",
+      "sent": "2024-07-16"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD7MHYU/i03871-o1.pdf",
+          "lastModified": "2024-07-29T22:00:09",
+          "name": "i03871-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Aleksandra Gajewska",
+      "key": "D7MHYU",
+      "lastModified": "2024-07-29T22:00:09",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D7MHYU",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3871/reply/D7MHYU/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-07-26"
+    }
+  ],
+  "sentDate": "2024-07-16",
+  "to": [
+    "minister rodziny, pracy i polityki społecznej"
+  ]
+}

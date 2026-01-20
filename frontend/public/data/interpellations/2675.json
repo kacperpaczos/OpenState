@@ -1,0 +1,64 @@
+{
+  "lastModified": "2024-05-21T22:00:18",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2675",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D4TAFW",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2675/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2675,
+  "receiptDate": "2024-04-25",
+  "term": 10,
+  "title": "Interpelacja w sprawie wprowadzenia embarga na rosyjskie nawozy",
+  "answerDelayedDays": 0,
+  "from": [
+    "224",
+    "234"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rolnictwa i rozwoju wsi",
+      "sent": "2024-05-02"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD5GHVB/i02675-o1.pdf",
+          "lastModified": "2024-05-21T22:00:18",
+          "name": "i02675-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Michał Kołodziejczak",
+      "key": "D5GHVB",
+      "lastModified": "2024-05-21T22:00:18",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D5GHVB",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2675/reply/D5GHVB/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-05-20"
+    }
+  ],
+  "sentDate": "2024-05-02",
+  "to": [
+    "minister rolnictwa i rozwoju wsi"
+  ]
+}

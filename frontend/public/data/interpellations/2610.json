@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-05-14T22:00:27",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2610",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D4N9BH",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2610/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2610,
+  "receiptDate": "2024-04-19",
+  "term": 10,
+  "title": "Interpelacja w sprawie przepisów dotyczących Europejskiego Zielonego Ładu",
+  "answerDelayedDays": 0,
+  "from": [
+    "042"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rolnictwa i rozwoju wsi",
+      "sent": "2024-04-25"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD59HPD/i02610-o1.pdf",
+          "lastModified": "2024-05-14T22:00:27",
+          "name": "i02610-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Stefan Krajewski",
+      "key": "D59HPD",
+      "lastModified": "2024-05-14T22:00:27",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D59HPD",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2610/reply/D59HPD/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-05-10"
+    }
+  ],
+  "sentDate": "2024-04-25",
+  "to": [
+    "minister rolnictwa i rozwoju wsi"
+  ]
+}

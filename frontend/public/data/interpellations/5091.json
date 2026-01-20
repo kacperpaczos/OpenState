@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-11-18T22:00:08",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5091",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D9LHRU",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5091/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5091,
+  "receiptDate": "2024-09-26",
+  "term": 10,
+  "title": "Interpelacja w sprawie centralnej komisji do spraw zakupów muzealnych",
+  "answerDelayedDays": 0,
+  "from": [
+    "100"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister kultury i dziedzictwa narodowego",
+      "sent": "2024-09-30"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDB5JWB/i05091-o1.pdf",
+          "lastModified": "2024-11-18T22:00:08",
+          "name": "i05091-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Andrzej Wyrobiec",
+      "key": "DB5JWB",
+      "lastModified": "2024-11-18T22:00:08",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DB5JWB",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5091/reply/DB5JWB/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-11-15"
+    }
+  ],
+  "sentDate": "2024-09-30",
+  "to": [
+    "minister kultury i dziedzictwa narodowego"
+  ]
+}

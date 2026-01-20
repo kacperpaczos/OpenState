@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-05-14T22:00:27",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2682",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D4TAG5",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2682/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2682,
+  "receiptDate": "2024-04-25",
+  "term": 10,
+  "title": "Interpelacja w sprawie rozszerzenia uprawnień organów egzekucyjnych",
+  "answerDelayedDays": 0,
+  "from": [
+    "017"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister finansów",
+      "sent": "2024-04-30"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD59HPF/i02682-o1.pdf",
+          "lastModified": "2024-05-14T22:00:27",
+          "name": "i02682-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Jarosław Neneman",
+      "key": "D59HPF",
+      "lastModified": "2024-05-14T22:00:27",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D59HPF",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2682/reply/D59HPF/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-05-13"
+    }
+  ],
+  "sentDate": "2024-04-30",
+  "to": [
+    "minister finansów"
+  ]
+}

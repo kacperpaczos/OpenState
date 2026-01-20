@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-08-20T22:00:59",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=3942",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D7FGS8",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3942/body",
+      "rel": "body"
+    }
+  ],
+  "num": 3942,
+  "receiptDate": "2024-07-18",
+  "term": 10,
+  "title": "Interpelacja w sprawie ogólnopolskiego rozwiązania CPK tzw. szprych kolejowych",
+  "answerDelayedDays": 0,
+  "from": [
+    "303"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister infrastruktury",
+      "sent": "2024-07-23"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD8BHVG/i03942-o1.pdf",
+          "lastModified": "2024-08-20T22:00:59",
+          "name": "i03942-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Piotr Malepszak",
+      "key": "D8BHVG",
+      "lastModified": "2024-08-20T22:00:59",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D8BHVG",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3942/reply/D8BHVG/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-08-17"
+    }
+  ],
+  "sentDate": "2024-07-23",
+  "to": [
+    "minister infrastruktury"
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "lastModified": "2024-05-02T15:01:33",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2486",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D46HDJ",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2486/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2486,
+  "receiptDate": "2024-04-03",
+  "term": 10,
+  "title": "Interpelacja w sprawie kosztów obsługi prawnej Ministerstwa Edukacji Narodowej oraz jednostek podległych",
+  "answerDelayedDays": 0,
+  "from": [
+    "137"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister edukacji",
+      "sent": "2024-04-09"
+    }
+  ],
+  "replies": [
+    {
+      "from": "Minister Barbara Nowacka",
+      "key": "D4VHAZ",
+      "lastModified": "2024-05-02T15:01:33",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D4VHAZ",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2486/reply/D4VHAZ/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-04-29"
+    }
+  ],
+  "sentDate": "2024-04-09",
+  "to": [
+    "minister edukacji"
+  ]
+}

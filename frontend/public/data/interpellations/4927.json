@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-11-04T15:26:43",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=4927",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D9FFYF",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4927/body",
+      "rel": "body"
+    }
+  ],
+  "num": 4927,
+  "receiptDate": "2024-09-18",
+  "term": 10,
+  "title": "Interpelacja w sprawie wsparcia w 2024 r. jednostek OSP z NFOŚiGW",
+  "answerDelayedDays": 0,
+  "from": [
+    "180"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister klimatu i środowiska",
+      "sent": "2024-09-25"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDAPJV4/i04927-o1.pdf",
+          "lastModified": "2024-11-04T15:26:01",
+          "name": "i04927-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Krzysztof Bolesta",
+      "key": "DAPJV4",
+      "lastModified": "2024-11-04T15:26:43",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAPJV4",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4927/reply/DAPJV4/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-10-30"
+    }
+  ],
+  "sentDate": "2024-09-25",
+  "to": [
+    "minister klimatu i środowiska"
+  ]
+}

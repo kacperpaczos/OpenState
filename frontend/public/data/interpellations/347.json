@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-01-31T15:30:58",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=347",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CZDAZJ",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/347/body",
+      "rel": "body"
+    }
+  ],
+  "num": 347,
+  "receiptDate": "2023-12-26",
+  "term": 10,
+  "title": "Interpelacja w sprawie opłat za wydanie przez prokuraturę kserokopii dokumentów oraz kosztów wydania uwierzytelnionych odpisów z akt sprawy",
+  "answerDelayedDays": 0,
+  "from": [
+    "321"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister sprawiedliwości",
+      "sent": "2024-01-10"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTCZZJVC/i00347-o1.pdf",
+          "lastModified": "2024-01-31T15:30:37",
+          "name": "i00347-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Arkadiusz Myrcha",
+      "key": "CZZJVC",
+      "lastModified": "2024-01-31T15:30:58",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CZZJVC",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/347/reply/CZZJVC/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-01-29"
+    }
+  ],
+  "sentDate": "2024-01-10",
+  "to": [
+    "minister sprawiedliwości"
+  ]
+}

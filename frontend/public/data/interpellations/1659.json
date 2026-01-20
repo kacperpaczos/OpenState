@@ -1,0 +1,72 @@
+{
+  "lastModified": "2024-04-22T15:47:24",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=1659",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D36CQ2",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1659/body",
+      "rel": "body"
+    }
+  ],
+  "num": 1659,
+  "receiptDate": "2024-02-20",
+  "term": 10,
+  "title": "Interpelacja w sprawie wynagrodzenia pracowników samorządowych zatrudnionych na podstawie umowy o pracę w jednostkach organizacyjnych pomocy społecznej, centrach integracji społecznej, jednostkach organizacyjnych wspierania rodzin i systemu pieczy zastępczej oraz w centrach usług społecznych",
+  "answerDelayedDays": 0,
+  "from": [
+    "065"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rodziny, pracy i polityki społecznej",
+      "sent": "2024-03-12"
+    }
+  ],
+  "replies": [
+    {
+      "from": "Minister Agnieszka Dziemianowicz-Bąk",
+      "key": "D4KJ77",
+      "lastModified": "2024-04-22T15:47:24",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D4KJ77",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1659/reply/D4KJ77/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-04-19"
+    },
+    {
+      "from": "minister rodziny, pracy i polityki społecznej - Agnieszka Dziemianowicz-Bąk",
+      "lastModified": "2024-03-26T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-03-26"
+    },
+    {
+      "from": "minister rodziny, pracy i polityki społecznej - Agnieszka Dziemianowicz-Bąk",
+      "lastModified": "2024-04-18T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-04-18"
+    }
+  ],
+  "sentDate": "2024-03-12",
+  "to": [
+    "minister rodziny, pracy i polityki społecznej"
+  ]
+}

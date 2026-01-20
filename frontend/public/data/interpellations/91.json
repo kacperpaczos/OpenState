@@ -1,0 +1,56 @@
+{
+  "lastModified": "2024-01-08T15:49:09",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=91",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CYEKQW",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/91/body",
+      "rel": "body"
+    }
+  ],
+  "num": 91,
+  "receiptDate": "2023-11-29",
+  "term": 10,
+  "title": "Interpelacja w sprawie planowanych przez funkcjonariuszy Państwowej Straży Pożarnej przejść na zaopatrzenie emerytalne na przełomie stycznia i lutego 2024 r. w woj. podkarpackim",
+  "answerDelayedDays": 0,
+  "from": [
+    "312"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister spraw wewnętrznych i administracji",
+      "sent": "2023-12-11"
+    }
+  ],
+  "replies": [
+    {
+      "from": "Sekretarz stanu Czesław Mroczek",
+      "key": "CZAKDR",
+      "lastModified": "2024-01-08T15:49:09",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CZAKDR",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/91/reply/CZAKDR/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-01-05"
+    }
+  ],
+  "sentDate": "2023-12-11",
+  "to": [
+    "minister spraw wewnętrznych i administracji"
+  ]
+}

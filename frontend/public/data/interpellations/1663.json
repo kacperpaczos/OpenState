@@ -1,0 +1,56 @@
+{
+  "lastModified": "2024-03-28T14:34:18",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=1663",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D36CQ6",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1663/body",
+      "rel": "body"
+    }
+  ],
+  "num": 1663,
+  "receiptDate": "2024-02-20",
+  "term": 10,
+  "title": "Interpelacja w sprawie projektowanych zmian w podstawach programowych w polskim systemie edukacji",
+  "answerDelayedDays": 0,
+  "from": [
+    "243"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister edukacji",
+      "sent": "2024-03-07"
+    }
+  ],
+  "replies": [
+    {
+      "from": "Sekretarz stanu Katarzyna Lubnauer",
+      "key": "D3SHWZ",
+      "lastModified": "2024-03-28T14:34:18",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D3SHWZ",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1663/reply/D3SHWZ/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-03-26"
+    }
+  ],
+  "sentDate": "2024-03-07",
+  "to": [
+    "minister edukacji"
+  ]
+}

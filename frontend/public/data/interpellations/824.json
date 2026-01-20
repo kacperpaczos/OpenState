@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-04-11T22:00:28",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=824",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D3KFA5",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/824/body",
+      "rel": "body"
+    }
+  ],
+  "num": 824,
+  "receiptDate": "2024-01-14",
+  "term": 10,
+  "title": "Interpelacja w sprawie etapu realizacji zapewnienia prawa do bezpłatnego znieczulenia przy porodzie dla każdej kobiety w ramach \"100 konkretów na 100 dni\"",
+  "answerDelayedDays": 0,
+  "from": [
+    "130"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister zdrowia",
+      "sent": "2024-03-21"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD48HMD/i00824-o1.pdf",
+          "lastModified": "2024-04-11T22:00:28",
+          "name": "i00824-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Wojciech Konieczny",
+      "key": "D48HMD",
+      "lastModified": "2024-04-11T22:00:28",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D48HMD",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/824/reply/D48HMD/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-04-10"
+    }
+  ],
+  "sentDate": "2024-03-21",
+  "to": [
+    "minister zdrowia"
+  ]
+}

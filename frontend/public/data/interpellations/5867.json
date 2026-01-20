@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-11-22T22:00:07",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5867",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAPCW7",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5867/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5867,
+  "receiptDate": "2024-10-28",
+  "term": 10,
+  "title": "Interpelacja w sprawie sprzedaży alkoholu w szpitalach uzdrowiskowych, sanatoriach i innych obiektach służby zdrowia, takich jak pijalnie wód mineralnych",
+  "answerDelayedDays": 0,
+  "from": [
+    "121"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister zdrowia",
+      "sent": "2024-11-04"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDB9GFZ/i05867-o1.pdf",
+          "lastModified": "2024-11-22T22:00:07",
+          "name": "i05867-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Wojciech Konieczny",
+      "key": "DB9GFZ",
+      "lastModified": "2024-11-22T22:00:07",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DB9GFZ",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5867/reply/DB9GFZ/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-11-21"
+    }
+  ],
+  "sentDate": "2024-11-04",
+  "to": [
+    "minister zdrowia"
+  ]
+}

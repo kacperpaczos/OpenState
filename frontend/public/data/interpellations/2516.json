@@ -1,0 +1,57 @@
+{
+  "lastModified": "2024-05-28T15:27:05",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2516",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D4N98P",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2516/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2516,
+  "receiptDate": "2024-04-08",
+  "term": 10,
+  "title": "Interpelacja w sprawie statusu pracowników cywilnych Policji",
+  "answerDelayedDays": 0,
+  "from": [
+    "140",
+    "334"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister spraw wewnętrznych i administracji",
+      "sent": "2024-04-25"
+    }
+  ],
+  "replies": [
+    {
+      "from": "Sekretarz stanu Czesław Mroczek",
+      "key": "D5PHSG",
+      "lastModified": "2024-05-28T15:27:05",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D5PHSG",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2516/reply/D5PHSG/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-05-27"
+    }
+  ],
+  "sentDate": "2024-04-25",
+  "to": [
+    "minister spraw wewnętrznych i administracji"
+  ]
+}

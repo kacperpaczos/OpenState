@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-11-04T15:26:44",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5163",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D9W8XN",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5163/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5163,
+  "receiptDate": "2024-09-30",
+  "term": 10,
+  "title": "Interpelacja w sprawie zniszczeń szkół i obiektów oświatowych podlegających Ministerstwu Edukacji Narodowej, spowodowanych przez powódź",
+  "answerDelayedDays": 0,
+  "from": [
+    "052",
+    "150",
+    "202",
+    "234",
+    "333",
+    "356",
+    "407",
+    "435"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister edukacji",
+      "sent": "2024-10-10"
+    }
+  ],
+  "replies": [
+    {
+      "from": "Sekretarz stanu Henryk Kiepura",
+      "key": "DAPJVH",
+      "lastModified": "2024-11-04T15:26:44",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAPJVH",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5163/reply/DAPJVH/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-10-31"
+    }
+  ],
+  "sentDate": "2024-10-10",
+  "to": [
+    "minister edukacji"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-01-12T22:00:38",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=262",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CYRJ3N",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/262/body",
+      "rel": "body"
+    }
+  ],
+  "num": 262,
+  "receiptDate": "2023-12-13",
+  "term": 10,
+  "title": "Interpelacja w sprawie najbliższych planów minister ds. polityki senioralnej",
+  "answerDelayedDays": 0,
+  "from": [
+    "406"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "prezes Rady Ministrów",
+      "sent": "2023-12-22"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTCZEK3K/i00262-o1.pdf",
+          "lastModified": "2024-01-12T22:00:38",
+          "name": "i00262-o1.pdf"
+        }
+      ],
+      "from": "Minister Marzena Okła-Drewnowicz",
+      "key": "CZEK3K",
+      "lastModified": "2024-01-12T22:00:38",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CZEK3K",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/262/reply/CZEK3K/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-01-09"
+    }
+  ],
+  "sentDate": "2023-12-22",
+  "to": [
+    "prezes Rady Ministrów"
+  ]
+}

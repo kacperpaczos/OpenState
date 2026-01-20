@@ -1,0 +1,99 @@
+{
+  "lastModified": "2024-05-08T22:00:34",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2360",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D3SJ8J",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2360/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2360,
+  "receiptDate": "2024-03-22",
+  "term": 10,
+  "title": "Interpelacja w sprawie cyfrowej wypożyczalni Biblioteki Narodowej",
+  "answerDelayedDays": 0,
+  "from": [
+    "146",
+    "150",
+    "224",
+    "234",
+    "311",
+    "404"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister cyfryzacji",
+      "sent": "2024-03-28"
+    },
+    {
+      "answerDelayedDays": 0,
+      "name": "minister kultury i dziedzictwa narodowego",
+      "sent": "2024-03-28"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD4FH5B/i02360-o1.pdf",
+          "lastModified": "2024-04-18T22:00:16",
+          "name": "i02360-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Michał Gramatyka",
+      "key": "D4FH5B",
+      "lastModified": "2024-04-18T22:00:16",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D4FH5B",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2360/reply/D4FH5B/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-04-17"
+    },
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD53HEX/i02360-o2.pdf",
+          "lastModified": "2024-05-08T22:00:34",
+          "name": "i02360-o2.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Andrzej Wyrobiec",
+      "key": "D53HEX",
+      "lastModified": "2024-05-08T22:00:34",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D53HEX",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2360/reply/D53HEX/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-05-07"
+    }
+  ],
+  "sentDate": "2024-03-28",
+  "to": [
+    "minister cyfryzacji",
+    "minister kultury i dziedzictwa narodowego"
+  ]
+}

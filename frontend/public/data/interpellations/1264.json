@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-03-01T22:00:42",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=1264",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D28GMZ",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1264/body",
+      "rel": "body"
+    }
+  ],
+  "num": 1264,
+  "receiptDate": "2024-02-01",
+  "term": 10,
+  "title": "Interpelacja w sprawie audytu w Ministerstwie Rozwoju i Technologii",
+  "answerDelayedDays": 0,
+  "from": [
+    "399"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rozwoju i technologii",
+      "sent": "2024-02-07"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD2XLGC/i01264-o1.pdf",
+          "lastModified": "2024-03-01T22:00:42",
+          "name": "i01264-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Waldemar Sługocki",
+      "key": "D2XLGC",
+      "lastModified": "2024-03-01T22:00:42",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D2XLGC",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1264/reply/D2XLGC/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-02-28"
+    }
+  ],
+  "sentDate": "2024-02-07",
+  "to": [
+    "minister rozwoju i technologii"
+  ]
+}

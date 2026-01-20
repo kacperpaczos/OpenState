@@ -1,0 +1,64 @@
+{
+  "lastModified": "2024-02-06T15:36:16",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=340",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CZDAZB",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/340/body",
+      "rel": "body"
+    }
+  ],
+  "num": 340,
+  "receiptDate": "2023-12-22",
+  "term": 10,
+  "title": "Interpelacja w sprawie programu \"Senior+\" na lata 2021-2025 i jego realizacji w wybranych powiatach",
+  "answerDelayedDays": 0,
+  "from": [
+    "417"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rodziny, pracy i polityki społecznej",
+      "sent": "2024-01-11"
+    }
+  ],
+  "replies": [
+    {
+      "from": "Podsekretarz stanu Paweł Zgórzyński",
+      "key": "D27K5R",
+      "lastModified": "2024-02-06T15:36:16",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D27K5R",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/340/reply/D27K5R/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-02-05"
+    },
+    {
+      "from": "podsekretarz stanu w Ministerstwie Rodziny, Pracy i Polityki Społecznej - Paweł Zgórzyński",
+      "lastModified": "2024-02-02T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-02-02"
+    }
+  ],
+  "sentDate": "2024-01-11",
+  "to": [
+    "minister rodziny, pracy i polityki społecznej"
+  ]
+}

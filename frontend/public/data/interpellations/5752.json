@@ -1,0 +1,73 @@
+{
+  "lastModified": "2024-11-18T22:00:08",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5752",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAJASY",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5752/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5752,
+  "receiptDate": "2024-10-24",
+  "term": 10,
+  "title": "Interpelacja w sprawie ustawy o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu",
+  "answerDelayedDays": 0,
+  "from": [
+    "023",
+    "039",
+    "117",
+    "470",
+    "271",
+    "292",
+    "327",
+    "341",
+    "358",
+    "376",
+    "391"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister finansów",
+      "sent": "2024-10-29"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDB5JX5/i05752-o1.pdf",
+          "lastModified": "2024-11-18T22:00:08",
+          "name": "i05752-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Jurand Drop",
+      "key": "DB5JX5",
+      "lastModified": "2024-11-18T22:00:08",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DB5JX5",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5752/reply/DB5JX5/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-11-14"
+    }
+  ],
+  "sentDate": "2024-10-29",
+  "to": [
+    "minister finansów"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-08-27T22:00:17",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=3584",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D73F8H",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3584/body",
+      "rel": "body"
+    }
+  ],
+  "num": 3584,
+  "receiptDate": "2024-06-28",
+  "term": 10,
+  "title": "Interpelacja w sprawie zapowiedzi uruchomienia od 1 lipca 2024 r. szpitalnego oddziału ratunkowego w szpitalu w Legionowie, który jest filią Wojskowego Instytutu Medycznego w Warszawie",
+  "answerDelayedDays": 0,
+  "from": [
+    "020"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister obrony narodowej",
+      "sent": "2024-07-11"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD8JJB6/i03584-o1.pdf",
+          "lastModified": "2024-08-27T22:00:17",
+          "name": "i03584-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Paweł Bejda",
+      "key": "D8JJB6",
+      "lastModified": "2024-08-27T22:00:17",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D8JJB6",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3584/reply/D8JJB6/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-07-23"
+    }
+  ],
+  "sentDate": "2024-07-11",
+  "to": [
+    "minister obrony narodowej"
+  ]
+}

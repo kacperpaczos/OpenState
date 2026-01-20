@@ -1,0 +1,60 @@
+{
+  "lastModified": "2024-01-30T12:34:28",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=341",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CZDAZC",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/341/body",
+      "rel": "body"
+    }
+  ],
+  "num": 341,
+  "receiptDate": "2023-12-25",
+  "term": 10,
+  "title": "Interpelacja w sprawie stosowania push-backów na granicy polsko-białoruskiej",
+  "answerDelayedDays": 0,
+  "from": [
+    "110",
+    "172",
+    "239",
+    "273",
+    "417"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister spraw wewnętrznych i administracji",
+      "sent": "2024-01-11"
+    }
+  ],
+  "replies": [
+    {
+      "from": "Podsekretarz stanu Maciej Duszczyk",
+      "key": "CZYFKR",
+      "lastModified": "2024-01-30T12:34:28",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CZYFKR",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/341/reply/CZYFKR/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-01-29"
+    }
+  ],
+  "sentDate": "2024-01-11",
+  "to": [
+    "minister spraw wewnętrznych i administracji"
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "lastModified": "2024-02-22T22:00:32",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=1245",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D28GME",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1245/body",
+      "rel": "body"
+    }
+  ],
+  "num": 1245,
+  "receiptDate": "2024-01-31",
+  "term": 10,
+  "title": "Interpelacja w sprawie ustawy o zawodzie ratownika medycznego oraz samorządzie ratowników medycznych i Krajowej Rady Ratowników Medycznych",
+  "answerDelayedDays": 0,
+  "from": [
+    "023",
+    "053",
+    "106",
+    "112",
+    "128",
+    "166",
+    "171",
+    "219",
+    "252",
+    "264",
+    "271",
+    "292",
+    "312",
+    "327",
+    "358",
+    "382",
+    "391",
+    "430",
+    "441",
+    "455"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister zdrowia",
+      "sent": "2024-02-07"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD2PJTX/i01245-o1.pdf",
+          "lastModified": "2024-02-22T22:00:32",
+          "name": "i01245-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Marek Kos",
+      "key": "D2PJTX",
+      "lastModified": "2024-02-22T22:00:32",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D2PJTX",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1245/reply/D2PJTX/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-02-21"
+    }
+  ],
+  "sentDate": "2024-02-07",
+  "to": [
+    "minister zdrowia"
+  ]
+}

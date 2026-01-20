@@ -1,0 +1,184 @@
+{
+  "lastModified": "2024-05-15T22:00:23",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=1982",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D3DKNL",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1982/body",
+      "rel": "body"
+    }
+  ],
+  "num": 1982,
+  "receiptDate": "2024-03-11",
+  "term": 10,
+  "title": "Interpelacja w sprawie kontynuacji realizacji programu budowy obwodnic w ramach programu wieloletniego przyjętego uchwałą Rady Ministrów nr 46/2021 z dnia 13 kwietnia 2021 r.",
+  "answerDelayedDays": 0,
+  "from": [
+    "137"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister finansów",
+      "sent": "2024-03-15"
+    },
+    {
+      "answerDelayedDays": 0,
+      "name": "minister infrastruktury",
+      "sent": "2024-03-15"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD42HWS/i01982-o1.pdf",
+          "lastModified": "2024-04-05T22:00:59",
+          "name": "i01982-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Paweł Karbownik",
+      "key": "D42HWS",
+      "lastModified": "2024-04-05T22:00:59",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D42HWS",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1982/reply/D42HWS/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-04-04"
+    },
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD48HMU/i01982-o2.pdf",
+          "lastModified": "2024-04-11T22:00:28",
+          "name": "i01982-o2.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Paweł Gancarz",
+      "key": "D48HMU",
+      "lastModified": "2024-04-11T22:00:28",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D48HMU",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1982/reply/D48HMU/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-04-09"
+    }
+  ],
+  "sentDate": "2024-04-25",
+  "to": [
+    "minister finansów",
+    "minister infrastruktury"
+  ],
+  "repeatedInterpellation": [
+    {
+      "lastModified": "2024-05-15T22:00:23",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=1982",
+          "rel": "web-description"
+        },
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D4N985",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1982p/body",
+          "rel": "body"
+        }
+      ],
+      "num": 1982,
+      "receiptDate": "2024-04-15",
+      "term": 10,
+      "title": "Interpelacja w sprawie kontynuacji realizacji programu budowy obwodnic w ramach programu wieloletniego przyjętego uchwałą Rady Ministrów nr 46/2021 z dnia 13 kwietnia 2021 r.",
+      "answerDelayedDays": 0,
+      "from": [
+        "137"
+      ],
+      "recipientDetails": [],
+      "replies": [
+        {
+          "attachments": [
+            {
+              "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD4VHAE/i01982-o3_2.pdf",
+              "lastModified": "2024-05-02T22:00:44",
+              "name": "i01982-o3_2.pdf"
+            },
+            {
+              "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD4VHAE/i01982-o3_1.pdf",
+              "lastModified": "2024-05-02T22:00:44",
+              "name": "i01982-o3_1.pdf"
+            }
+          ],
+          "from": "Podsekretarz stanu Paweł Gancarz",
+          "key": "D4VHAE",
+          "lastModified": "2024-05-02T22:00:44",
+          "links": [
+            {
+              "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D4VHAE",
+              "rel": "web-body"
+            },
+            {
+              "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1982p/reply/D4VHAE/body",
+              "rel": "body"
+            }
+          ],
+          "onlyAttachment": false,
+          "prolongation": false,
+          "receiptDate": "2024-04-30"
+        },
+        {
+          "attachments": [
+            {
+              "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD5AHKM/i01982-o4.pdf",
+              "lastModified": "2024-05-15T22:00:23",
+              "name": "i01982-o4.pdf"
+            }
+          ],
+          "from": "Podsekretarz stanu Hanna Majszczyk",
+          "key": "D5AHKM",
+          "lastModified": "2024-05-15T22:00:23",
+          "links": [
+            {
+              "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D5AHKM",
+              "rel": "web-body"
+            },
+            {
+              "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1982p/reply/D5AHKM/body",
+              "rel": "body"
+            }
+          ],
+          "onlyAttachment": true,
+          "prolongation": false,
+          "receiptDate": "2024-05-14"
+        }
+      ],
+      "sentDate": "2024-04-24",
+      "to": [
+        "minister finansów",
+        "minister infrastruktury"
+      ]
+    }
+  ]
+}

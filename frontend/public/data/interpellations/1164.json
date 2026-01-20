@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-02-19T22:00:33",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=1164",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CZYFUW",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1164/body",
+      "rel": "body"
+    }
+  ],
+  "num": 1164,
+  "receiptDate": "2024-01-25",
+  "term": 10,
+  "title": "Interpelacja w sprawie ataku rządu na Polskie Radio",
+  "answerDelayedDays": 0,
+  "from": [
+    "330"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister kultury i dziedzictwa narodowego",
+      "sent": "2024-01-30"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD2LJNL/i01164-o1.pdf",
+          "lastModified": "2024-02-19T22:00:33",
+          "name": "i01164-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Andrzej Wyrobiec",
+      "key": "D2LJNL",
+      "lastModified": "2024-02-19T22:00:33",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D2LJNL",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1164/reply/D2LJNL/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-02-16"
+    }
+  ],
+  "sentDate": "2024-01-30",
+  "to": [
+    "minister kultury i dziedzictwa narodowego"
+  ]
+}

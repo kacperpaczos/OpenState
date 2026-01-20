@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-07-01T22:00:35",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2840",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D65B4F",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2840/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2840,
+  "receiptDate": "2024-05-15",
+  "term": 10,
+  "title": "Interpelacja w sprawie wymogów zabezpieczenia kredytu SBC",
+  "answerDelayedDays": 0,
+  "from": [
+    "409"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rozwoju i technologii",
+      "sent": "2024-06-14"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD6RHVW/i02840-o1.pdf",
+          "lastModified": "2024-07-01T22:00:35",
+          "name": "i02840-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Jacek Tomczak",
+      "key": "D6RHVW",
+      "lastModified": "2024-07-01T22:00:35",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D6RHVW",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2840/reply/D6RHVW/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-06-27"
+    }
+  ],
+  "sentDate": "2024-06-14",
+  "to": [
+    "minister rozwoju i technologii"
+  ]
+}

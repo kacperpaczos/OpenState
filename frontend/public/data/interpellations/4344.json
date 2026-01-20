@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-09-16T22:00:26",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=4344",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D8DDCG",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4344/body",
+      "rel": "body"
+    }
+  ],
+  "num": 4344,
+  "receiptDate": "2024-08-13",
+  "term": 10,
+  "title": "Interpelacja w sprawie programów rządowych wspierających rozwój państwa",
+  "answerDelayedDays": 0,
+  "from": [
+    "303"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "prezes Rady Ministrów",
+      "sent": "2024-08-22"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD96HYQ/i04344-o1.pdf",
+          "lastModified": "2024-09-16T22:00:26",
+          "name": "i04344-o1.pdf"
+        }
+      ],
+      "from": "Minister Maciej Berek",
+      "key": "D96HYQ",
+      "lastModified": "2024-09-16T22:00:26",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D96HYQ",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4344/reply/D96HYQ/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-09-12"
+    }
+  ],
+  "sentDate": "2024-08-22",
+  "to": [
+    "prezes Rady Ministrów"
+  ]
+}

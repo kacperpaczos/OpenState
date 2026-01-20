@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-08-20T22:00:59",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=3923",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D7FGRQ",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3923/body",
+      "rel": "body"
+    }
+  ],
+  "num": 3923,
+  "receiptDate": "2024-07-17",
+  "term": 10,
+  "title": "Interpelacja w sprawie planowania przebiegu kolei dużych prędkości w ramach linii kolejowej nr 85",
+  "answerDelayedDays": 0,
+  "from": [
+    "284"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister infrastruktury",
+      "sent": "2024-07-23"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD8BHVF/i03923-o1.pdf",
+          "lastModified": "2024-08-20T22:00:59",
+          "name": "i03923-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Piotr Malepszak",
+      "key": "D8BHVF",
+      "lastModified": "2024-08-20T22:00:59",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D8BHVF",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3923/reply/D8BHVF/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-08-17"
+    }
+  ],
+  "sentDate": "2024-07-23",
+  "to": [
+    "minister infrastruktury"
+  ]
+}

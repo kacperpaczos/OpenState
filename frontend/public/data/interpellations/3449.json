@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-07-12T22:00:50",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=3449",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D6FJ4J",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3449/body",
+      "rel": "body"
+    }
+  ],
+  "num": 3449,
+  "receiptDate": "2024-06-18",
+  "term": 10,
+  "title": "Interpelacja w sprawie pieniądza cyfrowego banku centralnego CBDC",
+  "answerDelayedDays": 0,
+  "from": [
+    "137"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister finansów",
+      "sent": "2024-06-21"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD74HSS/i03449-o1.pdf",
+          "lastModified": "2024-07-12T22:00:50",
+          "name": "i03449-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Jurand Drop",
+      "key": "D74HSS",
+      "lastModified": "2024-07-12T22:00:50",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D74HSS",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3449/reply/D74HSS/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-07-11"
+    }
+  ],
+  "sentDate": "2024-06-21",
+  "to": [
+    "minister finansów"
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "lastModified": "2025-01-09T16:01:22",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=6318",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DB7G99",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/6318/body",
+      "rel": "body"
+    }
+  ],
+  "num": 6318,
+  "receiptDate": "2024-11-17",
+  "term": 10,
+  "title": "Interpelacja w sprawie utworzenia centrów integracji cudzoziemców w woj. kujawsko-pomorskim",
+  "answerDelayedDays": 0,
+  "from": [
+    "167"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister spraw wewnętrznych i administracji",
+      "sent": "2024-11-20"
+    }
+  ],
+  "replies": [
+    {
+      "from": "Sekretarz stanu Wiesław Szczepański",
+      "key": "DCRKMM",
+      "lastModified": "2025-01-09T16:01:22",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DCRKMM",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/6318/reply/DCRKMM/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2025-01-08"
+    }
+  ],
+  "sentDate": "2024-11-20",
+  "to": [
+    "minister spraw wewnętrznych i administracji"
+  ]
+}

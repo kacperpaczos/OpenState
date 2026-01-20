@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-12-17T22:00:27",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=6212",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DB5K4T",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/6212/body",
+      "rel": "body"
+    }
+  ],
+  "num": 6212,
+  "receiptDate": "2024-11-14",
+  "term": 10,
+  "title": "Interpelacja w sprawie nieczynnych studni na terenach powodziowych oraz zniszczonej przez powódź sieci wodno-kanalizacyjnej",
+  "answerDelayedDays": 0,
+  "from": [
+    "167"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister spraw wewnętrznych i administracji",
+      "sent": "2024-11-18"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDC2HS8/i06212-o1.pdf",
+          "lastModified": "2024-12-17T22:00:27",
+          "name": "i06212-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Tomasz Szymański",
+      "key": "DC2HS8",
+      "lastModified": "2024-12-17T22:00:27",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DC2HS8",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/6212/reply/DC2HS8/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-12-17"
+    }
+  ],
+  "sentDate": "2024-11-18",
+  "to": [
+    "minister spraw wewnętrznych i administracji"
+  ]
+}

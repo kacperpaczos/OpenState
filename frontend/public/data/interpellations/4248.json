@@ -1,0 +1,68 @@
+{
+  "lastModified": "2024-09-24T22:00:15",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=4248",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D84GSJ",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4248/body",
+      "rel": "body"
+    }
+  ],
+  "num": 4248,
+  "receiptDate": "2024-08-05",
+  "term": 10,
+  "title": "Interpelacja w sprawie zasadności akcji promocyjnej - rozdawania kremówek papieskich w 2023 r. przeprowadzonej przez spółkę PKP Intercity SA i jej spółki zależne",
+  "answerDelayedDays": 0,
+  "from": [
+    "145",
+    "168",
+    "169",
+    "182",
+    "239",
+    "357"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister infrastruktury",
+      "sent": "2024-08-19"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD9EJ89/i04248-o1.pdf",
+          "lastModified": "2024-09-24T22:00:15",
+          "name": "i04248-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Piotr Malepszak",
+      "key": "D9EJ89",
+      "lastModified": "2024-09-24T22:00:15",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D9EJ89",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4248/reply/D9EJ89/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-09-23"
+    }
+  ],
+  "sentDate": "2024-08-19",
+  "to": [
+    "minister infrastruktury"
+  ]
+}

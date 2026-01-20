@@ -1,0 +1,71 @@
+{
+  "lastModified": "2024-10-15T22:00:21",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=4369",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D8DDD9",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4369/body",
+      "rel": "body"
+    }
+  ],
+  "num": 4369,
+  "receiptDate": "2024-08-16",
+  "term": 10,
+  "title": "Interpelacja w sprawie funkcjonowania placówek Poczty Polskiej",
+  "answerDelayedDays": 0,
+  "from": [
+    "239"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister aktywów państwowych",
+      "sent": "2024-08-22"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDA3HJL/i04369-o1.pdf",
+          "lastModified": "2024-10-15T22:00:21",
+          "name": "i04369-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Jacek Bartmiński",
+      "key": "DA3HJL",
+      "lastModified": "2024-10-15T22:00:21",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DA3HJL",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4369/reply/DA3HJL/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-10-14"
+    },
+    {
+      "from": "minister aktywów państwowych - Jakub Jaworowski",
+      "lastModified": "2024-09-17T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-09-17"
+    }
+  ],
+  "sentDate": "2024-08-22",
+  "to": [
+    "minister aktywów państwowych"
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "lastModified": "2024-07-24T15:07:48",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=3563",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D6SAKE",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3563/body",
+      "rel": "body"
+    }
+  ],
+  "num": 3563,
+  "receiptDate": "2024-06-27",
+  "term": 10,
+  "title": "Interpelacja w sprawie utworzenia w Ostrowcu Świętokrzyskim zamiejscowego punktu paszportowego",
+  "answerDelayedDays": 0,
+  "from": [
+    "069",
+    "433"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister spraw wewnętrznych i administracji, koordynator służb specjalnych",
+      "sent": "2024-07-02"
+    }
+  ],
+  "replies": [
+    {
+      "from": "Sekretarz stanu Tomasz Szymański",
+      "key": "D7GHEV",
+      "lastModified": "2024-07-24T15:07:48",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D7GHEV",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3563/reply/D7GHEV/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-07-24"
+    }
+  ],
+  "sentDate": "2024-07-02",
+  "to": [
+    "minister spraw wewnętrznych i administracji, koordynator służb specjalnych"
+  ]
+}

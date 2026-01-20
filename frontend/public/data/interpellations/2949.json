@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-07-03T22:00:35",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2949",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D65ANG",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2949/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2949,
+  "receiptDate": "2024-05-23",
+  "term": 10,
+  "title": "Interpelacja w sprawie cyfrowej waluty Europejskiego Banku Centralnego",
+  "answerDelayedDays": 0,
+  "from": [
+    "078"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister finansów",
+      "sent": "2024-06-11"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD6THF7/i02949-o1.pdf",
+          "lastModified": "2024-07-03T22:00:35",
+          "name": "i02949-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Jurand Drop",
+      "key": "D6THF7",
+      "lastModified": "2024-07-03T22:00:35",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D6THF7",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2949/reply/D6THF7/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-07-02"
+    }
+  ],
+  "sentDate": "2024-06-11",
+  "to": [
+    "minister finansów"
+  ]
+}

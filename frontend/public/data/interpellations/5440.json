@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-11-08T22:00:53",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5440",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DA6BBV",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5440/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5440,
+  "receiptDate": "2024-10-14",
+  "term": 10,
+  "title": "Interpelacja w sprawie usuwania azbestu w Polsce",
+  "answerDelayedDays": 0,
+  "from": [
+    "290"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rozwoju i technologii",
+      "sent": "2024-10-18"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDATJMP/i05440-o1.pdf",
+          "lastModified": "2024-11-08T22:00:53",
+          "name": "i05440-o1.pdf"
+        }
+      ],
+      "from": "Minister Krzysztof Paszyk",
+      "key": "DATJMP",
+      "lastModified": "2024-11-08T22:00:53",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DATJMP",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5440/reply/DATJMP/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-11-07"
+    }
+  ],
+  "sentDate": "2024-10-18",
+  "to": [
+    "minister rozwoju i technologii"
+  ]
+}

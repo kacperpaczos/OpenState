@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-05-24T22:00:14",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2663",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D4TAFJ",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2663/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2663,
+  "receiptDate": "2024-04-24",
+  "term": 10,
+  "title": "Interpelacja w sprawie zabezpieczenia polskich archiwaliów i muzealiów znajdujących się w Londynie",
+  "answerDelayedDays": 0,
+  "from": [
+    "075"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister kultury i dziedzictwa narodowego",
+      "sent": "2024-05-09"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD5KJCJ/i02663-o1.pdf",
+          "lastModified": "2024-05-24T22:00:14",
+          "name": "i02663-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Andrzej Wyrobiec",
+      "key": "D5KJCJ",
+      "lastModified": "2024-05-24T22:00:14",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D5KJCJ",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2663/reply/D5KJCJ/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-05-23"
+    }
+  ],
+  "sentDate": "2024-05-09",
+  "to": [
+    "minister kultury i dziedzictwa narodowego"
+  ]
+}

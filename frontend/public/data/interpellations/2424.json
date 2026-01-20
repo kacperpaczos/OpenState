@@ -1,0 +1,87 @@
+{
+  "lastModified": "2024-07-03T22:00:35",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2424",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D46HBQ",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2424/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2424,
+  "receiptDate": "2024-03-27",
+  "term": 10,
+  "title": "Interpelacja w sprawie możliwości pobierania łącznie emerytury będącej prawem nabytym i świadczenia pielęgnacyjnego przez rodziców i opiekunów osób niepełnosprawnych w stopniu znacznym",
+  "answerDelayedDays": 0,
+  "from": [
+    "127"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rodziny, pracy i polityki społecznej",
+      "sent": "2024-04-09"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD6THEV/i02424-o1.pdf",
+          "lastModified": "2024-07-03T22:00:35",
+          "name": "i02424-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Aleksandra Gajewska",
+      "key": "D6THEV",
+      "lastModified": "2024-07-03T22:00:35",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D6THEV",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2424/reply/D6THEV/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-07-02"
+    },
+    {
+      "from": "sekretarz stanu w Ministerstwie Rodziny, Pracy i Polityki Społecznej - Aleksandra Gajewska",
+      "lastModified": "2024-05-06T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-05-06"
+    },
+    {
+      "from": "sekretarz stanu w Ministerstwie Rodziny, Pracy i Polityki Społecznej - Aleksandra Gajewska",
+      "lastModified": "2024-05-24T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-05-24"
+    },
+    {
+      "from": "sekretarz stanu w Ministerstwie Rodziny, Pracy i Polityki Społecznej - Aleksandra Gajewska",
+      "lastModified": "2024-06-14T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-06-14"
+    }
+  ],
+  "sentDate": "2024-04-09",
+  "to": [
+    "minister rodziny, pracy i polityki społecznej"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-10-28T22:00:11",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5325",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DA2BY7",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5325/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5325,
+  "receiptDate": "2024-10-08",
+  "term": 10,
+  "title": "Interpelacja w sprawie waloryzacji stypendiów doktoranckich i płac w szkolnictwie wyższym",
+  "answerDelayedDays": 0,
+  "from": [
+    "120"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister finansów",
+      "sent": "2024-10-14"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDAGKJZ/i05325-o1.pdf",
+          "lastModified": "2024-10-28T22:00:11",
+          "name": "i05325-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Hanna Majszczyk",
+      "key": "DAGKJZ",
+      "lastModified": "2024-10-28T22:00:11",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAGKJZ",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5325/reply/DAGKJZ/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-10-25"
+    }
+  ],
+  "sentDate": "2024-10-14",
+  "to": [
+    "minister finansów"
+  ]
+}

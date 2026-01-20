@@ -1,0 +1,71 @@
+{
+  "lastModified": "2025-04-10T22:00:12",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5682",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAJAQV",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5682/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5682,
+  "receiptDate": "2024-10-21",
+  "term": 10,
+  "title": "Interpelacja w sprawie zespołu ds. oceny funkcjonowania systemu pozyskiwania sprzętu wojskowego",
+  "answerDelayedDays": 0,
+  "from": [
+    "020"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister obrony narodowej",
+      "sent": "2024-10-30"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDFLHQ9/i05682-o1.pdf",
+          "lastModified": "2025-04-10T22:00:12",
+          "name": "i05682-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Paweł Bejda",
+      "key": "DFLHQ9",
+      "lastModified": "2025-04-10T22:00:12",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DFLHQ9",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5682/reply/DFLHQ9/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2025-04-04"
+    },
+    {
+      "from": "sekretarz stanu w Ministerstwie Obrony Narodowej - Paweł Bejda",
+      "lastModified": "2025-04-03T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2025-04-03"
+    }
+  ],
+  "sentDate": "2024-10-30",
+  "to": [
+    "minister obrony narodowej"
+  ]
+}

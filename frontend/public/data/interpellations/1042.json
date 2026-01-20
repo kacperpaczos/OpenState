@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-03-18T22:00:02",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=1042",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CZYFR5",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1042/body",
+      "rel": "body"
+    }
+  ],
+  "num": 1042,
+  "receiptDate": "2024-01-20",
+  "term": 10,
+  "title": "Interpelacja w sprawie nieprawidłowości w zakresie organizowania i finansowania Akademii Wymiaru Sprawiedliwości, ze szczególnym uwzględnieniem rozliczenia Funduszu Sprawiedliwości",
+  "answerDelayedDays": 0,
+  "from": [
+    "284"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister sprawiedliwości",
+      "sent": "2024-01-30"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD3GKFY/i01042-o1.pdf",
+          "lastModified": "2024-03-18T22:00:02",
+          "name": "i01042-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Maria Ejchart",
+      "key": "D3GKFY",
+      "lastModified": "2024-03-18T22:00:02",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D3GKFY",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1042/reply/D3GKFY/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-03-14"
+    }
+  ],
+  "sentDate": "2024-01-30",
+  "to": [
+    "minister sprawiedliwości"
+  ]
+}

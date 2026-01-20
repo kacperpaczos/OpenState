@@ -1,0 +1,64 @@
+{
+  "lastModified": "2024-03-26T22:00:46",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=1717",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D36CRT",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1717/body",
+      "rel": "body"
+    }
+  ],
+  "num": 1717,
+  "receiptDate": "2024-02-22",
+  "term": 10,
+  "title": "Interpelacja w sprawie terminów oczekiwania na świadczenia zdrowotne",
+  "answerDelayedDays": 0,
+  "from": [
+    "065",
+    "367"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister zdrowia",
+      "sent": "2024-03-07"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD3QK4D/i01717-o1.pdf",
+          "lastModified": "2024-03-26T22:00:46",
+          "name": "i01717-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Wojciech Konieczny",
+      "key": "D3QK4D",
+      "lastModified": "2024-03-26T22:00:46",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D3QK4D",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1717/reply/D3QK4D/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-03-22"
+    }
+  ],
+  "sentDate": "2024-03-07",
+  "to": [
+    "minister zdrowia"
+  ]
+}

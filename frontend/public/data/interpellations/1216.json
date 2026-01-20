@@ -1,0 +1,64 @@
+{
+  "lastModified": "2024-02-28T22:00:42",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=1216",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D28GLJ",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1216/body",
+      "rel": "body"
+    }
+  ],
+  "num": 1216,
+  "receiptDate": "2024-01-29",
+  "term": 10,
+  "title": "Interpelacja w sprawie rekordowej straty Zamojskich Zakładów Zbożowych za rok 2023 oraz przyszłości tejże spółki",
+  "answerDelayedDays": 0,
+  "from": [
+    "095",
+    "321"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rolnictwa i rozwoju wsi",
+      "sent": "2024-02-07"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD2VJHR/i01216-o1.pdf",
+          "lastModified": "2024-02-28T22:00:42",
+          "name": "i01216-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Michał Kołodziejczak",
+      "key": "D2VJHR",
+      "lastModified": "2024-02-28T22:00:42",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D2VJHR",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1216/reply/D2VJHR/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-02-22"
+    }
+  ],
+  "sentDate": "2024-02-07",
+  "to": [
+    "minister rolnictwa i rozwoju wsi"
+  ]
+}

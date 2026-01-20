@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-04-15T22:00:16",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=1043",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CZYFR6",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1043/body",
+      "rel": "body"
+    }
+  ],
+  "num": 1043,
+  "receiptDate": "2024-01-21",
+  "term": 10,
+  "title": "Interpelacja w sprawie utrzymania zapisów nowelizacji ustawy o kuratorach sądowych w kwestii powoływania kuratora okręgowego przez ministra sprawiedliwości na nie więcej niż dwie kadencje oraz wyboru rzecznika dyscyplinarnego na 4-letnią kadencję przez prezesa sądu okręgowego, a także nowego wymiaru funkcjonowania i nowej jakości Krajowej Rady Kuratorów",
+  "answerDelayedDays": 0,
+  "from": [
+    "130"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister sprawiedliwości",
+      "sent": "2024-01-30"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD4CHWR/i01043-o1.pdf",
+          "lastModified": "2024-04-15T22:00:16",
+          "name": "i01043-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Maria Ejchart",
+      "key": "D4CHWR",
+      "lastModified": "2024-04-15T22:00:16",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D4CHWR",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1043/reply/D4CHWR/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-04-10"
+    }
+  ],
+  "sentDate": "2024-01-30",
+  "to": [
+    "minister sprawiedliwości"
+  ]
+}

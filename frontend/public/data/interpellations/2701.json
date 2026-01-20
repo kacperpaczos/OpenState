@@ -1,0 +1,64 @@
+{
+  "lastModified": "2024-06-05T22:00:53",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2701",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D55B2X",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2701/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2701,
+  "receiptDate": "2024-05-03",
+  "term": 10,
+  "title": "Interpelacja w sprawie rozwoju turystyki rowerowej",
+  "answerDelayedDays": 0,
+  "from": [
+    "259",
+    "357"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister sportu i turystyki",
+      "sent": "2024-05-10"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD5XHLK/i02701-o1.pdf",
+          "lastModified": "2024-06-05T22:00:53",
+          "name": "i02701-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Piotr Borys",
+      "key": "D5XHLK",
+      "lastModified": "2024-06-05T22:00:53",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D5XHLK",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2701/reply/D5XHLK/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-06-03"
+    }
+  ],
+  "sentDate": "2024-05-10",
+  "to": [
+    "minister sportu i turystyki"
+  ]
+}

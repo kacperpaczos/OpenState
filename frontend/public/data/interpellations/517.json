@@ -1,0 +1,80 @@
+{
+  "lastModified": "2024-01-31T15:30:58",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=517",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CZDB6Q",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/517/body",
+      "rel": "body"
+    }
+  ],
+  "num": 517,
+  "receiptDate": "2024-01-03",
+  "term": 10,
+  "title": "Interpelacja w sprawie pobytu obywateli Ukrainy w Polsce po 4 marca 2024 r.",
+  "answerDelayedDays": 0,
+  "from": [
+    "145"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister edukacji",
+      "sent": "2024-01-11"
+    },
+    {
+      "answerDelayedDays": 0,
+      "name": "minister spraw wewnętrznych i administracji",
+      "sent": "2024-01-15"
+    }
+  ],
+  "replies": [
+    {
+      "from": "Sekretarz stanu Joanna Mucha",
+      "key": "CZZJVR",
+      "lastModified": "2024-01-31T15:30:58",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CZZJVR",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/517/reply/CZZJVR/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-01-30"
+    },
+    {
+      "from": "Sekretarz stanu Tomasz Szymański",
+      "key": "CZZJVS",
+      "lastModified": "2024-01-31T15:30:58",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CZZJVS",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/517/reply/CZZJVS/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-01-30"
+    }
+  ],
+  "sentDate": "2024-01-15",
+  "to": [
+    "minister edukacji",
+    "minister spraw wewnętrznych i administracji"
+  ]
+}

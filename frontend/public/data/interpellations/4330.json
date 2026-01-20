@@ -1,0 +1,64 @@
+{
+  "lastModified": "2024-09-03T22:00:49",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=4330",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D85HLS",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4330/body",
+      "rel": "body"
+    }
+  ],
+  "num": 4330,
+  "receiptDate": "2024-08-12",
+  "term": 10,
+  "title": "Interpelacja w sprawie liczby absolwentów studiów magisterskich o kierunku psychologia",
+  "answerDelayedDays": 0,
+  "from": [
+    "032",
+    "412"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister nauki",
+      "sent": "2024-08-14"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD8RHXH/i04330-o1.pdf",
+          "lastModified": "2024-09-03T22:00:49",
+          "name": "i04330-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Maria Mrówczyńska",
+      "key": "D8RHXH",
+      "lastModified": "2024-09-03T22:00:49",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D8RHXH",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4330/reply/D8RHXH/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-09-02"
+    }
+  ],
+  "sentDate": "2024-08-14",
+  "to": [
+    "minister nauki"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-06-05T22:00:53",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2574",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D4N9AF",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2574/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2574,
+  "receiptDate": "2024-04-16",
+  "term": 10,
+  "title": "Interpelacja w sprawie dróg pow. kłodzkiego",
+  "answerDelayedDays": 0,
+  "from": [
+    "421"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister infrastruktury",
+      "sent": "2024-04-25"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD5XHLG/i02574-o1.pdf",
+          "lastModified": "2024-06-05T22:00:53",
+          "name": "i02574-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Przemysław Koperski",
+      "key": "D5XHLG",
+      "lastModified": "2024-06-05T22:00:53",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D5XHLG",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2574/reply/D5XHLG/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-05-29"
+    }
+  ],
+  "sentDate": "2024-04-25",
+  "to": [
+    "minister infrastruktury"
+  ]
+}

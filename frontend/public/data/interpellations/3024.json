@@ -1,0 +1,72 @@
+{
+  "lastModified": "2024-07-05T22:00:35",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=3024",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D65AQS",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3024/body",
+      "rel": "body"
+    }
+  ],
+  "num": 3024,
+  "receiptDate": "2024-06-02",
+  "term": 10,
+  "title": "Interpelacja w sprawie przyczyny obniżenia wysokości 14. emerytury i odstąpienia od tej niekorzystnej dla polskich seniorów decyzji",
+  "answerDelayedDays": 0,
+  "from": [
+    "007",
+    "461",
+    "027",
+    "030",
+    "040",
+    "072",
+    "131",
+    "227",
+    "242",
+    "315"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rodziny, pracy i polityki społecznej",
+      "sent": "2024-06-18"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD6VHXM/i03024-o1.pdf",
+          "lastModified": "2024-07-05T22:00:35",
+          "name": "i03024-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Sebastian Gajewski",
+      "key": "D6VHXM",
+      "lastModified": "2024-07-05T22:00:35",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D6VHXM",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3024/reply/D6VHXM/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-07-05"
+    }
+  ],
+  "sentDate": "2024-06-18",
+  "to": [
+    "minister rodziny, pracy i polityki społecznej"
+  ]
+}

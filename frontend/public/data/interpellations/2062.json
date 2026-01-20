@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-04-12T22:00:28",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2062",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D3KFBR",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2062/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2062,
+  "receiptDate": "2024-03-14",
+  "term": 10,
+  "title": "Interpelacja w sprawie aplikacji suszowej",
+  "answerDelayedDays": 0,
+  "from": [
+    "462"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rolnictwa i rozwoju wsi",
+      "sent": "2024-03-21"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD49HDU/i02062-o1.pdf",
+          "lastModified": "2024-04-12T22:00:28",
+          "name": "i02062-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Jacek Czerniak",
+      "key": "D49HDU",
+      "lastModified": "2024-04-12T22:00:28",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D49HDU",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2062/reply/D49HDU/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-04-11"
+    }
+  ],
+  "sentDate": "2024-03-21",
+  "to": [
+    "minister rolnictwa i rozwoju wsi"
+  ]
+}

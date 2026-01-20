@@ -1,0 +1,122 @@
+{
+  "lastModified": "2024-08-26T22:00:17",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=3522",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D6SAJ6",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3522/body",
+      "rel": "body"
+    }
+  ],
+  "num": 3522,
+  "receiptDate": "2024-06-24",
+  "term": 10,
+  "title": "Interpelacja w sprawie wprowadzenia od dnia 1 stycznia 2025 roku regulacji CAFE",
+  "answerDelayedDays": 0,
+  "from": [
+    "363"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister klimatu i środowiska",
+      "sent": "2024-07-03"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD7EHGE/i03522-o1.pdf",
+          "lastModified": "2024-07-22T22:00:39",
+          "name": "i03522-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Krzysztof Bolesta",
+      "key": "D7EHGE",
+      "lastModified": "2024-07-22T22:00:39",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D7EHGE",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3522/reply/D7EHGE/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-07-16"
+    }
+  ],
+  "sentDate": "2024-08-02",
+  "to": [
+    "minister klimatu i środowiska"
+  ],
+  "repeatedInterpellation": [
+    {
+      "lastModified": "2024-08-26T22:00:17",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=3522",
+          "rel": "web-description"
+        },
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D7QHGB",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3522p/body",
+          "rel": "body"
+        }
+      ],
+      "num": 3522,
+      "receiptDate": "2024-07-30",
+      "term": 10,
+      "title": "Interpelacja w sprawie wprowadzenia od dnia 1 stycznia 2025 roku regulacji CAFE",
+      "answerDelayedDays": 0,
+      "from": [
+        "363"
+      ],
+      "recipientDetails": [],
+      "replies": [
+        {
+          "attachments": [
+            {
+              "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD8HHWV/i03522-o2.pdf",
+              "lastModified": "2024-08-26T22:00:17",
+              "name": "i03522-o2.pdf"
+            }
+          ],
+          "from": "Sekretarz stanu Krzysztof Bolesta",
+          "key": "D8HHWV",
+          "lastModified": "2024-08-26T22:00:17",
+          "links": [
+            {
+              "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D8HHWV",
+              "rel": "web-body"
+            },
+            {
+              "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3522p/reply/D8HHWV/body",
+              "rel": "body"
+            }
+          ],
+          "onlyAttachment": true,
+          "prolongation": false,
+          "receiptDate": "2024-08-22"
+        }
+      ],
+      "sentDate": "2024-08-01",
+      "to": [
+        "minister klimatu i środowiska"
+      ]
+    }
+  ]
+}

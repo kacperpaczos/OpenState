@@ -1,0 +1,65 @@
+{
+  "lastModified": "2024-08-08T22:00:24",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=4020",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D7MB93",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4020/body",
+      "rel": "body"
+    }
+  ],
+  "num": 4020,
+  "receiptDate": "2024-07-24",
+  "term": 10,
+  "title": "Interpelacja w sprawie trudnej sytuacji pszczelarzy na Dolnym Śląsku w związku z masowym występowaniem spadzi modrzewiowej",
+  "answerDelayedDays": 0,
+  "from": [
+    "060",
+    "088",
+    "140"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rolnictwa i rozwoju wsi",
+      "sent": "2024-07-29"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD7XHKM/i04020-o1.pdf",
+          "lastModified": "2024-08-08T22:00:24",
+          "name": "i04020-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Michał Kołodziejczak",
+      "key": "D7XHKM",
+      "lastModified": "2024-08-08T22:00:24",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D7XHKM",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4020/reply/D7XHKM/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-08-06"
+    }
+  ],
+  "sentDate": "2024-07-29",
+  "to": [
+    "minister rolnictwa i rozwoju wsi"
+  ]
+}

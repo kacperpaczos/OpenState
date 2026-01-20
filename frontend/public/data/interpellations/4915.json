@@ -1,0 +1,71 @@
+{
+  "lastModified": "2024-12-04T22:00:26",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=4915",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D9FFY5",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4915/body",
+      "rel": "body"
+    }
+  ],
+  "num": 4915,
+  "receiptDate": "2024-09-18",
+  "term": 10,
+  "title": "Interpelacja w sprawie pogłębienia rzeki Wisły",
+  "answerDelayedDays": 0,
+  "from": [
+    "476"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister infrastruktury",
+      "sent": "2024-09-25"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDBMJQF/i04915-o1.pdf",
+          "lastModified": "2024-12-04T22:00:26",
+          "name": "i04915-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Przemysław Koperski",
+      "key": "DBMJQF",
+      "lastModified": "2024-12-04T22:00:26",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DBMJQF",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4915/reply/DBMJQF/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-12-02"
+    },
+    {
+      "from": "podsekretarz stanu w Ministerstwie Infrastruktury - Przemysław Koperski",
+      "lastModified": "2024-10-21T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-10-21"
+    }
+  ],
+  "sentDate": "2024-09-25",
+  "to": [
+    "minister infrastruktury"
+  ]
+}

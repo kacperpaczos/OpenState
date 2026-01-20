@@ -1,0 +1,60 @@
+{
+  "lastModified": "2024-11-06T15:15:48",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5114",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D9W8W6",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5114/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5114,
+  "receiptDate": "2024-09-27",
+  "term": 10,
+  "title": "Interpelacja w sprawie wypłaty środków w ramach projektu \"Bitwa o remizy\"",
+  "answerDelayedDays": 0,
+  "from": [
+    "022",
+    "071",
+    "234",
+    "248",
+    "356"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister spraw wewnętrznych i administracji",
+      "sent": "2024-10-10"
+    }
+  ],
+  "replies": [
+    {
+      "from": "Podsekretarz stanu Wiesław Leśniakiewicz",
+      "key": "DARJQQ",
+      "lastModified": "2024-11-06T15:15:48",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DARJQQ",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5114/reply/DARJQQ/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-11-05"
+    }
+  ],
+  "sentDate": "2024-10-10",
+  "to": [
+    "minister spraw wewnętrznych i administracji"
+  ]
+}

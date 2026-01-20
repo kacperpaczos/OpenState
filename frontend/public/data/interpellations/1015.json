@@ -1,0 +1,71 @@
+{
+  "lastModified": "2024-03-19T22:00:03",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=1015",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CZYFQB",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1015/body",
+      "rel": "body"
+    }
+  ],
+  "num": 1015,
+  "receiptDate": "2024-01-17",
+  "term": 10,
+  "title": "Interpelacja w sprawie środków z rządowego Programu Inwestycji Strategicznych dla miasta Lipno",
+  "answerDelayedDays": 0,
+  "from": [
+    "095"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "prezes Rady Ministrów",
+      "sent": "2024-01-30"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD3HK8N/i01015-o1.pdf",
+          "lastModified": "2024-03-19T22:00:03",
+          "name": "i01015-o1.pdf"
+        }
+      ],
+      "from": "Minister Jan Grabiec",
+      "key": "D3HK8N",
+      "lastModified": "2024-03-19T22:00:03",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D3HK8N",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1015/reply/D3HK8N/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-03-12"
+    },
+    {
+      "from": "minister - członek Rady Ministrów - Maciej Berek",
+      "lastModified": "2024-02-12T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-02-12"
+    }
+  ],
+  "sentDate": "2024-01-30",
+  "to": [
+    "prezes Rady Ministrów"
+  ]
+}

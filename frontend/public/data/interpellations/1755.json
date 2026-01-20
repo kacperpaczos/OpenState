@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-03-25T22:00:46",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=1755",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D36CSZ",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1755/body",
+      "rel": "body"
+    }
+  ],
+  "num": 1755,
+  "receiptDate": "2024-02-26",
+  "term": 10,
+  "title": "Interpelacja w sprawie zatrzymania napływu produktów rolnych z Ukrainy oraz likwidacji unijnego \"zielonego ładu\"",
+  "answerDelayedDays": 0,
+  "from": [
+    "436"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rolnictwa i rozwoju wsi",
+      "sent": "2024-03-08"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD3PK97/i01755-o1.pdf",
+          "lastModified": "2024-03-25T22:00:46",
+          "name": "i01755-o1.pdf"
+        }
+      ],
+      "from": "Minister Czesław Siekierski",
+      "key": "D3PK97",
+      "lastModified": "2024-03-25T22:00:46",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D3PK97",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1755/reply/D3PK97/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-03-22"
+    }
+  ],
+  "sentDate": "2024-03-08",
+  "to": [
+    "minister rolnictwa i rozwoju wsi"
+  ]
+}

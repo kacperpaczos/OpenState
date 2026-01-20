@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-10-29T22:00:11",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5236",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D9W8ZW",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5236/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5236,
+  "receiptDate": "2024-10-02",
+  "term": 10,
+  "title": "Interpelacja w sprawie podatników zawierających umowę o pracę z byłym kontrahentem, z którym wcześniej podejmowali współpracę w ramach jednoosobowej działalności gospodarczej",
+  "answerDelayedDays": 0,
+  "from": [
+    "241"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister finansów",
+      "sent": "2024-10-10"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDAHK2E/i05236-o1.pdf",
+          "lastModified": "2024-10-29T22:00:11",
+          "name": "i05236-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Jarosław Neneman",
+      "key": "DAHK2E",
+      "lastModified": "2024-10-29T22:00:11",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAHK2E",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5236/reply/DAHK2E/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-10-28"
+    }
+  ],
+  "sentDate": "2024-10-10",
+  "to": [
+    "minister finansów"
+  ]
+}

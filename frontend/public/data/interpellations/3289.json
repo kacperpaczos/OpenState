@@ -1,0 +1,59 @@
+{
+  "lastModified": "2024-07-29T15:36:33",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=3289",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D65A3F",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3289/body",
+      "rel": "body"
+    }
+  ],
+  "num": 3289,
+  "receiptDate": "2024-06-05",
+  "term": 10,
+  "title": "Interpelacja w sprawie opóźnienia podziału środków na zakup nowych wozów dla jednostek OSP",
+  "answerDelayedDays": 0,
+  "from": [
+    "004",
+    "027",
+    "040",
+    "242"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister spraw wewnętrznych i administracji",
+      "sent": "2024-06-11"
+    }
+  ],
+  "replies": [
+    {
+      "from": "Podsekretarz stanu Wiesław Leśniakiewicz",
+      "key": "D7MHYD",
+      "lastModified": "2024-07-29T15:36:33",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D7MHYD",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3289/reply/D7MHYD/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-07-26"
+    }
+  ],
+  "sentDate": "2024-06-11",
+  "to": [
+    "minister spraw wewnętrznych i administracji"
+  ]
+}

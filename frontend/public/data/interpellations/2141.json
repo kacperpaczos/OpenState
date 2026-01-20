@@ -1,0 +1,135 @@
+{
+  "lastModified": "2024-04-26T22:00:05",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2141",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D3SHZ4",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2141/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2141,
+  "receiptDate": "2024-03-18",
+  "term": 10,
+  "title": "Interpelacja w sprawie sytuacji na rynku pracy osób z niepełnosprawnościami i propozycji działań na rzecz poprawy ich integracji zawodowej",
+  "answerDelayedDays": 0,
+  "from": [
+    "154",
+    "234",
+    "435"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister ds. polityki senioralnej",
+      "sent": "2024-03-28"
+    },
+    {
+      "answerDelayedDays": 0,
+      "name": "minister ds. równości",
+      "sent": "2024-03-28"
+    },
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rodziny, pracy i polityki społecznej",
+      "sent": "2024-03-28"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD4FH4Q/i02141-o1.pdf",
+          "lastModified": "2024-04-18T22:00:16",
+          "name": "i02141-o1.pdf"
+        }
+      ],
+      "from": "Minister Marzena Okła-Drewnowicz",
+      "key": "D4FH4Q",
+      "lastModified": "2024-04-18T22:00:16",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D4FH4Q",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2141/reply/D4FH4Q/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-04-16"
+    },
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD4LJEF/i02141-o2.pdf",
+          "lastModified": "2024-04-23T22:00:04",
+          "name": "i02141-o2.pdf"
+        }
+      ],
+      "from": "Minister Katarzyna Kotula",
+      "key": "D4LJEF",
+      "lastModified": "2024-04-23T22:00:04",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D4LJEF",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2141/reply/D4LJEF/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-04-22"
+    },
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD4PHY8/i02141-o3.pdf",
+          "lastModified": "2024-04-26T22:00:05",
+          "name": "i02141-o3.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Łukasz Krasoń",
+      "key": "D4PHY8",
+      "lastModified": "2024-04-26T22:00:05",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D4PHY8",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2141/reply/D4PHY8/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-04-25"
+    },
+    {
+      "from": "sekretarz stanu w Ministerstwie Rodziny, Pracy i Polityki Społecznej - Łukasz Krasoń",
+      "lastModified": "2024-04-23T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-04-23"
+    }
+  ],
+  "sentDate": "2024-03-28",
+  "to": [
+    "minister ds. polityki senioralnej",
+    "minister ds. równości",
+    "minister rodziny, pracy i polityki społecznej"
+  ]
+}

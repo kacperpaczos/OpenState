@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-11-19T22:00:07",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=6103",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAYJVQ",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/6103/body",
+      "rel": "body"
+    }
+  ],
+  "num": 6103,
+  "receiptDate": "2024-11-07",
+  "term": 10,
+  "title": "Interpelacja w sprawie pomocy suszonej w roku 2024",
+  "answerDelayedDays": 0,
+  "from": [
+    "492"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rolnictwa i rozwoju wsi",
+      "sent": "2024-11-13"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDB6KP2/i06103-o1.pdf",
+          "lastModified": "2024-11-19T22:00:07",
+          "name": "i06103-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Stefan Krajewski",
+      "key": "DB6KP2",
+      "lastModified": "2024-11-19T22:00:07",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DB6KP2",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/6103/reply/DB6KP2/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-11-15"
+    }
+  ],
+  "sentDate": "2024-11-13",
+  "to": [
+    "minister rolnictwa i rozwoju wsi"
+  ]
+}

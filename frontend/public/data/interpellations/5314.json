@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-10-30T22:00:11",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5314",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D9W948",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5314/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5314,
+  "receiptDate": "2024-10-07",
+  "term": 10,
+  "title": "Interpelacja w sprawie finansowania budowy Europejskiego Centrum Filmowego Camerimage",
+  "answerDelayedDays": 0,
+  "from": [
+    "239"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister kultury i dziedzictwa narodowego",
+      "sent": "2024-10-10"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDAJJX8/i05314-o1.pdf",
+          "lastModified": "2024-10-30T22:00:11",
+          "name": "i05314-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Andrzej Wyrobiec",
+      "key": "DAJJX8",
+      "lastModified": "2024-10-30T22:00:11",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAJJX8",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5314/reply/DAJJX8/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-10-29"
+    }
+  ],
+  "sentDate": "2024-10-10",
+  "to": [
+    "minister kultury i dziedzictwa narodowego"
+  ]
+}

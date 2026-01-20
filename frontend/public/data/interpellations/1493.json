@@ -1,0 +1,56 @@
+{
+  "lastModified": "2024-03-13T14:56:35",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=1493",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D2NGTZ",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1493/body",
+      "rel": "body"
+    }
+  ],
+  "num": 1493,
+  "receiptDate": "2024-02-19",
+  "term": 10,
+  "title": "Interpelacja w sprawie wysokości stypendiów doktoranckich",
+  "answerDelayedDays": 0,
+  "from": [
+    "334"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister nauki",
+      "sent": "2024-02-21"
+    }
+  ],
+  "replies": [
+    {
+      "from": "Podsekretarz stanu Maciej Gdula",
+      "key": "D2XLH2",
+      "lastModified": "2024-03-13T14:56:35",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D2XLH2",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1493/reply/D2XLH2/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-02-28"
+    }
+  ],
+  "sentDate": "2024-02-21",
+  "to": [
+    "minister nauki"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "lastModified": "2024-12-23T22:00:38",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=6122",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAYJWA",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/6122/body",
+      "rel": "body"
+    }
+  ],
+  "num": 6122,
+  "receiptDate": "2024-11-08",
+  "term": 10,
+  "title": "Interpelacja w sprawie wydłużenia terminu na wpisywanie danych do Centralnego Rejestru Pieczy Zastępczej",
+  "answerDelayedDays": 0,
+  "from": [
+    "259"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rodziny, pracy i polityki społecznej",
+      "sent": "2024-11-13"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDC8K6R/i06122-o1.pdf",
+          "lastModified": "2024-12-23T22:00:38",
+          "name": "i06122-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Aleksandra Gajewska",
+      "key": "DC8K6R",
+      "lastModified": "2024-12-23T22:00:38",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DC8K6R",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/6122/reply/DC8K6R/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-12-20"
+    },
+    {
+      "from": "sekretarz stanu w Ministerstwie Rodziny, Pracy i Polityki Społecznej - Aleksandra Gajewska",
+      "lastModified": "2024-11-28T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-11-28"
+    }
+  ],
+  "sentDate": "2024-11-13",
+  "to": [
+    "minister rodziny, pracy i polityki społecznej"
+  ]
+}

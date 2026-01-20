@@ -1,0 +1,97 @@
+{
+  "lastModified": "2024-04-16T22:00:16",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2374",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D3SJ8Y",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2374/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2374,
+  "receiptDate": "2024-03-25",
+  "term": 10,
+  "title": "Interpelacja w sprawie przeznaczenia 6% PKB na edukację",
+  "answerDelayedDays": 0,
+  "from": [
+    "146",
+    "150",
+    "154",
+    "202",
+    "234",
+    "279",
+    "311",
+    "333",
+    "356",
+    "404",
+    "435"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister edukacji",
+      "sent": "2024-03-28"
+    },
+    {
+      "answerDelayedDays": 0,
+      "name": "minister finansów",
+      "sent": "2024-03-28"
+    }
+  ],
+  "replies": [
+    {
+      "from": "Sekretarz stanu Henryk Kiepura",
+      "key": "D48HNW",
+      "lastModified": "2024-04-11T15:19:14",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D48HNW",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2374/reply/D48HNW/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-04-09"
+    },
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD4DHU7/i02374-o2.pdf",
+          "lastModified": "2024-04-16T22:00:16",
+          "name": "i02374-o2.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Hanna Majszczyk",
+      "key": "D4DHU7",
+      "lastModified": "2024-04-16T22:00:16",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D4DHU7",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2374/reply/D4DHU7/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-04-12"
+    }
+  ],
+  "sentDate": "2024-03-28",
+  "to": [
+    "minister edukacji",
+    "minister finansów"
+  ]
+}

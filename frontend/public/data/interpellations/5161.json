@@ -1,0 +1,70 @@
+{
+  "lastModified": "2025-03-28T22:00:02",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5161",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D9W8XL",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5161/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5161,
+  "receiptDate": "2024-09-30",
+  "term": 10,
+  "title": "Interpelacja w sprawie włączenia Lasów Państwowych do programu zielonych szkół dla dzieci z terenów powodziowych",
+  "answerDelayedDays": 0,
+  "from": [
+    "052",
+    "146",
+    "150",
+    "224",
+    "234",
+    "333",
+    "356",
+    "435"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister klimatu i środowiska",
+      "sent": "2024-10-10"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDF7KB2/i05161-o1.pdf",
+          "lastModified": "2025-03-28T22:00:02",
+          "name": "i05161-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Mikołaj Dorożała",
+      "key": "DF7KB2",
+      "lastModified": "2025-03-28T22:00:02",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DF7KB2",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5161/reply/DF7KB2/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2025-03-27"
+    }
+  ],
+  "sentDate": "2024-10-10",
+  "to": [
+    "minister klimatu i środowiska"
+  ]
+}

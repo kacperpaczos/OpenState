@@ -1,0 +1,71 @@
+{
+  "lastModified": "2024-06-13T22:00:18",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2468",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D46HCY",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2468/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2468,
+  "receiptDate": "2024-04-02",
+  "term": 10,
+  "title": "Interpelacja w sprawie zmian w Regulaminie konkursu w ramach Programu Rozwoju Organizacji Obywatelskich PROO na lata 2018-2030 Edycja 2024",
+  "answerDelayedDays": 0,
+  "from": [
+    "100"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister ds. społeczeństwa obywatelskiego",
+      "sent": "2024-04-09"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD67JEC/i02468-o1.pdf",
+          "lastModified": "2024-06-13T22:00:18",
+          "name": "i02468-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Marek Krawczyk",
+      "key": "D67JEC",
+      "lastModified": "2024-06-13T22:00:18",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D67JEC",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2468/reply/D67JEC/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-06-12"
+    },
+    {
+      "from": "minister - członek Rady Ministrów - Maciej Berek",
+      "lastModified": "2024-05-02T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-05-02"
+    }
+  ],
+  "sentDate": "2024-04-09",
+  "to": [
+    "minister ds. społeczeństwa obywatelskiego"
+  ]
+}

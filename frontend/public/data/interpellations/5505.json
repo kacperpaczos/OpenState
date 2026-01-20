@@ -1,0 +1,72 @@
+{
+  "lastModified": "2025-03-25T10:36:25",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5505",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DA9EFU",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5505/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5505,
+  "receiptDate": "2024-10-16",
+  "term": 10,
+  "title": "Interpelacja w sprawie uruchomienia drugiej linii produkcyjnej haubic samobieżnych AHS Krab w Gliwicach",
+  "answerDelayedDays": 0,
+  "from": [
+    "004",
+    "420"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister aktywów państwowych",
+      "sent": "2024-10-21"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDB9GFD/i05505-o1.pdf",
+          "lastModified": "2024-11-22T22:00:07",
+          "name": "i05505-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Marcin Kulasek",
+      "key": "DB9GFD",
+      "lastModified": "2024-11-22T22:00:07",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DB9GFD",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5505/reply/DB9GFD/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-11-20"
+    },
+    {
+      "from": "sekretarz stanu w Ministerstwie Aktywów Państwowych - Robert Kropiwnicki",
+      "lastModified": "2024-11-05T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-11-05"
+    }
+  ],
+  "sentDate": "2024-10-21",
+  "to": [
+    "minister aktywów państwowych"
+  ]
+}

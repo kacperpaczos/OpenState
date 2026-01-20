@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-08-28T22:00:18",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=4343",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D8DDCF",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4343/body",
+      "rel": "body"
+    }
+  ],
+  "num": 4343,
+  "receiptDate": "2024-08-13",
+  "term": 10,
+  "title": "Interpelacja w sprawie likwidacji Departamentu Restytucji Dóbr Kultury",
+  "answerDelayedDays": 0,
+  "from": [
+    "363"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister kultury i dziedzictwa narodowego",
+      "sent": "2024-08-22"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD8KHVP/i04343-o1.pdf",
+          "lastModified": "2024-08-28T22:00:18",
+          "name": "i04343-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Andrzej Wyrobiec",
+      "key": "D8KHVP",
+      "lastModified": "2024-08-28T22:00:18",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D8KHVP",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4343/reply/D8KHVP/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-08-27"
+    }
+  ],
+  "sentDate": "2024-08-22",
+  "to": [
+    "minister kultury i dziedzictwa narodowego"
+  ]
+}

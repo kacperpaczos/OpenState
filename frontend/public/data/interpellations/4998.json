@@ -1,0 +1,74 @@
+{
+  "lastModified": "2025-01-07T22:00:01",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=4998",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D9HJEJ",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4998/body",
+      "rel": "body"
+    }
+  ],
+  "num": 4998,
+  "receiptDate": "2024-09-23",
+  "term": 10,
+  "title": "Interpelacja w sprawie sygnałów o możliwej powodzi w systemie Copernicus",
+  "answerDelayedDays": 0,
+  "from": [
+    "150",
+    "202",
+    "234",
+    "435"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister infrastruktury",
+      "sent": "2024-10-03"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDCPJW5/i04998-o1.pdf",
+          "lastModified": "2025-01-07T22:00:01",
+          "name": "i04998-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Przemysław Koperski",
+      "key": "DCPJW5",
+      "lastModified": "2025-01-07T22:00:01",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DCPJW5",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4998/reply/DCPJW5/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-12-31"
+    },
+    {
+      "from": "podsekretarz stanu w Ministerstwie Infrastruktury - Przemysław Koperski",
+      "lastModified": "2024-10-18T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-10-18"
+    }
+  ],
+  "sentDate": "2024-10-03",
+  "to": [
+    "minister infrastruktury"
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "lastModified": "2024-09-19T15:23:43",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=3890",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D7AHEH",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3890/body",
+      "rel": "body"
+    }
+  ],
+  "num": 3890,
+  "receiptDate": "2024-07-15",
+  "term": 10,
+  "title": "Interpelacja w sprawie obniżenia wieku uprawniającego do kierowania autobusem",
+  "answerDelayedDays": 0,
+  "from": [
+    "239"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister infrastruktury",
+      "sent": "2024-07-18"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD8CHCN/i03890-o1.pdf",
+          "lastModified": "2024-08-21T22:00:59",
+          "name": "i03890-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Stanisław Bukowiec",
+      "key": "D8CHCN",
+      "lastModified": "2024-08-21T22:00:59",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D8CHCN",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3890/reply/D8CHCN/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-08-20"
+    }
+  ],
+  "sentDate": "2024-09-05",
+  "to": [
+    "minister infrastruktury"
+  ],
+  "repeatedInterpellation": [
+    {
+      "lastModified": "2024-09-18T22:00:26",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=3890",
+          "rel": "web-description"
+        },
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D8TC46",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3890p/body",
+          "rel": "body"
+        }
+      ],
+      "num": 3890,
+      "receiptDate": "2024-08-30",
+      "term": 10,
+      "title": "Interpelacja w sprawie obniżenia wieku uprawniającego do kierowania autobusem",
+      "answerDelayedDays": 0,
+      "from": [
+        "239"
+      ],
+      "recipientDetails": [],
+      "replies": [
+        {
+          "attachments": [
+            {
+              "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD98HCE/i03890-o2.pdf",
+              "lastModified": "2024-09-18T22:00:26",
+              "name": "i03890-o2.pdf"
+            }
+          ],
+          "from": "Sekretarz stanu Stanisław Bukowiec",
+          "key": "D98HCE",
+          "lastModified": "2024-09-18T22:00:26",
+          "links": [
+            {
+              "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D98HCE",
+              "rel": "web-body"
+            },
+            {
+              "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3890p/reply/D98HCE/body",
+              "rel": "body"
+            }
+          ],
+          "onlyAttachment": true,
+          "prolongation": false,
+          "receiptDate": "2024-09-16"
+        }
+      ],
+      "sentDate": "2024-09-05",
+      "to": [
+        "minister infrastruktury"
+      ]
+    }
+  ]
+}

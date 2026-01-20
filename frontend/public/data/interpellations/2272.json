@@ -1,0 +1,56 @@
+{
+  "lastModified": "2024-04-18T14:52:03",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2272",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D3SJ5T",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2272/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2272,
+  "receiptDate": "2024-03-21",
+  "term": 10,
+  "title": "Interpelacja w sprawie zapowiedzi wykreślenia oceny z religii ze świadectw szkolnych",
+  "answerDelayedDays": 0,
+  "from": [
+    "243"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister edukacji",
+      "sent": "2024-03-28"
+    }
+  ],
+  "replies": [
+    {
+      "from": "Sekretarz stanu Katarzyna Lubnauer",
+      "key": "D4FH4Z",
+      "lastModified": "2024-04-18T14:52:03",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D4FH4Z",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2272/reply/D4FH4Z/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-04-16"
+    }
+  ],
+  "sentDate": "2024-03-28",
+  "to": [
+    "minister edukacji"
+  ]
+}

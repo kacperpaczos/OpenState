@@ -1,0 +1,56 @@
+{
+  "lastModified": "2024-07-29T15:36:34",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=3678",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D73FBE",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3678/body",
+      "rel": "body"
+    }
+  ],
+  "num": 3678,
+  "receiptDate": "2024-07-05",
+  "term": 10,
+  "title": "Interpelacja w sprawie korzystania z kolei podczas wycieczek w ramach programu \"Poznaj Polskę\"",
+  "answerDelayedDays": 0,
+  "from": [
+    "239"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister edukacji",
+      "sent": "2024-07-11"
+    }
+  ],
+  "replies": [
+    {
+      "from": "Minister Barbara Nowacka",
+      "key": "D7MHYM",
+      "lastModified": "2024-07-29T15:36:34",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D7MHYM",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3678/reply/D7MHYM/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-07-26"
+    }
+  ],
+  "sentDate": "2024-07-11",
+  "to": [
+    "minister edukacji"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-10-29T22:00:11",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=4575",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D93F9C",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4575/body",
+      "rel": "body"
+    }
+  ],
+  "num": 4575,
+  "receiptDate": "2024-09-03",
+  "term": 10,
+  "title": "Interpelacja w sprawie utworzenia funduszu w celu zakupu taboru spalinowego na potrzeby transportu regionalnego",
+  "answerDelayedDays": 0,
+  "from": [
+    "445"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister infrastruktury",
+      "sent": "2024-09-13"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDAHJZT/i04575-o1.pdf",
+          "lastModified": "2024-10-29T22:00:11",
+          "name": "i04575-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Piotr Malepszak",
+      "key": "DAHJZT",
+      "lastModified": "2024-10-29T22:00:11",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAHJZT",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4575/reply/DAHJZT/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-10-28"
+    }
+  ],
+  "sentDate": "2024-09-13",
+  "to": [
+    "minister infrastruktury"
+  ]
+}

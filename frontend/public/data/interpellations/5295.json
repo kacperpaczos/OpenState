@@ -1,0 +1,71 @@
+{
+  "lastModified": "2024-11-19T22:00:07",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5295",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D9W93P",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5295/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5295,
+  "receiptDate": "2024-10-07",
+  "term": 10,
+  "title": "Interpelacja w sprawie sprzecznej z polską racją stanu (a zgodnej z niemiecką) decyzji o zmianach w finansowaniu programu \"Budowa i rozbudowa infrastruktury dostępowej do portu w Świnoujściu\" oraz opóźnienia w realizacji tej kluczowej inwestycji",
+  "answerDelayedDays": 0,
+  "from": [
+    "022",
+    "119",
+    "150",
+    "154",
+    "224",
+    "234",
+    "297",
+    "407",
+    "435"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister infrastruktury",
+      "sent": "2024-10-14"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDB6KNA/i05295-o1.pdf",
+          "lastModified": "2024-11-19T22:00:07",
+          "name": "i05295-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Arkadiusz Marchewka",
+      "key": "DB6KNA",
+      "lastModified": "2024-11-19T22:00:07",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DB6KNA",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5295/reply/DB6KNA/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-11-15"
+    }
+  ],
+  "sentDate": "2024-10-14",
+  "to": [
+    "minister infrastruktury"
+  ]
+}

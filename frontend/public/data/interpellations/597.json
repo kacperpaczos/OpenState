@@ -1,0 +1,71 @@
+{
+  "lastModified": "2024-02-15T22:00:09",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=597",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CZDANB",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/597/body",
+      "rel": "body"
+    }
+  ],
+  "num": 597,
+  "receiptDate": "2024-01-04",
+  "term": 10,
+  "title": "Interpelacja w sprawie rządowego Programu Inwestycji Strategicznych dla gm. Burzenin",
+  "answerDelayedDays": 0,
+  "from": [
+    "437"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "prezes Rady Ministrów",
+      "sent": "2024-01-11"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD2GJUE/i00597-o1.pdf",
+          "lastModified": "2024-02-15T22:00:09",
+          "name": "i00597-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Grzegorz Karpiński",
+      "key": "D2GJUE",
+      "lastModified": "2024-02-15T22:00:09",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D2GJUE",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/597/reply/D2GJUE/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-02-12"
+    },
+    {
+      "from": "minister - członek Rady Ministrów - Maciej Berek",
+      "lastModified": "2024-01-29T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-01-29"
+    }
+  ],
+  "sentDate": "2024-01-11",
+  "to": [
+    "prezes Rady Ministrów"
+  ]
+}

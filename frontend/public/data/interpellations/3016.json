@@ -1,0 +1,64 @@
+{
+  "lastModified": "2024-06-28T15:24:25",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=3016",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D65AQJ",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3016/body",
+      "rel": "body"
+    }
+  ],
+  "num": 3016,
+  "receiptDate": "2024-05-31",
+  "term": 10,
+  "title": "Interpelacja w sprawie uprawy i sprzedaży przez rolników konopi włóknistych oraz interpretacji przepisów obowiązujących w tej materii",
+  "answerDelayedDays": 0,
+  "from": [
+    "095",
+    "321"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister finansów",
+      "sent": "2024-06-11"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD6MHQN/i03016-o1.pdf",
+          "lastModified": "2024-06-27T22:00:38",
+          "name": "i03016-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Zbigniew Stawicki",
+      "key": "D6MHQN",
+      "lastModified": "2024-06-27T22:00:38",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D6MHQN",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3016/reply/D6MHQN/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-06-26"
+    }
+  ],
+  "sentDate": "2024-06-11",
+  "to": [
+    "minister finansów"
+  ]
+}

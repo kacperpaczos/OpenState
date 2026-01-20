@@ -1,0 +1,56 @@
+{
+  "lastModified": "2024-12-23T15:37:35",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=6176",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DB5K3R",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/6176/body",
+      "rel": "body"
+    }
+  ],
+  "num": 6176,
+  "receiptDate": "2024-11-13",
+  "term": 10,
+  "title": "Interpelacja w sprawie zmiany ustawy o strażach gminnych w kontekście sprawiedliwego uregulowania uprawnień emerytalnych funkcjonariuszy",
+  "answerDelayedDays": 0,
+  "from": [
+    "120"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister spraw wewnętrznych i administracji",
+      "sent": "2024-11-18"
+    }
+  ],
+  "replies": [
+    {
+      "from": "Sekretarz stanu Czesław Mroczek",
+      "key": "DC8K6S",
+      "lastModified": "2024-12-23T15:37:35",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DC8K6S",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/6176/reply/DC8K6S/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-12-20"
+    }
+  ],
+  "sentDate": "2024-11-18",
+  "to": [
+    "minister spraw wewnętrznych i administracji"
+  ]
+}

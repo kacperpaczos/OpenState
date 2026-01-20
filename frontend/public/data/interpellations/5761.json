@@ -1,0 +1,74 @@
+{
+  "lastModified": "2025-02-21T22:00:24",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5761",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAJAT9",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5761/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5761,
+  "receiptDate": "2024-10-24",
+  "term": 10,
+  "title": "Interpelacja w sprawie współpracy z Czechami podczas zagrożenia powodziowego",
+  "answerDelayedDays": 0,
+  "from": [
+    "050",
+    "065",
+    "200",
+    "269",
+    "289",
+    "380"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister klimatu i środowiska",
+      "sent": "2024-10-30"
+    },
+    {
+      "answerDelayedDays": 0,
+      "name": "minister infrastruktury",
+      "sent": "2024-10-30"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDE4KGC/i05761-o1.pdf",
+          "lastModified": "2025-02-21T22:00:24",
+          "name": "i05761-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Przemysław Koperski",
+      "key": "DE4KGC",
+      "lastModified": "2025-02-21T22:00:24",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DE4KGC",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5761/reply/DE4KGC/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2025-02-19"
+    }
+  ],
+  "sentDate": "2024-10-30",
+  "to": [
+    "minister infrastruktury",
+    "minister klimatu i środowiska"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-07-30T22:00:09",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=3726",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D73FCU",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3726/body",
+      "rel": "body"
+    }
+  ],
+  "num": 3726,
+  "receiptDate": "2024-07-08",
+  "term": 10,
+  "title": "Interpelacja w sprawie pieczy zastępczej",
+  "answerDelayedDays": 0,
+  "from": [
+    "238"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rodziny, pracy i polityki społecznej",
+      "sent": "2024-07-11"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD7NHVH/i03726-o1.pdf",
+          "lastModified": "2024-07-30T22:00:09",
+          "name": "i03726-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Aleksandra Gajewska",
+      "key": "D7NHVH",
+      "lastModified": "2024-07-30T22:00:09",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D7NHVH",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3726/reply/D7NHVH/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-07-29"
+    }
+  ],
+  "sentDate": "2024-07-11",
+  "to": [
+    "minister rodziny, pracy i polityki społecznej"
+  ]
+}

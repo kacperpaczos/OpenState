@@ -1,0 +1,65 @@
+{
+  "lastModified": "2024-06-28T15:24:29",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2892",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D65ALQ",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2892/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2892,
+  "receiptDate": "2024-05-20",
+  "term": 10,
+  "title": "Interpelacja w sprawie decyzji o rezygnacji z prac nad listą leków krytycznych, której przedstawienie było warunkiem otrzymania 139,5 mln euro z KPO i uruchomienia wypłat na rozwój infrastruktury służącej do wytwarzania w Polsce API do produkcji leków",
+  "answerDelayedDays": 0,
+  "from": [
+    "046",
+    "065",
+    "155"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rozwoju i technologii",
+      "sent": "2024-06-11"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD6DJWQ/i02892-o1.pdf",
+          "lastModified": "2024-06-28T15:23:57",
+          "name": "i02892-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Waldemar Sługocki",
+      "key": "D6DJWQ",
+      "lastModified": "2024-06-28T15:24:29",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D6DJWQ",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2892/reply/D6DJWQ/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-06-17"
+    }
+  ],
+  "sentDate": "2024-06-11",
+  "to": [
+    "minister rozwoju i technologii"
+  ]
+}

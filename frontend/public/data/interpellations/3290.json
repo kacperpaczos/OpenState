@@ -1,0 +1,64 @@
+{
+  "lastModified": "2024-06-28T15:24:28",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=3290",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D65A3G",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3290/body",
+      "rel": "body"
+    }
+  ],
+  "num": 3290,
+  "receiptDate": "2024-06-05",
+  "term": 10,
+  "title": "Interpelacja w sprawie problemów finansowych gmin",
+  "answerDelayedDays": 0,
+  "from": [
+    "182",
+    "431"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister finansów",
+      "sent": "2024-06-11"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD6MHQT/i03290-o1.pdf",
+          "lastModified": "2024-06-27T22:00:38",
+          "name": "i03290-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Hanna Majszczyk",
+      "key": "D6MHQT",
+      "lastModified": "2024-06-27T22:00:38",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D6MHQT",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3290/reply/D6MHQT/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-06-25"
+    }
+  ],
+  "sentDate": "2024-06-11",
+  "to": [
+    "minister finansów"
+  ]
+}

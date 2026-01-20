@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-05-16T22:00:24",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2658",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D4TAFD",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2658/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2658,
+  "receiptDate": "2024-04-24",
+  "term": 10,
+  "title": "Interpelacja w sprawie dokumentacji finansowych PZS-ów w Krajowym Rejestrze Sądowym",
+  "answerDelayedDays": 0,
+  "from": [
+    "260"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister sportu i turystyki",
+      "sent": "2024-04-30"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD5BHQH/i02658-o1.pdf",
+          "lastModified": "2024-05-16T22:00:24",
+          "name": "i02658-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Piotr Borys",
+      "key": "D5BHQH",
+      "lastModified": "2024-05-16T22:00:24",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D5BHQH",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2658/reply/D5BHQH/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-05-14"
+    }
+  ],
+  "sentDate": "2024-04-30",
+  "to": [
+    "minister sportu i turystyki"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "lastModified": "2024-12-09T22:00:07",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5739",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAJASL",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5739/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5739,
+  "receiptDate": "2024-10-24",
+  "term": 10,
+  "title": "Interpelacja w sprawie rozwoju infrastruktury do ładowania pojazdów elektrycznych wzdłuż podkarpackiej sieci TEN-T",
+  "answerDelayedDays": 0,
+  "from": [
+    "410"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister infrastruktury",
+      "sent": "2024-10-30"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDBSJRV/i05739-o1.pdf",
+          "lastModified": "2024-12-09T22:00:07",
+          "name": "i05739-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Stanisław Bukowiec",
+      "key": "DBSJRV",
+      "lastModified": "2024-12-09T22:00:07",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DBSJRV",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5739/reply/DBSJRV/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-12-06"
+    },
+    {
+      "from": "sekretarz stanu w Ministerstwie Infrastruktury - Stanisław Bukowiec",
+      "lastModified": "2024-11-19T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-11-19"
+    }
+  ],
+  "sentDate": "2024-10-30",
+  "to": [
+    "minister infrastruktury"
+  ]
+}

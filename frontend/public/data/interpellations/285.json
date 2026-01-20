@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-02-23T22:00:46",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=285",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CYRJ42",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/285/body",
+      "rel": "body"
+    }
+  ],
+  "num": 285,
+  "receiptDate": "2023-12-19",
+  "term": 10,
+  "title": "Interpelacja w sprawie uproszczenia procesu administracyjnego inwestycji wodno-kanalizacyjnych",
+  "answerDelayedDays": 0,
+  "from": [
+    "086"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rozwoju i technologii",
+      "sent": "2024-02-01"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD2QJNE/i00285-o1.pdf",
+          "lastModified": "2024-02-23T22:00:46",
+          "name": "i00285-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Krzysztof Kukucki",
+      "key": "D2QJNE",
+      "lastModified": "2024-02-23T22:00:46",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D2QJNE",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/285/reply/D2QJNE/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-02-22"
+    }
+  ],
+  "sentDate": "2024-02-01",
+  "to": [
+    "minister rozwoju i technologii"
+  ]
+}

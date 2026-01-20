@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-02-21T22:00:32",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=1221",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D28GLP",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1221/body",
+      "rel": "body"
+    }
+  ],
+  "num": 1221,
+  "receiptDate": "2024-01-29",
+  "term": 10,
+  "title": "Interpelacja w sprawie świadczeń opieki zdrowotnej przysługujących uchodźcom z Ukrainy",
+  "answerDelayedDays": 0,
+  "from": [
+    "074"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister zdrowia",
+      "sent": "2024-02-07"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD2NGQ9/i01221-o1.pdf",
+          "lastModified": "2024-02-21T22:00:32",
+          "name": "i01221-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Maciej Miłkowski",
+      "key": "D2NGQ9",
+      "lastModified": "2024-02-21T22:00:32",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D2NGQ9",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1221/reply/D2NGQ9/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-02-20"
+    }
+  ],
+  "sentDate": "2024-02-07",
+  "to": [
+    "minister zdrowia"
+  ]
+}

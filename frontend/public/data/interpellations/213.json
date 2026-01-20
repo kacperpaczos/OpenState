@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-01-09T22:00:39",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=213",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CYNKFY",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/213/body",
+      "rel": "body"
+    }
+  ],
+  "num": 213,
+  "receiptDate": "2023-12-07",
+  "term": 10,
+  "title": "Interpelacja w sprawie ugorowania 4% gruntów rolnych",
+  "answerDelayedDays": 0,
+  "from": [
+    "450"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rolnictwa i rozwoju wsi",
+      "sent": "2023-12-19"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTCZBKB8/i00213-o1.pdf",
+          "lastModified": "2024-01-09T22:00:39",
+          "name": "i00213-o1.pdf"
+        }
+      ],
+      "from": "Minister Czesław Siekierski",
+      "key": "CZBKB8",
+      "lastModified": "2024-01-09T22:00:39",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CZBKB8",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/213/reply/CZBKB8/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-01-08"
+    }
+  ],
+  "sentDate": "2023-12-19",
+  "to": [
+    "minister rolnictwa i rozwoju wsi"
+  ]
+}

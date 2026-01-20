@@ -1,0 +1,56 @@
+{
+  "lastModified": "2024-11-05T15:21:27",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5369",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DA2BZH",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5369/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5369,
+  "receiptDate": "2024-10-09",
+  "term": 10,
+  "title": "Interpelacja w sprawie hejtu wobec dzieci i młodzieży w Polsce",
+  "answerDelayedDays": 0,
+  "from": [
+    "474"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister edukacji",
+      "sent": "2024-10-14"
+    }
+  ],
+  "replies": [
+    {
+      "from": "Podsekretarz stanu Paulina Piechna-Więckiewicz",
+      "key": "DAQJU8",
+      "lastModified": "2024-11-05T15:21:27",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAQJU8",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5369/reply/DAQJU8/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-11-04"
+    }
+  ],
+  "sentDate": "2024-10-14",
+  "to": [
+    "minister edukacji"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "lastModified": "2024-03-19T22:00:03",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=1231",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D28GLZ",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1231/body",
+      "rel": "body"
+    }
+  ],
+  "num": 1231,
+  "receiptDate": "2024-01-30",
+  "term": 10,
+  "title": "Interpelacja w sprawie obniżek cen i stawek opłat za ciepło w Głogowie",
+  "answerDelayedDays": 0,
+  "from": [
+    "135"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister klimatu i środowiska",
+      "sent": "2024-02-07"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD3HK8X/i01231-o1.pdf",
+          "lastModified": "2024-03-19T22:00:03",
+          "name": "i01231-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Urszula Zielińska",
+      "key": "D3HK8X",
+      "lastModified": "2024-03-19T22:00:03",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D3HK8X",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1231/reply/D3HK8X/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-03-15"
+    },
+    {
+      "from": "sekretarz stanu w Ministerstwie Klimatu i Środowiska - Urszula Zielińska",
+      "lastModified": "2024-02-15T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-02-15"
+    }
+  ],
+  "sentDate": "2024-02-07",
+  "to": [
+    "minister klimatu i środowiska"
+  ]
+}

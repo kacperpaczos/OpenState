@@ -1,0 +1,56 @@
+{
+  "lastModified": "2025-01-08T15:06:47",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=6181",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DB5K3V",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/6181/body",
+      "rel": "body"
+    }
+  ],
+  "num": 6181,
+  "receiptDate": "2024-11-13",
+  "term": 10,
+  "title": "Interpelacja w sprawie odzyskiwania za rządów Donalda Tuska emerytur przez funkcjonariuszy SB",
+  "answerDelayedDays": 0,
+  "from": [
+    "003"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister spraw wewnętrznych i administracji",
+      "sent": "2024-11-18"
+    }
+  ],
+  "replies": [
+    {
+      "from": "Sekretarz stanu Wiesław Szczepański",
+      "key": "DCQJKJ",
+      "lastModified": "2025-01-08T15:06:47",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DCQJKJ",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/6181/reply/DCQJKJ/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2025-01-07"
+    }
+  ],
+  "sentDate": "2024-11-18",
+  "to": [
+    "minister spraw wewnętrznych i administracji"
+  ]
+}

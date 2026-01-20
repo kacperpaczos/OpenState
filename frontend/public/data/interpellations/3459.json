@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-07-22T22:00:38",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=3459",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D6FJ4U",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3459/body",
+      "rel": "body"
+    }
+  ],
+  "num": 3459,
+  "receiptDate": "2024-06-18",
+  "term": 10,
+  "title": "Interpelacja w sprawie ekranów akustycznych",
+  "answerDelayedDays": 0,
+  "from": [
+    "223"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister infrastruktury",
+      "sent": "2024-06-21"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD7EHG5/i03459-o1.pdf",
+          "lastModified": "2024-07-22T22:00:38",
+          "name": "i03459-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Przemysław Koperski",
+      "key": "D7EHG5",
+      "lastModified": "2024-07-22T22:00:38",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D7EHG5",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3459/reply/D7EHG5/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-07-19"
+    }
+  ],
+  "sentDate": "2024-06-21",
+  "to": [
+    "minister infrastruktury"
+  ]
+}

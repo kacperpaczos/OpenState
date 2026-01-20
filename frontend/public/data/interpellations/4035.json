@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-09-18T22:00:26",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=4035",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D7MB9J",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4035/body",
+      "rel": "body"
+    }
+  ],
+  "num": 4035,
+  "receiptDate": "2024-07-24",
+  "term": 10,
+  "title": "Interpelacja w sprawie stanu zatrudnienia w Ministerstwie Obrony Narodowej w latach 2015-2023",
+  "answerDelayedDays": 0,
+  "from": [
+    "274"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister obrony narodowej",
+      "sent": "2024-07-29"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD98HCN/i04035-o1.pdf",
+          "lastModified": "2024-09-18T22:00:26",
+          "name": "i04035-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Paweł Bejda",
+      "key": "D98HCN",
+      "lastModified": "2024-09-18T22:00:26",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D98HCN",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4035/reply/D98HCN/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-08-13"
+    }
+  ],
+  "sentDate": "2024-07-29",
+  "to": [
+    "minister obrony narodowej"
+  ]
+}

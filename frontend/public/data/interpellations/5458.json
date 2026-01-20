@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-11-14T22:00:50",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5458",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DA6BCE",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5458/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5458,
+  "receiptDate": "2024-10-14",
+  "term": 10,
+  "title": "Interpelacja w sprawie stworzenia regulacji dla grup obrzędowych działających na terenie miast, na podobnych zasadach jak dla kół gospodyń wiejskich",
+  "answerDelayedDays": 0,
+  "from": [
+    "233"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister ds. społeczeństwa obywatelskiego",
+      "sent": "2024-10-18"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDAZKAA/i05458-o1.pdf",
+          "lastModified": "2024-11-14T22:00:50",
+          "name": "i05458-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Marek Krawczyk",
+      "key": "DAZKAA",
+      "lastModified": "2024-11-14T22:00:50",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAZKAA",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5458/reply/DAZKAA/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-11-13"
+    }
+  ],
+  "sentDate": "2024-10-18",
+  "to": [
+    "minister ds. społeczeństwa obywatelskiego"
+  ]
+}

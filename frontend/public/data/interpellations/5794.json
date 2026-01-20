@@ -1,0 +1,83 @@
+{
+  "lastModified": "2025-04-01T22:00:23",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5794",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAJAU9",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5794/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5794,
+  "receiptDate": "2024-10-25",
+  "term": 10,
+  "title": "Interpelacja w sprawie wydatków poniesionych przez KPRM i podmioty podległe - nadzorowane na cele promocyjne i reklamowe od 13 grudnia 2023 r.",
+  "answerDelayedDays": 0,
+  "from": [
+    "052",
+    "061",
+    "071",
+    "104",
+    "109",
+    "150",
+    "473",
+    "193",
+    "234",
+    "333",
+    "356",
+    "407",
+    "435"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "prezes Rady Ministrów",
+      "sent": "2024-10-30"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDFBHS3/i05794-o1.pdf",
+          "lastModified": "2025-04-01T22:00:23",
+          "name": "i05794-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Jakub Stefaniak",
+      "key": "DFBHS3",
+      "lastModified": "2025-04-01T22:00:23",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DFBHS3",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5794/reply/DFBHS3/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2025-03-31"
+    },
+    {
+      "from": "podsekretarz stanu w Kancelarii Prezesa Rady Ministrów - Karol Grzybowski",
+      "lastModified": "2024-11-05T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-11-05"
+    }
+  ],
+  "sentDate": "2024-10-30",
+  "to": [
+    "prezes Rady Ministrów"
+  ]
+}

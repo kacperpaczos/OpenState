@@ -1,0 +1,89 @@
+{
+  "lastModified": "2024-12-18T22:00:27",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5779",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAJATS",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5779/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5779,
+  "receiptDate": "2024-10-25",
+  "term": 10,
+  "title": "Interpelacja w sprawie wydatków poniesionych przez Ministerstwo Funduszy i Polityki Regionalnej i podmioty podległe - nadzorowane na cele promocyjne i reklamowe od 13 grudnia 2023 r.",
+  "answerDelayedDays": 0,
+  "from": [
+    "052",
+    "061",
+    "071",
+    "109",
+    "150",
+    "234",
+    "356",
+    "407",
+    "435"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister funduszy i polityki regionalnej",
+      "sent": "2024-10-30"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDC3FL2/i05779-o1_1.pdf",
+          "lastModified": "2024-12-18T22:00:27",
+          "name": "i05779-o1_1.pdf"
+        },
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDC3FL2/i05779-o1_2.pdf",
+          "lastModified": "2024-12-18T22:00:27",
+          "name": "i05779-o1_2.pdf"
+        },
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDC3FL2/i05779-o1_3.pdf",
+          "lastModified": "2024-12-18T22:00:27",
+          "name": "i05779-o1_3.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Jan Szyszko",
+      "key": "DC3FL2",
+      "lastModified": "2024-12-18T22:00:27",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DC3FL2",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5779/reply/DC3FL2/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-12-16"
+    },
+    {
+      "from": "sekretarz stanu w Ministerstwie Funduszy i Polityki Regionalnej - Jan Szyszko",
+      "lastModified": "2024-11-20T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-11-20"
+    }
+  ],
+  "sentDate": "2024-10-30",
+  "to": [
+    "minister funduszy i polityki regionalnej"
+  ]
+}

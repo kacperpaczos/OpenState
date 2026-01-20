@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-07-08T22:00:54",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2990",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D65APQ",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2990/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2990,
+  "receiptDate": "2024-05-29",
+  "term": 10,
+  "title": "Interpelacja w sprawie Funduszu Sprawiedliwości",
+  "answerDelayedDays": 0,
+  "from": [
+    "414"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister sprawiedliwości",
+      "sent": "2024-06-11"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD6YH8P/i02990-o1.pdf",
+          "lastModified": "2024-07-08T22:00:54",
+          "name": "i02990-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Maria Ejchart",
+      "key": "D6YH8P",
+      "lastModified": "2024-07-08T22:00:54",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D6YH8P",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2990/reply/D6YH8P/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-07-03"
+    }
+  ],
+  "sentDate": "2024-06-11",
+  "to": [
+    "minister sprawiedliwości"
+  ]
+}

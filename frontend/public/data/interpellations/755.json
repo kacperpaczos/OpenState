@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-01-31T15:30:58",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=755",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CZDAT9",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/755/body",
+      "rel": "body"
+    }
+  ],
+  "num": 755,
+  "receiptDate": "2024-01-08",
+  "term": 10,
+  "title": "Interpelacja w sprawie bezprawnego zamachu na media publiczne",
+  "answerDelayedDays": 0,
+  "from": [
+    "366"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister kultury i dziedzictwa narodowego",
+      "sent": "2024-01-11"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTCZZJVT/i00755-o1.pdf",
+          "lastModified": "2024-01-31T15:30:40",
+          "name": "i00755-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Andrzej Wyrobiec",
+      "key": "CZZJVT",
+      "lastModified": "2024-01-31T15:30:58",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CZZJVT",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/755/reply/CZZJVT/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-01-30"
+    }
+  ],
+  "sentDate": "2024-01-11",
+  "to": [
+    "minister kultury i dziedzictwa narodowego"
+  ]
+}

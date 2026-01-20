@@ -1,0 +1,67 @@
+{
+  "lastModified": "2024-04-04T15:08:12",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=1630",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D2NGY7",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1630/body",
+      "rel": "body"
+    }
+  ],
+  "num": 1630,
+  "receiptDate": "2024-02-19",
+  "term": 10,
+  "title": "Interpelacja w sprawie dofinansowania dojazdów dzieci z niepełnosprawnością/dysfunkcją do przedszkoli znajdujących się poza gminą zamieszkania dziecka",
+  "answerDelayedDays": 0,
+  "from": [
+    "106",
+    "112",
+    "128",
+    "158",
+    "219",
+    "264",
+    "271",
+    "276",
+    "327",
+    "358",
+    "430",
+    "441"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister edukacji",
+      "sent": "2024-03-07"
+    }
+  ],
+  "replies": [
+    {
+      "from": "Podsekretarz stanu Izabela Ziętka",
+      "key": "D3ZHGG",
+      "lastModified": "2024-04-04T15:08:12",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D3ZHGG",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1630/reply/D3ZHGG/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-04-02"
+    }
+  ],
+  "sentDate": "2024-03-07",
+  "to": [
+    "minister edukacji"
+  ]
+}

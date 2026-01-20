@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-05-15T22:00:23",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2618",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D4N9BQ",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2618/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2618,
+  "receiptDate": "2024-04-19",
+  "term": 10,
+  "title": "Interpelacja w sprawie Stowarzyszenia Hospicjum św. Wawrzyńca w Gdyni",
+  "answerDelayedDays": 0,
+  "from": [
+    "198"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister zdrowia",
+      "sent": "2024-04-25"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD5AHLA/i02618-o1.pdf",
+          "lastModified": "2024-05-15T22:00:23",
+          "name": "i02618-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Wojciech Konieczny",
+      "key": "D5AHLA",
+      "lastModified": "2024-05-15T22:00:23",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D5AHLA",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2618/reply/D5AHLA/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-05-12"
+    }
+  ],
+  "sentDate": "2024-04-25",
+  "to": [
+    "minister zdrowia"
+  ]
+}

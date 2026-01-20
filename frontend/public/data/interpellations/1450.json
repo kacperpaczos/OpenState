@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-03-11T22:00:10",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=1450",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D2NGSN",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1450/body",
+      "rel": "body"
+    }
+  ],
+  "num": 1450,
+  "receiptDate": "2024-02-13",
+  "term": 10,
+  "title": "Interpelacja w sprawie lokalizacji na terenie gm. Sulechów drugiego węzła drogowego w ciągu drogi ekspresowej S3",
+  "answerDelayedDays": 0,
+  "from": [
+    "300"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister infrastruktury",
+      "sent": "2024-02-21"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD39JYD/i01450-o1.pdf",
+          "lastModified": "2024-03-11T22:00:10",
+          "name": "i01450-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Paweł Gancarz",
+      "key": "D39JYD",
+      "lastModified": "2024-03-11T22:00:10",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D39JYD",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1450/reply/D39JYD/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-03-06"
+    }
+  ],
+  "sentDate": "2024-02-21",
+  "to": [
+    "minister infrastruktury"
+  ]
+}

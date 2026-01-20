@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-10-30T22:00:11",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5374",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DA2BZN",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5374/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5374,
+  "receiptDate": "2024-10-09",
+  "term": 10,
+  "title": "Interpelacja w sprawie przekroczenia norm hałasu oraz jego wpływu na środowisko naturalne, w szczególności na obszary prawnie chronione",
+  "answerDelayedDays": 0,
+  "from": [
+    "138"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister klimatu i środowiska",
+      "sent": "2024-10-14"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDAJJXC/i05374-o1.pdf",
+          "lastModified": "2024-10-30T22:00:11",
+          "name": "i05374-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Anita Sowińska",
+      "key": "DAJJXC",
+      "lastModified": "2024-10-30T22:00:11",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAJJXC",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5374/reply/DAJJXC/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-10-29"
+    }
+  ],
+  "sentDate": "2024-10-14",
+  "to": [
+    "minister klimatu i środowiska"
+  ]
+}

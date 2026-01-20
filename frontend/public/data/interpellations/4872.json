@@ -1,0 +1,57 @@
+{
+  "lastModified": "2024-10-17T16:01:26",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=4872",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D9GGUC",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4872/body",
+      "rel": "body"
+    }
+  ],
+  "num": 4872,
+  "receiptDate": "2024-09-16",
+  "term": 10,
+  "title": "Interpelacja w sprawie bonu na zakup laptopa dla nauczycieli",
+  "answerDelayedDays": 0,
+  "from": [
+    "085",
+    "265"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister edukacji",
+      "sent": "2024-09-26"
+    }
+  ],
+  "replies": [
+    {
+      "from": "Sekretarz stanu Katarzyna Lubnauer",
+      "key": "DA5JG2",
+      "lastModified": "2024-10-17T16:01:26",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DA5JG2",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4872/reply/DA5JG2/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-10-16"
+    }
+  ],
+  "sentDate": "2024-09-26",
+  "to": [
+    "minister edukacji"
+  ]
+}

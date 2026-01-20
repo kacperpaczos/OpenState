@@ -1,0 +1,76 @@
+{
+  "lastModified": "2024-01-05T22:00:42",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CYAHB8",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2,
+  "receiptDate": "2023-11-17",
+  "term": 10,
+  "title": "Interpelacja w sprawie wyłączenia nieruchomości gruntowych z terenu Świętokrzyskiego Parku Narodowego",
+  "answerDelayedDays": 0,
+  "from": [
+    "023",
+    "096",
+    "112",
+    "128",
+    "158",
+    "171",
+    "252",
+    "271",
+    "272",
+    "327",
+    "341",
+    "376",
+    "391",
+    "441"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister klimatu i środowiska",
+      "sent": "2023-12-07"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTCZ7KFD/i00002-o1.pdf",
+          "lastModified": "2024-01-05T22:00:42",
+          "name": "i00002-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Mikołaj Dorożała",
+      "key": "CZ7KFD",
+      "lastModified": "2024-01-05T22:00:42",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CZ7KFD",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2/reply/CZ7KFD/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-01-03"
+    }
+  ],
+  "sentDate": "2023-12-07",
+  "to": [
+    "minister klimatu i środowiska"
+  ]
+}

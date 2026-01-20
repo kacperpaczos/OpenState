@@ -1,0 +1,130 @@
+{
+  "lastModified": "2025-04-17T22:00:09",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5900",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DBNK28",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5900/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5900,
+  "receiptDate": "2024-10-30",
+  "term": 10,
+  "title": "Interpelacja w sprawie tzw. moratorium na pozyskanie drewna",
+  "answerDelayedDays": 0,
+  "from": [
+    "326"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister klimatu i środowiska",
+      "sent": "2024-12-05"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDDVK4M/i05900-o1.pdf",
+          "lastModified": "2025-02-14T22:00:28",
+          "name": "i05900-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Mikołaj Dorożała",
+      "key": "DDVK4M",
+      "lastModified": "2025-02-14T22:00:28",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DDVK4M",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5900/reply/DDVK4M/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2025-02-13"
+    },
+    {
+      "from": "podsekretarz stanu w Ministerstwie Klimatu i Środowiska - Mikołaj Dorożała",
+      "lastModified": "2025-03-24T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2025-03-24"
+    }
+  ],
+  "sentDate": "2025-03-11",
+  "to": [
+    "minister klimatu i środowiska"
+  ],
+  "repeatedInterpellation": [
+    {
+      "lastModified": "2025-04-17T22:00:09",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5900",
+          "rel": "web-description"
+        },
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DEPFJF",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5900p/body",
+          "rel": "body"
+        }
+      ],
+      "num": 5900,
+      "receiptDate": "2025-03-05",
+      "term": 10,
+      "title": "Interpelacja w sprawie tzw. moratorium na pozyskanie drewna",
+      "answerDelayedDays": 0,
+      "from": [
+        "326"
+      ],
+      "recipientDetails": [],
+      "replies": [
+        {
+          "attachments": [
+            {
+              "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDFTHYT/i05900-o2.pdf",
+              "lastModified": "2025-04-17T22:00:09",
+              "name": "i05900-o2.pdf"
+            }
+          ],
+          "from": "Podsekretarz stanu Mikołaj Dorożała",
+          "key": "DFTHYT",
+          "lastModified": "2025-04-17T22:00:09",
+          "links": [
+            {
+              "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DFTHYT",
+              "rel": "web-body"
+            },
+            {
+              "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5900p/reply/DFTHYT/body",
+              "rel": "body"
+            }
+          ],
+          "onlyAttachment": true,
+          "prolongation": false,
+          "receiptDate": "2025-04-15"
+        }
+      ],
+      "sentDate": "2025-03-11",
+      "to": [
+        "minister klimatu i środowiska"
+      ]
+    }
+  ]
+}

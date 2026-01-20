@@ -1,0 +1,67 @@
+{
+  "lastModified": "2024-10-18T22:00:21",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=4770",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D9FFTR",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4770/body",
+      "rel": "body"
+    }
+  ],
+  "num": 4770,
+  "receiptDate": "2024-09-12",
+  "term": 10,
+  "title": "Interpelacja w sprawie wynagrodzeń pracowników jednostek organizacyjnych pomocy społecznej",
+  "answerDelayedDays": 0,
+  "from": [
+    "142",
+    "161",
+    "170",
+    "221",
+    "426"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rodziny, pracy i polityki społecznej",
+      "sent": "2024-09-25"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDA6J6P/i04770-o1.pdf",
+          "lastModified": "2024-10-18T22:00:21",
+          "name": "i04770-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Aleksandra Gajewska",
+      "key": "DA6J6P",
+      "lastModified": "2024-10-18T22:00:21",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DA6J6P",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4770/reply/DA6J6P/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-10-17"
+    }
+  ],
+  "sentDate": "2024-09-25",
+  "to": [
+    "minister rodziny, pracy i polityki społecznej"
+  ]
+}

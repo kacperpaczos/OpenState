@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-10-08T22:01:00",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=4350",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D8DDCN",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4350/body",
+      "rel": "body"
+    }
+  ],
+  "num": 4350,
+  "receiptDate": "2024-08-14",
+  "term": 10,
+  "title": "Interpelacja w sprawie dotacji z PUP na rozpoczęcie działalności gospodarczej dla osób pobierających rentę",
+  "answerDelayedDays": 0,
+  "from": [
+    "468"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rodziny, pracy i polityki społecznej",
+      "sent": "2024-08-22"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD9UJ5E/i04350-o1.pdf",
+          "lastModified": "2024-10-08T22:01:00",
+          "name": "i04350-o1.pdf"
+        }
+      ],
+      "from": "Minister Agnieszka Dziemianowicz-Bąk",
+      "key": "D9UJ5E",
+      "lastModified": "2024-10-08T22:01:00",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D9UJ5E",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4350/reply/D9UJ5E/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-10-07"
+    }
+  ],
+  "sentDate": "2024-08-22",
+  "to": [
+    "minister rodziny, pracy i polityki społecznej"
+  ]
+}

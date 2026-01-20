@@ -1,0 +1,56 @@
+{
+  "lastModified": "2024-07-15T15:54:34",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=3436",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D6FJ46",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3436/body",
+      "rel": "body"
+    }
+  ],
+  "num": 3436,
+  "receiptDate": "2024-06-18",
+  "term": 10,
+  "title": "Interpelacja w sprawie referendów w woj. podlaskim",
+  "answerDelayedDays": 0,
+  "from": [
+    "294"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister spraw wewnętrznych i administracji, koordynator służb specjalnych",
+      "sent": "2024-06-21"
+    }
+  ],
+  "replies": [
+    {
+      "from": "Sekretarz stanu Tomasz Szymański",
+      "key": "D77JC7",
+      "lastModified": "2024-07-15T15:54:34",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D77JC7",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3436/reply/D77JC7/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-07-12"
+    }
+  ],
+  "sentDate": "2024-06-21",
+  "to": [
+    "minister spraw wewnętrznych i administracji, koordynator służb specjalnych"
+  ]
+}

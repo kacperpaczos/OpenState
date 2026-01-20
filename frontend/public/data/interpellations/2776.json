@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-07-16T15:46:25",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2776",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D65B2K",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2776/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2776,
+  "receiptDate": "2024-05-10",
+  "term": 10,
+  "title": "Interpelacja w sprawie emerytur czerwcowych",
+  "answerDelayedDays": 0,
+  "from": [
+    "126"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rodziny, pracy i polityki społecznej",
+      "sent": "2024-06-10"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD78J5E/i02776-o1.pdf",
+          "lastModified": "2024-07-16T15:46:18",
+          "name": "i02776-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Sebastian Gajewski",
+      "key": "D78J5E",
+      "lastModified": "2024-07-16T15:46:25",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D78J5E",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2776/reply/D78J5E/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-07-15"
+    }
+  ],
+  "sentDate": "2024-06-10",
+  "to": [
+    "minister rodziny, pracy i polityki społecznej"
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "lastModified": "2024-01-30T22:00:51",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=801",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CZKAR3",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/801/body",
+      "rel": "body"
+    }
+  ],
+  "num": 801,
+  "receiptDate": "2024-01-11",
+  "term": 10,
+  "title": "Interpelacja w sprawie importu cukru z Ukrainy",
+  "answerDelayedDays": 0,
+  "from": [
+    "032",
+    "254",
+    "399",
+    "412"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rolnictwa i rozwoju wsi",
+      "sent": "2024-01-17"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTCZYFL8/i00801-o1.pdf",
+          "lastModified": "2024-01-30T22:00:51",
+          "name": "i00801-o1.pdf"
+        }
+      ],
+      "from": "Minister Czesław Siekierski",
+      "key": "CZYFL8",
+      "lastModified": "2024-01-30T22:00:51",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CZYFL8",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/801/reply/CZYFL8/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-01-26"
+    }
+  ],
+  "sentDate": "2024-01-17",
+  "to": [
+    "minister rolnictwa i rozwoju wsi"
+  ]
+}

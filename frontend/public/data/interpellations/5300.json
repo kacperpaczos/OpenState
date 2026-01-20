@@ -1,0 +1,75 @@
+{
+  "lastModified": "2024-11-18T22:00:08",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5300",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D9W93U",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5300/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5300,
+  "receiptDate": "2024-10-07",
+  "term": 10,
+  "title": "Interpelacja w sprawie ułatwień dla przedsiębiorców w zakresie usuwania odpadów popowodziowych",
+  "answerDelayedDays": 0,
+  "from": [
+    "150",
+    "234",
+    "356",
+    "407",
+    "435"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister - członek Rady Ministrów",
+      "sent": "2024-10-15"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDB5JWK/i05300-o1.pdf",
+          "lastModified": "2024-11-18T22:00:08",
+          "name": "i05300-o1.pdf"
+        }
+      ],
+      "from": "Minister Marcin Kierwiński",
+      "key": "DB5JWK",
+      "lastModified": "2024-11-18T22:00:08",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DB5JWK",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5300/reply/DB5JWK/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-11-15"
+    },
+    {
+      "from": "minister - członek Rady Ministrów - Marcin Kierwiński",
+      "lastModified": "2024-10-31T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-10-31"
+    }
+  ],
+  "sentDate": "2024-10-15",
+  "to": [
+    "minister - członek Rady Ministrów"
+  ]
+}

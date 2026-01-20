@@ -1,0 +1,56 @@
+{
+  "lastModified": "2025-01-29T15:13:32",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=6193",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DB5K49",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/6193/body",
+      "rel": "body"
+    }
+  ],
+  "num": 6193,
+  "receiptDate": "2024-11-13",
+  "term": 10,
+  "title": "Interpelacja w sprawie zmiany w przepisach dotyczących organizacji zgromadzeń publicznych i happeningów, na przykładzie chuligańskiego incydentu wywołanego w centrum Warszawy przez obywatela Ukrainy narodowości białoruskiej",
+  "answerDelayedDays": 0,
+  "from": [
+    "381"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister spraw wewnętrznych i administracji",
+      "sent": "2024-11-18"
+    }
+  ],
+  "replies": [
+    {
+      "from": "Sekretarz stanu Czesław Mroczek",
+      "key": "DDDJPG",
+      "lastModified": "2025-01-29T15:13:32",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DDDJPG",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/6193/reply/DDDJPG/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2025-01-28"
+    }
+  ],
+  "sentDate": "2024-11-18",
+  "to": [
+    "minister spraw wewnętrznych i administracji"
+  ]
+}

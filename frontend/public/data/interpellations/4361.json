@@ -1,0 +1,77 @@
+{
+  "lastModified": "2024-10-31T22:00:15",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=4361",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D8DDCZ",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4361/body",
+      "rel": "body"
+    }
+  ],
+  "num": 4361,
+  "receiptDate": "2024-08-14",
+  "term": 10,
+  "title": "Interpelacja w sprawie udziału Kancelarii Prezesa Rady Ministrów w wakacyjnej trasie Lata z Radiem i Telewizji Polskiej",
+  "answerDelayedDays": 483,
+  "from": [
+    "330"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "prezes Rady Ministrów",
+      "sent": "2024-08-22"
+    },
+    {
+      "answerDelayedDays": 483,
+      "name": "minister kultury i dziedzictwa narodowego",
+      "sent": "2024-09-03"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDAKJYC/i04361-o1.pdf",
+          "lastModified": "2024-10-31T22:00:15",
+          "name": "i04361-o1.pdf"
+        }
+      ],
+      "from": "Minister Jan Grabiec",
+      "key": "DAKJYC",
+      "lastModified": "2024-10-31T22:00:15",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAKJYC",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4361/reply/DAKJYC/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-10-29"
+    },
+    {
+      "from": "podsekretarz stanu w Ministerstwie Kultury i Dziedzictwa Narodowego - Andrzej Wyrobiec",
+      "lastModified": "2024-09-06T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-09-06"
+    }
+  ],
+  "sentDate": "2024-09-03",
+  "to": [
+    "minister kultury i dziedzictwa narodowego",
+    "prezes Rady Ministrów"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-11-08T22:00:53",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5368",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DA6BAF",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5368/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5368,
+  "receiptDate": "2024-10-09",
+  "term": 10,
+  "title": "Interpelacja w sprawie poprawy bezpieczeństwa i warunków pracy w KGHM Polska Miedź SA w związku z wypadkami śmiertelnymi na terenie spółki",
+  "answerDelayedDays": 0,
+  "from": [
+    "339"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister aktywów państwowych",
+      "sent": "2024-10-18"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDATJMK/i05368-o1.pdf",
+          "lastModified": "2024-11-08T22:00:53",
+          "name": "i05368-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Robert Kropiwnicki",
+      "key": "DATJMK",
+      "lastModified": "2024-11-08T22:00:53",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DATJMK",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5368/reply/DATJMK/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-11-06"
+    }
+  ],
+  "sentDate": "2024-10-18",
+  "to": [
+    "minister aktywów państwowych"
+  ]
+}

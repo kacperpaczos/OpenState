@@ -1,0 +1,68 @@
+{
+  "lastModified": "2024-07-30T22:00:09",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=3864",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D78E9Z",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3864/body",
+      "rel": "body"
+    }
+  ],
+  "num": 3864,
+  "receiptDate": "2024-07-12",
+  "term": 10,
+  "title": "Interpelacja w sprawie alokacji środków z Planu Strategicznego dla Wspólnej Polityki Rolnej na lata 2023-2027 w 2023 r. w pow. starogardzkim",
+  "answerDelayedDays": 0,
+  "from": [
+    "354"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rolnictwa i rozwoju wsi",
+      "sent": "2024-07-16"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD7NHVX/i03864-o1_2.pdf",
+          "lastModified": "2024-07-30T22:00:09",
+          "name": "i03864-o1_2.pdf"
+        },
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD7NHVX/i03864-o1_1.pdf",
+          "lastModified": "2024-07-30T22:00:09",
+          "name": "i03864-o1_1.pdf"
+        }
+      ],
+      "from": "Minister Czesław Siekierski",
+      "key": "D7NHVX",
+      "lastModified": "2024-07-30T22:00:09",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D7NHVX",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3864/reply/D7NHVX/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-07-26"
+    }
+  ],
+  "sentDate": "2024-07-16",
+  "to": [
+    "minister rolnictwa i rozwoju wsi"
+  ]
+}

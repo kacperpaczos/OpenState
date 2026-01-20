@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-03-01T22:00:43",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=1424",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D2FC4J",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1424/body",
+      "rel": "body"
+    }
+  ],
+  "num": 1424,
+  "receiptDate": "2024-02-10",
+  "term": 10,
+  "title": "Interpelacja w sprawie kontynuacji budowy obwodnicy Oławy",
+  "answerDelayedDays": 0,
+  "from": [
+    "136"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister infrastruktury",
+      "sent": "2024-02-13"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD2XLGY/i01424-o1.pdf",
+          "lastModified": "2024-03-01T22:00:43",
+          "name": "i01424-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Paweł Gancarz",
+      "key": "D2XLGY",
+      "lastModified": "2024-03-01T22:00:43",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D2XLGY",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1424/reply/D2XLGY/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-02-29"
+    }
+  ],
+  "sentDate": "2024-02-13",
+  "to": [
+    "minister infrastruktury"
+  ]
+}

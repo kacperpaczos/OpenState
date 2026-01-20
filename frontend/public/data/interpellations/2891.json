@@ -1,0 +1,58 @@
+{
+  "lastModified": "2024-07-15T15:54:34",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2891",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D65ALP",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2891/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2891,
+  "receiptDate": "2024-05-19",
+  "term": 10,
+  "title": "Interpelacja w sprawie usuwania nielegalnie zaparkowanych pojazdów na koszt właściciela",
+  "answerDelayedDays": 0,
+  "from": [
+    "138",
+    "239",
+    "357"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister spraw wewnętrznych i administracji, koordynator służb specjalnych",
+      "sent": "2024-06-17"
+    }
+  ],
+  "replies": [
+    {
+      "from": "Sekretarz stanu Czesław Mroczek",
+      "key": "D77JBP",
+      "lastModified": "2024-07-15T15:54:34",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D77JBP",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2891/reply/D77JBP/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-07-12"
+    }
+  ],
+  "sentDate": "2024-06-17",
+  "to": [
+    "minister spraw wewnętrznych i administracji, koordynator służb specjalnych"
+  ]
+}

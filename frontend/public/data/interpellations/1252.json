@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-03-06T22:00:31",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=1252",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D28GMM",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1252/body",
+      "rel": "body"
+    }
+  ],
+  "num": 1252,
+  "receiptDate": "2024-01-31",
+  "term": 10,
+  "title": "Interpelacja w sprawie liczby oraz zakresu odpowiedzialności ministrów, sekretarzy stanu i podsekretarzy stanu w rządzie Donalda Tuska",
+  "answerDelayedDays": 0,
+  "from": [
+    "136"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "prezes Rady Ministrów",
+      "sent": "2024-02-07"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD34L8Q/i01252-o1.pdf",
+          "lastModified": "2024-03-06T22:00:31",
+          "name": "i01252-o1.pdf"
+        }
+      ],
+      "from": "Minister Jan Grabiec",
+      "key": "D34L8Q",
+      "lastModified": "2024-03-06T22:00:31",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D34L8Q",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1252/reply/D34L8Q/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-03-04"
+    }
+  ],
+  "sentDate": "2024-02-07",
+  "to": [
+    "prezes Rady Ministrów"
+  ]
+}

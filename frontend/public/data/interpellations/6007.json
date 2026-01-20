@@ -1,0 +1,64 @@
+{
+  "lastModified": "2025-01-30T15:27:14",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=6007",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DATBAX",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/6007/body",
+      "rel": "body"
+    }
+  ],
+  "num": 6007,
+  "receiptDate": "2024-11-04",
+  "term": 10,
+  "title": "Interpelacja w sprawie bezpieczeństwa polskich wolontariuszy oraz pracowników organizacji humanitarnych działających w rejonach konfliktowych, na przykładzie Damiana Sobóla",
+  "answerDelayedDays": 0,
+  "from": [
+    "484"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister spraw zagranicznych",
+      "sent": "2024-11-07"
+    }
+  ],
+  "replies": [
+    {
+      "from": "Sekretarz stanu Władysław Teofil Bartoszewski",
+      "key": "DDEJXW",
+      "lastModified": "2025-01-30T15:27:14",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DDEJXW",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/6007/reply/DDEJXW/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2025-01-29"
+    },
+    {
+      "from": "sekretarz stanu w Ministerstwie Spraw Zagranicznych - Władysław Teofil Bartoszewski",
+      "lastModified": "2024-12-10T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-12-10"
+    }
+  ],
+  "sentDate": "2024-11-07",
+  "to": [
+    "minister spraw zagranicznych"
+  ]
+}

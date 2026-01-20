@@ -1,0 +1,57 @@
+{
+  "lastModified": "2024-07-24T15:07:48",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=3588",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D73F8M",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3588/body",
+      "rel": "body"
+    }
+  ],
+  "num": 3588,
+  "receiptDate": "2024-07-01",
+  "term": 10,
+  "title": "Interpelacja w sprawie przepisów Kodeksu postępowania administracyjnego dotyczących obowiązku przekazania skargi właściwemu organowi",
+  "answerDelayedDays": 0,
+  "from": [
+    "182",
+    "431"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister spraw wewnętrznych i administracji, koordynator służb specjalnych",
+      "sent": "2024-07-11"
+    }
+  ],
+  "replies": [
+    {
+      "from": "Sekretarz stanu Tomasz Szymański",
+      "key": "D7GHEW",
+      "lastModified": "2024-07-24T15:07:48",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D7GHEW",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3588/reply/D7GHEW/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-07-24"
+    }
+  ],
+  "sentDate": "2024-07-11",
+  "to": [
+    "minister spraw wewnętrznych i administracji, koordynator służb specjalnych"
+  ]
+}

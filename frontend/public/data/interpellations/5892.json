@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-11-26T22:00:48",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5892",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAPCWX",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5892/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5892,
+  "receiptDate": "2024-10-29",
+  "term": 10,
+  "title": "Interpelacja w sprawie finansowania kościołów i związków wyznaniowych w kontekście zakupu i sprzedaży ziemi",
+  "answerDelayedDays": 0,
+  "from": [
+    "145"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rolnictwa i rozwoju wsi",
+      "sent": "2024-11-04"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDBDKGH/i05892-o1.pdf",
+          "lastModified": "2024-11-26T22:00:48",
+          "name": "i05892-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Jacek Czerniak",
+      "key": "DBDKGH",
+      "lastModified": "2024-11-26T22:00:48",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DBDKGH",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5892/reply/DBDKGH/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-11-22"
+    }
+  ],
+  "sentDate": "2024-11-04",
+  "to": [
+    "minister rolnictwa i rozwoju wsi"
+  ]
+}

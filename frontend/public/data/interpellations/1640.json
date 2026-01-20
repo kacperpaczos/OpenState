@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-04-12T22:00:28",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=1640",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D2NGYG",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1640/body",
+      "rel": "body"
+    }
+  ],
+  "num": 1640,
+  "receiptDate": "2024-02-19",
+  "term": 10,
+  "title": "Interpelacja w sprawie wypowiedzi wiceministra Cezarego Tomczyka na temat incydentu pod Bydgoszczą, który miał miejsce 16 grudnia 2022 r.",
+  "answerDelayedDays": 0,
+  "from": [
+    "020"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister obrony narodowej",
+      "sent": "2024-02-21"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD49HD8/i01640-o1.pdf",
+          "lastModified": "2024-04-12T22:00:28",
+          "name": "i01640-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Cezary Tomczyk",
+      "key": "D49HD8",
+      "lastModified": "2024-04-12T22:00:28",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D49HD8",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1640/reply/D49HD8/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-04-11"
+    }
+  ],
+  "sentDate": "2024-02-21",
+  "to": [
+    "minister obrony narodowej"
+  ]
+}

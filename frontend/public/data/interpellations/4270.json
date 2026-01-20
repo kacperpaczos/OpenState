@@ -1,0 +1,100 @@
+{
+  "lastModified": "2024-09-05T22:00:53",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=4270",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D85HKF",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4270/body",
+      "rel": "body"
+    }
+  ],
+  "num": 4270,
+  "receiptDate": "2024-08-06",
+  "term": 10,
+  "title": "Interpelacja w sprawie budowy tunelu pod linią kolejową nr 14 w ciągu drogi krajowej nr 71 - ul. Lutomierska w Pabianicach",
+  "answerDelayedDays": 0,
+  "from": [
+    "437"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rozwoju i technologii",
+      "sent": "2024-08-14"
+    },
+    {
+      "answerDelayedDays": 0,
+      "name": "minister funduszy i polityki regionalnej",
+      "sent": "2024-08-14"
+    },
+    {
+      "answerDelayedDays": 0,
+      "name": "minister infrastruktury",
+      "sent": "2024-08-14"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD8MJ9P/i04270-o1.pdf",
+          "lastModified": "2024-08-30T22:00:18",
+          "name": "i04270-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Jan Szyszko",
+      "key": "D8MJ9P",
+      "lastModified": "2024-08-30T22:00:18",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D8MJ9P",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4270/reply/D8MJ9P/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-08-28"
+    },
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD8TH89/i04270-o2.pdf",
+          "lastModified": "2024-09-05T22:00:53",
+          "name": "i04270-o2.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Piotr Malepszak",
+      "key": "D8TH89",
+      "lastModified": "2024-09-05T22:00:53",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D8TH89",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4270/reply/D8TH89/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-09-04"
+    }
+  ],
+  "sentDate": "2024-08-14",
+  "to": [
+    "minister funduszy i polityki regionalnej",
+    "minister infrastruktury",
+    "minister rozwoju i technologii"
+  ]
+}

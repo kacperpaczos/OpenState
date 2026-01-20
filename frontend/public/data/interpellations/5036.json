@@ -1,0 +1,71 @@
+{
+  "lastModified": "2024-10-31T22:00:15",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5036",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D9HJFA",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5036/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5036,
+  "receiptDate": "2024-09-25",
+  "term": 10,
+  "title": "Interpelacja w sprawie braku rzecznika prasowego rządu",
+  "answerDelayedDays": 0,
+  "from": [
+    "167"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "prezes Rady Ministrów",
+      "sent": "2024-09-27"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDAKJYP/i05036-o1.pdf",
+          "lastModified": "2024-10-31T22:00:15",
+          "name": "i05036-o1.pdf"
+        }
+      ],
+      "from": "Minister Jan Grabiec",
+      "key": "DAKJYP",
+      "lastModified": "2024-10-31T22:00:15",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAKJYP",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5036/reply/DAKJYP/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-10-29"
+    },
+    {
+      "from": "podsekretarz stanu w Kancelarii Prezesa Rady Ministrów - Karol Grzybowski",
+      "lastModified": "2024-10-18T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-10-18"
+    }
+  ],
+  "sentDate": "2024-09-27",
+  "to": [
+    "prezes Rady Ministrów"
+  ]
+}

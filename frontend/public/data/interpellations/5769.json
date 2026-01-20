@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-11-19T22:00:07",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5769",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAJATH",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5769/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5769,
+  "receiptDate": "2024-10-24",
+  "term": 10,
+  "title": "Interpelacja w sprawie zagrożenia skreśleniem z Listy światowego dziedzictwa UNESCO Krzemionkowskiego regionu pradziejowego górnictwa krzemienia pasiastego na terenie miejscowości Śródborze",
+  "answerDelayedDays": 0,
+  "from": [
+    "138"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister kultury i dziedzictwa narodowego",
+      "sent": "2024-10-30"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDB6KNW/i05769-o1.pdf",
+          "lastModified": "2024-11-19T22:00:07",
+          "name": "i05769-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Bożena Żelazowska",
+      "key": "DB6KNW",
+      "lastModified": "2024-11-19T22:00:07",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DB6KNW",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5769/reply/DB6KNW/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-11-18"
+    }
+  ],
+  "sentDate": "2024-10-30",
+  "to": [
+    "minister kultury i dziedzictwa narodowego"
+  ]
+}

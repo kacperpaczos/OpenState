@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-05-28T22:00:41",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2654",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D4TAF9",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2654/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2654,
+  "receiptDate": "2024-04-23",
+  "term": 10,
+  "title": "Interpelacja w sprawie rozbudowy DK94 w Olkuszu",
+  "answerDelayedDays": 0,
+  "from": [
+    "233"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister klimatu i środowiska",
+      "sent": "2024-05-20"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD5PHSQ/i02654-o1.pdf",
+          "lastModified": "2024-05-28T22:00:41",
+          "name": "i02654-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Krzysztof Galos",
+      "key": "D5PHSQ",
+      "lastModified": "2024-05-28T22:00:41",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D5PHSQ",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2654/reply/D5PHSQ/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-05-24"
+    }
+  ],
+  "sentDate": "2024-05-20",
+  "to": [
+    "minister klimatu i środowiska"
+  ]
+}

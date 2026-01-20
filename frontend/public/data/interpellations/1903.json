@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-03-26T22:00:46",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=1903",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D3DKL5",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1903/body",
+      "rel": "body"
+    }
+  ],
+  "num": 1903,
+  "receiptDate": "2024-03-05",
+  "term": 10,
+  "title": "Interpelacja w sprawie nowego systemu kaucyjnego",
+  "answerDelayedDays": 0,
+  "from": [
+    "193"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister klimatu i środowiska",
+      "sent": "2024-03-15"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD3QK4U/i01903-o1.pdf",
+          "lastModified": "2024-03-26T22:00:46",
+          "name": "i01903-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Anita Sowińska",
+      "key": "D3QK4U",
+      "lastModified": "2024-03-26T22:00:46",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D3QK4U",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1903/reply/D3QK4U/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-03-23"
+    }
+  ],
+  "sentDate": "2024-03-15",
+  "to": [
+    "minister klimatu i środowiska"
+  ]
+}

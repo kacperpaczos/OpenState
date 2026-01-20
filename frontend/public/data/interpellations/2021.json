@@ -1,0 +1,130 @@
+{
+  "lastModified": "2024-06-28T22:00:34",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2021",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D3KFAH",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2021/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2021,
+  "receiptDate": "2024-03-13",
+  "term": 10,
+  "title": "Interpelacja w sprawie walki z przestępczością cudzoziemców w Polsce",
+  "answerDelayedDays": 0,
+  "from": [
+    "234"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister - członek Rady Ministrów, koordynator służb specjalnych",
+      "sent": "2024-03-21"
+    },
+    {
+      "answerDelayedDays": 0,
+      "name": "minister sprawiedliwości",
+      "sent": "2024-03-21"
+    },
+    {
+      "answerDelayedDays": 0,
+      "name": "minister spraw wewnętrznych i administracji",
+      "sent": "2024-03-21"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD4CHXF/i02021-o1.pdf",
+          "lastModified": "2024-04-15T22:00:16",
+          "name": "i02021-o1.pdf"
+        }
+      ],
+      "from": "Minister Tomasz Siemoniak",
+      "key": "D4CHXF",
+      "lastModified": "2024-04-15T22:00:16",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D4CHXF",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2021/reply/D4CHXF/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-04-12"
+    },
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD4PHY5/i02021-o2.pdf",
+          "lastModified": "2024-04-26T22:00:05",
+          "name": "i02021-o2.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Arkadiusz Myrcha",
+      "key": "D4PHY5",
+      "lastModified": "2024-04-26T22:00:05",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D4PHY5",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2021/reply/D4PHY5/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-04-23"
+    },
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD6NHQH/i02021-o3_1.pdf",
+          "lastModified": "2024-06-28T22:00:34",
+          "name": "i02021-o3_1.pdf"
+        },
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD6NHQH/i02021-o3_2.pdf",
+          "lastModified": "2024-06-28T22:00:34",
+          "name": "i02021-o3_2.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Czesław Mroczek",
+      "key": "D6NHQH",
+      "lastModified": "2024-06-28T22:00:34",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D6NHQH",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2021/reply/D6NHQH/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-06-28"
+    }
+  ],
+  "sentDate": "2024-03-21",
+  "to": [
+    "minister - członek Rady Ministrów, koordynator służb specjalnych",
+    "minister spraw wewnętrznych i administracji",
+    "minister sprawiedliwości"
+  ]
+}

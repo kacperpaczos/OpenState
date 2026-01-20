@@ -1,0 +1,64 @@
+{
+  "lastModified": "2024-09-19T22:00:26",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=4407",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D8EJBE",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4407/body",
+      "rel": "body"
+    }
+  ],
+  "num": 4407,
+  "receiptDate": "2024-08-20",
+  "term": 10,
+  "title": "Interpelacja w sprawie problemów z zalaniami i podtopieniami w Warszawie",
+  "answerDelayedDays": 0,
+  "from": [
+    "095",
+    "321"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister infrastruktury",
+      "sent": "2024-08-23"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD99HQC/i04407-o1.pdf",
+          "lastModified": "2024-09-19T22:00:26",
+          "name": "i04407-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Stanisław Bukowiec",
+      "key": "D99HQC",
+      "lastModified": "2024-09-19T22:00:26",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D99HQC",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4407/reply/D99HQC/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-09-17"
+    }
+  ],
+  "sentDate": "2024-08-23",
+  "to": [
+    "minister infrastruktury"
+  ]
+}

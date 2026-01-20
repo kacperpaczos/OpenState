@@ -1,0 +1,64 @@
+{
+  "lastModified": "2024-07-09T22:00:50",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=3431",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D6FJ3Z",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3431/body",
+      "rel": "body"
+    }
+  ],
+  "num": 3431,
+  "receiptDate": "2024-06-17",
+  "term": 10,
+  "title": "Interpelacja w sprawie programu modernizacji dworców PKP w Dolinie Popradu, na przykładzie Muszyny",
+  "answerDelayedDays": 0,
+  "from": [
+    "367",
+    "418"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister infrastruktury",
+      "sent": "2024-06-21"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD6ZHQ4/i03431-o1.pdf",
+          "lastModified": "2024-07-09T22:00:50",
+          "name": "i03431-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Piotr Malepszak",
+      "key": "D6ZHQ4",
+      "lastModified": "2024-07-09T22:00:50",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D6ZHQ4",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3431/reply/D6ZHQ4/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-07-08"
+    }
+  ],
+  "sentDate": "2024-06-21",
+  "to": [
+    "minister infrastruktury"
+  ]
+}

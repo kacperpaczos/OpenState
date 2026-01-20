@@ -1,0 +1,156 @@
+{
+  "lastModified": "2024-11-26T22:00:48",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5871",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAPCWB",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5871/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5871,
+  "receiptDate": "2024-10-28",
+  "term": 10,
+  "title": "Interpelacja w sprawie strat polskich producentów nawozów w kontekście 2-krotnego wzrostu importu nawozów z Rosji i Białorusi",
+  "answerDelayedDays": 0,
+  "from": [
+    "489"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister ds. Unii Europejskiej",
+      "sent": "2024-11-04"
+    },
+    {
+      "answerDelayedDays": 0,
+      "name": "minister aktywów państwowych",
+      "sent": "2024-11-04"
+    },
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rozwoju i technologii",
+      "sent": "2024-11-04"
+    },
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rolnictwa i rozwoju wsi",
+      "sent": "2024-11-04"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDB2JAT/i05871-o1.pdf",
+          "lastModified": "2024-11-15T22:00:46",
+          "name": "i05871-o1.pdf"
+        }
+      ],
+      "from": "Minister Adam Szłapka",
+      "key": "DB2JAT",
+      "lastModified": "2024-11-15T22:00:46",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DB2JAT",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5871/reply/DB2JAT/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-11-14"
+    },
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDBCKFA/i05871-o2.pdf",
+          "lastModified": "2024-11-25T22:00:49",
+          "name": "i05871-o2.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Jacek Bartmiński",
+      "key": "DBCKFA",
+      "lastModified": "2024-11-25T22:00:49",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DBCKFA",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5871/reply/DBCKFA/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-11-21"
+    },
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDBDKGE/i05871-o3.pdf",
+          "lastModified": "2024-11-26T22:00:48",
+          "name": "i05871-o3.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Michał Jaros",
+      "key": "DBDKGE",
+      "lastModified": "2024-11-26T22:00:48",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DBDKGE",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5871/reply/DBDKGE/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-11-22"
+    },
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDBDKGF/i05871-o4.pdf",
+          "lastModified": "2024-11-26T22:00:48",
+          "name": "i05871-o4.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Michał Kołodziejczak",
+      "key": "DBDKGF",
+      "lastModified": "2024-11-26T22:00:48",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DBDKGF",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5871/reply/DBDKGF/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-11-25"
+    }
+  ],
+  "sentDate": "2024-11-04",
+  "to": [
+    "minister aktywów państwowych",
+    "minister ds. Unii Europejskiej",
+    "minister rolnictwa i rozwoju wsi",
+    "minister rozwoju i technologii"
+  ]
+}

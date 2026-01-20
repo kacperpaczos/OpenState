@@ -1,0 +1,64 @@
+{
+  "lastModified": "2024-02-05T22:00:17",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=369",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CZDB27",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/369/body",
+      "rel": "body"
+    }
+  ],
+  "num": 369,
+  "receiptDate": "2023-12-26",
+  "term": 10,
+  "title": "Interpelacja w sprawie czasu pracy lekarzy",
+  "answerDelayedDays": 0,
+  "from": [
+    "095",
+    "321"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister zdrowia",
+      "sent": "2024-01-11"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD26JWE/i00369-o1.pdf",
+          "lastModified": "2024-02-05T22:00:17",
+          "name": "i00369-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Marek Kos",
+      "key": "D26JWE",
+      "lastModified": "2024-02-05T22:00:17",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D26JWE",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/369/reply/D26JWE/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-02-01"
+    }
+  ],
+  "sentDate": "2024-01-11",
+  "to": [
+    "minister zdrowia"
+  ]
+}

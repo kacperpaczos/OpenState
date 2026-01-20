@@ -1,0 +1,71 @@
+{
+  "lastModified": "2024-01-26T22:00:58",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=65",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CYEKQG",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/65/body",
+      "rel": "body"
+    }
+  ],
+  "num": 65,
+  "receiptDate": "2023-11-27",
+  "term": 10,
+  "title": "Interpelacja w sprawie unieważnienia przetargu na linie Kościerzyna-Somonino oraz Somonino-Kartuzy",
+  "answerDelayedDays": 0,
+  "from": [
+    "207"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister infrastruktury",
+      "sent": "2023-12-11"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTCZUKHJ/i00065-o1.pdf",
+          "lastModified": "2024-01-26T22:00:58",
+          "name": "i00065-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Piotr Malepszak",
+      "key": "CZUKHJ",
+      "lastModified": "2024-01-26T22:00:58",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CZUKHJ",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/65/reply/CZUKHJ/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-01-24"
+    },
+    {
+      "from": "sekretarz stanu w Ministerstwie Infrastruktury - Arkadiusz Marchewka",
+      "lastModified": "2023-12-29T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2023-12-29"
+    }
+  ],
+  "sentDate": "2023-12-11",
+  "to": [
+    "minister infrastruktury"
+  ]
+}

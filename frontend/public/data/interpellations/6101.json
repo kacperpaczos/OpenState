@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-12-24T22:00:38",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=6101",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAYJVN",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/6101/body",
+      "rel": "body"
+    }
+  ],
+  "num": 6101,
+  "receiptDate": "2024-11-07",
+  "term": 10,
+  "title": "Interpelacja w sprawie wyroków Europejskiego Trybunału Praw Człowieka",
+  "answerDelayedDays": 0,
+  "from": [
+    "490"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister sprawiedliwości",
+      "sent": "2024-11-13"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDC9EMC/i06101-o1.pdf",
+          "lastModified": "2024-12-24T22:00:38",
+          "name": "i06101-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Dariusz Mazur",
+      "key": "DC9EMC",
+      "lastModified": "2024-12-24T22:00:38",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DC9EMC",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/6101/reply/DC9EMC/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-12-20"
+    }
+  ],
+  "sentDate": "2024-11-13",
+  "to": [
+    "minister sprawiedliwości"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-09-23T22:00:15",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=4066",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D7MBAH",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4066/body",
+      "rel": "body"
+    }
+  ],
+  "num": 4066,
+  "receiptDate": "2024-07-25",
+  "term": 10,
+  "title": "Interpelacja w sprawie pracy w rządzie nad \"sprawą Funduszu Sprawiedliwości\"",
+  "answerDelayedDays": 0,
+  "from": [
+    "330"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister sprawiedliwości",
+      "sent": "2024-07-29"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD9DHFP/i04066-o1.pdf",
+          "lastModified": "2024-09-23T22:00:15",
+          "name": "i04066-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Arkadiusz Myrcha",
+      "key": "D9DHFP",
+      "lastModified": "2024-09-23T22:00:15",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D9DHFP",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4066/reply/D9DHFP/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-09-20"
+    }
+  ],
+  "sentDate": "2024-07-29",
+  "to": [
+    "minister sprawiedliwości"
+  ]
+}

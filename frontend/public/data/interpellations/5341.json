@@ -1,0 +1,110 @@
+{
+  "lastModified": "2024-12-04T22:00:26",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5341",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DA2BYP",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5341/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5341,
+  "receiptDate": "2024-10-08",
+  "term": 10,
+  "title": "Interpelacja w sprawie nominatów w spółkach Skarbu Państwa posiadających kwalifikacje uzyskane w Rosji",
+  "answerDelayedDays": 0,
+  "from": [
+    "325"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister aktywów państwowych",
+      "sent": "2024-10-22"
+    },
+    {
+      "answerDelayedDays": 0,
+      "name": "prezes Rady Ministrów",
+      "sent": "2024-10-23"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDB9GFA/i05341-o1.pdf",
+          "lastModified": "2024-11-22T22:00:07",
+          "name": "i05341-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Marcin Kulasek",
+      "key": "DB9GFA",
+      "lastModified": "2024-11-22T22:00:07",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DB9GFA",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5341/reply/DB9GFA/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-11-20"
+    },
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDBMJQN/i05341-o2.pdf",
+          "lastModified": "2024-12-04T22:00:26",
+          "name": "i05341-o2.pdf"
+        }
+      ],
+      "from": "Minister Jan Grabiec",
+      "key": "DBMJQN",
+      "lastModified": "2024-12-04T22:00:26",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DBMJQN",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5341/reply/DBMJQN/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-12-03"
+    },
+    {
+      "from": "sekretarz stanu w Ministerstwie Aktywów Państwowych - Robert Kropiwnicki",
+      "lastModified": "2024-10-28T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-10-28"
+    },
+    {
+      "from": "minister - członek Rady Ministrów - Maciej Berek",
+      "lastModified": "2024-10-31T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-10-31"
+    }
+  ],
+  "sentDate": "2024-10-23",
+  "to": [
+    "minister aktywów państwowych",
+    "prezes Rady Ministrów"
+  ]
+}

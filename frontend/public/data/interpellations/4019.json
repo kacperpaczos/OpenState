@@ -1,0 +1,65 @@
+{
+  "lastModified": "2024-08-22T22:00:59",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=4019",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D7MB92",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4019/body",
+      "rel": "body"
+    }
+  ],
+  "num": 4019,
+  "receiptDate": "2024-07-24",
+  "term": 10,
+  "title": "Interpelacja w sprawie refundacji preparatu o nazwie Infliksymab do leczenia choroby Leśniowskiego-Crohna",
+  "answerDelayedDays": 0,
+  "from": [
+    "060",
+    "088",
+    "140"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister zdrowia",
+      "sent": "2024-07-29"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD8DDBE/i04019-o1.pdf",
+          "lastModified": "2024-08-22T22:00:59",
+          "name": "i04019-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Marek Kos",
+      "key": "D8DDBE",
+      "lastModified": "2024-08-22T22:00:59",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D8DDBE",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4019/reply/D8DDBE/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-08-20"
+    }
+  ],
+  "sentDate": "2024-07-29",
+  "to": [
+    "minister zdrowia"
+  ]
+}

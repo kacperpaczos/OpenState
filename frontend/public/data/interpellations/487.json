@@ -1,0 +1,67 @@
+{
+  "lastModified": "2024-01-29T22:00:51",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=487",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CZDB5S",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/487/body",
+      "rel": "body"
+    }
+  ],
+  "num": 487,
+  "receiptDate": "2024-01-01",
+  "term": 10,
+  "title": "Interpelacja w sprawie bezprecedensowego i łamiącego zasady praworządności ataku na media publiczne",
+  "answerDelayedDays": 0,
+  "from": [
+    "027",
+    "040",
+    "131",
+    "242",
+    "315"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister kultury i dziedzictwa narodowego",
+      "sent": "2024-01-10"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTCZXK7F/i00487-o1.pdf",
+          "lastModified": "2024-01-29T22:00:51",
+          "name": "i00487-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Andrzej Wyrobiec",
+      "key": "CZXK7F",
+      "lastModified": "2024-01-29T22:00:51",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CZXK7F",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/487/reply/CZXK7F/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-01-26"
+    }
+  ],
+  "sentDate": "2024-01-10",
+  "to": [
+    "minister kultury i dziedzictwa narodowego"
+  ]
+}

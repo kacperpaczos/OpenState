@@ -1,0 +1,100 @@
+{
+  "lastModified": "2024-12-02T22:00:26",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5792",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAJAU7",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5792/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5792,
+  "receiptDate": "2024-10-25",
+  "term": 10,
+  "title": "Interpelacja w sprawie wydatków poniesionych przez Ministerstwo Spraw Zagranicznych i podmioty podległe - nadzorowane na cele promocyjne i reklamowe od 13 grudnia 2023 r.",
+  "answerDelayedDays": 0,
+  "from": [
+    "052",
+    "061",
+    "071",
+    "109",
+    "150",
+    "473",
+    "234",
+    "356",
+    "407",
+    "435"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister spraw zagranicznych",
+      "sent": "2024-10-30"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDBKK8R/i05792-o1_1.pdf",
+          "lastModified": "2024-12-02T22:00:26",
+          "name": "i05792-o1_1.pdf"
+        },
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDBKK8R/i05792-o1_2.pdf",
+          "lastModified": "2024-12-02T22:00:26",
+          "name": "i05792-o1_2.pdf"
+        },
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDBKK8R/i05792-o1_3.pdf",
+          "lastModified": "2024-12-02T22:00:26",
+          "name": "i05792-o1_3.pdf"
+        },
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDBKK8R/i05792-o1_4.pdf",
+          "lastModified": "2024-12-02T22:00:26",
+          "name": "i05792-o1_4.pdf"
+        },
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDBKK8R/i05792-o1_5.pdf",
+          "lastModified": "2024-12-02T22:00:26",
+          "name": "i05792-o1_5.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Władysław Teofil Bartoszewski",
+      "key": "DBKK8R",
+      "lastModified": "2024-12-02T22:00:26",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DBKK8R",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5792/reply/DBKK8R/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-11-29"
+    },
+    {
+      "from": "sekretarz stanu w Ministerstwie Spraw Zagranicznych - Władysław Teofil Bartoszewski",
+      "lastModified": "2024-11-19T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-11-19"
+    }
+  ],
+  "sentDate": "2024-10-30",
+  "to": [
+    "minister spraw zagranicznych"
+  ]
+}

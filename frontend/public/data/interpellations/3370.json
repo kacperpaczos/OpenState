@@ -1,0 +1,79 @@
+{
+  "lastModified": "2024-09-03T22:00:49",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=3370",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D6FJ27",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3370/body",
+      "rel": "body"
+    }
+  ],
+  "num": 3370,
+  "receiptDate": "2024-06-11",
+  "term": 10,
+  "title": "Interpelacja w sprawie dzieci ukraińskich w placówkach opiekuńczo-wychowawczych w Polsce",
+  "answerDelayedDays": 0,
+  "from": [
+    "065"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rodziny, pracy i polityki społecznej",
+      "sent": "2024-07-05"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD8RHWX/i03370-o1.pdf",
+          "lastModified": "2024-09-03T22:00:49",
+          "name": "i03370-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Aleksandra Gajewska",
+      "key": "D8RHWX",
+      "lastModified": "2024-09-03T22:00:49",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D8RHWX",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3370/reply/D8RHWX/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-09-03"
+    },
+    {
+      "from": "sekretarz stanu w Ministerstwie Rodziny, Pracy i Polityki Społecznej - Aleksandra Gajewska",
+      "lastModified": "2024-07-31T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-07-31"
+    },
+    {
+      "from": "podsekretarz stanu w Ministerstwie Rodziny, Pracy i Polityki Społecznej - Katarzyna Nowakowska",
+      "lastModified": "2024-08-14T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-08-14"
+    }
+  ],
+  "sentDate": "2024-07-05",
+  "to": [
+    "minister rodziny, pracy i polityki społecznej"
+  ]
+}

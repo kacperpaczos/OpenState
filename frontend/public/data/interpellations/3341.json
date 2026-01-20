@@ -1,0 +1,56 @@
+{
+  "lastModified": "2024-07-10T15:15:00",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=3341",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D67JGC",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3341/body",
+      "rel": "body"
+    }
+  ],
+  "num": 3341,
+  "receiptDate": "2024-06-07",
+  "term": 10,
+  "title": "Interpelacja w sprawie migrantów nielegalnie przekraczających polską granicę",
+  "answerDelayedDays": 0,
+  "from": [
+    "424"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister spraw wewnętrznych i administracji",
+      "sent": "2024-06-13"
+    }
+  ],
+  "replies": [
+    {
+      "from": "Podsekretarz stanu Maciej Duszczyk",
+      "key": "D72HK5",
+      "lastModified": "2024-07-10T15:15:00",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D72HK5",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3341/reply/D72HK5/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-07-09"
+    }
+  ],
+  "sentDate": "2024-06-13",
+  "to": [
+    "minister spraw wewnętrznych i administracji"
+  ]
+}

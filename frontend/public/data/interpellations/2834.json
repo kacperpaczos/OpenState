@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-07-08T22:00:54",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2834",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D65B4A",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2834/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2834,
+  "receiptDate": "2024-05-15",
+  "term": 10,
+  "title": "Interpelacja w sprawie udziału prokuratora jako głównego oskarżyciela w sprawach karnych przed sądem w 2023 r.",
+  "answerDelayedDays": 0,
+  "from": [
+    "067"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister sprawiedliwości",
+      "sent": "2024-06-10"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD6YH8J/i02834-o1.pdf",
+          "lastModified": "2024-07-08T22:00:54",
+          "name": "i02834-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Arkadiusz Myrcha",
+      "key": "D6YH8J",
+      "lastModified": "2024-07-08T22:00:54",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D6YH8J",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2834/reply/D6YH8J/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-07-04"
+    }
+  ],
+  "sentDate": "2024-06-10",
+  "to": [
+    "minister sprawiedliwości"
+  ]
+}

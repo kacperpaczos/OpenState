@@ -1,0 +1,74 @@
+{
+  "lastModified": "2024-12-04T22:00:26",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5590",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAJB2V",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5590/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5590,
+  "receiptDate": "2024-10-18",
+  "term": 10,
+  "title": "Interpelacja w sprawie wprowadzenia standardów perinatalnej opieki paliatywnej",
+  "answerDelayedDays": 0,
+  "from": [
+    "032",
+    "254",
+    "399",
+    "412"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister zdrowia",
+      "sent": "2024-10-29"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDBMBBR/i05590-o1.pdf",
+          "lastModified": "2024-12-04T22:00:26",
+          "name": "i05590-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Jerzy Szafranowicz",
+      "key": "DBMBBR",
+      "lastModified": "2024-12-04T22:00:26",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DBMBBR",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5590/reply/DBMBBR/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-11-29"
+    },
+    {
+      "from": "podsekretarz stanu w Ministerstwie Zdrowia - Jerzy Szafranowicz",
+      "lastModified": "2024-11-21T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-11-21"
+    }
+  ],
+  "sentDate": "2024-10-29",
+  "to": [
+    "minister zdrowia"
+  ]
+}

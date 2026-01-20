@@ -1,0 +1,63 @@
+{
+  "lastModified": "2025-06-04T22:00:37",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2794",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DG7JD6",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2794/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2794,
+  "receiptDate": "2024-05-13",
+  "term": 10,
+  "title": "Interpelacja w sprawie postępowań karnych przeciwko właścicielom zwierząt, w których organizacja społeczna mająca w celach statutowych ochronę zwierząt ma status strony tego postępowania przeciwnej do oskarżanego",
+  "answerDelayedDays": 0,
+  "from": [
+    "321"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister sprawiedliwości",
+      "sent": "2025-04-29"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDHBHSY/i02794-o1.pdf",
+          "lastModified": "2025-06-04T22:00:37",
+          "name": "i02794-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Arkadiusz Myrcha",
+      "key": "DHBHSY",
+      "lastModified": "2025-06-04T22:00:37",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DHBHSY",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2794/reply/DHBHSY/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2025-06-02"
+    }
+  ],
+  "sentDate": "2025-04-29",
+  "to": [
+    "minister sprawiedliwości"
+  ]
+}

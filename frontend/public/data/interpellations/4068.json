@@ -1,0 +1,56 @@
+{
+  "lastModified": "2024-08-08T15:15:44",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=4068",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D7MBAK",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4068/body",
+      "rel": "body"
+    }
+  ],
+  "num": 4068,
+  "receiptDate": "2024-07-25",
+  "term": 10,
+  "title": "Interpelacja w sprawie kierunków lekarskich prowadzonych na nowych uczelniach",
+  "answerDelayedDays": 0,
+  "from": [
+    "330"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister nauki",
+      "sent": "2024-07-29"
+    }
+  ],
+  "replies": [
+    {
+      "from": "Podsekretarz stanu Maria Mrówczyńska",
+      "key": "D7XHKN",
+      "lastModified": "2024-08-08T15:15:44",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D7XHKN",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4068/reply/D7XHKN/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-08-05"
+    }
+  ],
+  "sentDate": "2024-07-29",
+  "to": [
+    "minister nauki"
+  ]
+}

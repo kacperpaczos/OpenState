@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-02-28T22:00:42",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=1029",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CZYFQR",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1029/body",
+      "rel": "body"
+    }
+  ],
+  "num": 1029,
+  "receiptDate": "2024-01-18",
+  "term": 10,
+  "title": "Interpelacja w sprawie ustanowienia dnia 15 października Dniem Społeczeństwa Obywatelskiego",
+  "answerDelayedDays": 0,
+  "from": [
+    "272"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister ds. społeczeństwa obywatelskiego",
+      "sent": "2024-01-30"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD2VJHP/i01029-o1.pdf",
+          "lastModified": "2024-02-28T22:00:42",
+          "name": "i01029-o1.pdf"
+        }
+      ],
+      "from": "Minister Agnieszka Buczyńska",
+      "key": "D2VJHP",
+      "lastModified": "2024-02-28T22:00:42",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D2VJHP",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1029/reply/D2VJHP/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-02-23"
+    }
+  ],
+  "sentDate": "2024-01-30",
+  "to": [
+    "minister ds. społeczeństwa obywatelskiego"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-02-19T22:00:33",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=1023",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=CZYFQK",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1023/body",
+      "rel": "body"
+    }
+  ],
+  "num": 1023,
+  "receiptDate": "2024-01-18",
+  "term": 10,
+  "title": "Interpelacja w sprawie subwencji oświatowej oraz wynagrodzeń dla opiekunów i wychowawców w placówkach dla dzieci do lat 3",
+  "answerDelayedDays": 0,
+  "from": [
+    "065"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister finansów",
+      "sent": "2024-01-30"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD2LJNB/i01023-o1.pdf",
+          "lastModified": "2024-02-19T22:00:33",
+          "name": "i01023-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Hanna Majszczyk",
+      "key": "D2LJNB",
+      "lastModified": "2024-02-19T22:00:33",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D2LJNB",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1023/reply/D2LJNB/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-02-15"
+    }
+  ],
+  "sentDate": "2024-01-30",
+  "to": [
+    "minister finansów"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-07-02T22:00:35",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2811",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D65B3K",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2811/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2811,
+  "receiptDate": "2024-05-14",
+  "term": 10,
+  "title": "Interpelacja w sprawie pomocy sadownikom i ogrodnikom z pow. sandomierskiego i opatowskiego poszkodowanym wystąpieniem niekorzystnych zjawisk atmosferycznych",
+  "answerDelayedDays": 0,
+  "from": [
+    "192"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister rolnictwa i rozwoju wsi",
+      "sent": "2024-06-14"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD6SHU6/i02811-o1.pdf",
+          "lastModified": "2024-07-02T22:00:35",
+          "name": "i02811-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Stefan Krajewski",
+      "key": "D6SHU6",
+      "lastModified": "2024-07-02T22:00:35",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D6SHU6",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2811/reply/D6SHU6/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-07-01"
+    }
+  ],
+  "sentDate": "2024-06-14",
+  "to": [
+    "minister rolnictwa i rozwoju wsi"
+  ]
+}

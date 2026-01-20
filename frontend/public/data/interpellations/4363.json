@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-10-07T22:00:59",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=4363",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D8DDD3",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4363/body",
+      "rel": "body"
+    }
+  ],
+  "num": 4363,
+  "receiptDate": "2024-08-16",
+  "term": 10,
+  "title": "Interpelacja w sprawie finansowania Państwowej Straży Pożarnej",
+  "answerDelayedDays": 0,
+  "from": [
+    "065"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister spraw wewnętrznych i administracji",
+      "sent": "2024-09-05"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD9THSZ/i04363-o1.pdf",
+          "lastModified": "2024-10-07T22:00:59",
+          "name": "i04363-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Wiesław Szczepański",
+      "key": "D9THSZ",
+      "lastModified": "2024-10-07T22:00:59",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D9THSZ",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/4363/reply/D9THSZ/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-10-04"
+    }
+  ],
+  "sentDate": "2024-09-05",
+  "to": [
+    "minister spraw wewnętrznych i administracji"
+  ]
+}

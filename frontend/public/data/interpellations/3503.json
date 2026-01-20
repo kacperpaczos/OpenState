@@ -1,0 +1,68 @@
+{
+  "lastModified": "2024-11-08T15:10:17",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=3503",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D6SAHK",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3503/body",
+      "rel": "body"
+    }
+  ],
+  "num": 3503,
+  "receiptDate": "2024-06-21",
+  "term": 10,
+  "title": "Interpelacja w sprawie programu Rodzinnych Obligacji Skarbowych oraz jego rozszerzenia z beneficjentów programu \"Rodzina 800+\" także na beneficjentów programu \"Aktywny rodzic\"",
+  "answerDelayedDays": 0,
+  "from": [
+    "032"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister finansów",
+      "sent": "2024-07-01"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD7BJHL/i03503-o1_2.pdf",
+          "lastModified": "2024-07-19T22:00:51",
+          "name": "i03503-o1_2.pdf"
+        },
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD7BJHL/i03503-o1_1.pdf",
+          "lastModified": "2024-07-19T22:00:51",
+          "name": "i03503-o1_1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Jurand Drop",
+      "key": "D7BJHL",
+      "lastModified": "2024-07-19T22:00:51",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D7BJHL",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3503/reply/D7BJHL/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-07-16"
+    }
+  ],
+  "sentDate": "2024-07-01",
+  "to": [
+    "minister finansów"
+  ]
+}

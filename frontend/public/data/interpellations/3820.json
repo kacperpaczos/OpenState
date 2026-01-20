@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-07-29T22:00:09",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=3820",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D78E8X",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3820/body",
+      "rel": "body"
+    }
+  ],
+  "num": 3820,
+  "receiptDate": "2024-07-10",
+  "term": 10,
+  "title": "Interpelacja w sprawie zapewnienia odpowiedniej ilości LPG po wprowadzeniu embarga na import tego paliwa z Rosji",
+  "answerDelayedDays": 0,
+  "from": [
+    "101"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister przemysłu",
+      "sent": "2024-07-19"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD7MHYT/i03820-o1.pdf",
+          "lastModified": "2024-07-29T22:00:09",
+          "name": "i03820-o1.pdf"
+        }
+      ],
+      "from": "Minister Marzena Czarnecka",
+      "key": "D7MHYT",
+      "lastModified": "2024-07-29T22:00:09",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D7MHYT",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/3820/reply/D7MHYT/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-07-26"
+    }
+  ],
+  "sentDate": "2024-07-19",
+  "to": [
+    "minister przemysłu"
+  ]
+}

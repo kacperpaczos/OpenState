@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-11-08T22:00:53",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5019",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D9HJER",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5019/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5019,
+  "receiptDate": "2024-09-24",
+  "term": 10,
+  "title": "Interpelacja w sprawie zbiornika Wielowieś Klasztorna",
+  "answerDelayedDays": 0,
+  "from": [
+    "468"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister infrastruktury",
+      "sent": "2024-09-27"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTDATJM9/i05019-o1.pdf",
+          "lastModified": "2024-11-08T22:00:53",
+          "name": "i05019-o1.pdf"
+        }
+      ],
+      "from": "Podsekretarz stanu Przemysław Koperski",
+      "key": "DATJM9",
+      "lastModified": "2024-11-08T22:00:53",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DATJM9",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5019/reply/DATJM9/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-11-07"
+    }
+  ],
+  "sentDate": "2024-09-27",
+  "to": [
+    "minister infrastruktury"
+  ]
+}

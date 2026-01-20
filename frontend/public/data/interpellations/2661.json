@@ -1,0 +1,64 @@
+{
+  "lastModified": "2024-07-11T13:14:19",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2661",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D4TAFG",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2661/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2661,
+  "receiptDate": "2024-04-24",
+  "term": 10,
+  "title": "Interpelacja w sprawie realizacji funkcji wychowawczej szkoły, w szczególności zadań wychowawczych i profilaktycznych w kontekście ochrony zdrowia psychicznego dzieci i młodzieży",
+  "answerDelayedDays": 0,
+  "from": [
+    "075"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister edukacji",
+      "sent": "2024-04-30"
+    }
+  ],
+  "replies": [
+    {
+      "from": "Podsekretarz stanu Paulina Piechna-Więckiewicz",
+      "key": "D73F76",
+      "lastModified": "2024-07-11T13:14:19",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D73F76",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2661/reply/D73F76/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-07-10"
+    },
+    {
+      "from": "minister edukacji - Barbara Nowacka",
+      "lastModified": "2024-05-22T00:00:00",
+      "links": [],
+      "onlyAttachment": false,
+      "prolongation": true,
+      "receiptDate": "2024-05-22"
+    }
+  ],
+  "sentDate": "2024-04-30",
+  "to": [
+    "minister edukacji"
+  ]
+}

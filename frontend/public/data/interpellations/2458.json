@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-04-25T22:00:05",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=2458",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D46HCP",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2458/body",
+      "rel": "body"
+    }
+  ],
+  "num": 2458,
+  "receiptDate": "2024-03-31",
+  "term": 10,
+  "title": "Interpelacja w sprawie wstrzymania Rządowego Programu Odbudowy Zabytków",
+  "answerDelayedDays": 0,
+  "from": [
+    "137"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "prezes Rady Ministrów",
+      "sent": "2024-04-09"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD4NHKF/i02458-o1.pdf",
+          "lastModified": "2024-04-25T22:00:05",
+          "name": "i02458-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Grzegorz Karpiński",
+      "key": "D4NHKF",
+      "lastModified": "2024-04-25T22:00:05",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D4NHKF",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/2458/reply/D4NHKF/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-04-24"
+    }
+  ],
+  "sentDate": "2024-04-09",
+  "to": [
+    "prezes Rady Ministrów"
+  ]
+}

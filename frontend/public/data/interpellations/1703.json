@@ -1,0 +1,63 @@
+{
+  "lastModified": "2024-05-16T22:00:23",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=1703",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D36CRE",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1703/body",
+      "rel": "body"
+    }
+  ],
+  "num": 1703,
+  "receiptDate": "2024-02-21",
+  "term": 10,
+  "title": "Interpelacja w sprawie przywrócenia w Wojsku Polskim stopnia oficera na czas wojny",
+  "answerDelayedDays": 0,
+  "from": [
+    "443"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister obrony narodowej",
+      "sent": "2024-03-07"
+    }
+  ],
+  "replies": [
+    {
+      "attachments": [
+        {
+          "URL": "https://api.sejm.gov.pl/sejm/term10/interpellations/attachment/ATTD5BHPG/i01703-o1.pdf",
+          "lastModified": "2024-05-16T22:00:23",
+          "name": "i01703-o1.pdf"
+        }
+      ],
+      "from": "Sekretarz stanu Paweł Bejda",
+      "key": "D5BHPG",
+      "lastModified": "2024-05-16T22:00:23",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=D5BHPG",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/1703/reply/D5BHPG/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": true,
+      "prolongation": false,
+      "receiptDate": "2024-04-29"
+    }
+  ],
+  "sentDate": "2024-03-07",
+  "to": [
+    "minister obrony narodowej"
+  ]
+}

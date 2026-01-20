@@ -1,0 +1,56 @@
+{
+  "lastModified": "2024-11-27T15:12:14",
+  "links": [
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacja.xsp?typ=int&nr=5869",
+      "rel": "web-description"
+    },
+    {
+      "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DAPCW9",
+      "rel": "web-body"
+    },
+    {
+      "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5869/body",
+      "rel": "body"
+    }
+  ],
+  "num": 5869,
+  "receiptDate": "2024-10-28",
+  "term": 10,
+  "title": "Interpelacja w sprawie braku akredytacji dla Podhalańskiej Państwowej Uczelni Zawodowej w Nowym Targu oraz Akademii Nauk Stosowanych w Nowym Sączu na prowadzenie studiów magisterskich o profilu ogólnoakademickim na kierunku lekarskim w roku akademickim 2024/2025 po negatywnej ocenie Polskiej Komisji Akredytacyjne",
+  "answerDelayedDays": 0,
+  "from": [
+    "121"
+  ],
+  "recipientDetails": [
+    {
+      "answerDelayedDays": 0,
+      "name": "minister nauki",
+      "sent": "2024-11-04"
+    }
+  ],
+  "replies": [
+    {
+      "from": "Podsekretarz stanu Maria Mrówczyńska",
+      "key": "DBEJNV",
+      "lastModified": "2024-11-27T15:12:14",
+      "links": [
+        {
+          "href": "https://sejm.gov.pl/sejm10.nsf/interpelacjaTresc.xsp?key=DBEJNV",
+          "rel": "web-body"
+        },
+        {
+          "href": "https://api.sejm.gov.pl/sejm/term10/interpellations/5869/reply/DBEJNV/body",
+          "rel": "body"
+        }
+      ],
+      "onlyAttachment": false,
+      "prolongation": false,
+      "receiptDate": "2024-11-26"
+    }
+  ],
+  "sentDate": "2024-11-04",
+  "to": [
+    "minister nauki"
+  ]
+}
