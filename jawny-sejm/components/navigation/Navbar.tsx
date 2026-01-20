@@ -11,12 +11,12 @@ export default function Navbar() {
     const navItems = [
         { href: "/", label: "Start", icon: LayoutDashboard },
         { href: "/ustawy", label: "Śledź Ustawę", icon: FileText },
-        { href: "/poslowie", label: "Śledź Parlamentarzystę", icon: Users },
+        { href: "/poslowie", label: "Parlamentarzyści", icon: Users },
         { href: "/harmonogram", label: "Plan Prac", icon: Calendar },
     ];
 
     return (
-        <nav className="fixed top-0 left-0 w-full z-50 glass-card rounded-none border-x-0 border-t-0 h-16 px-4 sm:px-6 flex items-center justify-between bg-white/80 dark:bg-black/80 backdrop-blur-xl transition-colors duration-300">
+        <nav className="fixed top-0 left-0 w-full z-50 glass-card !rounded-none border-x-0 border-t-0 h-16 px-4 sm:px-6 flex items-center justify-between bg-surface-color backdrop-blur-xl transition-colors duration-300">
             <Link href="/" className="flex items-center gap-3 hover:opacity-80 transition-opacity">
                 <Activity className="text-blue-600 dark:text-blue-500" size={24} />
                 <h1 className="text-lg font-bold text-gray-900 dark:text-white hidden sm:block">JasnaSprawa.pl</h1>

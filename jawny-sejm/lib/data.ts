@@ -312,3 +312,5 @@ export async function getVotingRecord(id: string) {
     // @ts-ignore
     return MOCK_DB.votingRecords[id] || null;
 }
+
+

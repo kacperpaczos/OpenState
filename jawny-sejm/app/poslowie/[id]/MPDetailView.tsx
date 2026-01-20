@@ -1,0 +1,64 @@
+"use client";
+
+import { MP } from "@/lib/mps";
+import { ArrowLeft, Mail, MapPin } from "lucide-react";
+import Link from "next/link";
+import { User } from "lucide-react";
+
+export default function MPDetailView({ mp }: { mp: MP }) {
+    return (
+        <div className="max-w-4xl mx-auto pb-20 fade-in h-screen overflow-y-auto custom-scrollbar">
+            <Link href="/poslowie" className="inline-flex items-center gap-2 text-gray-500 hover:text-foreground mb-6 transition-colors font-medium">
+                <ArrowLeft size={18} /> Powrót do listy
+            </Link>
+
+            <div className="glass-card p-8 md:p-12 relative overflow-hidden">
+                {/* Background Decor */}
+                <div className="absolute top-0 right-0 w-64 h-64 bg-accent-blue/10 rounded-full blur-3xl -translate-y-1/2 translate-x-1/4 pointer-events-none"></div>
+
+                <div className="flex flex-col md:flex-row gap-8 items-start relative z-10">
+                    <div className="w-40 h-40 md:w-56 md:h-56 rounded-full overflow-hidden border-4 border-surface-border shadow-2xl shrink-0 bg-gray-800 flex items-center justify-center">
+                        {mp.photoUrl ? (
+                            <img src={mp.photoUrl} alt={mp.name} className="w-full h-full object-cover" />
+                        ) : (
+                            <User size={64} className="text-gray-500" />
+                        )}
+                    </div>
+
+                    <div className="flex-1 space-y-4">
+                        <div>
+                            <span className={`inline-block px-3 py-1 ${mp.active ? 'bg-green-500/10 text-green-500 border-green-500/20' : 'bg-red-500/10 text-red-500 border-red-500/20'} border rounded-full text-xs font-bold uppercase tracking-wider mb-2`}>
+                                {mp.active ? 'Poseł na Sejm RP' : 'Wygaszony mandat'}
+                            </span>
+                            <h1 className="text-4xl font-bold text-foreground leading-tight">{mp.name}</h1>
+                        </div>
+
+                        <div className="space-y-2 text-lg">
+                            <div className="flex items-center gap-2 text-text-secondary">
+                                <span className="font-semibold text-foreground">Klub:</span>
+                                <span>{mp.club}</span>
+                            </div>
+                            <div className="flex items-center gap-2 text-text-secondary">
+                                <span className="font-semibold text-foreground">Okręg:</span>
+                                <span>{mp.district}</span>
+                            </div>
+                        </div>
+
+                        <div className="pt-6 flex flex-wrap gap-4">
+                            {mp.email ? (
+                                <a href={`mailto:${mp.email}`} className="flex items-center gap-2 px-5 py-2.5 bg-surface-color border border-surface-border rounded-xl hover:bg-white/10 transition-colors text-foreground font-medium shadow-sm">
+                                    <Mail size={18} className="text-accent-blue" />
+                                    Wyślij wiadomość
+                                </a>
+                            ) : (
+                                <span className="flex items-center gap-2 px-5 py-2.5 bg-surface-color/50 border border-surface-border rounded-xl text-gray-500 font-medium">
+                                    <Mail size={18} /> Brak adresu email
+                                </span>
+                            )}
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    );
+}

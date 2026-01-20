@@ -401,6 +401,8 @@ function renderIndividualVotesList(votes, container) {
     }).join('');
 }
 
+
+
 // --- Theme Logic ---
 function toggleTheme() {
     currentTheme = currentTheme === 'dark' ? 'light' : 'dark';

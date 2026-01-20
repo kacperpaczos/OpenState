@@ -16,8 +16,8 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="pl" data-theme="dark">
-      <body className={inter.variable}>
+    <html lang="pl" data-theme="dark" suppressHydrationWarning>
+      <body className={inter.variable} suppressHydrationWarning>
         <div className="mesh-background" />
         <Navbar />
         <main className="pt-20 px-6 h-screen overflow-hidden">

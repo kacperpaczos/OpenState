@@ -8,7 +8,7 @@ export default async function Home() {
   return (
     <div className="flex flex-col items-center justify-center h-full pb-20 fade-in">
       {/* Visualization */}
-      <div className="glass-card w-full max-w-4xl p-8 flex items-center justify-center bg-black/20 backdrop-blur-xl mb-10">
+      <div className="glass-card w-full max-w-4xl p-8 flex items-center justify-center mb-10">
         <Hemicycle mps={mps} />
       </div>
 
@@ -25,9 +25,9 @@ export default async function Home() {
           <input
             type="text"
             placeholder="Szukaj ustawy (np. 'CPK') lub posła..."
-            className="w-full h-14 pl-12 pr-6 rounded-2xl bg-white/5 border border-white/10 
-                       text-lg text-white placeholder-gray-500 shadow-2xl backdrop-blur-md
-                       focus:ring-2 focus:ring-blue-500/50 focus:border-blue-500 focus:outline-none focus:bg-white/10
+            className="w-full h-14 pl-12 pr-6 rounded-2xl bg-surface-color/50 border border-surface-border 
+                       text-lg text-foreground placeholder-gray-500 shadow-2xl backdrop-blur-md
+                       focus:ring-2 focus:ring-accent-blue/50 focus:border-accent-blue focus:outline-none focus:bg-surface-color
                        transition-all duration-300"
           />
         </div>

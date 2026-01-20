@@ -1,0 +1,920 @@
+[
+  {
+    "id": "951",
+    "name": "Rafał Ambrozik",
+    "email": "",
+    "club": "Kluby i koła",
+    "district": "29",
+    "photoUrl": "https://www.senat.gov.pl/gfx/senat/_thumbs/pl/senatsenatorowie/951/11/zdjecie/mlbce1-bWmg,ambrozik.jpg",
+    "detailUrl": "https://www.senat.gov.pl/sklad/senatorowie/senator,951,11,rafal-ambrozik.html"
+  },
+  {
+    "id": "956",
+    "name": "Włodzimierz Bernacki",
+    "email": "",
+    "club": "Kluby i koła",
+    "district": "34",
+    "photoUrl": "https://www.senat.gov.pl/gfx/senat/_thumbs/pl/senatsenatorowie/956/11/zdjecie/mlbce1-bWmg,bernacki.jpg",
+    "detailUrl": "https://www.senat.gov.pl/sklad/senatorowie/senator,956,11,wlodzimierz-bernacki.html"
+  },
+  {
+    "id": "957",
+    "name": "Halina Bieda",
+    "email": "",
+    "club": "Kluby i koła",
+    "district": "71",
+    "photoUrl": "https://www.senat.gov.pl/gfx/senat/_thumbs/pl/senatsenatorowie/957/11/zdjecie/mlbce1-bWmg,bieda.jpg",
+    "detailUrl": "https://www.senat.gov.pl/sklad/senatorowie/senator,957,11,halina-bieda.html"
+  },
+  {
+    "id": "1065",
+    "name": "Magdalena Biejat",
+    "email": "",
+    "club": "Kluby i koła",
+    "district": "45",
+    "photoUrl": "https://www.senat.gov.pl/gfx/senat/_thumbs/pl/senatsenatorowie/1065/11/zdjecie/mlbce1-bWmg,biejat.jpg",
+    "detailUrl": "https://www.senat.gov.pl/sklad/senatorowie/senator,1065,11,magdalena-biejat.html"
+  },
+  {
+    "id": "1060",
+    "name": "Krzysztof Bieńkowski",
+    "email": "",
+    "club": "Kluby i koła",
+    "district": "39",
+    "photoUrl": "https://www.senat.gov.pl/gfx/senat/_thumbs/pl/senatsenatorowie/1060/11/zdjecie/mlbce1-bWmg,bienkowski.jpg",
+    "detailUrl": "https://www.senat.gov.pl/sklad/senatorowie/senator,1060,11,krzysztof-bienkowski.html"
+  },
+  {
+    "id": "958",
+    "name": "Grzegorz Bierecki",
+    "email": "",
+    "club": "Kluby i koła",
+    "district": "17",
+    "photoUrl": "https://www.senat.gov.pl/gfx/senat/_thumbs/pl/senatsenatorowie/958/11/zdjecie/mlbce1-bWmg,bierecki1.jpg",
+    "detailUrl": "https://www.senat.gov.pl/sklad/senatorowie/senator,958,11,grzegorz-bierecki.html"
+  },
+  {
+    "id": "34",
+    "name": "Przemysław Błaszczyk",
+    "email": "",
+    "club": "Kluby i koła",
+    "district": "25",
+    "photoUrl": "https://www.senat.gov.pl/gfx/senat/_thumbs/pl/senatsenatorowie/34/11/zdjecie/mlbce1-bWmg,blaszczyk.jpg",
+    "detailUrl": "https://www.senat.gov.pl/sklad/senatorowie/senator,34,11,przemyslaw-blaszczyk.html"
+  },
+  {
+    "id": "962",
+    "name": "Ryszard Bober",
+    "email": "",
+    "club": "Kluby i koła",
+    "district": "12",
+    "photoUrl": "https://www.senat.gov.pl/gfx/senat/_thumbs/pl/senatsenatorowie/962/11/zdjecie/mlbce1-bWmg,bober.jpg",
+    "detailUrl": "https://www.senat.gov.pl/sklad/senatorowie/senator,962,11,ryszard-bober.html"
+  },
+  {
+    "id": "1064",
+    "name": "Adam Bodnar",
+    "email": "",
+    "club": "Kluby i koła",
+    "district": "44",
+    "photoUrl": "https://www.senat.gov.pl/gfx/senat/_thumbs/pl/senatsenatorowie/1064/11/zdjecie/mlbce1-bWmg,bodnar1.jpg",
+    "detailUrl": "https://www.senat.gov.pl/sklad/senatorowie/senator,1064,11,adam-bodnar.html"
+  },
+  {
+    "id": "1071",
+    "name": "Anna Bogucka",
+    "email": "",
+    "club": "Kluby i koła",
+    "district": "61",
+    "photoUrl": "https://www.senat.gov.pl/gfx/senat/_thumbs/pl/senatsenatorowie/1071/11/zdjecie/mlbce1-bWmg,bogucka.jpg",
+    "detailUrl": "https://www.senat.gov.pl/sklad/senatorowie/senator,1071,11,anna-bogucka.html"
+  },
+  {
+    "id": "51",
+    "name": "Marek Borowski",
+    "email": "",
+    "club": "Kluby i koła",
+    "district": "42",
+    "photoUrl": "https://www.senat.gov.pl/gfx/senat/_thumbs/pl/senatsenatorowie/51/11/zdjecie/mlbce1-bWmg,borowski.jpg",
+    "detailUrl": "https://www.senat.gov.pl/sklad/senatorowie/senator,51,11,marek-borowski.html"
+  },
+  {
+    "id": "74",
+    "name": "Bogdan Borusewicz",
+    "email": "",
+    "club": "Kluby i koła",
+    "district": "65",
+    "photoUrl": "https://www.senat.gov.pl/gfx/senat/_thumbs/pl/senatsenatorowie/74/11/zdjecie/mlbce1-bWmg,borusewicz.jpg",
+    "detailUrl": "https://www.senat.gov.pl/sklad/senatorowie/senator,74,11,bogdan-borusewicz.html"
+  },
+  {
+    "id": "1074",
+    "name": "Ryszard Brejza",
+    "email": "",
+    "club": "Kluby i koła",
+    "district": "10",
+    "photoUrl": "https://www.senat.gov.pl/gfx/senat/_thumbs/pl/senatsenatorowie/1074/11/zdjecie/mlbce1-bWmg,brejza.jpg",
+    "detailUrl": "https://www.senat.gov.pl/sklad/senatorowie/senator,1074,11,ryszard-brejza.html"
+  },
+  {
+    "id": "1055",
+    "name": "Gustaw Marek Brzezin",
+    "email": "",
+    "club": "Kluby i koła",
+    "district": "85",
+    "photoUrl": "https://www.senat.gov.pl/gfx/senat/_thumbs/pl/senatsenatorowie/1055/11/zdjecie/mlbce1-bWmg,brzezin.jpg",
+    "detailUrl": "https://www.senat.gov.pl/sklad/senatorowie/senator,1055,11,gustaw-marek-brzezin.html"
+  },
+  {
+    "id": "28",
+    "name": "Jerzy Chróścikowski",
+    "email": "",
+    "club": "Kluby i koła",
+    "district": "19",
+    "photoUrl": "https://www.senat.gov.pl/gfx/senat/_thumbs/pl/senatsenatorowie/28/11/zdjecie/mlbce1-bWmg,chroscikowski.jpg",
+    "detailUrl": "https://www.senat.gov.pl/sklad/senatorowie/senator,28,11,jerzy-chroscikowski.html"
+  },
+  {
+    "id": "76",
+    "name": "Leszek Czarnobaj",
+    "email": "",
+    "club": "Kluby i koła",
+    "district": "67",
+    "photoUrl": "https://www.senat.gov.pl/gfx/senat/_thumbs/pl/senatsenatorowie/76/11/zdjecie/mlbce1-bWmg,czarnobaj.jpg",
+    "detailUrl": "https://www.senat.gov.pl/sklad/senatorowie/senator,76,11,leszek-czarnobaj.html"
+  },
+  {
+    "id": "24",
+    "name": "Grzegorz Czelej",
+    "email": "",
+    "club": "Kluby i koła",
+    "district": "15",
+    "photoUrl": "https://www.senat.gov.pl/gfx/senat/_thumbs/pl/senatsenatorowie/24/11/zdjecie/mlbce1-bWmg,czelej.jpg",
+    "detailUrl": "https://www.senat.gov.pl/sklad/senatorowie/senator,24,11,grzegorz-czelej.html"
+  },
+  {
+    "id": "37",
+    "name": "Wiesław Dobkowski",
+    "email": "",
+    "club": "Kluby i koła",
+    "district": "28",
+    "photoUrl": "https://www.senat.gov.pl/gfx/senat/_thumbs/pl/senatsenatorowie/37/11/zdjecie/mlbce1-bWmg,dobkowski.jpg",
+    "detailUrl": "https://www.senat.gov.pl/sklad/senatorowie/senator,37,11,wieslaw-dobkowski.html"
+  },
+  {
+    "id": "970",
+    "name": "Artur Dunin",
+    "email": "",
+    "club": "Kluby i koła",
+    "district": "23",
+    "photoUrl": "https://www.senat.gov.pl/gfx/senat/_thumbs/pl/senatsenatorowie/970/11/zdjecie/mlbce1-bWmg,dunin.jpg",
+    "detailUrl": "https://www.senat.gov.pl/sklad/senatorowie/senator,970,11,artur-dunin.html"
+  },
+  {
+    "id": "971",
+    "name": "Wiktor Durlak",
+    "email": "",
+    "club": "",
+    "district": "",
+    "photoUrl": "https://www.senat.gov.pl/gfx/senat/_thumbs/pl/senatsenatorowie/971/11/zdjecie/mlbce1-bWmg,durlak1.jpg",
+    "detailUrl": "https://www.senat.gov.pl/sklad/senatorowie/senator,971,11,wiktor-durlak.html"
+  },
+  {
+    "id": "1051",
+    "name": "Waldy Dzikowski",
+    "email": "",
+    "club": "",
+    "district": "",
+    "photoUrl": "https://www.senat.gov.pl/gfx/senat/_thumbs/pl/senatsenatorowie/1051/11/zdjecie/mlbce1-bWmg,dzikowski.jpg",
+    "detailUrl": "https://www.senat.gov.pl/sklad/senatorowie/senator,1051,11,waldy-dzikowski.html"
+  },
+  {
+    "id": "1059",
+    "name": "Andrzej Dziuba",
+    "email": "",
+    "club": "",
+    "district": "",
+    "photoUrl": "https://www.senat.gov.pl/gfx/senat/_thumbs/pl/senatsenatorowie/1059/11/zdjecie/mlbce1-bWmg,dziuba.jpg",
+    "detailUrl": "https://www.senat.gov.pl/sklad/senatorowie/senator,1059,11,andrzej-dziuba.html"
+  },
+  {
+    "id": "1049",
+    "name": "Grzegorz Fedorowicz",
+    "email": "",
+    "club": "",
+    "district": "",
+    "photoUrl": "https://www.senat.gov.pl/gfx/senat/_thumbs/pl/senatsenatorowie/1049/11/zdjecie/mlbce1-bWmg,fedorowicz-g.jpg",
+    "detailUrl": "https://www.senat.gov.pl/sklad/senatorowie/senator,1049,11,grzegorz-fedorowicz.html"
+  },
+  {
+    "id": "865",
+    "name": "Jerzy Fedorowicz",
+    "email": "",
+    "club": "",
+    "district": "",
+    "photoUrl": "https://www.senat.gov.pl/gfx/senat/_thumbs/pl/senatsenatorowie/865/11/zdjecie/mlbce1-bWmg,fedorowicz-j.jpg",
+    "detailUrl": "https://www.senat.gov.pl/sklad/senatorowie/senator,865,11,jerzy-fedorowicz.html"
+  },
+  {
+    "id": "972",
+    "name": "Zygmunt Frankiewicz",
+    "email": "",
+    "club": "",
+    "district": "",
+    "photoUrl": "https://www.senat.gov.pl/gfx/senat/_thumbs/pl/senatsenatorowie/972/11/zdjecie/mlbce1-bWmg,frankiewicz.jpg",
+    "detailUrl": "https://www.senat.gov.pl/sklad/senatorowie/senator,972,11,zygmunt-frankiewicz.html"
+  },
+  {
+    "id": "1048",
+    "name": "Leszek Galemba",
+    "email": "",
+    "club": "",
+    "district": "",
+    "photoUrl": "https://www.senat.gov.pl/gfx/senat/_thumbs/pl/senatsenatorowie/1048/11/zdjecie/mlbce1-bWmg,galemba.jpg",
+    "detailUrl": "https://www.senat.gov.pl/sklad/senatorowie/senator,1048,11,leszek-galemba.html"
+  },
+  {
+    "id": "976",
+    "name": "Stanisław Gawłowski",
+    "email": "",
+    "club": "",
+    "district": "",
+    "photoUrl": "https://www.senat.gov.pl/gfx/senat/_thumbs/pl/senatsenatorowie/976/11/zdjecie/mlbce1-bWmg,gawlowski.jpg",
+    "detailUrl": "https://www.senat.gov.pl/sklad/senatorowie/senator,976,11,stanislaw-gawlowski.html"
+  },
+  {
+    "id": "978",
+    "name": "Beniamin Godyla",
+    "email": "",
+    "club": "",
+    "district": "",
+    "photoUrl": "https://www.senat.gov.pl/gfx/senat/_thumbs/pl/senatsenatorowie/978/11/zdjecie/mlbce1-bWmg,godyla.jpg",
+    "detailUrl": "https://www.senat.gov.pl/sklad/senatorowie/senator,978,11,beniamin-godyla.html"
+  },
+  {
+    "id": "23",
+    "name": "Stanisław Gogacz",
+    "email": "",
+    "club": "",
+    "district": "",
+    "photoUrl": "https://www.senat.gov.pl/gfx/senat/_thumbs/pl/senatsenatorowie/23/11/zdjecie/mlbce1-bWmg,gogacz.jpg",
+    "detailUrl": "https://www.senat.gov.pl/sklad/senatorowie/senator,23,11,stanislaw-gogacz.html"
+  },
+  {
+    "id": "873",
+    "name": "Mieczysław Golba",
+    "email": "",
+    "club": "",
+    "district": "",
+    "photoUrl": "https://www.senat.gov.pl/gfx/senat/_thumbs/pl/senatsenatorowie/873/11/zdjecie/mlbce1-bWmg,golba.jpg",
+    "detailUrl": "https://www.senat.gov.pl/sklad/senatorowie/senator,873,11,mieczyslaw-golba.html"
+  },
+  {
+    "id": "979",
+    "name": "Agnieszka Gorgoń-Komor",
+    "email": "",
+    "club": "",
+    "district": "",
+    "photoUrl": "https://www.senat.gov.pl/gfx/senat/_thumbs/pl/senatsenatorowie/979/11/zdjecie/mlbce1-bWmg,gorgon1.png",
+    "detailUrl": "https://www.senat.gov.pl/sklad/senatorowie/senator,979,11,agnieszka-gorgon-komor.html"
+  },
+  {
+    "id": "1068",
+    "name": "Anna Górska",
+    "email": "",
+    "club": "",
+    "district": "",
+    "photoUrl": "https://www.senat.gov.pl/gfx/senat/_thumbs/pl/senatsenatorowie/1068/11/zdjecie/mlbce1-bWmg,gorska.jpg",
+    "detailUrl": "https://www.senat.gov.pl/sklad/senatorowie/senator,1068,11,anna-gorska.html"
+  },
+  {
+    "id": "1066",
+    "name": "Maciej Górski",
+    "email": "",
+    "club": "",
+    "district": "",
+    "photoUrl": "https://www.senat.gov.pl/gfx/senat/_thumbs/pl/senatsenatorowie/1066/11/zdjecie/mlbce1-bWmg,gorski.jpg",
+    "detailUrl": "https://www.senat.gov.pl/sklad/senatorowie/senator,1066,11,maciej-gorski.html"
+  },
+  {
+    "id": "893",
+    "name": "Tomasz Grodzki",
+    "email": "",
+    "club": "",
+    "district": "",
+    "photoUrl": "https://www.senat.gov.pl/gfx/senat/_thumbs/pl/senatsenatorowie/893/11/zdjecie/mlbce1-bWmg,grodzki_-.png",
+    "detailUrl": "https://www.senat.gov.pl/sklad/senatorowie/senator,893,11,tomasz-grodzki.html"
+  },
+  {
+    "id": "980",
+    "name": "Janusz Gromek",
+    "email": "",
+    "club": "",
+    "district": "",
+    "photoUrl": "https://www.senat.gov.pl/gfx/senat/_thumbs/pl/senatsenatorowie/980/11/zdjecie/mlbce1-bWmg,gromek.jpg",
+    "detailUrl": "https://www.senat.gov.pl/sklad/senatorowie/senator,980,11,janusz-gromek.html"
+  },
+  {
+    "id": "1050",
+    "name": "Rafał Grupiński",
+    "email": "",
+    "club": "",
+    "district": "",
+    "photoUrl": "https://www.senat.gov.pl/gfx/senat/_thumbs/pl/senatsenatorowie/1050/11/zdjecie/mlbce1-bWmg,grupinski.jpg",
+    "detailUrl": "https://www.senat.gov.pl/sklad/senatorowie/senator,1050,11,rafal-grupinski.html"
+  },
+  {
+    "id": "866",
+    "name": "Jan Hamerski",
+    "email": "",
+    "club": "",
+    "district": "",
+    "photoUrl": "https://www.senat.gov.pl/gfx/senat/_thumbs/pl/senatsenatorowie/866/11/zdjecie/mlbce1-bWmg,hamersk1i.jpg",
+    "detailUrl": "https://www.senat.gov.pl/sklad/senatorowie/senator,866,11,jan-hamerski.html"
+  },
+  {
+    "id": "982",
+    "name": "Jolanta Hibner",
+    "email": "",
+    "club": "",
+    "district": "",
+    "photoUrl": "https://www.senat.gov.pl/gfx/senat/_thumbs/pl/senatsenatorowie/982/11/zdjecie/mlbce1-bWmg,hibner1.jpg",
+    "detailUrl": "https://www.senat.gov.pl/sklad/senatorowie/senator,982,11,jolanta-hibner.html"
+  },
+  {
+    "id": "1069",
+    "name": "Tadeusz Jarmuziewicz",
+    "email": "",
+    "club": "",
+    "district": "",
+    "photoUrl": "https://www.senat.gov.pl/gfx/senat/_thumbs/pl/senatsenatorowie/1069/11/zdjecie/mlbce1-bWmg,jarmuziewicz.jpg",
+    "detailUrl": "https://www.senat.gov.pl/sklad/senatorowie/senator,1069,11,tadeusz-jarmuziewicz.html"
+  },
+  {
+    "id": "1073",
+    "name": "Józef Jodłowski",
+    "email": "",
+    "club": "",
+    "district": "",
+    "photoUrl": "https://www.senat.gov.pl/gfx/senat/_thumbs/pl/senatsenatorowie/1073/11/zdjecie/mlbce1-bWmg,jodlowski.jpg",
+    "detailUrl": "https://www.senat.gov.pl/sklad/senatorowie/senator,1073,11,jozef-jodlowski.html"
+  },
+  {
+    "id": "1057",
+    "name": "Andrzej Kalata",
+    "email": "",
+    "club": "",
+    "district": "",
+    "photoUrl": "https://www.senat.gov.pl/gfx/senat/_thumbs/pl/senatsenatorowie/1057/11/zdjecie/mlbce1-bWmg,kalata.jpg",
+    "detailUrl": "https://www.senat.gov.pl/sklad/senatorowie/senator,1057,11,andrzej-kalata.html"
+  },
+  {
+    "id": "1054",
+    "name": "Ewa Monika Kaliszuk",
+    "email": "",
+    "club": "",
+    "district": "",
+    "photoUrl": "https://www.senat.gov.pl/gfx/senat/_thumbs/pl/senatsenatorowie/1054/11/zdjecie/mlbce1-bWmg,kaliszuk.jpg",
+    "detailUrl": "https://www.senat.gov.pl/sklad/senatorowie/senator,1054,11,ewa-monika-kaliszuk.html"
+  },
+  {
+    "id": "984",
+    "name": "Michał Kamiński",
+    "email": "",
+    "club": "",
+    "district": "",
+    "photoUrl": "https://www.senat.gov.pl/gfx/senat/_thumbs/pl/senatsenatorowie/984/11/zdjecie/mlbce1-bWmg,kaminski1.jpg",
+    "detailUrl": "https://www.senat.gov.pl/sklad/senatorowie/senator,984,11,michal-kaminski.html"
+  },
+  {
+    "id": "58",
+    "name": "Stanisław Karczewski",
+    "email": "",
+    "club": "",
+    "district": "",
+    "photoUrl": "https://www.senat.gov.pl/gfx/senat/_thumbs/pl/senatsenatorowie/58/11/zdjecie/mlbce1-bWmg,karczewski.jpg",
+    "detailUrl": "https://www.senat.gov.pl/sklad/senatorowie/senator,58,11,stanislaw-karczewski.html"
+  },
+  {
+    "id": "1052",
+    "name": "Marcin Karpiński",
+    "email": "",
+    "club": "",
+    "district": "",
+    "photoUrl": "https://www.senat.gov.pl/gfx/senat/_thumbs/pl/senatsenatorowie/1052/11/zdjecie/mlbce1-bWmg,karpinski_2.jpg",
+    "detailUrl": "https://www.senat.gov.pl/sklad/senatorowie/senator,1052,11,marcin-karpinski.html"
+  },
+  {
+    "id": "1063",
+    "name": "Małgorzata Kidawa-Błońska",
+    "email": "",
+    "club": "",
+    "district": "",
+    "photoUrl": "https://www.senat.gov.pl/gfx/senat/_thumbs/pl/senatsenatorowie/1063/11/zdjecie/mlbce1-bWmg,kidawa-blonska1_2.jpg",
+    "detailUrl": "https://www.senat.gov.pl/sklad/senatorowie/senator,1063,11,malgorzata-kidawa-blonska.html"
+  },
+  {
+    "id": "71",
+    "name": "Kazimierz Kleina",
+    "email": "",
+    "club": "",
+    "district": "",
+    "photoUrl": "https://www.senat.gov.pl/gfx/senat/_thumbs/pl/senatsenatorowie/71/11/zdjecie/mlbce1-bWmg,kleina.jpg",
+    "detailUrl": "https://www.senat.gov.pl/sklad/senatorowie/senator,71,11,kazimierz-kleina.html"
+  },
+  {
+    "id": "1037",
+    "name": "Bogdan Klich",
+    "email": "",
+    "club": "",
+    "district": "",
+    "photoUrl": "https://www.senat.gov.pl/gfx/senat/_thumbs/pl/senatsenatorowie/1037/11/zdjecie/mlbce1-bWmg,klich1.jpg",
+    "detailUrl": "https://www.senat.gov.pl/sklad/senatorowie/senator,1037,11,bogdan-klich.html"
+  },
+  {
+    "id": "18",
+    "name": "Andrzej Kobiak",
+    "email": "",
+    "club": "",
+    "district": "",
+    "photoUrl": "https://www.senat.gov.pl/gfx/senat/_thumbs/pl/senatsenatorowie/18/11/zdjecie/mlbce1-bWmg,kobiak.jpg",
+    "detailUrl": "https://www.senat.gov.pl/sklad/senatorowie/senator,18,11,andrzej-kobiak.html"
+  },
+  {
+    "id": "990",
+    "name": "Magdalena Kochan",
+    "email": "",
+    "club": "",
+    "district": "",
+    "photoUrl": "https://www.senat.gov.pl/gfx/senat/_thumbs/pl/senatsenatorowie/990/11/zdjecie/mlbce1-bWmg,kochan.jpg",
+    "detailUrl": "https://www.senat.gov.pl/sklad/senatorowie/senator,990,11,magdalena-kochan.html"
+  },
+  {
+    "id": "991",
+    "name": "Agnieszka Kołacz-Leszczyńska",
+    "email": "",
+    "club": "",
+    "district": "",
+    "photoUrl": "https://www.senat.gov.pl/gfx/senat/_thumbs/pl/senatsenatorowie/991/11/zdjecie/mlbce1-bWmg,kolacz-leszczynska1.jpg",
+    "detailUrl": "https://www.senat.gov.pl/sklad/senatorowie/senator,991,11,agnieszka-kolacz-leszczynska.html"
+  },
+  {
+    "id": "861",
+    "name": "Władysław Komarnicki",
+    "email": "",
+    "club": "",
+    "district": "",
+    "photoUrl": "https://www.senat.gov.pl/gfx/senat/_thumbs/pl/senatsenatorowie/861/11/zdjecie/mlbce1-bWmg,komarnicki10.jpg",
+    "detailUrl": "https://www.senat.gov.pl/sklad/senatorowie/senator,861,11,wladyslaw-komarnicki.html"
+  },
+  {
+    "id": "993",
+    "name": "Marek Komorowski",
+    "email": "",
+    "club": "",
+    "district": "",
+    "photoUrl": "https://www.senat.gov.pl/gfx/senat/_thumbs/pl/senatsenatorowie/993/11/zdjecie/mlbce1-bWmg,komorowski.jpg",
+    "detailUrl": "https://www.senat.gov.pl/sklad/senatorowie/senator,993,11,marek-komorowski.html"
+  },
+  {
+    "id": "992",
+    "name": "Wojciech Konieczny",
+    "email": "",
+    "club": "",
+    "district": "",
+    "photoUrl": "https://www.senat.gov.pl/gfx/senat/_thumbs/pl/senatsenatorowie/992/11/zdjecie/mlbce1-bWmg,konieczny.jpg",
+    "detailUrl": "https://www.senat.gov.pl/sklad/senatorowie/senator,992,11,wojciech-konieczny.html"
+  },
+  {
+    "id": "1056",
+    "name": "Maciej Kopiec",
+    "email": "",
+    "club": "",
+    "district": "",
+    "photoUrl": "https://www.senat.gov.pl/gfx/senat/_thumbs/pl/senatsenatorowie/1056/11/zdjecie/mlbce1-bWmg,kopiec.jpg",
+    "detailUrl": "https://www.senat.gov.pl/sklad/senatorowie/senator,1056,11,maciej-kopiec.html"
+  },
+  {
+    "id": "57",
+    "name": "Waldemar Kraska",
+    "email": "",
+    "club": "",
+    "district": "",
+    "photoUrl": "https://www.senat.gov.pl/gfx/senat/_thumbs/pl/senatsenatorowie/57/11/zdjecie/mlbce1-bWmg,kraska.jpg",
+    "detailUrl": "https://www.senat.gov.pl/sklad/senatorowie/senator,57,11,waldemar-kraska.html"
+  },
+  {
+    "id": "1045",
+    "name": "Krzysztof Kukucki",
+    "email": "",
+    "club": "",
+    "district": "",
+    "photoUrl": "https://www.senat.gov.pl/gfx/senat/_thumbs/pl/senatsenatorowie/1045/11/zdjecie/mlbce1-bWmg,kukucki.jpg",
+    "detailUrl": "https://www.senat.gov.pl/sklad/senatorowie/senator,1045,11,krzysztof-kukucki.html"
+  },
+  {
+    "id": "234",
+    "name": "Krzysztof Kwiatkowski",
+    "email": "",
+    "club": "",
+    "district": "",
+    "photoUrl": "https://www.senat.gov.pl/gfx/senat/_thumbs/pl/senatsenatorowie/234/11/zdjecie/mlbce1-bWmg,kwiatkowski.jpg",
+    "detailUrl": "https://www.senat.gov.pl/sklad/senatorowie/senator,234,11,krzysztof-kwiatkowski.html"
+  },
+  {
+    "id": "1044",
+    "name": "Tomasz Lenz",
+    "email": "",
+    "club": "",
+    "district": "",
+    "photoUrl": "https://www.senat.gov.pl/gfx/senat/_thumbs/pl/senatsenatorowie/1044/11/zdjecie/mlbce1-bWmg,lenz.jpg",
+    "detailUrl": "https://www.senat.gov.pl/sklad/senatorowie/senator,1044,11,tomasz-lenz.html"
+  },
+  {
+    "id": "98",
+    "name": "Jan Filip Libicki",
+    "email": "",
+    "club": "",
+    "district": "",
+    "photoUrl": "https://www.senat.gov.pl/gfx/senat/_thumbs/pl/senatsenatorowie/98/11/zdjecie/mlbce1-bWmg,libicki.jpg",
+    "detailUrl": "https://www.senat.gov.pl/sklad/senatorowie/senator,98,11,jan-filip-libicki.html"
+  },
+  {
+    "id": "943",
+    "name": "Ryszard Majer",
+    "email": "",
+    "club": "",
+    "district": "",
+    "photoUrl": "https://www.senat.gov.pl/gfx/senat/_thumbs/pl/senatsenatorowie/943/11/zdjecie/mlbce1-bWmg,majer.jpg",
+    "detailUrl": "https://www.senat.gov.pl/sklad/senatorowie/senator,943,11,ryszard-majer.html"
+  },
+  {
+    "id": "988",
+    "name": "Beata Małecka-Libera",
+    "email": "",
+    "club": "",
+    "district": "",
+    "photoUrl": "https://www.senat.gov.pl/gfx/senat/_thumbs/pl/senatsenatorowie/988/11/zdjecie/mlbce1-bWmg,malecka-libera.jpg",
+    "detailUrl": "https://www.senat.gov.pl/sklad/senatorowie/senator,988,11,beata-malecka-libera.html"
+  },
+  {
+    "id": "55",
+    "name": "Robert Mamątow",
+    "email": "",
+    "club": "",
+    "district": "",
+    "photoUrl": "https://www.senat.gov.pl/gfx/senat/_thumbs/pl/senatsenatorowie/55/11/zdjecie/mlbce1-bWmg,mamatow.jpg",
+    "detailUrl": "https://www.senat.gov.pl/sklad/senatorowie/senator,55,11,robert-mamatow.html"
+  },
+  {
+    "id": "1061",
+    "name": "Piotr Masłowski",
+    "email": "",
+    "club": "",
+    "district": "",
+    "photoUrl": "https://www.senat.gov.pl/gfx/senat/_thumbs/pl/senatsenatorowie/1061/11/zdjecie/mlbce1-bWmg,maslowski.jpg",
+    "detailUrl": "https://www.senat.gov.pl/sklad/senatorowie/senator,1061,11,piotr-maslowski.html"
+  },
+  {
+    "id": "987",
+    "name": "Ewa Matecka",
+    "email": "",
+    "club": "",
+    "district": "",
+    "photoUrl": "https://www.senat.gov.pl/gfx/senat/_thumbs/pl/senatsenatorowie/987/11/zdjecie/mlbce1-bWmg,matecka.jpg",
+    "detailUrl": "https://www.senat.gov.pl/sklad/senatorowie/senator,987,11,ewa-matecka.html"
+  },
+  {
+    "id": "985",
+    "name": "Gabriela Morawska-Stanecka",
+    "email": "",
+    "club": "",
+    "district": "",
+    "photoUrl": "https://www.senat.gov.pl/gfx/senat/_thumbs/pl/senatsenatorowie/985/11/zdjecie/mlbce1-bWmg,morawska-stanecka.jpg",
+    "detailUrl": "https://www.senat.gov.pl/sklad/senatorowie/senator,985,11,gabriela-morawska-stanecka.html"
+  },
+  {
+    "id": "39",
+    "name": "Andrzej Pająk",
+    "email": "",
+    "club": "",
+    "district": "",
+    "photoUrl": "https://www.senat.gov.pl/gfx/senat/_thumbs/pl/senatsenatorowie/39/11/zdjecie/mlbce1-bWmg,pajak.jpg",
+    "detailUrl": "https://www.senat.gov.pl/sklad/senatorowie/senator,39,11,andrzej-pajak.html"
+  },
+  {
+    "id": "1111",
+    "name": "Stanisław Pawlak",
+    "email": "",
+    "club": "",
+    "district": "",
+    "photoUrl": "https://www.senat.gov.pl/gfx/senat/_thumbs/pl/senatsenatorowie/1111/11/zdjecie/mlbce1-bWmg,pawlaks.jpg",
+    "detailUrl": "https://www.senat.gov.pl/sklad/senatorowie/senator,1111,11,stanislaw-pawlak.html"
+  },
+  {
+    "id": "1058",
+    "name": "Waldemar Pawlak",
+    "email": "",
+    "club": "",
+    "district": "",
+    "photoUrl": "https://www.senat.gov.pl/gfx/senat/_thumbs/pl/senatsenatorowie/1058/11/zdjecie/mlbce1-bWmg,pawlak.jpg",
+    "detailUrl": "https://www.senat.gov.pl/sklad/senatorowie/senator,1058,11,waldemar-pawlak.html"
+  },
+  {
+    "id": "975",
+    "name": "Janusz Pęcherz",
+    "email": "",
+    "club": "",
+    "district": "",
+    "photoUrl": "https://www.senat.gov.pl/gfx/senat/_thumbs/pl/senatsenatorowie/975/11/zdjecie/mlbce1-bWmg,pecherz.jpg",
+    "detailUrl": "https://www.senat.gov.pl/sklad/senatorowie/senator,975,11,janusz-pecherz.html"
+  },
+  {
+    "id": "864",
+    "name": "Marek Pęk",
+    "email": "",
+    "club": "",
+    "district": "",
+    "photoUrl": "https://www.senat.gov.pl/gfx/senat/_thumbs/pl/senatsenatorowie/864/11/zdjecie/mlbce1-bWmg,pek.jpg",
+    "detailUrl": "https://www.senat.gov.pl/sklad/senatorowie/senator,864,11,marek-pek.html"
+  },
+  {
+    "id": "1113",
+    "name": "Monika Jadwiga Piątkowska",
+    "email": "",
+    "club": "",
+    "district": "",
+    "photoUrl": "https://www.senat.gov.pl/gfx/senat/_thumbs/pl/senatsenatorowie/1113/11/zdjecie/mlbce1-bWmg,piatkowska2.jpg",
+    "detailUrl": "https://www.senat.gov.pl/sklad/senatorowie/senator,1113,11,monika-jadwiga-piatkowska.html"
+  },
+  {
+    "id": "1053",
+    "name": "Jolanta Piotrowska",
+    "email": "",
+    "club": "",
+    "district": "",
+    "photoUrl": "https://www.senat.gov.pl/gfx/senat/_thumbs/pl/senatsenatorowie/1053/11/zdjecie/mlbce1-bWmg,piotrowska.jpg",
+    "detailUrl": "https://www.senat.gov.pl/sklad/senatorowie/senator,1053,11,jolanta-piotrowska.html"
+  },
+  {
+    "id": "246",
+    "name": "Zdzisław Pupa",
+    "email": "",
+    "club": "",
+    "district": "",
+    "photoUrl": "https://www.senat.gov.pl/gfx/senat/_thumbs/pl/senatsenatorowie/246/11/zdjecie/mlbce1-bWmg,pupa.jpg",
+    "detailUrl": "https://www.senat.gov.pl/sklad/senatorowie/senator,246,11,zdzislaw-pupa.html"
+  },
+  {
+    "id": "1047",
+    "name": "Mirosław Różański",
+    "email": "",
+    "club": "",
+    "district": "",
+    "photoUrl": "https://www.senat.gov.pl/gfx/senat/_thumbs/pl/senatsenatorowie/1047/11/zdjecie/mlbce1-bWmg,rozanski.jpg",
+    "detailUrl": "https://www.senat.gov.pl/sklad/senatorowie/senator,1047,11,miroslaw-rozanski.html"
+  },
+  {
+    "id": "847",
+    "name": "Jarosław Rusiecki",
+    "email": "",
+    "club": "",
+    "district": "",
+    "photoUrl": "https://www.senat.gov.pl/gfx/senat/_thumbs/pl/senatsenatorowie/847/11/zdjecie/mlbce1-bWmg,rusiecki.jpg",
+    "detailUrl": "https://www.senat.gov.pl/sklad/senatorowie/senator,847,11,jaroslaw-rusiecki.html"
+  },
+  {
+    "id": "876",
+    "name": "Sławomir Rybicki",
+    "email": "",
+    "club": "",
+    "district": "",
+    "photoUrl": "https://www.senat.gov.pl/gfx/senat/_thumbs/pl/senatsenatorowie/876/11/zdjecie/mlbce1-bWmg,rybicki.jpg",
+    "detailUrl": "https://www.senat.gov.pl/sklad/senatorowie/senator,876,11,slawomir-rybicki.html"
+  },
+  {
+    "id": "63",
+    "name": "Janina Sagatowska",
+    "email": "",
+    "club": "",
+    "district": "",
+    "photoUrl": "https://www.senat.gov.pl/gfx/senat/_thumbs/pl/senatsenatorowie/63/11/zdjecie/mlbce1-bWmg,sagatowska.jpg",
+    "detailUrl": "https://www.senat.gov.pl/sklad/senatorowie/senator,63,11,janina-sagatowska.html"
+  },
+  {
+    "id": "1043",
+    "name": "Grzegorz Schetyna",
+    "email": "",
+    "club": "",
+    "district": "",
+    "photoUrl": "https://www.senat.gov.pl/gfx/senat/_thumbs/pl/senatsenatorowie/1043/11/zdjecie/mlbce1-bWmg,schetyna.jpg",
+    "detailUrl": "https://www.senat.gov.pl/sklad/senatorowie/senator,1043,11,grzegorz-schetyna.html"
+  },
+  {
+    "id": "969",
+    "name": "Joanna Sekuła",
+    "email": "",
+    "club": "",
+    "district": "",
+    "photoUrl": "https://www.senat.gov.pl/gfx/senat/_thumbs/pl/senatsenatorowie/969/11/zdjecie/mlbce1-bWmg,j_sekula.jpg",
+    "detailUrl": "https://www.senat.gov.pl/sklad/senatorowie/senator,969,11,joanna-sekula.html"
+  },
+  {
+    "id": "1042",
+    "name": "Małgorzata Sekuła-Szmajdzińska",
+    "email": "",
+    "club": "",
+    "district": "",
+    "photoUrl": "https://www.senat.gov.pl/gfx/senat/_thumbs/pl/senatsenatorowie/1042/11/zdjecie/mlbce1-bWmg,sekula-szmajdzinska.jpg",
+    "detailUrl": "https://www.senat.gov.pl/sklad/senatorowie/senator,1042,11,malgorzata-sekula-szmajdzinska.html"
+  },
+  {
+    "id": "36",
+    "name": "Michał Seweryński",
+    "email": "",
+    "club": "",
+    "district": "",
+    "photoUrl": "https://www.senat.gov.pl/gfx/senat/_thumbs/pl/senatsenatorowie/36/11/zdjecie/mlbce1-bWmg,sewerynski.jpg",
+    "detailUrl": "https://www.senat.gov.pl/sklad/senatorowie/senator,36,11,michal-sewerynski.html"
+  },
+  {
+    "id": "1062",
+    "name": "Henryk Piotr Siedlaczek",
+    "email": "",
+    "club": "",
+    "district": "",
+    "photoUrl": "https://www.senat.gov.pl/gfx/senat/_thumbs/pl/senatsenatorowie/1062/11/zdjecie/mlbce1-bWmg,siedlaczek.jpg",
+    "detailUrl": "https://www.senat.gov.pl/sklad/senatorowie/senator,1062,11,henryk-piotr-siedlaczek.html"
+  },
+  {
+    "id": "59",
+    "name": "Wojciech Skurkiewicz",
+    "email": "",
+    "club": "",
+    "district": "",
+    "photoUrl": "https://www.senat.gov.pl/gfx/senat/_thumbs/pl/senatsenatorowie/59/11/zdjecie/mlbce1-bWmg,skurkiewicz_1_w.jpg",
+    "detailUrl": "https://www.senat.gov.pl/sklad/senatorowie/senator,59,11,wojciech-skurkiewicz.html"
+  },
+  {
+    "id": "92",
+    "name": "Krzysztof Słoń",
+    "email": "",
+    "club": "",
+    "district": "",
+    "photoUrl": "https://www.senat.gov.pl/gfx/senat/_thumbs/pl/senatsenatorowie/92/11/zdjecie/mlbce1-bWmg,slon.jpg",
+    "detailUrl": "https://www.senat.gov.pl/sklad/senatorowie/senator,92,11,krzysztof-slon.html"
+  },
+  {
+    "id": "965",
+    "name": "Adam Szejnfeld",
+    "email": "",
+    "club": "",
+    "district": "",
+    "photoUrl": "https://www.senat.gov.pl/gfx/senat/_thumbs/pl/senatsenatorowie/965/11/zdjecie/mlbce1-bWmg,szejnfeld.jpg",
+    "detailUrl": "https://www.senat.gov.pl/sklad/senatorowie/senator,965,11,adam-szejnfeld.html"
+  },
+  {
+    "id": "854",
+    "name": "Aleksander Szwed",
+    "email": "",
+    "club": "",
+    "district": "",
+    "photoUrl": "https://www.senat.gov.pl/gfx/senat/_thumbs/pl/senatsenatorowie/854/11/zdjecie/mlbce1-bWmg,szwed.jpg",
+    "detailUrl": "https://www.senat.gov.pl/sklad/senatorowie/senator,854,11,aleksander-szwed.html"
+  },
+  {
+    "id": "964",
+    "name": "Ryszard Świlski",
+    "email": "",
+    "club": "",
+    "district": "",
+    "photoUrl": "https://www.senat.gov.pl/gfx/senat/_thumbs/pl/senatsenatorowie/964/11/zdjecie/mlbce1-bWmg,swilski.jpg",
+    "detailUrl": "https://www.senat.gov.pl/sklad/senatorowie/senator,964,11,ryszard-swilski.html"
+  },
+  {
+    "id": "1046",
+    "name": "Jacek Trela",
+    "email": "",
+    "club": "",
+    "district": "",
+    "photoUrl": "https://www.senat.gov.pl/gfx/senat/_thumbs/pl/senatsenatorowie/1046/11/zdjecie/mlbce1-bWmg,trela.jpg",
+    "detailUrl": "https://www.senat.gov.pl/sklad/senatorowie/senator,1046,11,jacek-trela.html"
+  },
+  {
+    "id": "960",
+    "name": "Wadim Tyszkiewicz",
+    "email": "",
+    "club": "",
+    "district": "",
+    "photoUrl": "https://www.senat.gov.pl/gfx/senat/_thumbs/pl/senatsenatorowie/960/11/zdjecie/mlbce1-bWmg,tyszkiewicz.jpg",
+    "detailUrl": "https://www.senat.gov.pl/sklad/senatorowie/senator,960,11,wadim-tyszkiewicz.html"
+  },
+  {
+    "id": "959",
+    "name": "Kazimierz Michał Ujazdowski",
+    "email": "",
+    "club": "",
+    "district": "",
+    "photoUrl": "https://www.senat.gov.pl/gfx/senat/_thumbs/pl/senatsenatorowie/959/11/zdjecie/mlbce1-bWmg,ujazdowski.jpg",
+    "detailUrl": "https://www.senat.gov.pl/sklad/senatorowie/senator,959,11,kazimierz-michal-ujazdowski.html"
+  },
+  {
+    "id": "885",
+    "name": "Jerzy Wcisła",
+    "email": "",
+    "club": "",
+    "district": "",
+    "photoUrl": "https://www.senat.gov.pl/gfx/senat/_thumbs/pl/senatsenatorowie/885/11/zdjecie/mlbce1-bWmg,wcisla.jpg",
+    "detailUrl": "https://www.senat.gov.pl/sklad/senatorowie/senator,885,11,jerzy-wcisla.html"
+  },
+  {
+    "id": "44",
+    "name": "Kazimierz Wiatr",
+    "email": "",
+    "club": "",
+    "district": "",
+    "photoUrl": "https://www.senat.gov.pl/gfx/senat/_thumbs/pl/senatsenatorowie/44/11/zdjecie/mlbce1-bWmg,wiatr.jpg",
+    "detailUrl": "https://www.senat.gov.pl/sklad/senatorowie/senator,44,11,kazimierz-wiatr.html"
+  },
+  {
+    "id": "1040",
+    "name": "Waldemar Witkowski",
+    "email": "",
+    "club": "",
+    "district": "",
+    "photoUrl": "https://www.senat.gov.pl/gfx/senat/_thumbs/pl/senatsenatorowie/1040/11/zdjecie/mlbce1-bWmg,witkowski.jpg",
+    "detailUrl": "https://www.senat.gov.pl/sklad/senatorowie/senator,1040,11,waldemar-witkowski.html"
+  },
+  {
+    "id": "468",
+    "name": "Jacek Włosowicz",
+    "email": "",
+    "club": "",
+    "district": "",
+    "photoUrl": "https://www.senat.gov.pl/gfx/senat/_thumbs/pl/senatsenatorowie/468/11/zdjecie/mlbce1-bWmg,wlosowicz.jpg",
+    "detailUrl": "https://www.senat.gov.pl/sklad/senatorowie/senator,468,11,jacek-wlosowicz.html"
+  },
+  {
+    "id": "1070",
+    "name": "Piotr Woźniak",
+    "email": "",
+    "club": "",
+    "district": "",
+    "photoUrl": "https://www.senat.gov.pl/gfx/senat/_thumbs/pl/senatsenatorowie/1070/11/zdjecie/mlbce1-bWmg,woznak.jpg",
+    "detailUrl": "https://www.senat.gov.pl/sklad/senatorowie/senator,1070,11,piotr-wozniak.html"
+  },
+  {
+    "id": "66",
+    "name": "Alicja Zając",
+    "email": "",
+    "club": "",
+    "district": "",
+    "photoUrl": "https://www.senat.gov.pl/gfx/senat/_thumbs/pl/senatsenatorowie/66/11/zdjecie/mlbce1-bWmg,zajac-a.jpg",
+    "detailUrl": "https://www.senat.gov.pl/sklad/senatorowie/senator,66,11,alicja-zajac.html"
+  },
+  {
+    "id": "27",
+    "name": "Józef Zając",
+    "email": "",
+    "club": "",
+    "district": "",
+    "photoUrl": "https://www.senat.gov.pl/gfx/senat/_thumbs/pl/senatsenatorowie/27/11/zdjecie/mlbce1-bWmg,zajac-j.jpg",
+    "detailUrl": "https://www.senat.gov.pl/sklad/senatorowie/senator,27,11,jozef-zajac.html"
+  },
+  {
+    "id": "1041",
+    "name": "Marcin Zawiła",
+    "email": "",
+    "club": "",
+    "district": "",
+    "photoUrl": "https://www.senat.gov.pl/gfx/senat/_thumbs/pl/senatsenatorowie/1041/11/zdjecie/mlbce1-bWmg,zawila.jpg",
+    "detailUrl": "https://www.senat.gov.pl/sklad/senatorowie/senator,1041,11,marcin-zawila.html"
+  },
+  {
+    "id": "955",
+    "name": "Barbara Zdrojewska",
+    "email": "",
+    "club": "",
+    "district": "",
+    "photoUrl": "https://www.senat.gov.pl/gfx/senat/_thumbs/pl/senatsenatorowie/955/11/zdjecie/mlbce1-bWmg,zdrojewska.jpg",
+    "detailUrl": "https://www.senat.gov.pl/sklad/senatorowie/senator,955,11,barbara-zdrojewska.html"
+  },
+  {
+    "id": "952",
+    "name": "Wojciech Ziemniak",
+    "email": "",
+    "club": "",
+    "district": "",
+    "photoUrl": "https://www.senat.gov.pl/gfx/senat/_thumbs/pl/senatsenatorowie/952/11/zdjecie/mlbce1-bWmg,ziemniak.jpg",
+    "detailUrl": "https://www.senat.gov.pl/sklad/senatorowie/senator,952,11,wojciech-ziemniak.html"
+  },
+  {
+    "id": "1072",
+    "name": "Maciej Żywno",
+    "email": "",
+    "club": "",
+    "district": "",
+    "photoUrl": "https://www.senat.gov.pl/gfx/senat/_thumbs/pl/senatsenatorowie/1072/11/zdjecie/mlbce1-bWmg,zywno.jpg",
+    "detailUrl": "https://www.senat.gov.pl/sklad/senatorowie/senator,1072,11,maciej-zywno.html"
+  }
+]
