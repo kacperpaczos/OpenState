@@ -16,7 +16,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="pl" data-theme="dark" suppressHydrationWarning>
+    <html lang="pl" suppressHydrationWarning>
       <body className={inter.variable} suppressHydrationWarning>
         <div className="mesh-background" />
         <Navbar />

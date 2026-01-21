@@ -2,9 +2,12 @@ import fs from 'fs';
 import path from 'path';
 
 export interface Senator {
+    id: string;
     name: string;
     party: string;
+    club: string;
     district: string;
+    email?: string;
     photoUrl?: string;
     detailsUrl?: string;
     type: 'Senator';

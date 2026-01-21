@@ -24,18 +24,32 @@ export default function DiffViewer({ billId, fromVersion = "draft_rcl", toVersio
     const [viewMode, setViewMode] = useState<"split" | "unified">("split");
 
     useEffect(() => {
-        // Load diff data
+        let mounted = true;
+
         fetch(`/data/bills_text/${billId}/diff_draft_to_komisja.json`)
-            .then(res => res.json())
+            .then(res => {
+                if (!res.ok) {
+                    throw new Error(`Diff not found: ${res.status}`);
+                }
+                return res.json();
+            })
             .then(data => {
-                setDiffData(data.side_by_side || []);
-                setStats(data.summary?.stats || null);
-                setLoading(false);
+                if (mounted) {
+                    setDiffData(data.side_by_side || []);
+                    setStats(data.summary?.stats || null);
+                    setLoading(false);
+                }
             })
             .catch(err => {
-                console.error("Failed to load diff:", err);
-                setLoading(false);
+                if (mounted) {
+                    console.warn(`Diff not available for bill ${billId}`);
+                    setDiffData([]);
+                    setStats(null);
+                    setLoading(false);
+                }
             });
+
+        return () => { mounted = false; };
     }, [billId]);
 
     if (loading) {
@@ -80,8 +94,8 @@ export default function DiffViewer({ billId, fromVersion = "draft_rcl", toVersio
                     <button
                         onClick={() => setViewMode("split")}
                         className={`px-3 py-1.5 rounded-button text-xs font-semibold transition-all ${viewMode === "split"
-                                ? "bg-apple-blue text-white"
-                                : "bg-apple-gray-100 dark:bg-white/5 text-apple-gray-700 dark:text-apple-gray-300"
+                            ? "bg-apple-blue text-white"
+                            : "bg-apple-gray-100 dark:bg-white/5 text-apple-gray-700 dark:text-apple-gray-300"
                             }`}
                     >
                         Side-by-Side
@@ -89,8 +103,8 @@ export default function DiffViewer({ billId, fromVersion = "draft_rcl", toVersio
                     <button
                         onClick={() => setViewMode("unified")}
                         className={`px-3 py-1.5 rounded-button text-xs font-semibold transition-all ${viewMode === "unified"
-                                ? "bg-apple-blue text-white"
-                                : "bg-apple-gray-100 dark:bg-white/5 text-apple-gray-700 dark:text-apple-gray-300"
+                            ? "bg-apple-blue text-white"
+                            : "bg-apple-gray-100 dark:bg-white/5 text-apple-gray-700 dark:text-apple-gray-300"
                             }`}
                     >
                         Unified
@@ -131,7 +145,7 @@ function SplitDiffView({ lines }: { lines: DiffLine[] }) {
                     <div
                         key={idx}
                         className={`grid grid-cols-2 border-b border-apple-gray-100 dark:border-white/5 ${line.type === "add" ? "bg-apple-green/10" :
-                                line.type === "remove" ? "bg-apple-red/10" : ""
+                            line.type === "remove" ? "bg-apple-red/10" : ""
                             }`}
                     >
                         {/* Old Side */}

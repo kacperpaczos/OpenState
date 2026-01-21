@@ -3,6 +3,8 @@ import urllib.request
 import sys
 import ssl
 import os
+from constants import KanbanStages
+from storage import Storage
 
 # Determine the directory where the script is located
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -86,8 +88,7 @@ try:
     formatted_bills.sort(key=lambda x: x['date'], reverse=True)
     
     # Save List as JSON
-    with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
-        json.dump(formatted_bills, f, indent=4, ensure_ascii=False)
+    Storage.save_json("bills.json", formatted_bills)
         
     print(f"Successfully wrote {len(formatted_bills)} bills to {OUTPUT_FILE}")
 
@@ -112,8 +113,7 @@ try:
             with urllib.request.urlopen(details_url, context=ctx) as response:
                 details = json.loads(response.read().decode())
             
-            with open(detail_path, 'w', encoding='utf-8') as f:
-                json.dump(details, f, indent=4, ensure_ascii=False)
+            Storage.save_json(f"bills/{ueid}.json", details)
                 
             if i % 10 == 0:
                 print(f"Saved {i}/{len(formatted_bills)}: {ueid}")
@@ -130,10 +130,10 @@ try:
     print("Enriching bills data with Kanban stages...")
     
     def determine_stage(details):
-        if not details: return "Inicjatywa"
+        if not details: return KanbanStages.INICJATYWA
         
         stages = details.get('stages', [])
-        if not stages: return "Inicjatywa"
+        if not stages: return KanbanStages.INICJATYWA
         
         # Reverse iterate to find the most advanced stage
         # Logic: We look for the last significant event
@@ -143,14 +143,14 @@ try:
         last_stage_name = stage_names[-1] if stage_names else ""
         
         # 1. Final States
-        if "wejście w życie" in last_stage_name: return "Wejście w życie"
-        if "publikacja" in last_stage_name or "ogłoszono" in last_stage_name: return "Publikacja"
-        if "podpis" in last_stage_name: return "Publikacja" # Signed
+        if "wejście w życie" in last_stage_name: return KanbanStages.WEJSCIE_W_ZYCIE
+        if "publikacja" in last_stage_name or "ogłoszono" in last_stage_name: return KanbanStages.PUBLIKACJA
+        if "podpis" in last_stage_name: return KanbanStages.PUBLIKACJA # Signed
         
         # 2. President
         # Check if any stage is President-related and we aren't in publication yet
         if any("prezydent" in s for s in stage_names):
-             return "Prezydent"
+             return KanbanStages.PREZYDENT
 
         # 3. Senate
         # Check if we are in Senate phase
@@ -158,29 +158,29 @@ try:
             # Check for specific Senate events in reverse order
             for s in reversed(stage_names):
                 if "senat" in s:
-                    if "uchwała" in s or "stanowisko" in s: return "Senat - Głosowanie"
-                    if "komisj" in s: return "Senat - Komisje"
-            return "Senat - Prace" # Fallback if just generic 'skierowano do senatu'
+                    if "uchwała" in s or "stanowisko" in s: return KanbanStages.SENAT_GLOSOWANIE
+                    if "komisj" in s: return KanbanStages.SENAT_KOMISJE
+            return KanbanStages.SENAT_KOMISJE # Fallback
             
         # 4. Sejm (if not Senate/President/Final)
         # Check Sejm sub-stages
         
         # Look for the last matching Sejm event
         for s in reversed(stage_names):
-            if "głosowanie" in s or "iii czytanie" in s: return "Sejm - Głosowanie"
-            if "ii czytanie" in s: return "Sejm - II Czytanie"
-            if "sprawozdanie komisji" in s or "prace w komisjach" in s: return "Sejm - Komisje"
-            if "i czytanie" in s: return "Sejm - I Czytanie"
-            if "skierowano do" in s and "komisj" in s: return "Sejm - Komisje"
+            if "głosowanie" in s or "iii czytanie" in s: return KanbanStages.SEJM_GLOSOWANIE
+            if "ii czytanie" in s: return KanbanStages.SEJM_II_CZYTANIE
+            if "sprawozdanie komisji" in s or "prace w komisjach" in s: return KanbanStages.SEJM_KOMISJE
+            if "i czytanie" in s: return KanbanStages.SEJM_I_CZYTANIE
+            if "skierowano do" in s and "komisj" in s: return KanbanStages.SEJM_KOMISJE
 
         # Fallback
-        return "Inicjatywa"
+        return KanbanStages.INICJATYWA
 
     enriched_bills = []
     for bill in formatted_bills:
         ueid = bill['id']
         detail_path = os.path.join(DETAILS_DIR, f"{ueid}.json")
-        kanban_stage = "Inicjatywa" # Default
+        kanban_stage = KanbanStages.INICJATYWA # Default
         
         if os.path.exists(detail_path):
             try:
@@ -199,8 +199,7 @@ try:
         enriched_bills.append(bill)
 
     # Save Enriched Data
-    with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
-        json.dump(enriched_bills, f, indent=4, ensure_ascii=False)
+    Storage.save_json("bills.json", enriched_bills)
     
     print(f"Updated {OUTPUT_FILE} with Kanban stages.")
 

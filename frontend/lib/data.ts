@@ -11,7 +11,7 @@ import { getParliamentMembers as getBacklogMembers } from "./mps";
 // but recommending moving to specific files.
 
 import { getSenators } from "./senators";
-import { getProcesses, LegislativeProcess } from "./processes";
+import { getBills, Bill } from "./bills";
 
 export type MP = {
     type: 'Poseł' | 'Senator';

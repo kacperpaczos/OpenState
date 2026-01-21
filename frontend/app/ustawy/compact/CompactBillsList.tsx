@@ -1,11 +1,11 @@
 "use client";
 
-import { LegislativeProcess } from "@/lib/processes";
+import { Bill } from "@/lib/bills";
 import { Search, ArrowLeft, Filter } from "lucide-react";
 import Link from "next/link";
 import { useState, useMemo, useEffect } from "react";
 
-export default function CompactBillsList({ initialProcesses }: { initialProcesses: LegislativeProcess[] }) {
+export default function CompactBillsList({ initialProcesses }: { initialProcesses: Bill[] }) {
     const [searchTerm, setSearchTerm] = useState("");
     const [statusFilter, setStatusFilter] = useState("all");
     const [headerCompact, setHeaderCompact] = useState(false);
@@ -136,8 +136,8 @@ function FilterChips({ statusFilter, setStatusFilter, compact }: { statusFilter:
                     key={f.id}
                     onClick={() => setStatusFilter(f.id)}
                     className={`px-2.5 py-1 rounded-button text-xs font-semibold transition-all ${statusFilter === f.id
-                            ? 'bg-apple-blue text-white'
-                            : 'text-apple-gray-700 dark:text-apple-gray-300 hover:bg-apple-gray-100 dark:hover:bg-white/10'
+                        ? 'bg-apple-blue text-white'
+                        : 'text-apple-gray-700 dark:text-apple-gray-300 hover:bg-apple-gray-100 dark:hover:bg-white/10'
                         }`}
                 >
                     {f.label}
@@ -147,7 +147,7 @@ function FilterChips({ statusFilter, setStatusFilter, compact }: { statusFilter:
     );
 }
 
-function CompactBillCard({ process }: { process: LegislativeProcess }) {
+function CompactBillCard({ process }: { process: Bill }) {
     const stage = process.kanbanStage || "Nieznany";
 
     return (

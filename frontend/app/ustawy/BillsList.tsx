@@ -1,11 +1,11 @@
 "use client";
 
-import { LegislativeProcess } from "@/lib/processes";
+import { Bill } from "@/lib/bills";
 import { FileText, ArrowRight, Activity, Clock, Euro, Search } from "lucide-react";
 import Link from "next/link";
 import { useState, useMemo, useEffect } from "react";
 
-export default function BillsList({ initialProcesses }: { initialProcesses: LegislativeProcess[] }) {
+export default function BillsList({ initialProcesses }: { initialProcesses: Bill[] }) {
     const [searchTerm, setSearchTerm] = useState("");
     const [statusFilter, setStatusFilter] = useState("all");
     const [headerHidden, setHeaderHidden] = useState(false);
@@ -138,7 +138,7 @@ function FilterButton({ active, onClick, label }: { active: boolean; onClick: ()
     );
 }
 
-function ProcessCard({ process }: { process: LegislativeProcess }) {
+function ProcessCard({ process }: { process: Bill }) {
     const lastStage = process.stages.length > 0 ? process.stages[process.stages.length - 1] : null;
     const displayStage = process.kanbanStage || lastStage?.stageName || "Nieznany";
 

@@ -1,10 +1,11 @@
 import { getBills } from "@/lib/bills";
 import { KANBAN_STAGES } from "@/lib/constants";
-import TimelineView from "./TimelineView";
+import HorizontalKanban from "../HorizontalKanban";
 
-export default async function TimelinePage() {
+export default async function HorizontalPage() {
     const processes = await getBills();
 
+    // Build kanban structure from processes
     const kanban = {
         inicjatywa: processes.filter(p => p.kanbanStage === KANBAN_STAGES.INICJATYWA),
         sejm_i_czytanie: processes.filter(p => p.kanbanStage === KANBAN_STAGES.SEJM_I_CZYTANIE),
@@ -18,5 +19,5 @@ export default async function TimelinePage() {
         wejscie: processes.filter(p => p.kanbanStage === KANBAN_STAGES.WEJSCIE_W_ZYCIE),
     };
 
-    return <TimelineView kanban={kanban} />;
+    return <HorizontalKanban kanban={kanban} />;
 }

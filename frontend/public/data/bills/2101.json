@@ -1,6 +1,6 @@
 {
     "UE": "ENFORCEMENT",
-    "changeDate": "2025-12-19T12:09:35",
+    "changeDate": "2026-01-21T18:46:38",
     "description": "projekt dotyczy dostosowania polskiego prawa do unijnych przepisów dotyczących np. rynku usług płatniczych oraz przymusowej restrukturyzacji. Nowe rozwiązania zapewnią m.in., że szybkie przelewy w euro nie będą droższe niż zwykłe przelewy. Projekt ustawy wprowadza również techniczne zmiany jeśli chodzi o wymogi określane przez Bankowy Fundusz Gwarancyjny dla podmiotów krajowych takich jak banki, czy firmy inwestycyjne.",
     "documentDate": "2025-12-12",
     "documentType": "projekt ustawy",
@@ -35,10 +35,29 @@
             "date": "2025-12-18",
             "stageName": "Skierowano do I czytania w komisjach",
             "stageType": "ReadingReferral"
+        },
+        {
+            "children": [
+                {
+                    "date": "2026-01-21",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "2176",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "342",
+                    "rapporteurName": "Krystyna Skowrońska",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/2176/2176.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2026-01-21",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
         }
     ],
     "term": 10,
     "title": "Rządowy projekt ustawy o zmianie niektórych ustaw związanych z funkcjonowaniem rynku finansowego oraz ochroną uczestników tego rynku",
     "urgencyStatus": "NORMAL",
-    "webGeneratedDate": "2025-12-19T12:16:28"
+    "webGeneratedDate": "2026-01-21T18:46:54"
 }

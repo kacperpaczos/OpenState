@@ -1,9 +1,9 @@
 "use client";
 
-import { LegislativeProcess } from "@/lib/processes";
+import { Bill } from "@/lib/bills";
 import { CheckCircle, Circle, Clock, FileText } from "lucide-react";
 
-export default function ProcessTimeline({ process }: { process: LegislativeProcess }) {
+export default function ProcessTimeline({ process }: { process: Bill }) {
     // Reverse stages to show newest first? Or oldest first? 
     // Usually timelines are newest at top or bottom. Let's do oldest at top (chronological) usually makes sense for reading a story, 
     // but for status updates usually newest is top.
@@ -55,11 +55,11 @@ export default function ProcessTimeline({ process }: { process: LegislativeProce
                                         <div className="mt-3 space-y-3 bg-white/5 rounded-xl p-4 border border-white/5">
                                             {stage.children.map((child, j) => (
                                                 <div key={j} className="flex items-start gap-3 text-sm">
-                                                    <div className="mt-1 w-1.5 h-1.5 rounded-full bg-gray-600 shrink-0"></div>
+                                                    <div className="mt-1 w-1.5 h-1.5 rounded-full bg-gray-600 dark:bg-gray-400 shrink-0"></div>
                                                     <div>
-                                                        <div className="text-gray-300">{child.stageName}</div>
+                                                        <div className="text-gray-800 dark:text-gray-300">{child.stageName}</div>
                                                         {child.decision && (
-                                                            <div className="text-xs text-green-400 mt-0.5 font-medium">
+                                                            <div className="text-xs text-green-600 dark:text-green-400 mt-0.5 font-medium">
                                                                 Decyzja: {child.decision}
                                                             </div>
                                                         )}

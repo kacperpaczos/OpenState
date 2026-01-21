@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 
 const DATA_DIR = path.join(__dirname, '../public/data');
-const OUTPUT_FILE = path.join(DATA_DIR, 'processes.json');
+const OUTPUT_FILE = path.join(DATA_DIR, 'bills.json');
 const API_URL = 'https://api.sejm.gov.pl/sejm/term10/processes';
 
 function shouldFetch() {

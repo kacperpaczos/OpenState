@@ -54,7 +54,7 @@ export default function SenatorDetailView({ senator }: { senator: Senator }) {
                                     Wyślij wiadomość
                                 </a>
                             )}
-                            <a href={senator.detailUrl} target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 px-5 py-2.5 bg-surface-color border border-surface-border rounded-xl hover:bg-white/10 transition-colors text-foreground font-medium shadow-sm">
+                            <a href={senator.detailsUrl} target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 px-5 py-2.5 bg-surface-color border border-surface-border rounded-xl hover:bg-white/10 transition-colors text-foreground font-medium shadow-sm">
                                 <MapPin size={18} className="text-gray-500" />
                                 Strona Senatu
                             </a>

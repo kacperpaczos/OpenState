@@ -1,4 +1,4 @@
-import { getProcess } from "@/lib/processes";
+import { getBill } from "@/lib/bills";
 import ProcessTimeline from "./ProcessTimeline";
 import DiffViewer from "@/components/DiffViewer";
 import { notFound } from "next/navigation";
@@ -7,7 +7,7 @@ import { ArrowLeft, Calendar, FileText, Euro, MapPin, GitCompare } from "lucide-
 
 export default async function BillPage({ params }: { params: Promise<{ id: string }> }) {
     const { id } = await params;
-    const process = await getProcess(id);
+    const process = await getBill(id);
 
     if (!process) {
         return notFound();
@@ -74,7 +74,7 @@ export default async function BillPage({ params }: { params: Promise<{ id: strin
                         <h3 className="text-xs uppercase text-gray-500 font-bold mb-2 flex items-center gap-2">
                             <FileText size={14} /> Opis
                         </h3>
-                        <p className="text-gray-300 leading-relaxed text-lg">
+                        <p className="text-gray-700 dark:text-gray-300 leading-relaxed text-lg">
                             {process.description}
                         </p>
                     </div>

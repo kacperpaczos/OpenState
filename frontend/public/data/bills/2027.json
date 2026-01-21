@@ -1,6 +1,6 @@
 {
     "UE": "NO",
-    "changeDate": "2026-01-12T09:51:44",
+    "changeDate": "2026-01-21T18:13:40",
     "closureDate": "2026-01-09",
     "description": "projekt dotyczy wprowadzenia obowiązku szybkiego zgłaszania zmian przez spółki, obowiązku informowania sądu o zakończeniu umowy, ujawnienia w KRS informacji o instytucji prowadzącej rejestr akcjonariuszy albo rejestrację akcji w depozycie papierów wartościowych, składania wykazu akcjonariuszy przy wykreślaniu spółki z KRS, rozszerzenia danych wpisywanych do rejestru akcjonariuszy. W rejestrze, obok dotychczasowych danych, znajdzie się również numer PESEL lub jeśli ktoś go nie posiada data urodzenia. W przypadku firmy (np. spółki) będą to m.in. numer w odpowiednim rejestrze i jego nazwa",
     "documentDate": "2025-11-28",
@@ -146,6 +146,22 @@
             "sittingNum": 49,
             "stageType": "SejmReading",
             "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/2027/attachment/2027_u3.pdf"
+        },
+        {
+            "children": [
+                {
+                    "date": "2026-01-21",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "NKK",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2026-01-21",
+            "stageName": "Stanowisko Senatu",
+            "position": "wniósł poprawki",
+            "printNumber": "2181",
+            "stageType": "SenatePosition"
         },
         {
             "stageName": "Uchwalono",

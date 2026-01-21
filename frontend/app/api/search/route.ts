@@ -1,6 +1,6 @@
 import { NextResponse } from 'next/server';
 import { getMPs } from '@/lib/mps';
-import { getProcesses } from '@/lib/processes';
+import { getBills } from '@/lib/bills';
 import { getInterpellations } from '@/lib/interpellations';
 import { getRclProjects } from '@/lib/rcl';
 
@@ -14,12 +14,18 @@ export async function GET(request: Request) {
 
     const [mps, bills, interpellations, rcl] = await Promise.all([
         getMPs(),
-        getProcesses(),
+        getBills(),
         getInterpellations(),
         getRclProjects()
     ]);
 
-    const results = [];
+    const results: Array<{
+        type: string;
+        title: string;
+        subtitle: string;
+        url: string;
+        external?: boolean;
+    }> = [];
 
     // Search MPs
     mps.forEach(mp => {
@@ -35,12 +41,12 @@ export async function GET(request: Request) {
 
     // Search Bills
     bills.forEach(bill => {
-        if (bill.title.toLowerCase().includes(query) || bill.printNo?.includes(query)) {
+        if (bill.title.toLowerCase().includes(query) || bill.id?.includes(query)) {
             results.push({
                 type: 'Ustawa',
                 title: bill.title,
-                subtitle: `Druk nr ${bill.printNo}`,
-                url: `/ustawy` // Ideally deep link if possible
+                subtitle: `Druk nr ${bill.id}`,
+                url: `/ustawy/${bill.id}`
             });
         }
     });
@@ -63,8 +69,8 @@ export async function GET(request: Request) {
             results.push({
                 type: 'RCL',
                 title: p.title,
-                subtitle: p.status,
-                url: p.url,
+                subtitle: p.status || 'RCL Project',
+                url: p.url || '/rcl',
                 external: true
             });
         }

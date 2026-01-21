@@ -1,0 +1,44 @@
+{
+    "UE": "ENFORCEMENT",
+    "changeDate": "2026-01-21T15:58:10",
+    "description": "projekt dotyczy wprowadzenia nowego wsparcia dla rolników gospodarujących na obszarach wyznaczonych w ramach normy GAEC 2 dotyczącej ochrony torfowisk i obszarów podmokłych; zmiany definicji trwałych użytków zielonych (TUZ); Nowe przepisy wydłużają czas, po którym grunt orny zostaje uznany za TUZ ? z 5 do 7 lat. Grunty, które mają już status trwałych użytków zielonych, nie stracą go automatycznie po zmianie definicji, jednocześnie przepis umożliwia zmianę klasyfikacji gruntów z inicjatywy rolnika, zgodnie z obowiązującymi przepisami.",
+    "documentDate": "2026-01-20",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "2180",
+    "passed": false,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2026-01-20",
+    "rclLink": "https://legislacja.rcl.gov.pl/getIdFromLegislacja?number=RM-0610-5-26",
+    "rclNum": "RM-0610-5-26",
+    "shortenProcedure": true,
+    "stages": [
+        {
+            "date": "2026-01-20",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "2180",
+            "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2026-01-21",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "RRW",
+                    "reportDate": "2026-02-10",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2026-01-21",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
+        }
+    ],
+    "term": 10,
+    "title": "Rządowy projekt ustawy o zmianie ustawy o Planie Strategicznym dla Wspólnej Polityki  Rolnej na lata 2023-2027",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2026-01-21T15:58:43"
+}

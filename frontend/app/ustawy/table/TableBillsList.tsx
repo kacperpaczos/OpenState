@@ -1,6 +1,6 @@
 "use client";
 
-import { LegislativeProcess } from "@/lib/processes";
+import { Bill } from "@/lib/bills";
 import { Search, ArrowUpDown, ExternalLink } from "lucide-react";
 import Link from "next/link";
 import { useState, useMemo } from "react";
@@ -8,7 +8,7 @@ import { useState, useMemo } from "react";
 type SortField = "id" | "title" | "date" | "stage";
 type SortDirection = "asc" | "desc";
 
-export default function TableBillsList({ initialProcesses }: { initialProcesses: LegislativeProcess[] }) {
+export default function TableBillsList({ initialProcesses }: { initialProcesses: Bill[] }) {
     const [searchTerm, setSearchTerm] = useState("");
     const [sortField, setSortField] = useState<SortField>("id");
     const [sortDirection, setSortDirection] = useState<SortDirection>("asc");
@@ -151,7 +151,7 @@ function TableHeader({
     );
 }
 
-function TableRow({ process, idx }: { process: LegislativeProcess; idx: number }) {
+function TableRow({ process, idx }: { process: Bill; idx: number }) {
     const stage = process.kanbanStage || "Nieznany";
 
     return (

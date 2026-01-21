@@ -1,0 +1,455 @@
+# Cursor/AI Agent Rules for OpenOurGov
+
+## Project Architecture Constraints
+
+### Mandatory Tech Stack
+- **Frontend**: Next.js 16.1.3 App Router ONLY (no Pages Router)
+- **React**: 19.2.3 with React Compiler enabled
+- **TypeScript**: 5.9.3 strict mode
+- **Styling**: TailwindCSS 3.4.1 with GovApple design tokens
+- **Backend**: Python 3.x scripts (no Node.js backend)
+- **Data**: File-based JSON in `frontend/public/data/`
+
+### Forbidden Patterns
+❌ **DO NOT**:
+- Use Next.js Pages Router
+- Add database dependencies (PostgreSQL, MongoDB, etc.) without explicit approval
+- Install state management libraries (Redux, Zustand) - use React built-ins
+- Create API routes that write to files (read-only JSON serving only)
+- Disable TypeScript strict mode
+- Use inline styles (use Tailwind utilities)
+- Hardcode data (must come from JSON files)
+- Create new Python web frameworks (Flask, FastAPI) - keep scripts only
+
+---
+
+## Coding Standards
+
+### File Naming Conventions
+```
+frontend/
+├── app/
+│   ├── page.tsx              # Route pages (lowercase)
+│   ├── layout.tsx            # Layouts
+│   └── [id]/                 # Dynamic routes (lowercase)
+│       └── ComponentName.tsx # Components (PascalCase)
+├── components/
+│   └── ComponentName.tsx     # PascalCase for components
+└── lib/
+    └── utilityName.ts        # camelCase for utilities
+
+backend/
+├── fetch_*.py                # Snake_case for scripts
+└── parsers/
+    └── module_name.py        # Snake_case for modules
+```
+
+### TypeScript Rules
+```typescript
+// ✅ CORRECT: Explicit typing for all exported functions
+export async function getProcesses(): Promise<LegislativeProcess[]> {
+  // ...
+}
+
+// ❌ WRONG: No implicit any
+export async function getProcesses() {  // Missing return type
+  // ...
+}
+
+// ✅ CORRECT: Interface for all data structures
+export interface LegislativeProcess {
+  id: string;
+  title: string;
+  kanbanStage?: string; // Optional fields marked
+}
+
+// ❌ WRONG: Using 'type' for data structures (use interface)
+export type LegislativeProcess = { /* ... */ }
+```
+
+### React Component Rules
+```tsx
+// ✅ CORRECT: Server Component (default)
+export default async function BillPage({ params }: { params: Promise<{ id: string }> }) {
+  const { id } = await params;
+  const bill = await getBill(id);
+  return <div>{bill.title}</div>;
+}
+
+// ✅ CORRECT: Client Component (when needed)
+"use client";
+import { useState } from "react";
+
+export default function InteractiveList() {
+  const [filter, setFilter] = useState("");
+  // ... interactive logic
+}
+
+// ❌ WRONG: Mixing server and client without "use client"
+import { useState } from "react"; // ERROR: can't use hooks in Server Component
+export default function BadComponent() { /* ... */ }
+```
+
+### Tailwind Usage
+```tsx
+// ✅ CORRECT: Use design tokens from tailwind.config.js
+<div className="bg-apple-blue text-white rounded-card shadow-apple-lg">
+
+// ✅ CORRECT: Use utility classes
+<div className="card-apple p-6">  {/* card-apple from globals.css */}
+
+// ❌ WRONG: Arbitrary values without good reason
+<div className="bg-[#007AFF]">  {/* Use bg-apple-blue instead */}
+
+// ✅ CORRECT: Dark mode
+<p className="text-gray-800 dark:text-gray-300">
+
+// ❌ WRONG: Hardcoded colors
+<p className="text-gray-300">  {/* Unreadable in light mode */}
+```
+
+---
+
+## Data Flow Rules
+
+### JSON File Locations
+```
+frontend/public/data/
+├── processes.json          # Primary source of bills (696 entries)
+├── bills.json              # Legacy - DO NOT USE (duplicate of processes.json)
+├── mps.json                # 460 MPs
+├── senators.json           # 100 Senators
+├── votings/
+│   ├── sittings.json       # Index of 49 sittings
+│   └── {sitting}/
+│       ├── index.json      # Voting summary
+│       └── {voting}.json   # Individual vote details
+├── rcl/
+│   └── projects.json       # RCL government projects
+└── isap/
+    └── acts_2024.json      # Published acts
+```
+
+### Data Fetching Pattern
+```typescript
+// ✅ CORRECT: Async function in lib/, called from Server Component
+// lib/processes.ts
+export async function getProcesses(): Promise<LegislativeProcess[]> {
+  const filePath = path.join(process.cwd(), 'public/data/processes.json');
+  const data = fs.readFileSync(filePath, 'utf-8');
+  return JSON.parse(data);
+}
+
+// app/ustawy/page.tsx
+export default async function BillsPage() {
+  const processes = await getProcesses();  // Server-side only
+  return <BillsList processes={processes} />;
+}
+
+// ❌ WRONG: Fetching in Client Component
+"use client";
+export default function BadComponent() {
+  const [data, setData] = useState([]);
+  useEffect(() => {
+    fetch('/data/processes.json').then(/* ... */);  // Inefficient
+  }, []);
+}
+```
+
+###Backend Data Refresh
+```bash
+# ✅ CORRECT: Manual execution of Python scripts
+cd backend
+python3 fetch_bills.py      # Updates processes.json
+python3 fetch_mps.py         # Updates mps.json
+
+# ❌ WRONG: Automated cron jobs writing during runtime
+# (causes HMR refresh loops in development)
+```
+
+---
+
+## Design System Enforcement
+
+### GovApple Color Palette
+```typescript
+// ✅ CORRECT: Use semantic Apple colors
+const colors = {
+  primary: 'apple-blue',      // #007AFF
+  success: 'apple-green',     // #34C759
+  warning: 'apple-orange',    // #FF9500
+  danger: 'apple-red',        // #FF3B30
+  // Grays: apple-gray-{50,100,200,...,900}
+};
+
+// ✅ CORRECT: Stage-specific colors
+<span className="bg-stage-sejm text-white">Sejm</span>
+<span className="bg-stage-senat text-white">Senat</span>
+```
+
+### Component Styling
+```tsx
+// ✅ CORRECT: Use predefined utility classes
+<div className="card-apple">           {/* from globals.css */}
+<div className="glass-card">           {/* glassmorphism */}
+<div className="rounded-card">         {/* 16px radius */}
+<button className="rounded-button">    {/* 12px radius */}
+
+// ✅ CORRECT: Shadows
+<div className="shadow-apple-sm">      {/* Small shadow */}
+<div className="shadow-apple-lg">      {/* Large shadow */}
+<div className="shadow-apple-xl">      {/* Extra large */}
+```
+
+### Typography
+```tsx
+// ✅ CORRECT: Use text utility classes
+<h1 className="text-headline">   {/* 24px, semibold */}
+<p className="text-body">         {/* 16px, normal */}
+<span className="text-caption">  {/* 14px, light */}
+
+// ✅ CORRECT: Semantic color classes
+<p className="text-foreground">          {/* Adaptive primary text */}
+<p className="text-text-secondary">      {/* Adaptive secondary text */}
+```
+
+---
+
+## Kanban Stage Mapping Rules
+
+### Recognized Stages (MUST match backend)
+```python
+# backend/fetch_bills.py - determine_stage() function
+KANBAN_STAGES = [
+    "Inicjatywa",
+    "Sejm - I Czytanie",
+    "Sejm - Komisje",
+    "Sejm - II Czytanie",
+    "Sejm - Głosowanie",
+    "Senat - Komisje",
+    "Senat - Głosowanie",
+    "Prezydent",
+    "Publikacja",
+    "Wejście w życie"
+]
+```
+
+### Stage Mapping Logic
+```typescript
+// ✅ CORRECT: When adding new stage, update BOTH:
+// 1. backend/fetch_bills.py determine_stage()
+// 2. frontend/app/harmonogram/page.tsx kanban object
+
+// ❌ WRONG: Hardcoding stage names in multiple files without sync
+```
+
+---
+
+## Error Handling & Edge Cases
+
+### Missing Data Handling
+```typescript
+// ✅ CORRECT: Graceful degradation
+const description = process.description || "No description available";
+const isapLink = process.isapLink ? <a href={process.isapLink}>...</a> : null;
+
+// ✅ CORRECT: useEffect cleanup to prevent refresh loops
+useEffect(() => {
+  let mounted = true;
+  fetch('/data/file.json')
+    .then(res => {
+      if (!res.ok) throw new Error('Not found');
+      return res.json();
+    })
+    .then(data => {
+      if (mounted) setState(data);
+    })
+    .catch(err => {
+      if (mounted) console.warn('Data unavailable', err);
+    });
+  return () => { mounted = false; };
+}, [dependency]);
+
+// ❌ WRONG: No cleanup = memory leaks and refresh loops
+useEffect(() => {
+  fetch('/data/file.json').then(res => setState(res.json()));
+}, []);
+```
+
+### Dark Mode Compliance
+```tsx
+// ✅ CORRECT: Every text color must have dark variant
+<p className="text-gray-800 dark:text-gray-300">
+
+// ❌ WRONG: Hardcoded light-only color
+<p className="text-gray-300">  {/* Invisible on white background */}
+
+// ✅ CORRECT: Backgrounds also need dark variants
+<div className="bg-white dark:bg-gray-900">
+```
+
+---
+
+## Performance Rules
+
+### Server Component Optimization
+```tsx
+// ✅ CORRECT: Fetch data once in Server Component
+export default async function Page() {
+  const data = await getData();  // Runs on server, cached
+  return <ClientComponent data={data} />;
+}
+
+// ❌ WRONG: Fetching in Client Component
+"use client";
+export default function Page() {
+  const [data, setData] = useState([]);
+  useEffect(() => { fetch(/* ... */) }, []);  // Extra roundtrip
+}
+```
+
+### Image Optimization
+```tsx
+// ✅ CORRECT: Use Next.js Image for photos
+import Image from 'next/image';
+<Image src={mp.photoUrl} alt={mp.name} width={48} height={48} />
+
+// ❌ WRONG: Plain <img> tag
+<img src={mp.photoUrl} />  {/* No optimization */}
+```
+
+---
+
+## Testing Requirements
+
+### File Naming
+```
+tests/
+├── unit/
+│   └── processes.test.ts  # Unit tests (.test.ts suffix)
+└── e2e/
+    └── bill-flow.spec.ts   # E2E tests (.spec.ts suffix)
+```
+
+### Test Coverage (Recommended)
+- All `lib/*.ts` utilities: Unit tests with Jest
+- Critical user flows: E2E tests with Playwright
+- Data authenticity: `backend/test_authenticity.py`
+
+---
+
+## Git Commit Message Format
+```
+feat: Add horizontal Kanban view
+fix: Prevent refresh loop in DiffViewer
+docs: Update TECH_STACK.md with Recharts
+refactor: Extract stage mapping to utility
+test: Add unit tests for getProcesses()
+style: Fix light mode text contrast
+chore: Update dependencies
+```
+
+---
+
+## When to Ask for Approval
+
+### STOP and ask before:
+1. Adding new npm dependencies (especially large ones)
+2. Changing database strategy (file-based → PostgreSQL)
+3. Modifying Kanban stage names/count
+4. Changing design system colors
+5. Adding user authentication
+6. Deploying to production
+
+### Proceed without asking:
+1. Fixing bugs
+2. Adding new views (table, timeline, etc.)
+3. Improving error handling
+4. Optimizing performance
+5. Writing tests
+6. Documentation updates
+
+---
+
+## Common Pitfalls to Avoid
+
+### 1. Refresh Loop Hell
+**Problem**: Writing to `public/data/` during dev → HMR triggers
+**Solution**: Only Python scripts write data, frontend reads only
+
+### 2. Dark Mode Blindness
+**Problem**: Hardcoded `text-gray-300` unreadable in light mode
+**Solution**: Always use `dark:` variants
+
+### 3. Type Confusion
+**Problem**: `bills.json` vs `processes.json` (same data, different names)
+**Solution**: Use `processes.json` (canonical), ignore `bills.json`
+
+### 4. Stage Desynchronization
+**Problem**: Backend adds new stage, frontend Kanban doesn't show it
+**Solution**: Update `determine_stage()` AND all Kanban views together
+
+### 5. SSL Certificate Drama
+**Problem**: Sejm API certificate issues
+**Solution**: SSL verification disabled in Python (ctx.verify_mode = ssl.CERT_NONE)
+
+---
+
+## Documentation Requirements
+
+### Every new feature must include:
+1. **Code comments**: Why, not what
+2. **Type definitions**: Exported interfaces
+3. **README update**: If user-facing
+4. **TECH_STACK.md update**: If new dependency
+
+### Code Comments Style
+```typescript
+// ✅ CORRECT: Explain why, not what
+// Cleanup prevents setState on unmounted component (refresh loop fix)
+return () => { mounted = false; };
+
+// ❌ WRONG: Stating the obvious
+// Set mounted to false
+return () => { mounted = false; };
+```
+
+---
+
+## Final Checklist Before Committing
+
+- [ ] `npm run build` passes
+- [ ] `npm run lint` passes
+- [ ] No TypeScript errors
+- [ ] Dark mode tested (toggle theme manually)
+- [ ] Light mode text contrast verified
+- [ ] No console errors in browser
+- [ ] Data freshness checked (`python3 backend/test_authenticity.py`)
+- [ ] Files named correctly (PascalCase vs snake_case)
+- [ ] No hardcoded API URLs (use constants)
+- [ ] No sensitive data in code (API keys, passwords)
+
+---
+
+## Emergency Fixes
+
+If you break the build:
+1. Check `npm run build` output
+2. Fix TypeScript errors first
+3. Then fix component errors
+4. Finally fix styling issues
+
+If data won't load:
+1. Verify JSON file exists in `public/data/`
+2. Check file permissions
+3. Run `python3 backend/fetch_bills.py` to refresh
+4. Check browser network tab for 404s
+
+If refresh loop occurs:
+1. Check for `useEffect` without cleanup
+2. Stop writing to `public/data/` during dev
+3. Add `mounted` flag pattern
+
+---
+
+**Remember**: This is a **civic transparency** project. Clarity, accessibility, and data integrity are paramount. When in doubt, favor simplicity and transparency over cleverness.

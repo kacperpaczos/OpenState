@@ -1,6 +1,6 @@
 {
     "UE": "NO",
-    "changeDate": "2026-01-12T10:14:41",
+    "changeDate": "2026-01-21T17:01:27",
     "description": "projekt dotyczy wprowadzenia zwolnienia z opodatkowania świadczenia ratowniczego przysługującego strażakom ratownikom ochotniczych straży pożarnych z tytułu wysługi lat",
     "documentDate": "2025-09-10",
     "documentType": "projekt ustawy",
@@ -84,6 +84,13 @@
             "date": "2026-01-09",
             "stageName": "I czytanie na posiedzeniu Sejmu",
             "sittingNum": 49,
+            "stageType": "SejmReading"
+        },
+        {
+            "date": "2026-01-21",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "decision": "niezwłocznie przystąpiono do III czytania",
+            "sittingNum": 50,
             "stageType": "SejmReading"
         }
     ],

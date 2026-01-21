@@ -8,16 +8,10 @@ export default async function MPsPage() {
     // Normalize and merge
     const normalizedMPs = mps.map(mp => ({ ...mp, chamber: 'Sejm' as const }));
     const normalizedSenators = senators.map(s => ({
-        id: s.id,
-        name: s.name,
-        firstLastName: s.name, // Senator data doesn't have split name, use full
-        club: s.club,
-        district: s.district,
-        email: s.email,
-        active: true, // Data doesn't have active field, assume true
-        photoUrl: s.photoUrl,
+        ...s,
+        firstLastName: s.name,
+        active: true,
         chamber: 'Senat' as const,
-        detailUrl: s.detailUrl
     }));
 
     // @ts-ignore - merged array

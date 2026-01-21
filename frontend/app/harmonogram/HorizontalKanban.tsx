@@ -41,8 +41,11 @@ export default function HorizontalKanban({ kanban }: { kanban: any }) {
 
                 {/* View Switcher */}
                 <div className="flex gap-2">
+                    <Link href="/harmonogram" className="px-3 py-1.5 rounded-button text-xs font-semibold bg-apple-gray-100 dark:bg-white/5 text-apple-gray-700 dark:text-apple-gray-300 hover:bg-apple-gray-200 dark:hover:bg-white/10 transition-colors">
+                        Vertical
+                    </Link>
                     <span className="px-3 py-1.5 rounded-button text-xs font-semibold bg-apple-blue text-white">
-                        Kanban
+                        Horizontal
                     </span>
                     <Link href="/harmonogram/stats" className="px-3 py-1.5 rounded-button text-xs font-semibold bg-apple-gray-100 dark:bg-white/5 text-apple-gray-700 dark:text-apple-gray-300 hover:bg-apple-gray-200 dark:hover:bg-white/10 transition-colors">
                         Stats
