@@ -158,31 +158,36 @@ const parliamentMembers = (() => {
     // Try to load real MPs data
     try {
         // @ts-ignore
-        const realMpsData = require("./mps_data.json");
-        if (realMpsData && realMpsData.length > 0) {
-            members = realMpsData.map((p: any) => ({
-                type: 'Poseł',
-                name: p.name,
-                party: p.party,
-                district: p.district,
-                photoUrl: p.photoUrl,
-                attendance: 90 + (p.name.length % 10), // Mock attendance for now
-                votes: generateRandomVotes(p.name)
-            }));
+        const dbPath = path.join(process.cwd(), 'public/data/mps.json');
+        if (fs.existsSync(dbPath)) {
+            const fileContent = fs.readFileSync(dbPath, 'utf-8');
+            const realMpsData = JSON.parse(fileContent);
 
-            // Add Senators (mock for now as we only fetch MPs)
-            REAL_SENATORS.forEach(n => {
-                members.push({
-                    type: 'Senator',
-                    name: n,
-                    party: 'Pakt Senacki / PiS',
-                    district: `Okręg Senat`,
-                    attendance: 95,
-                    votes: generateRandomVotes(n)
+            if (realMpsData && realMpsData.length > 0) {
+                members = realMpsData.map((p: any) => ({
+                    type: 'Poseł',
+                    name: p.name,
+                    party: p.party,
+                    district: p.district,
+                    photoUrl: p.photoUrl,
+                    attendance: 90 + (p.name.length % 10), // Mock attendance for now
+                    votes: generateRandomVotes(p.name)
+                }));
+
+                // Add Senators (mock for now as we only fetch MPs)
+                REAL_SENATORS.forEach(n => {
+                    members.push({
+                        type: 'Senator',
+                        name: n,
+                        party: 'Pakt Senacki / PiS',
+                        district: `Okręg Senat`,
+                        attendance: 95,
+                        votes: generateRandomVotes(n)
+                    });
                 });
-            });
 
-            return members;
+                return members;
+            }
         }
     } catch (e) {
         console.warn("Real MPs data not found, using mocks.");
@@ -194,7 +199,7 @@ const parliamentMembers = (() => {
 // Try to load real bills data
 let realBills: any[] = [];
 try {
-    const billsPath = path.join(process.cwd(), 'lib/bills_data.json');
+    const billsPath = path.join(process.cwd(), 'public/data/bills.json');
     if (fs.existsSync(billsPath)) {
         const fileContent = fs.readFileSync(billsPath, 'utf-8');
         realBills = JSON.parse(fileContent);

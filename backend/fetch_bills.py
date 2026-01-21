@@ -7,7 +7,7 @@ import os
 # Determine the directory where the script is located
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 # Output directory for the JSON file
-OUTPUT_FILE = os.path.join(SCRIPT_DIR, "../frontend/lib/bills_data.json") 
+OUTPUT_FILE = os.path.join(SCRIPT_DIR, "../frontend/public/data/bills.json") 
 
 # Endpoint for legislative processes (Term 10)
 URL = 'https://api.sejm.gov.pl/sejm/term10/processes'

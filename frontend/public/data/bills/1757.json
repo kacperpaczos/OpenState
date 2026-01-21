@@ -1,6 +1,6 @@
 {
     "UE": "ENFORCEMENT",
-    "changeDate": "2025-12-19T13:55:24",
+    "changeDate": "2026-01-21T08:55:09",
     "closureDate": "2025-12-18",
     "description": "projekt dotyczy dostosowania polskich przepisów do rozporządzenia Parlamentu Europejskiego i Rady (UE) 2022/2065 w sprawie jednolitego rynku usług cyfrowych (tzw. Akt o usługach cyfrowych DSA). Dzięki temu w Polsce powstanie nowoczesny system skutecznej walki z nielegalnymi treściami oraz dezinformacją, który będzie chronił użytkowników w sieci i zapewni przejrzyste zasady działania dla platform internetowych.",
     "documentDate": "2025-09-29",
@@ -228,6 +228,21 @@
             "date": "2025-12-19",
             "stageName": "Ustawę przekazano Prezydentowi do podpisu",
             "stageType": "ToPresident"
+        },
+        {
+            "children": [
+                {
+                    "date": "2026-01-20",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "CNT",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2026-01-09",
+            "stageName": "Wniosek Prezydenta (VETO)",
+            "printNumber": "2171",
+            "stageType": "Veto"
         },
         {
             "stageName": "Uchwalono",

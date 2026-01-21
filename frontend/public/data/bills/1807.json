@@ -1,6 +1,6 @@
 {
     "UE": "NO",
-    "changeDate": "2025-12-19T13:56:49",
+    "changeDate": "2026-01-21T09:10:27",
     "closureDate": "2025-12-18",
     "description": "projekt dotyczy powoływania i odwoływania oraz składu organów podmiotów nadzorowanych, jak również kwalifikacji osób pełniących funkcje dyrektora i zastępcy dyrektora w instytutach badawczych oraz finansowania instytutów badawczych",
     "documentDate": "2025-10-09",
@@ -185,6 +185,21 @@
             "stageType": "ToPresident"
         },
         {
+            "children": [
+                {
+                    "date": "2026-01-20",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "ENM",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2026-01-09",
+            "stageName": "Wniosek Prezydenta (VETO)",
+            "printNumber": "2170",
+            "stageType": "Veto"
+        },
+        {
             "stageName": "Uchwalono",
             "stageType": "End"
         }
@@ -193,5 +208,5 @@
     "title": "Rządowy projekt ustawy o zmianie ustawy o Narodowym Centrum Badań i Rozwoju oraz niektórych innych ustaw",
     "titleFinal": "o zmianie ustawy o Narodowym Centrum Badań i Rozwoju oraz niektórych innych ustaw",
     "urgencyStatus": "NORMAL",
-    "webGeneratedDate": "2025-12-19T15:06:00"
+    "webGeneratedDate": "2026-01-21T09:10:45"
 }

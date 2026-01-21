@@ -1,6 +1,6 @@
 {
     "UE": "NO",
-    "changeDate": "2025-12-19T14:28:27",
+    "changeDate": "2026-01-21T08:44:39",
     "closureDate": "2025-12-04",
     "description": "projekt dotyczy ułatwienia prowadzenia działalności ubezpieczeniowej przez umożliwienie zakładom ubezpieczeń, Ubezpieczeniowemu Funduszowi Gwarancyjnemu (UFG) i ubezpieczającemu przesyłanie informacji, za zgodą i na życzenie klienta, również w postaci elektronicznej. Nowe przepisy realizują działania deregulacyjne rządu.",
     "documentDate": "2025-10-09",
@@ -129,6 +129,21 @@
             "stageType": "ToPresident"
         },
         {
+            "children": [
+                {
+                    "date": "2026-01-20",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "FPB",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2026-01-09",
+            "stageName": "Wniosek Prezydenta (VETO)",
+            "printNumber": "2169",
+            "stageType": "Veto"
+        },
+        {
             "stageName": "Uchwalono",
             "stageType": "End"
         }
@@ -137,5 +152,5 @@
     "title": "Rządowy projekt ustawy o zmianie ustawy - Kodeks cywilny, ustawy o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych oraz ustawy o działalności ubezpieczeniowej i reasekuracyjnej",
     "titleFinal": "o zmianie ustawy - Kodeks cywilny, ustawy o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych oraz ustawy o działalności ubezpieczeniowej i reasekuracyjnej",
     "urgencyStatus": "NORMAL",
-    "webGeneratedDate": "2025-12-19T14:28:47"
+    "webGeneratedDate": "2026-01-21T08:45:03"
 }
