@@ -1,15 +1,14 @@
-import fs from "fs";
-import path from "path";
+import fs from 'fs';
+import path from 'path';
 
-export type Senator = {
-    id: string;
+export interface Senator {
     name: string;
-    email: string;
-    club: string;
+    party: string;
     district: string;
-    photoUrl: string;
-    detailUrl: string;
-};
+    photoUrl?: string;
+    detailsUrl?: string;
+    type: 'Senator';
+}
 
 export async function getSenators(): Promise<Senator[]> {
     try {

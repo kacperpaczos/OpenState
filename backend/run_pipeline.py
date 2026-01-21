@@ -73,6 +73,7 @@ def main():
     
     scripts = [
         (os.path.join(backend_dir, 'fetch_mps.py'), "MPs Fetch"),
+        (os.path.join(backend_dir, 'fetch_senators.py'), "Senators Fetch"),
         (os.path.join(backend_dir, 'fetch_bills.py'), "Bills Fetch"), 
         (os.path.join(backend_dir, 'fetch_votings.py'), "Votings Fetch"),
         (os.path.join(backend_dir, 'fetch_interpellations.py'), "Interpellations Fetch"),

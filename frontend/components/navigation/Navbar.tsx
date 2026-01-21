@@ -10,9 +10,11 @@ export default function Navbar() {
 
     const navItems = [
         { href: "/", label: "Start", icon: LayoutDashboard },
-        { href: "/ustawy", label: "Śledź Ustawę", icon: FileText },
-        { href: "/poslowie", label: "Parlamentarzyści", icon: Users },
-        { href: "/harmonogram", label: "Plan Prac", icon: Calendar },
+        { href: "/poslowie", label: "Posłowie", icon: Users },
+        { href: "/interpelacje", label: "Interpelacje", icon: FileText },
+        { href: "/rcl", label: "RCL", icon: Activity },
+        { href: "/glosowania", label: "Głosowania", icon: Calendar },
+        { href: "/ustawy", label: "Ustawy", icon: FileText },
     ];
 
     return (

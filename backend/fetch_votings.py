@@ -31,7 +31,7 @@ def fetch_json(url):
         return None
 
 def main():
-    print(f"🚀 Starting Votings Fetch from {URL_BASE}...")
+    print(f"Starting Votings Fetch from {URL_BASE}...")
     
     # 1. Fetch list of sittings that have votings
     # The endpoint returns a list of dictionaries with 'sitting' (number) and dates
@@ -69,6 +69,33 @@ def main():
     print(f"Found {len(sorted_proceedings)} proceedings (sittings).")
     
     os.makedirs(OUTPUT_DIR, exist_ok=True)
+    
+    # Save the master list of sittings for the frontend browser
+    sittings_list_path = os.path.join(OUTPUT_DIR, "sittings.json")
+    
+    # Sort descending for UI
+    sorted_sittings_desc = sorted(list(proceedings), reverse=True)
+    formatted_sittings = [{"sitting": s, "date": ""} for s in sorted_sittings_desc] 
+    # Note: Real date would require mapping from sittings_data but let's start with this
+    
+    # Try to enrich dates from sittings_data
+    # sittings_data is a list of events.
+    # [ { "proceeding": 1, "date": "..." }, ... ]
+    
+    sitting_dates = {}
+    for item in sittings_data:
+        p = item.get('proceeding')
+        d = item.get('date')
+        if p and d:
+            # Maybe picking the first or last date?
+            if p not in sitting_dates: sitting_dates[p] = d
+            
+    for s in formatted_sittings:
+        s['date'] = sitting_dates.get(s['sitting'], "")
+        
+    with open(sittings_list_path, 'w', encoding='utf-8') as f:
+        json.dump(formatted_sittings, f, indent=2, ensure_ascii=False)
+    print(f"Saved master sittings list to {sittings_list_path}")
     
     count_saved = 0
     

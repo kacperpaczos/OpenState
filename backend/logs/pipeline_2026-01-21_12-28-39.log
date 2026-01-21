@@ -1,0 +1,204 @@
+Pipeline Run Started at 2026-01-21_12-28-39
+
+--- START: MPs Fetch ---
+--- START: Bills Fetch ---
+--- START: Votings Fetch ---
+--- START: Interpellations Fetch ---
+--- START: Senate Fetch ---
+--- START: RCL Fetch ---
+Output for Votings Fetch:
+STDOUT:
+
+STDERR:
+Traceback (most recent call last):
+  File "C:\Users\s.paczos\Downloads\OpenOurGov\backend\fetch_votings.py", line 218, in <module>
+    main()
+  File "C:\Users\s.paczos\Downloads\OpenOurGov\backend\fetch_votings.py", line 34, in main
+    print(f"\U0001f680 Starting Votings Fetch from {URL_BASE}...")
+  File "C:\Program Files\LibreOffice\program\\python-core-3.8.19\lib\encodings\cp1250.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f680' in position 0: character maps to <undefined>
+
+
+Output for Interpellations Fetch:
+STDOUT:
+
+STDERR:
+Traceback (most recent call last):
+  File "C:\Users\s.paczos\Downloads\OpenOurGov\backend\fetch_interpellations.py", line 86, in <module>
+    main()
+  File "C:\Users\s.paczos\Downloads\OpenOurGov\backend\fetch_interpellations.py", line 29, in main
+    print(f"\U0001f680 Starting Interpellations Fetch from {URL_BASE}...")
+  File "C:\Program Files\LibreOffice\program\\python-core-3.8.19\lib\encodings\cp1250.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f680' in position 0: character maps to <undefined>
+
+
+--- END: Votings Fetch (Status: FAIL, Time: 1.2s) ---
+
+--- END: Interpellations Fetch (Status: FAIL, Time: 1.2s) ---
+
+Output for RCL Fetch:
+STDOUT:
+
+STDERR:
+Traceback (most recent call last):
+  File "C:\Users\s.paczos\Downloads\OpenOurGov\backend\fetch_rcl.py", line 10, in <module>
+    from bs4 import BeautifulSoup
+ModuleNotFoundError: No module named 'bs4'
+
+
+Output for Senate Fetch:
+STDOUT:
+
+STDERR:
+Traceback (most recent call last):
+  File "C:\Users\s.paczos\Downloads\OpenOurGov\backend\fetch_senate.py", line 10, in <module>
+    from bs4 import BeautifulSoup
+ModuleNotFoundError: No module named 'bs4'
+
+
+--- END: RCL Fetch (Status: FAIL, Time: 1.2s) ---
+
+--- END: Senate Fetch (Status: FAIL, Time: 1.2s) ---
+
+Output for MPs Fetch:
+STDOUT:
+Fetching data from https://api.sejm.gov.pl/sejm/term10/MP...
+Total records fetched: 498
+Active MPs: 460
+Successfully wrote 460 MPs to C:\Users\s.paczos\Downloads\OpenOurGov\backend\../frontend/public/data/mps.json
+
+STDERR:
+
+
+--- END: MPs Fetch (Status: DONE, Time: 1.8s) ---
+
+Output for Bills Fetch:
+STDOUT:
+Fetching legislative data from https://api.sejm.gov.pl/sejm/term10/processes?limit=100&offset=0...
+Fetched 100 items. Total so far: 100
+Fetching legislative data from https://api.sejm.gov.pl/sejm/term10/processes?limit=100&offset=100...
+Fetched 100 items. Total so far: 200
+Fetching legislative data from https://api.sejm.gov.pl/sejm/term10/processes?limit=100&offset=200...
+Fetched 100 items. Total so far: 300
+Fetching legislative data from https://api.sejm.gov.pl/sejm/term10/processes?limit=100&offset=300...
+Fetched 100 items. Total so far: 400
+Fetching legislative data from https://api.sejm.gov.pl/sejm/term10/processes?limit=100&offset=400...
+Fetched 100 items. Total so far: 500
+Fetching legislative data from https://api.sejm.gov.pl/sejm/term10/processes?limit=100&offset=500...
+Fetched 100 items. Total so far: 600
+Fetching legislative data from https://api.sejm.gov.pl/sejm/term10/processes?limit=100&offset=600...
+Fetched 100 items. Total so far: 700
+Fetching legislative data from https://api.sejm.gov.pl/sejm/term10/processes?limit=100&offset=700...
+Fetched 100 items. Total so far: 800
+Fetching legislative data from https://api.sejm.gov.pl/sejm/term10/processes?limit=100&offset=800...
+Fetched 100 items. Total so far: 900
+Fetching legislative data from https://api.sejm.gov.pl/sejm/term10/processes?limit=100&offset=900...
+Fetched 100 items. Total so far: 1000
+Fetching legislative data from https://api.sejm.gov.pl/sejm/term10/processes?limit=100&offset=1000...
+Fetched 100 items. Total so far: 1100
+Fetching legislative data from https://api.sejm.gov.pl/sejm/term10/processes?limit=100&offset=1100...
+Fetched 100 items. Total so far: 1200
+Fetching legislative data from https://api.sejm.gov.pl/sejm/term10/processes?limit=100&offset=1200...
+Fetched 49 items. Total so far: 1249
+Total processes fetched: 1249
+Successfully wrote 695 bills to C:\Users\s.paczos\Downloads\OpenOurGov\backend\../frontend/public/data/bills.json
+Fetching details for 695 bills into C:\Users\s.paczos\Downloads\OpenOurGov\backend\../frontend/public/data/bills...
+Saved 0/695: 24
+Saved 10/695: 59
+Saved 20/695: 123
+Saved 30/695: 156
+Saved 40/695: 204
+Saved 50/695: 223
+Saved 60/695: 248
+Saved 70/695: 274
+Saved 80/695: 317
+Saved 90/695: 327
+Saved 100/695: 384
+Saved 110/695: 423
+Saved 120/695: 440
+Saved 130/695: 496
+Saved 140/695: 552
+Saved 150/695: 599
+Saved 160/695: 609
+Saved 170/695: 656
+Saved 180/695: 673
+Saved 190/695: 703
+Saved 200/695: 744
+Saved 210/695: 755
+Saved 220/695: 766
+Saved 230/695: 810
+Saved 240/695: 829
+Saved 250/695: 852
+Saved 260/695: 895
+Saved 270/695: 926
+Saved 280/695: 952
+Saved 290/695: 981
+Saved 300/695: 997
+Saved 310/695: 1037
+Saved 320/695: 1077
+Saved 330/695: 1110
+Saved 340/695: 1141
+Saved 350/695: 1184
+Saved 360/695: 1205
+Saved 370/695: 1239
+Saved 380/695: 1264
+Saved 390/695: 1280
+Saved 400/695: 1308
+Saved 410/695: 1318
+Saved 420/695: 1374
+Saved 430/695: 1384
+Saved 440/695: 1426
+Saved 450/695: 1436
+Saved 460/695: 1446
+Saved 470/695: 1472
+Saved 480/695: 1488
+Saved 490/695: 1560
+Saved 500/695: 1609
+Saved 510/695: 1628
+Saved 520/695: 1638
+Saved 530/695: 1678
+Saved 540/695: 1729
+Saved 550/695: 1757
+Saved 560/695: 1767
+Saved 570/695: 1809
+Saved 580/695: 1825
+Saved 590/695: 1856
+Saved 600/695: 1884
+Saved 610/695: 1894
+Saved 620/695: 1940
+Saved 630/695: 1964
+Saved 640/695: 2010
+Saved 650/695: 2037
+Saved 660/695: 2079
+Saved 670/695: 2109
+Saved 680/695: 2128
+Saved 690/695: 2164
+All details fetched.
+Enriching bills data with Kanban stages...
+Updated C:\Users\s.paczos\Downloads\OpenOurGov\backend\../frontend/public/data/bills.json with Kanban stages.
+
+STDERR:
+
+
+--- END: Bills Fetch (Status: DONE, Time: 133.6s) ---
+
+--- START: Application Build ---
+
+Build Output:
+STDOUT:
+
+> jasnasprawa-pl@0.1.0 build
+> next build
+
+
+STDERR:
+'next' is not recognized as an internal or external command,
+operable program or batch file.
+
+
+--- END: Application Build (Success: False) ---
+
+
+FINAL RESULT: FAILURE (Some steps failed)

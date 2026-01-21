@@ -1271,7 +1271,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - Komisje"
+        "kanbanStage": "Sejm - I Czytanie"
     },
     {
         "id": "351",
@@ -2545,7 +2545,7 @@
         "authorType": "Poselski",
         "isapLink": null,
         "eliLink": null,
-        "kanbanStage": "Sejm - Komisje"
+        "kanbanStage": "Sejm - I Czytanie"
     },
     {
         "id": "730",
@@ -9013,6 +9013,19 @@
         "printNo": "2172",
         "title": "Rządowy projekt ustawy o wygaszeniu rozwiązań wynikających z ustawy o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa oraz o zmianie niektórych innych ustaw",
         "description": "projekt dotyczy stopniowego wygaszania specjalnych przepisów wprowadzonych po wybuchu wojny w Ukrainie. Chodzi o ujednolicenie zasad pomocy osobom objętym ochroną czasową i dostosowanie prawa do obecnej sytuacji migracyjnej. Nowe przepisy realizują także unijne zalecenia dotyczące udzielania ochrony tymczasowej do 4 marca 2027 r. i stopniowego przechodzenia na ogólne przepisy dla wszystkich cudzoziemców, przy jednoczesnym zachowaniu solidarności z osobami dotkniętymi wojną.",
+        "date": "",
+        "status": "W toku",
+        "documentType": "projekt ustawy",
+        "authorType": "Rządowy",
+        "isapLink": null,
+        "eliLink": null,
+        "kanbanStage": "Sejm - Komisje"
+    },
+    {
+        "id": "2178",
+        "printNo": "2178",
+        "title": "Rządowy projekt ustawy o zmianie ustawy o systemie oświaty oraz ustawy o finansowaniu zadań oświatowych",
+        "description": "projekt dotyczy podwyższenia wysokości opłaty wnoszonej z wnioskiem o dopuszczenie podręcznika do użytku szkolnego przez podmiot posiadający autorskie prawa\nmajątkowe do podręcznika lub inne prawa do korzystania z utworu będącego podręcznikiem; propozycji zmiany wysokości limitów wydatków z budżetu państwa (w 2026 r. i 2027 r.) i ustalenia nowych limitów (na lata 2028 - 2035) wydatków z budżetu państwa przeznaczonych na zadanie związane z wyposażeniem publicznych oraz niepublicznych szkół podstawowych i szkół artystycznych realizujących kształcenie ogólne w zakresie szkoły podstawowej w podręczniki, materiały edukacyjne i materiały ćwiczeniowe",
         "date": "",
         "status": "W toku",
         "documentType": "projekt ustawy",

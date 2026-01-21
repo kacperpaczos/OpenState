@@ -31,3 +31,5 @@ export async function getMP(id: string): Promise<MP | undefined> {
     const mps = await getMPs();
     return mps.find(mp => mp.id === id);
 }
+// Alias for compatibility/refactor
+export const getParliamentMembers = getMPs;

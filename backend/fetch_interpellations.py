@@ -26,7 +26,7 @@ def fetch_json(url):
         return None
 
 def main():
-    print(f"🚀 Starting Interpellations Fetch from {URL_BASE}...")
+    print(f"Starting Interpellations Fetch from {URL_BASE}...")
     
     # 1. Fetch List (All)
     # This might be large, so we might need paging if API uses it.

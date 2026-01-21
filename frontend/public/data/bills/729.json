@@ -44,6 +44,11 @@
             "stageName": "Wpłynęło stanowisko rządu",
             "stageType": "GovermentPosition",
             "title": "Stanowisko Rządu do druku nr 729"
+        },
+        {
+            "date": "2026-01-20",
+            "stageName": "I czytanie w komisjach",
+            "stageType": "Reading"
         }
     ],
     "term": 10,
