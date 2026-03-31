@@ -1,6 +1,6 @@
 {
     "UE": "NO",
-    "changeDate": "2026-01-12T09:58:07",
+    "changeDate": "2026-01-22T09:20:36",
     "closureDate": "2026-01-09",
     "description": "projekt dotyczy ułatwienia pozyskiwania danych z ksiąg wieczystych i Krajowego Rejestru Sądowego za pośrednictwem aplikacji mObywatel. Chodzi również o dostęp do odpisów i wyciągów ksiąg wieczystych oraz zaświadczeń o ich zamknięciu w postaci elektronicznej, których moc będzie równa dokumentom wydanym przez sąd. Projekt ustawy realizuje kamień milowy KPO - Rozwój i zwiększenie dostępności Rejestrów Sądowych - eKRS i EKW. Nowe przepisy realizują działania deregulacyjne rządu.",
     "documentDate": "2025-12-23",
@@ -109,6 +109,17 @@
             "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/2105/attachment/2105_u3.pdf"
         },
         {
+            "date": "2026-01-21",
+            "stageName": "Stanowisko Senatu",
+            "position": "nie wniósł poprawek",
+            "stageType": "SenatePosition"
+        },
+        {
+            "date": "2026-01-22",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
             "stageName": "Uchwalono",
             "stageType": "End"
         }
@@ -117,5 +128,5 @@
     "title": "Rządowy projekt ustawy o zmianie ustawy o księgach wieczystych i hipotece oraz ustawy o Krajowym Rejestrze Sądowym",
     "titleFinal": "o zmianie ustawy o księgach wieczystych i hipotece oraz ustawy o Krajowym Rejestrze Sądowym",
     "urgencyStatus": "URGENT",
-    "webGeneratedDate": "2026-01-12T09:58:23"
+    "webGeneratedDate": "2026-01-22T09:24:32"
 }

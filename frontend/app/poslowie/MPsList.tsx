@@ -4,10 +4,12 @@ import { useState, useMemo, useEffect } from "react";
 import { Search, User } from "lucide-react";
 import Link from "next/link";
 import { MP } from "@/lib/mps";
+import { useAppSelector } from "@/lib/hooks";
+import { selectGlobalSearch } from "@/lib/features/search/searchSlice";
 
 export default function MPsList({ initialMPs }: { initialMPs: MP[] }) {
     const [mps] = useState<MP[]>(initialMPs);
-    const [filter, setFilter] = useState("");
+    const globalSearch = useAppSelector(selectGlobalSearch);
     const [chamber, setChamber] = useState<"all" | "sejm" | "senat">("all");
     const [headerHidden, setHeaderHidden] = useState(false);
 
@@ -37,8 +39,8 @@ export default function MPsList({ initialMPs }: { initialMPs: MP[] }) {
         }
 
         // Filter by search
-        if (filter) {
-            const lower = filter.toLowerCase();
+        if (globalSearch) {
+            const lower = globalSearch.toLowerCase();
             result = result.filter(mp =>
                 mp.name.toLowerCase().includes(lower) ||
                 mp.club.toLowerCase().includes(lower) ||
@@ -47,7 +49,9 @@ export default function MPsList({ initialMPs }: { initialMPs: MP[] }) {
         }
 
         return result;
-    }, [mps, filter, chamber]);
+    }, [mps, globalSearch, chamber]);
+
+    const [visibleCount, setVisibleCount] = useState(100);
 
     return (
         <div className="max-w-7xl mx-auto pb-20 fade-in">
@@ -85,30 +89,22 @@ export default function MPsList({ initialMPs }: { initialMPs: MP[] }) {
                             Senat
                         </button>
                     </div>
-
-                    <div className="relative">
-                        <div className="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
-                            <Search className="text-gray-500" size={18} />
-                        </div>
-                        <input
-                            type="text"
-                            placeholder="Szukaj po nazwisku lub klubie..."
-                            className="pl-10 pr-4 py-2 rounded-xl bg-surface-color/50 border border-surface-border text-foreground focus:ring-2 focus:ring-accent-blue/50 w-full md:w-64 backdrop-blur-md transition-all"
-                            value={filter}
-                            onChange={(e) => setFilter(e.target.value)}
-                        />
-                    </div>
                 </div>
             </header>
 
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4 pb-20">
-                {filteredMps.slice(0, 100).map((mp) => (
+                {filteredMps.slice(0, visibleCount).map((mp) => (
                     <MPCard key={`${mp.chamber}-${mp.id}`} mp={mp} />
                 ))}
             </div>
-            {filteredMps.length > 100 && (
-                <div className="text-center py-8 text-gray-500">
-                    i {filteredMps.length - 100} więcej... (Wpisz nazwisko aby znaleźć)
+            {filteredMps.length > visibleCount && (
+                <div className="text-center py-8">
+                    <button
+                        onClick={() => setVisibleCount(prev => prev + 100)}
+                        className="px-6 py-3 bg-accent-blue text-white rounded-xl font-medium hover:opacity-90 transition-opacity"
+                    >
+                        Pokaż więcej ({filteredMps.length - visibleCount} pozostałych)
+                    </button>
                 </div>
             )}
             {filteredMps.length === 0 && (
@@ -121,8 +117,10 @@ export default function MPsList({ initialMPs }: { initialMPs: MP[] }) {
 }
 
 function MPCard({ mp }: { mp: MP }) {
+    const href = mp.chamber === 'Senat' ? `/senatorowie/${mp.id}` : `/poslowie/${mp.id}`;
+
     return (
-        <Link href={`/poslowie/${mp.id}`} className="block">
+        <Link href={href} className="block">
             <div className="glass-card p-4 flex items-center gap-4 hover:bg-white/5 transition-colors cursor-pointer group h-full">
                 <div className="w-16 h-16 rounded-full overflow-hidden bg-gradient-to-br from-gray-700 to-gray-900 flex items-center justify-center border border-surface-border group-hover:border-accent-blue/50 transition-colors relative shrink-0">
                     {mp.photoUrl ? (

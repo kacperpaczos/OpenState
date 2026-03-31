@@ -1,0 +1,27 @@
+{
+    "UE": "NO",
+    "changeDate": "2026-01-08T00:00:00",
+    "description": "projekt dotyczy zwiększenia powierzchni obszarów prawnie chronionych w Polsce, z zachowaniem zasady zrównoważonego rozwoju oraz sprawiedliwości społecznej",
+    "documentDate": "2026-01-08",
+    "documentType": "projekt ustawy",
+    "documentTypeEnum": "BILL",
+    "legislativeCommittee": false,
+    "links": [],
+    "number": "2198",
+    "passed": false,
+    "principleOfSubsidiarity": false,
+    "processStartDate": "2026-01-08",
+    "shortenProcedure": false,
+    "stages": [
+        {
+            "date": "2026-01-08",
+            "stageName": "Projekt wpłynął do Sejmu",
+            "printNumber": "2198",
+            "stageType": "Start"
+        }
+    ],
+    "term": 10,
+    "title": "Poselski projekt ustawy o zmianie ustawy o dochodach jednostek samorządu terytorialnego",
+    "urgencyStatus": "NORMAL",
+    "webGeneratedDate": "2026-01-23T16:25:11"
+}

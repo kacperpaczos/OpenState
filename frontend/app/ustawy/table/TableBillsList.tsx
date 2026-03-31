@@ -3,15 +3,26 @@
 import { Bill } from "@/lib/bills";
 import { Search, ArrowUpDown, ExternalLink } from "lucide-react";
 import Link from "next/link";
-import { useState, useMemo } from "react";
+import { useState, useMemo, useEffect } from "react";
+import { useAppDispatch, useAppSelector } from "@/lib/hooks";
+import { setBills, selectFilteredBills, selectFilter } from "@/lib/features/bills/billsSlice";
 
 type SortField = "id" | "title" | "date" | "stage";
 type SortDirection = "asc" | "desc";
 
 export default function TableBillsList({ initialProcesses }: { initialProcesses: Bill[] }) {
-    const [searchTerm, setSearchTerm] = useState("");
+    const dispatch = useAppDispatch();
+    const filteredBills = useAppSelector(selectFilteredBills);
+    // Search is handled globally by Navbar
+
+    // Local sort state
     const [sortField, setSortField] = useState<SortField>("id");
     const [sortDirection, setSortDirection] = useState<SortDirection>("asc");
+
+    // Initialize store
+    useEffect(() => {
+        dispatch(setBills(initialProcesses));
+    }, [dispatch, initialProcesses]);
 
     const handleSort = (field: SortField) => {
         if (sortField === field) {
@@ -22,12 +33,9 @@ export default function TableBillsList({ initialProcesses }: { initialProcesses:
         }
     };
 
-    const filteredAndSorted = useMemo(() => {
-        // Filter
-        let result = initialProcesses.filter(process =>
-            process.title.toLowerCase().includes(searchTerm.toLowerCase()) ||
-            (process.id && process.id.toLowerCase().includes(searchTerm.toLowerCase()))
-        );
+    const sortedBills = useMemo(() => {
+        // Clone to avoid mutating Redux state (though filter returns new array, sort mutates)
+        let result = [...filteredBills];
 
         // Sort
         result.sort((a, b) => {
@@ -58,27 +66,16 @@ export default function TableBillsList({ initialProcesses }: { initialProcesses:
         });
 
         return result;
-    }, [initialProcesses, searchTerm, sortField, sortDirection]);
+    }, [filteredBills, sortField, sortDirection]);
 
     return (
         <div className="max-w-[1600px] mx-auto pb-20 fade-in h-screen flex flex-col px-4">
             {/* Compact Header */}
             <header className="py-4 border-b border-apple-gray-200 dark:border-white/10 sticky top-0 bg-background/95 backdrop-blur-xl z-50 -mx-4 px-4">
                 <div className="flex items-center justify-between gap-4">
-                    <h1 className="text-xl font-bold text-foreground">Projekty ({filteredAndSorted.length})</h1>
+                    <h1 className="text-xl font-bold text-foreground">Projekty ({sortedBills.length})</h1>
 
-                    <div className="flex-1 max-w-md">
-                        <div className="relative">
-                            <Search className="absolute left-3 top-1/2 -translate-y-1/2 text-apple-gray-500" size={16} />
-                            <input
-                                type="text"
-                                placeholder="Szukaj po tytule lub #..."
-                                className="w-full pl-10 pr-4 py-2 bg-apple-gray-50 dark:bg-white/5 border border-apple-gray-200 dark:border-white/10 text-foreground placeholder:text-apple-gray-500 focus:outline-none focus:ring-2 focus:ring-apple-blue/50 transition-all rounded-button text-sm"
-                                value={searchTerm}
-                                onChange={(e) => setSearchTerm(e.target.value)}
-                            />
-                        </div>
-                    </div>
+                    <div className="flex-1 max-w-md"></div>
 
                     {/* View Switcher */}
                     <div className="flex gap-2">
@@ -108,7 +105,7 @@ export default function TableBillsList({ initialProcesses }: { initialProcesses:
                         </tr>
                     </thead>
                     <tbody>
-                        {filteredAndSorted.map((process, idx) => (
+                        {sortedBills.map((process, idx) => (
                             <TableRow key={process.id} process={process} idx={idx} />
                         ))}
                     </tbody>

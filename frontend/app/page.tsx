@@ -10,44 +10,18 @@ export default async function HomePage() {
   const parliamentStats = await getParliamentStats();
 
   return (
-    <div className="min-h-screen bg-[#f3f4f6] dark:bg-[#0f0f11] text-gray-900 dark:text-gray-100 font-sans p-4 md:p-8 flex flex-col items-center">
+    <div className="min-h-screen text-foreground font-sans p-4 md:p-8 flex flex-col items-center">
 
-      {/* AI Header */}
-      <header className="w-full max-w-6xl flex justify-between items-center mb-12 pt-4">
-        <div className="flex items-center gap-2">
-          <div className="w-6 h-6 bg-black dark:bg-white rounded-full"></div>
-          <span className="font-bold text-xl tracking-tight">OpenOurGov</span>
-        </div>
-        <nav className="hidden md:flex gap-6 text-sm font-medium text-gray-500 dark:text-gray-400">
-          <Link href="/ustawy" className="hover:text-black dark:hover:text-white transition-colors">Ustawy</Link>
-          <Link href="/poslowie" className="hover:text-black dark:hover:text-white transition-colors">Posłowie</Link>
-          <Link href="/harmonogram" className="hover:text-black dark:hover:text-white transition-colors">Harmonogram</Link>
-        </nav>
-      </header>
-
-      {/* Main Search - AI First */}
-      <div className="w-full max-w-2xl mb-16 text-center space-y-8">
-        <h1 className="text-4xl md:text-5xl font-medium tracking-tight">
-          W czym mogę Ci dzisiaj pomóc?
+      {/* Main Hero + Quick Links */}
+      <div className="w-full max-w-2xl mb-16 text-center space-y-8 mt-8">
+        <h1 className="text-4xl md:text-5xl font-medium tracking-tight text-foreground">
+          Śledź polski proces legislacyjny
         </h1>
-        <div className="relative group">
-          <div className="absolute inset-0 bg-gradient-to-r from-gray-200 to-gray-200 dark:from-gray-800 dark:to-gray-800 rounded-3xl blur transition-opacity opacity-50 group-hover:opacity-100"></div>
-          <div className="relative bg-white dark:bg-[#1c1c1e] rounded-3xl p-2 flex items-center shadow-sm border border-gray-200 dark:border-gray-800 transition-all focus-within:ring-2 ring-blue-500/20">
-            <Search className="w-6 h-6 text-gray-400 ml-4" />
-            <input
-              type="text"
-              placeholder="Np. 'Jak głosował poseł Kowalski w sprawie 500+?'"
-              className="w-full bg-transparent border-none outline-none px-4 py-3 text-lg placeholder-gray-400"
-            />
-            <button className="bg-black dark:bg-white text-white dark:text-black rounded-2xl px-6 py-3 font-medium text-sm hover:opacity-90 transition-opacity">
-              Szukaj
-            </button>
-          </div>
-        </div>
-        <div className="flex justify-center gap-3 text-sm text-gray-500">
-          <Link href="/ustawy" className="bg-gray-200 dark:bg-gray-800 px-3 py-1 rounded-full cursor-pointer hover:bg-gray-300 dark:hover:bg-gray-700 transition">📝 Ostatnie ustawy</Link>
-          <Link href="/glosowania" className="bg-gray-200 dark:bg-gray-800 px-3 py-1 rounded-full cursor-pointer hover:bg-gray-300 dark:hover:bg-gray-700 transition">🗳️ Wyniki głosowań</Link>
-          <Link href="/poslowie" className="bg-gray-200 dark:bg-gray-800 px-3 py-1 rounded-full cursor-pointer hover:bg-gray-300 dark:hover:bg-gray-700 transition">👤 Znajdź posła</Link>
+        <p className="text-text-secondary text-lg">Przejrzyste dane o ustawach, głosowaniach i parlamentarzystach.</p>
+        <div className="flex justify-center gap-3 text-sm text-text-secondary">
+          <Link href="/ustawy" className="bg-apple-gray-100 dark:bg-white/10 px-4 py-2 rounded-full cursor-pointer hover:bg-apple-gray-200 dark:hover:bg-white/15 transition text-foreground font-medium">📝 Ostatnie ustawy</Link>
+          <Link href="/glosowania" className="bg-apple-gray-100 dark:bg-white/10 px-4 py-2 rounded-full cursor-pointer hover:bg-apple-gray-200 dark:hover:bg-white/15 transition text-foreground font-medium">🗳️ Wyniki głosowań</Link>
+          <Link href="/poslowie" className="bg-apple-gray-100 dark:bg-white/10 px-4 py-2 rounded-full cursor-pointer hover:bg-apple-gray-200 dark:hover:bg-white/15 transition text-foreground font-medium">👤 Znajdź posła</Link>
         </div>
       </div>
 
@@ -55,7 +29,7 @@ export default async function HomePage() {
       <div className="w-full max-w-6xl grid grid-cols-1 md:grid-cols-4 md:grid-rows-3 gap-4 h-auto md:h-[600px]">
 
         {/* Large Feature / Hero Block */}
-        <Link href="/harmonogram" className="col-span-1 md:col-span-2 md:row-span-2 bg-white dark:bg-[#1c1c1e] rounded-[32px] p-8 border border-gray-200 dark:border-gray-800 shadow-sm relative overflow-hidden group hover:border-blue-500/30 transition-colors cursor-pointer">
+        <Link href="/harmonogram" className="col-span-1 md:col-span-2 md:row-span-2 glass-card !p-8 relative overflow-hidden group hover:border-accent-blue/30 transition-colors cursor-pointer">
           <div className="relative z-10 h-full flex flex-col justify-between">
             <div>
               <div className="w-10 h-10 bg-blue-100 dark:bg-blue-900/30 rounded-2xl flex items-center justify-center mb-4 text-blue-600 dark:text-blue-400">
@@ -84,7 +58,7 @@ export default async function HomePage() {
         </Link>
 
         {/* Top Right - Status */}
-        <Link href="/harmonogram" className="md:col-span-2 bg-[#f4f4f5] dark:bg-[#2c2c2e] rounded-[32px] p-6 flex items-center justify-between border border-transparent dark:border-gray-700 hover:scale-[1.01] transition-transform cursor-pointer">
+        <Link href="/harmonogram" className="md:col-span-2 glass-card !p-6 flex items-center justify-between hover:scale-[1.01] transition-transform cursor-pointer">
           <div>
             <h3 className="font-semibold text-lg">Harmonogram</h3>
             <p className="text-gray-500 dark:text-gray-400 text-sm">Proces legislacyjny w czasie rzeczywistym</p>
@@ -95,7 +69,7 @@ export default async function HomePage() {
         </Link>
 
         {/* Mid Left - Process */}
-        <Link href="/ustawy" className="bg-white dark:bg-[#1c1c1e] rounded-[32px] p-6 border border-gray-200 dark:border-gray-800 hover:scale-[1.02] transition-transform cursor-pointer">
+        <Link href="/ustawy" className="glass-card !p-6 hover:scale-[1.02] transition-transform cursor-pointer">
           <div className="flex justify-between items-start mb-4">
             <BookOpen className="w-6 h-6 text-purple-500" />
             <span className="text-xs bg-purple-100 dark:bg-purple-900/30 text-purple-700 dark:text-purple-300 px-2 py-1 rounded-md">{processStats.total} aktywnych</span>
@@ -105,7 +79,7 @@ export default async function HomePage() {
         </Link>
 
         {/* Mid Right - Stats */}
-        <Link href="/poslowie" className="bg-white dark:bg-[#1c1c1e] rounded-[32px] p-6 border border-gray-200 dark:border-gray-800 hover:scale-[1.02] transition-transform cursor-pointer">
+        <Link href="/poslowie" className="glass-card !p-6 hover:scale-[1.02] transition-transform cursor-pointer">
           <div className="flex justify-between items-start mb-4">
             <UsersIcon className="w-6 h-6 text-green-500" />
           </div>

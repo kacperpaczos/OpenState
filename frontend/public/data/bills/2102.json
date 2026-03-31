@@ -1,6 +1,6 @@
 {
     "UE": "NO",
-    "changeDate": "2025-12-19T11:45:35",
+    "changeDate": "2026-01-23T15:28:55",
     "description": "projekt dotyczy zapewnienia sądowej kontroli legalności zmiany granic gmin, a tym samym zapewnienia sądowej ochrony interesu prawnego gmin, których zmiana terytorialna dotyczy",
     "documentDate": "2025-09-26",
     "documentType": "projekt ustawy",
@@ -18,6 +18,12 @@
             "stageName": "Projekt wpłynął do Sejmu",
             "printNumber": "2102",
             "stageType": "Start"
+        },
+        {
+            "date": "2025-10-23",
+            "stageName": "Opinia organizacji samorządowej",
+            "organ": "Organizacja samorządowa",
+            "stageType": "Opinion"
         },
         {
             "children": [
@@ -44,5 +50,5 @@
     "term": 10,
     "title": "Poselski projekt ustawy o zmianie ustawy o samorządzie gminnym",
     "urgencyStatus": "NORMAL",
-    "webGeneratedDate": "2025-12-19T11:46:26"
+    "webGeneratedDate": "2026-01-26T07:55:40"
 }

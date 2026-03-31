@@ -43,6 +43,14 @@
             "date": "2026-01-15",
             "stageName": "Skierowano do I czytania w komisjach",
             "stageType": "ReadingReferral"
+        },
+        {
+            "date": "2026-01-22",
+            "stageName": "I czytanie w komisjach",
+            "continuedOn": [
+                "2026-01-21"
+            ],
+            "stageType": "Reading"
         }
     ],
     "term": 10,

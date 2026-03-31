@@ -1,6 +1,6 @@
 {
     "UE": "NO",
-    "changeDate": "2026-01-12T09:39:56",
+    "changeDate": "2026-01-27T15:30:22",
     "description": "projekt dotyczy wprowadzenia ułatwień w zakładaniu i prowadzeniu firmy, także w aplikacji mObywatel. Od 2026 roku wnioski o rejestrację przedsiębiorstwa będą składane wyłącznie w formie elektronicznej. Celem zmian jest redukcja i uproszczenie procedur, poprawa bezpieczeństwa danych,  zmniejszenie liczby wymaganych dokumentów oraz zapewnienie przedsiębiorcom wygodnego i szybkiego sposobu załatwiania spraw online. Nowe przepisy realizują działania deregulacyjne rządu.",
     "documentDate": "2025-12-08",
     "documentType": "projekt ustawy",
@@ -56,6 +56,25 @@
             "stageName": "I czytanie na posiedzeniu Sejmu",
             "sittingNum": 49,
             "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2026-01-22",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "2155",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "478",
+                    "rapporteurName": "Jerzy Meysztowicz",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/2155/2155.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2026-01-22",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
         }
     ],
     "term": 10,

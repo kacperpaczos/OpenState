@@ -1,7 +1,7 @@
 {
     "UE": "NO",
-    "changeDate": "2026-01-21T18:13:40",
-    "closureDate": "2026-01-09",
+    "changeDate": "2026-01-26T11:10:42",
+    "closureDate": "2026-01-23",
     "description": "projekt dotyczy wprowadzenia obowiązku szybkiego zgłaszania zmian przez spółki, obowiązku informowania sądu o zakończeniu umowy, ujawnienia w KRS informacji o instytucji prowadzącej rejestr akcjonariuszy albo rejestrację akcji w depozycie papierów wartościowych, składania wykazu akcjonariuszy przy wykreślaniu spółki z KRS, rozszerzenia danych wpisywanych do rejestru akcjonariuszy. W rejestrze, obok dotychczasowych danych, znajdzie się również numer PESEL lub jeśli ktoś go nie posiada data urodzenia. W przypadku firmy (np. spółki) będą to m.in. numer w odpowiednim rejestrze i jego nazwa",
     "documentDate": "2025-11-28",
     "documentType": "projekt ustawy",
@@ -164,6 +164,37 @@
             "stageType": "SenatePosition"
         },
         {
+            "children": [
+                {
+                    "date": "2026-01-22",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "2183",
+                    "proposal": "przyjąć poprawki",
+                    "rapporteurID": "67",
+                    "rapporteurName": "Barbara Dolniak",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/2183/2183.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2026-01-22",
+            "stageName": "Praca w komisjach nad stanowiskiem Senatu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "date": "2026-01-23",
+            "stageName": "Rozpatrywanie na forum Sejmu stanowiska Senatu",
+            "decision": "przyjęto poprawki",
+            "sittingNum": 50,
+            "stageType": "SenatePositionConsideration"
+        },
+        {
+            "date": "2026-01-26",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
             "stageName": "Uchwalono",
             "stageType": "End"
         }
@@ -172,5 +203,5 @@
     "title": "Rządowy projekt ustawy o zmianie ustawy - Kodeks spółek handlowych oraz niektórych innych ustaw",
     "titleFinal": "o zmianie ustawy - Kodeks spółek handlowych oraz niektórych innych ustaw",
     "urgencyStatus": "NORMAL",
-    "webGeneratedDate": "2026-01-12T09:52:04"
+    "webGeneratedDate": "2026-01-26T11:11:45"
 }

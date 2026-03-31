@@ -1,6 +1,6 @@
 {
     "UE": "ENFORCEMENT",
-    "changeDate": "2026-01-09T11:05:33",
+    "changeDate": "2026-01-26T11:05:37",
     "closureDate": "2025-12-18",
     "documentDate": "2025-12-10",
     "documentType": "projekt ustawy",
@@ -209,6 +209,37 @@
             "stageType": "SenatePosition"
         },
         {
+            "children": [
+                {
+                    "date": "2026-01-22",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "2184",
+                    "proposal": "odrzucić poprawkę",
+                    "rapporteurID": "342",
+                    "rapporteurName": "Krystyna Skowrońska",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/2184/2184.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2026-01-22",
+            "stageName": "Praca w komisjach nad stanowiskiem Senatu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "date": "2026-01-23",
+            "stageName": "Rozpatrywanie na forum Sejmu stanowiska Senatu",
+            "decision": "odrzucono poprawkę",
+            "sittingNum": 50,
+            "stageType": "SenatePositionConsideration"
+        },
+        {
+            "date": "2026-01-26",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
             "stageName": "Uchwalono",
             "stageType": "End"
         }
@@ -217,5 +248,5 @@
     "title": "Rządowy projekt ustawy o rynku kryptoaktywów",
     "titleFinal": "o rynku kryptoaktywów",
     "urgencyStatus": "NORMAL",
-    "webGeneratedDate": "2026-01-09T11:05:50"
+    "webGeneratedDate": "2026-01-26T11:06:13"
 }

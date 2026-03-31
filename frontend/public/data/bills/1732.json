@@ -1,6 +1,7 @@
 {
     "UE": "NO",
-    "changeDate": "2026-01-08T17:10:44",
+    "changeDate": "2026-01-23T17:55:55",
+    "closureDate": "2026-01-23",
     "comments": "Zmiana przedstawiciela wnioskodawców - posła M. Orlińskiego zastąpił poseł J. Rzepa.",
     "description": "projekt dotyczy doprecyzowania przepisów ustawy z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa poprzez dodanie w art. 23c sformułowania, iż nadwyżka środków finansowych Krajowego Ośrodka Wsparcia Rolnictwa za 2022 rok może zostać wykorzystana w terminie do 31 grudnia 2027 roku",
     "documentDate": "2025-09-05",
@@ -9,7 +10,7 @@
     "legislativeCommittee": false,
     "links": [],
     "number": "1732",
-    "passed": false,
+    "passed": true,
     "principleOfSubsidiarity": false,
     "processStartDate": "2025-09-05",
     "shortenProcedure": false,
@@ -57,10 +58,62 @@
             "date": "2026-01-08",
             "stageName": "Praca w komisjach po I czytaniu",
             "stageType": "CommitteeWork"
+        },
+        {
+            "date": "2026-01-21",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "decision": "niezwłocznie przystąpiono do III czytania",
+            "sittingNum": 50,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2026-01-23",
+                    "stageName": "Głosowanie",
+                    "stageType": "Voting",
+                    "voting": {
+                        "abstain": 20,
+                        "date": "2026-01-23T17:03:52",
+                        "description": "całość projektu ustawy",
+                        "kind": "ELECTRONIC",
+                        "links": [
+                            {
+                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/50/17/pdf",
+                                "rel": "pdf"
+                            }
+                        ],
+                        "majorityType": "SIMPLE_MAJORITY",
+                        "majorityVotes": 1,
+                        "no": 0,
+                        "notParticipating": 26,
+                        "present": 0,
+                        "sitting": 50,
+                        "sittingDay": 3,
+                        "term": 10,
+                        "title": "Pkt. 3 Sprawozdanie Komisji o poselskim projekcie ustawy o zmianie ustawy o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa (druki nr 1732 i 2092)",
+                        "topic": "głosowanie nad całością projektu.",
+                        "totalVoted": 434,
+                        "votingNumber": 17,
+                        "yes": 414
+                    }
+                }
+            ],
+            "date": "2026-01-23",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "decision": "uchwalono",
+            "sittingNum": 50,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/1732/attachment/1732_u3.pdf"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
         }
     ],
     "term": 10,
     "title": "Poselski projekt ustawy o zmianie ustawy o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa",
+    "titleFinal": "o zmianie ustawy o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa",
     "urgencyStatus": "NORMAL",
-    "webGeneratedDate": "2026-01-08T17:12:50"
+    "webGeneratedDate": "2026-01-26T07:55:40"
 }

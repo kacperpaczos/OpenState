@@ -1,6 +1,6 @@
 {
     "UE": "NO",
-    "changeDate": "2026-01-08T09:37:48",
+    "changeDate": "2026-01-23T15:29:29",
     "description": "projekt dotyczy likwidacji dotychczasowej opłaty miejscowej i wprowadzenia nowej opłaty turystycznej, przy jednoczesnym zachowaniu bez zmian opłaty uzdrowiskowej",
     "documentDate": "2025-12-11",
     "documentType": "projekt ustawy",
@@ -20,6 +20,12 @@
             "stageType": "Start"
         },
         {
+            "date": "2025-12-19",
+            "stageName": "Opinia organizacji samorządowej",
+            "organ": "Organizacja samorządowa",
+            "stageType": "Opinion"
+        },
+        {
             "children": [
                 {
                     "date": "2026-01-07",
@@ -37,5 +43,5 @@
     "term": 10,
     "title": "Poselski projekt ustawy o zmianie ustawy o podatkach i opłatach lokalnych oraz ustawy o dochodach jednostek samorządu terytorialnego",
     "urgencyStatus": "NORMAL",
-    "webGeneratedDate": "2026-01-08T09:38:34"
+    "webGeneratedDate": "2026-01-26T07:55:40"
 }

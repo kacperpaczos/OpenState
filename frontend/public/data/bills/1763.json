@@ -1,6 +1,6 @@
 {
     "UE": "NO",
-    "changeDate": "2026-01-12T09:53:42",
+    "changeDate": "2026-01-22T09:21:54",
     "closureDate": "2026-01-09",
     "description": "projekt dotyczy uzupełnienia istniejącego stanu prawnego o wyraźne wskazanie organu, wobec którego Rzecznik Praw Dziecka powinien składać oświadczenia o działalności gospodarczej prowadzonej przez małżonka oraz oświadczenia o swoim stanie majątkowym",
     "documentDate": "2025-09-11",
@@ -106,6 +106,17 @@
             "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/1763/attachment/1763_u3.pdf"
         },
         {
+            "date": "2026-01-21",
+            "stageName": "Stanowisko Senatu",
+            "position": "nie wniósł poprawek",
+            "stageType": "SenatePosition"
+        },
+        {
+            "date": "2026-01-22",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
             "stageName": "Uchwalono",
             "stageType": "End"
         }
@@ -114,5 +125,5 @@
     "title": "Komisyjny projekt ustawy o zmianie ustawy o ograniczeniu prowadzenia działalności gospodarczej przez osoby pełniące funkcje publiczne",
     "titleFinal": "o zmianie ustawy o ograniczeniu prowadzenia działalności gospodarczej przez osoby pełniące funkcje publiczne",
     "urgencyStatus": "NORMAL",
-    "webGeneratedDate": "2026-01-12T09:53:59"
+    "webGeneratedDate": "2026-01-22T09:23:27"
 }

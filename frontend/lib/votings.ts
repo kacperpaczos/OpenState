@@ -21,7 +21,9 @@ export async function getSittings(): Promise<Sitting[]> {
         const filePath = path.join(process.cwd(), 'public/data/votings/sittings.json');
         if (fs.existsSync(filePath)) {
             const fileContent = fs.readFileSync(filePath, 'utf-8');
-            return JSON.parse(fileContent);
+            const data: Sitting[] = JSON.parse(fileContent);
+            // Sort by sitting number descending (newest first)
+            return data.sort((a, b) => b.sitting - a.sitting);
         }
     } catch (e) {
         console.warn("Sittings list not found", e);

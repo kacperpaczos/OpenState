@@ -1,6 +1,6 @@
 {
     "UE": "ENFORCEMENT",
-    "changeDate": "2026-01-08T19:24:04",
+    "changeDate": "2026-01-27T14:13:35",
     "description": "projekt dotyczy ułatwienia wymiany informacji o wyrokach karnych wydanych wobec obywateli państw trzecich, czyli osób spoza UE, a także bezpaństwowców. Przyjęte rozwiązania pozwolą na szybsze ustalenie, które państwa członkowskie posiadają dane o tych osobach w rejestrach karnych.",
     "documentDate": "2025-12-04",
     "documentType": "projekt ustawy",
@@ -49,10 +49,29 @@
             "stageName": "I czytanie na posiedzeniu Sejmu",
             "sittingNum": 49,
             "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2026-01-21",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "2149",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "157",
+                    "rapporteurName": "Iwona Karolewska",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/2149/2149.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2026-01-21",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
         }
     ],
     "term": 10,
     "title": "Rządowy projekt ustawy o zmianie ustawy o Krajowym Rejestrze Karnym oraz niektórych innych ustaw",
     "urgencyStatus": "NORMAL",
-    "webGeneratedDate": "2026-01-08T19:24:18"
+    "webGeneratedDate": "2026-01-27T14:13:51"
 }

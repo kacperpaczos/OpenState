@@ -1,6 +1,6 @@
 {
     "UE": "NO",
-    "changeDate": "2025-12-05T12:48:54",
+    "changeDate": "2026-01-23T14:55:04",
     "description": "projekt dotyczy m.in.: wprowadzenia bezwzględnego zakazu reklamy alkoholu, rozszerzenia uprawnień dla gmin do wprowadzania godzinowego zakazu sprzedaży alkoholu, podniesienia opłat za uzyskanie zezwolenia na sprzedaż napojów alkoholowych w handlu detalicznym",
     "documentDate": "2025-09-23",
     "documentType": "projekt ustawy",
@@ -38,10 +38,25 @@
             "date": "2025-12-05",
             "stageName": "Skierowano do I czytania na posiedzeniu Sejmu",
             "stageType": "ReadingReferral"
+        },
+        {
+            "children": [
+                {
+                    "date": "2026-01-23",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "ZDR",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2026-01-23",
+            "stageName": "I czytanie na posiedzeniu Sejmu",
+            "sittingNum": 50,
+            "stageType": "SejmReading"
         }
     ],
     "term": 10,
     "title": "Poselski projekt ustawy o zmianie ustawy o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi oraz ustawy o radiofonii i telewizji",
     "urgencyStatus": "NORMAL",
-    "webGeneratedDate": "2025-12-05T12:49:11"
+    "webGeneratedDate": "2026-01-26T07:55:40"
 }

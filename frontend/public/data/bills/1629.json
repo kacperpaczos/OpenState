@@ -1,7 +1,7 @@
 {
     "UE": "NO",
-    "changeDate": "2026-01-20T19:21:10",
-    "closureDate": "2025-12-18",
+    "changeDate": "2026-01-26T11:09:30",
+    "closureDate": "2026-01-23",
     "description": "projekt dotyczy wypełnienia luk prawnych, zracjonalizowania obowiązków i uprawnień znalazców, określenia obowiązków organów publicznych, zasad postępowania z rzeczami znalezionymi i poszukiwania właścicieli oraz zasad przechowywania i likwidacji rzeczy znalezionych. Szczegółowo unormowano zwłaszcza zagadnienia dotyczące znalezionych dóbr kultury, przedmiotów i dokumentów o charakterze wojskowym oraz rzeczy wymagających odrębnych pozwoleń, jak broń, amunicja czy materiały wybuchowe",
     "documentDate": "2025-08-06",
     "documentType": "projekt ustawy",
@@ -153,6 +153,18 @@
             "stageType": "CommitteeWork"
         },
         {
+            "date": "2026-01-23",
+            "stageName": "Rozpatrywanie na forum Sejmu stanowiska Senatu",
+            "decision": "przyjęto poprawkę",
+            "sittingNum": 50,
+            "stageType": "SenatePositionConsideration"
+        },
+        {
+            "date": "2026-01-26",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
             "stageName": "Uchwalono",
             "stageType": "End"
         }
@@ -161,5 +173,5 @@
     "title": "Rządowy projekt ustawy o zmianie ustawy o rzeczach znalezionych oraz ustawy - Kodeks cywilny",
     "titleFinal": "o zmianie ustawy o rzeczach znalezionych oraz ustawy - Kodeks cywilny",
     "urgencyStatus": "NORMAL",
-    "webGeneratedDate": "2026-01-20T19:21:34"
+    "webGeneratedDate": "2026-01-26T11:09:57"
 }

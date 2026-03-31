@@ -1,9 +1,10 @@
 import { getBill } from "@/lib/bills";
+import { getRclProject } from "@/lib/rcl";
 import ProcessTimeline from "./ProcessTimeline";
 import DiffViewer from "@/components/DiffViewer";
 import { notFound } from "next/navigation";
 import Link from "next/link";
-import { ArrowLeft, Calendar, FileText, Euro, MapPin, GitCompare } from "lucide-react";
+import { ArrowLeft, Calendar, FileText, Euro, MapPin, GitCompare, Activity } from "lucide-react";
 
 export default async function BillPage({ params }: { params: Promise<{ id: string }> }) {
     const { id } = await params;
@@ -11,6 +12,20 @@ export default async function BillPage({ params }: { params: Promise<{ id: strin
 
     if (!process) {
         return notFound();
+    }
+
+    // Merge RCL stages if available
+    if (process.rclProjectId) {
+        const rclProject = await getRclProject(process.rclProjectId);
+        if (rclProject && rclProject.stages) {
+            const rclStages = rclProject.stages.map(s => ({
+                stageName: `[RCL] ${s.name}`,
+                date: s.date || "Brak daty",
+                stageType: "RCL",
+            }));
+            // Prepend RCL stages to Sejm stages
+            process.stages = [...rclStages, ...process.stages];
+        }
     }
 
     return (
@@ -59,6 +74,13 @@ export default async function BillPage({ params }: { params: Promise<{ id: strin
                             <a href={process.isapLink} target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 text-blue-400 hover:text-blue-300 transition-colors bg-blue-500/10 px-3 py-1.5 rounded-lg border border-blue-500/20">
                                 <FileText size={16} />
                                 Dziennik Ustaw
+                            </a>
+                        )}
+
+                        {(process.rclProjectId || process.rclLink) && (
+                            <a href={process.rclProjectId ? `https://legislacja.rcl.gov.pl/projekt/${process.rclProjectId}` : process.rclLink!} target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 text-apple-gray-600 dark:text-apple-gray-400 hover:text-foreground transition-colors bg-apple-gray-100 dark:bg-white/5 px-3 py-1.5 rounded-lg border border-apple-gray-200 dark:border-white/10">
+                                <Activity size={16} />
+                                RCL
                             </a>
                         )}
 

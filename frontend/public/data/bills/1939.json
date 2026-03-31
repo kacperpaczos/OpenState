@@ -1,7 +1,7 @@
 {
     "UE": "NO",
-    "changeDate": "2026-01-12T09:56:07",
-    "closureDate": "2026-01-09",
+    "changeDate": "2026-01-26T11:13:39",
+    "closureDate": "2026-01-23",
     "description": "projekt dotyczy wprowadzenia kilku zmian porządkujących i usprawniających funkcjonowanie ochotniczych straży pożarnych",
     "documentDate": "2025-10-16",
     "documentType": "projekt ustawy",
@@ -120,6 +120,53 @@
             "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/1939/attachment/1939_u3.pdf"
         },
         {
+            "children": [
+                {
+                    "date": "2026-01-22",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "ASW",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2026-01-21",
+            "stageName": "Stanowisko Senatu",
+            "position": "wniósł poprawki",
+            "printNumber": "2185",
+            "stageType": "SenatePosition"
+        },
+        {
+            "children": [
+                {
+                    "date": "2026-01-23",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "2195",
+                    "proposal": "przyjąć poprawki",
+                    "rapporteurID": "312",
+                    "rapporteurName": "Bartosz Romowicz",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/2195/2195.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2026-01-23",
+            "stageName": "Praca w komisjach nad stanowiskiem Senatu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "date": "2026-01-23",
+            "stageName": "Rozpatrywanie na forum Sejmu stanowiska Senatu",
+            "decision": "przyjęto poprawki",
+            "sittingNum": 50,
+            "stageType": "SenatePositionConsideration"
+        },
+        {
+            "date": "2026-01-26",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
             "stageName": "Uchwalono",
             "stageType": "End"
         }
@@ -128,5 +175,5 @@
     "title": "Poselski projekt ustawy o zmianie ustawy - Prawo o ruchu drogowym oraz ustawy o kierujących pojazdami",
     "titleFinal": "o zmianie ustawy - Prawo o ruchu drogowym oraz  niektórych innych ustaw",
     "urgencyStatus": "NORMAL",
-    "webGeneratedDate": "2026-01-12T09:56:22"
+    "webGeneratedDate": "2026-01-26T11:13:52"
 }

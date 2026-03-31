@@ -1,6 +1,7 @@
 {
     "UE": "NO",
-    "changeDate": "2026-01-08T19:20:52",
+    "changeDate": "2026-01-26T10:58:24",
+    "closureDate": "2026-01-23",
     "description": "projekt dotyczy wygaśnięcia przepisów na podstawie których inwestycje dokonane przed wejściem w życie wypowiedzenia Umowy są chronione na jej podstawie przez piętnaście lat od czasu wygaśnięcia Umowy. Stosownie do Umowy o wygaśnięciu trwających skutków prawnych ochrona ta skończy się wraz z jej wejściem w życie. Umowa o wygaśnięciu trwających skutków prawnych wchodzi w życie pierwszego dnia miesiąca następującego po tym miesiącu, w którym otrzymano późniejsze zawiadomienie między Stronami potwierdzające zakończenie przez nie odpowiednich procedur wewnętrznych.",
     "documentDate": "2025-12-01",
     "documentType": "projekt ustawy",
@@ -8,7 +9,7 @@
     "legislativeCommittee": false,
     "links": [],
     "number": "2037",
-    "passed": false,
+    "passed": true,
     "principleOfSubsidiarity": false,
     "processStartDate": "2025-12-01",
     "shortenProcedure": false,
@@ -63,10 +64,30 @@
             "date": "2026-01-08",
             "stageName": "Praca w komisjach po I czytaniu",
             "stageType": "CommitteeWork"
+        },
+        {
+            "date": "2026-01-22",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "decision": "niezwłocznie przystąpiono do III czytania",
+            "sittingNum": 50,
+            "stageType": "SejmReading"
+        },
+        {
+            "date": "2026-01-23",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "decision": "uchwalono",
+            "sittingNum": 50,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/2037/attachment/2037_u3.pdf"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
         }
     ],
     "term": 10,
     "title": "Rządowy projekt ustawy o ratyfikacji Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej o wygaśnięciu trwających skutków prawnych Artykułu 13 Umowy między Rządem Polskiej Rzeczypospolitej Ludowej a Rządem Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej w sprawie popierania i wzajemnej ochrony inwestycji, podpisanej w Londynie dnia 8 grudnia 1987 r.",
+    "titleFinal": "o ratyfikacji Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej o wygaśnięciu trwających skutków prawnych Artykułu 13 Umowy między Rządem Polskiej Rzeczypospolitej Ludowej a Rządem Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej w sprawie popierania i wzajemnej ochrony inwestycji, podpisanej w Londynie dnia 8 grudnia 1987 r.",
     "urgencyStatus": "NORMAL",
-    "webGeneratedDate": "2026-01-08T19:21:19"
+    "webGeneratedDate": "2026-01-26T15:34:28"
 }

@@ -57,6 +57,11 @@
             "stageType": "ReadingReferral"
         },
         {
+            "date": "2025-06-24",
+            "stageName": "I czytanie w komisjach",
+            "stageType": "Reading"
+        },
+        {
             "children": [
                 {
                     "date": "2025-07-07",

@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import "./globals.css";
 import Navbar from "@/components/navigation/Navbar";
+import StoreProvider from "./StoreProvider";
 
 const inter = Inter({ subsets: ["latin"], variable: "--font-inter" });
 
@@ -18,11 +19,13 @@ export default function RootLayout({
   return (
     <html lang="pl" suppressHydrationWarning>
       <body className={inter.variable} suppressHydrationWarning>
-        <div className="mesh-background" />
-        <Navbar />
-        <main className="pt-20 px-6">
-          {children}
-        </main>
+        <StoreProvider>
+          <div className="mesh-background" />
+          <Navbar />
+          <main className="pt-20 px-6">
+            {children}
+          </main>
+        </StoreProvider>
       </body>
     </html>
   );

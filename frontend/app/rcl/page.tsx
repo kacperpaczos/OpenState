@@ -7,7 +7,7 @@ export default async function RclPage() {
 
     return (
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10 fade-in">
-            <h1 className="text-4xl font-bold mb-8 text-white tracking-tight">
+            <h1 className="text-4xl font-bold mb-8 text-foreground tracking-tight">
                 Rządowe Centrum <span className="text-gradient">Legislacji</span>
             </h1>
 
@@ -32,7 +32,7 @@ export default async function RclPage() {
                                     <Calendar className="w-3 h-3" /> {p.date}
                                 </span>
                             </div>
-                            <h3 className="text-xl font-bold text-white mb-2">
+                            <h3 className="text-xl font-bold text-foreground mb-2">
                                 {p.title}
                             </h3>
                             <div className="flex justify-between items-end mt-4">
@@ -42,9 +42,8 @@ export default async function RclPage() {
                                     Numer wykazu: {p.number}
                                 </div>
                                 <Link
-                                    href={p.url}
-                                    target="_blank"
-                                    className="px-4 py-2 bg-surface-hover hover:bg-surface-border rounded-lg text-sm text-white transition-colors"
+                                    href={`/rcl/${p.id}`}
+                                    className="px-4 py-2 bg-apple-gray-100 dark:bg-white/10 hover:bg-apple-gray-200 dark:hover:bg-white/15 rounded-lg text-sm text-foreground transition-colors"
                                 >
                                     Szczegóły RCL
                                 </Link>

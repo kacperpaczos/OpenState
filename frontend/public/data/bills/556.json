@@ -1,7 +1,7 @@
 {
     "UE": "NO",
-    "changeDate": "2026-01-09T11:03:10",
-    "closureDate": "2025-12-18",
+    "changeDate": "2026-01-26T11:08:24",
+    "closureDate": "2026-01-23",
     "description": "projekt dotyczy zaprojektowania w ramach jednej z instytucji państwowych elektronicznej platformy służącej do obsługi procesu elektronicznego popierania list kandydatów i kandydatów wybieranych w wyborach powszechnych",
     "documentDate": "2024-06-28",
     "documentType": "projekt ustawy",
@@ -200,6 +200,37 @@
             "stageType": "SenatePosition"
         },
         {
+            "children": [
+                {
+                    "date": "2026-01-21",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "2173",
+                    "proposal": "przyjąć poprawki",
+                    "rapporteurID": "63",
+                    "rapporteurName": "Sławomir Ćwik",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/2173/2173.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2026-01-21",
+            "stageName": "Praca w komisjach nad stanowiskiem Senatu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "date": "2026-01-23",
+            "stageName": "Rozpatrywanie na forum Sejmu stanowiska Senatu",
+            "decision": "przyjęto poprawki",
+            "sittingNum": 50,
+            "stageType": "SenatePositionConsideration"
+        },
+        {
+            "date": "2026-01-26",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
             "stageName": "Uchwalono",
             "stageType": "End"
         }
@@ -208,5 +239,5 @@
     "title": "Poselski projekt ustawy o zmianie ustawy - Kodeks wyborczy",
     "titleFinal": "o zmianie ustawy - Kodeks wyborczy",
     "urgencyStatus": "NORMAL",
-    "webGeneratedDate": "2026-01-09T11:03:30"
+    "webGeneratedDate": "2026-01-26T11:08:42"
 }

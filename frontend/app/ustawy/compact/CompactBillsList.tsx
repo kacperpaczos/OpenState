@@ -3,12 +3,20 @@
 import { Bill } from "@/lib/bills";
 import { Search, ArrowLeft, Filter } from "lucide-react";
 import Link from "next/link";
-import { useState, useMemo, useEffect } from "react";
+import { useState, useEffect } from "react";
+import { useAppDispatch, useAppSelector } from "@/lib/hooks";
+import { setBills, setFilterStatus, selectFilteredBills, selectFilter } from "@/lib/features/bills/billsSlice";
 
 export default function CompactBillsList({ initialProcesses }: { initialProcesses: Bill[] }) {
-    const [searchTerm, setSearchTerm] = useState("");
-    const [statusFilter, setStatusFilter] = useState("all");
+    const dispatch = useAppDispatch();
+    const filteredBills = useAppSelector(selectFilteredBills);
+    const { status: statusFilter } = useAppSelector(selectFilter);
     const [headerCompact, setHeaderCompact] = useState(false);
+
+    // Initialize store
+    useEffect(() => {
+        dispatch(setBills(initialProcesses));
+    }, [dispatch, initialProcesses]);
 
     // Auto-hiding header on scroll
     useEffect(() => {
@@ -26,18 +34,6 @@ export default function CompactBillsList({ initialProcesses }: { initialProcesse
         return () => window.removeEventListener('scroll', handleScroll);
     }, []);
 
-    const filteredBills = useMemo(() => {
-        return initialProcesses.filter(process => {
-            const matchesSearch = process.title.toLowerCase().includes(searchTerm.toLowerCase()) ||
-                (process.id && process.id.toLowerCase().includes(searchTerm.toLowerCase()));
-
-            if (!matchesSearch) return false;
-            if (statusFilter === "all") return true;
-            if (statusFilter === "UE") return process.isEU;
-            return process.documentType && process.documentType.includes(statusFilter);
-        });
-    }, [initialProcesses, searchTerm, statusFilter]);
-
     return (
         <div className="max-w-[1400px] mx-auto pb-20 fade-in h-screen flex flex-col px-4">
             {/* Auto-hiding Compact Header */}
@@ -51,26 +47,14 @@ export default function CompactBillsList({ initialProcesses }: { initialProcesse
                         <h1 className="text-2xl font-bold text-foreground whitespace-nowrap">Projekty Legislacyjne</h1>
                     </div>
 
-                    {/* Center: Search */}
-                    <div className="flex-1 max-w-md">
-                        <div className="relative">
-                            <Search className="absolute left-3 top-1/2 -translate-y-1/2 text-apple-gray-500" size={16} />
-                            <input
-                                type="text"
-                                placeholder="Szukaj..."
-                                className={`w-full pl-10 pr-4 bg-apple-gray-50 dark:bg-white/5 border border-apple-gray-200 dark:border-white/10 text-foreground placeholder:text-apple-gray-500 focus:outline-none focus:ring-2 focus:ring-apple-blue/50 transition-all rounded-button ${headerCompact ? 'py-1.5 text-sm' : 'py-2.5'
-                                    }`}
-                                value={searchTerm}
-                                onChange={(e) => setSearchTerm(e.target.value)}
-                            />
-                        </div>
-                    </div>
+                    {/* Center: Search spacer */}
+                    <div className="flex-1 max-w-md"></div>
 
                     {/* Right: Filters & View Switcher */}
                     <div className="flex items-center gap-2">
                         <FilterChips
                             statusFilter={statusFilter}
-                            setStatusFilter={setStatusFilter}
+                            setStatusFilter={(s) => dispatch(setFilterStatus(s))}
                             compact={headerCompact}
                         />
                         <Link

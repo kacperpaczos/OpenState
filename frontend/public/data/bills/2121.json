@@ -1,6 +1,6 @@
 {
     "UE": "NO",
-    "changeDate": "2026-01-07T18:22:07",
+    "changeDate": "2026-01-26T11:25:13",
     "description": "projekt dotyczy wprowadzenia do prawa polskiego - na wzór unormowań obowiązujących w innych państwach - możliwości pozasądowego rozwiązania małżeństwa (rozwodu pozasądowego). Rozwiązanie małżeństwa będzie następowało w drodze czynności podejmowanych przed kierownikiem urzędu stanu cywilnego, który będzie weryfikował spełnienie ustawowych przesłanek rozwodu pozasądowego i dokona odpowiednich wpisów w rejestrze stanu cywilnego. Procedura pozasądowa dostępna będzie wyłącznie dla małżonków niemających wspólnych małoletnich dzieci, ani wspólnych dzieci poczętych, lecz nieurodzonych. Nowe przepisy realizują działania deregulacyjne rządu",
     "documentDate": "2025-12-19",
     "documentType": "projekt ustawy",
@@ -34,10 +34,26 @@
             "date": "2026-01-07",
             "stageName": "Skierowano do I czytania na posiedzeniu Sejmu",
             "stageType": "ReadingReferral"
+        },
+        {
+            "children": [
+                {
+                    "date": "2026-01-23",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "NKK",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2026-01-23",
+            "stageName": "I czytanie na posiedzeniu Sejmu",
+            "comment": "wniosek o odrzucenie projektu ustawy w pierwszym czytaniu",
+            "sittingNum": 50,
+            "stageType": "SejmReading"
         }
     ],
     "term": 10,
     "title": "Rządowy projekt ustawy o zmianie ustawy - Kodeks rodzinny i opiekuńczy oraz niektórych innych ustaw",
     "urgencyStatus": "NORMAL",
-    "webGeneratedDate": "2026-01-07T18:22:40"
+    "webGeneratedDate": "2026-01-26T11:25:36"
 }

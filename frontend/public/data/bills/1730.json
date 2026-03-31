@@ -1,7 +1,7 @@
 {
     "UE": "NO",
-    "changeDate": "2026-01-09T11:01:52",
-    "closureDate": "2025-12-18",
+    "changeDate": "2026-01-26T11:07:12",
+    "closureDate": "2026-01-23",
     "description": "projekt dotyczy ustanowienia dnia 12 kwietnia świętem państwowym w uznaniu zasług i poświęcenia na rzecz Ojczyzny osób, które w wyniku działań wojennych lub służby wojskowej doznały trwałego uszczerbku na zdrowiu",
     "documentDate": "2025-09-02",
     "documentType": "projekt ustawy",
@@ -122,6 +122,37 @@
             "stageType": "SenatePosition"
         },
         {
+            "children": [
+                {
+                    "date": "2026-01-21",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "2153",
+                    "proposal": "przyjąć poprawkę",
+                    "rapporteurID": "358",
+                    "rapporteurName": "Piotr Paweł Strach",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/2153/2153.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2026-01-21",
+            "stageName": "Praca w komisjach nad stanowiskiem Senatu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "date": "2026-01-23",
+            "stageName": "Rozpatrywanie na forum Sejmu stanowiska Senatu",
+            "decision": "przyjęto poprawkę",
+            "sittingNum": 50,
+            "stageType": "SenatePositionConsideration"
+        },
+        {
+            "date": "2026-01-26",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
             "stageName": "Uchwalono",
             "stageType": "End"
         }
@@ -130,5 +161,5 @@
     "title": "Poselski projekt ustawy o ustanowieniu Dnia Inwalidy Wojennego",
     "titleFinal": "o ustanowieniu Dnia Inwalidy Wojennego",
     "urgencyStatus": "NORMAL",
-    "webGeneratedDate": "2026-01-09T11:02:16"
+    "webGeneratedDate": "2026-01-26T11:07:38"
 }

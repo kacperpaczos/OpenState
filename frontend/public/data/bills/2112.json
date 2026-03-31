@@ -1,6 +1,6 @@
 {
     "UE": "NO",
-    "changeDate": "2026-01-12T10:01:11",
+    "changeDate": "2026-01-22T09:21:10",
     "closureDate": "2026-01-09",
     "description": "projekt dotyczy wprowadzenia kluczowej zmiany legislacyjnej, która zapewni stabilne i przewidywalne ramy prawne dla dalszego funkcjonowania istniejących, rynkowych systemów zwrotu szklanych butelek wielokrotnego użytku.",
     "documentDate": "2025-12-19",
@@ -113,6 +113,17 @@
             "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/2112/attachment/2112_u3.pdf"
         },
         {
+            "date": "2026-01-21",
+            "stageName": "Stanowisko Senatu",
+            "position": "nie wniósł poprawek",
+            "stageType": "SenatePosition"
+        },
+        {
+            "date": "2026-01-22",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
             "stageName": "Uchwalono",
             "stageType": "End"
         }
@@ -121,5 +132,5 @@
     "title": "Poselski projekt ustawy o zmianie ustawy o gospodarce opakowaniami i odpadami opakowaniowymi oraz ustawy o zmianie ustawy o gospodarce opakowaniami i odpadami opakowaniowymi oraz niektórych innych ustaw",
     "titleFinal": "o zmianie ustawy o gospodarce opakowaniami i odpadami opakowaniowymi, ustawy o odpadach oraz ustawy o zmianie ustawy o gospodarce opakowaniami i odpadami opakowaniowymi oraz niektórych innych ustaw",
     "urgencyStatus": "NORMAL",
-    "webGeneratedDate": "2026-01-12T10:01:23"
+    "webGeneratedDate": "2026-01-22T09:24:01"
 }

@@ -7,7 +7,7 @@ export default async function VotingsPage() {
 
     return (
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10 fade-in">
-            <h1 className="text-4xl font-bold mb-8 text-white tracking-tight">
+            <h1 className="text-4xl font-bold mb-8 text-foreground tracking-tight">
                 Przeglądarka <span className="text-gradient">Głosowań</span>
             </h1>
 
@@ -21,7 +21,7 @@ export default async function VotingsPage() {
                                     <Users className="w-5 h-5" />
                                 </span>
                             </div>
-                            <h2 className="text-5xl font-bold text-white mb-2 group-hover:text-blue-400 transition-colors">
+                            <h2 className="text-5xl font-bold text-foreground mb-2 group-hover:text-blue-400 transition-colors">
                                 {s.sitting}
                             </h2>
                             <p className="text-gray-400 text-sm mt-4 border-t border-gray-800 pt-4">

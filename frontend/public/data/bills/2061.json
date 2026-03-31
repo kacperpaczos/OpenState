@@ -1,6 +1,6 @@
 {
     "UE": "NO",
-    "changeDate": "2025-12-05T12:49:12",
+    "changeDate": "2026-01-23T09:52:51",
     "description": "projekt dotyczy przygotowania systemu oświaty na nadchodzące zmiany demograficzne i spadek liczby uczniów. Projekt ułatwi organizację pracy szkół, ograniczy biurokrację oraz umożliwi wykorzystanie wolnych przestrzeni szkolnych na potrzeby lokalnych społeczności. Celem jest utrzymanie wysokiej jakości kształcenia oraz zapewnienie uczniom dostępu do edukacji jak najbliżej ich miejsca zamieszkania. Nowe przepisy pomogą także utrzymać małe szkoły w społecznościach lokalnych.",
     "documentDate": "2025-12-03",
     "documentType": "projekt ustawy",
@@ -41,10 +41,34 @@
             "date": "2025-12-05",
             "stageName": "Skierowano do I czytania w komisjach",
             "stageType": "ReadingReferral"
+        },
+        {
+            "date": "2026-01-21",
+            "stageName": "I czytanie w komisjach",
+            "stageType": "Reading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2026-01-21",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 3,
+                    "printNumber": "2175",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "195",
+                    "rapporteurName": "Adam Krzemiński",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/2175/2175.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2026-01-21",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
         }
     ],
     "term": 10,
     "title": "Rządowy projekt ustawy o zmianie ustawy - Prawo oświatowe oraz niektórych innych ustaw",
     "urgencyStatus": "NORMAL",
-    "webGeneratedDate": "2025-12-05T12:49:52"
+    "webGeneratedDate": "2026-01-23T09:53:33"
 }

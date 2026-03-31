@@ -1,6 +1,6 @@
 {
     "UE": "NO",
-    "changeDate": "2025-04-23T12:09:11",
+    "changeDate": "2026-01-23T16:25:49",
     "description": "projekt dotyczy uwolnienia od odpowiedzialności karnej polskich obywateli, którzy wsparli obronę Ukrainy przez wstąpienie do ukraińskiej armii oraz pozyskanie przez organy wojskowe wiedzy o nabytych przez nich kwalifikacjach i doświadczeniu bojowym",
     "documentDate": "2024-12-05",
     "documentType": "projekt ustawy",
@@ -50,10 +50,37 @@
             "date": "2025-10-07",
             "stageName": "I czytanie w komisjach",
             "stageType": "Reading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2025-11-20",
+                    "stageName": "Sprawozdanie podkomisji",
+                    "minorityMotions": 0,
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/processes/1196/attachment/spr_1196.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": true
+                },
+                {
+                    "date": "2026-01-22",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "2189",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "361",
+                    "rapporteurName": "Paweł Suski",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/2189/2189.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2025-11-20",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
         }
     ],
     "term": 10,
     "title": "Poselski projekt ustawy o niekaraniu ochotników broniących wolności i niepodległości Ukrainy",
     "urgencyStatus": "NORMAL",
-    "webGeneratedDate": "2025-04-23T12:09:50"
+    "webGeneratedDate": "2026-01-23T16:26:15"
 }

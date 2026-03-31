@@ -1,6 +1,7 @@
 {
     "UE": "NO",
-    "changeDate": "2026-01-09T09:03:58",
+    "changeDate": "2026-01-26T10:23:30",
+    "closureDate": "2026-01-23",
     "comments": "W dniu 19.01.2026 r., do projektu z druku 1632, wskazano Pana M. Koteckiego Sekretarza Stanu w Kancelarii Prezydenta Rzeczypospolitej Polskiej jako dodatkowego przedstawiciela wnioskodawców.",
     "description": "projekt dotyczy wydłużenia o kolejne 10 lat okresu wstrzymania sprzedaży nieruchomości, ich części oraz udziałów we współwłasności wchodzących w skład Zasobu Własności Rolnej Skarbu Państwa",
     "documentDate": "2025-04-11",
@@ -9,7 +10,7 @@
     "legislativeCommittee": false,
     "links": [],
     "number": "1390",
-    "passed": false,
+    "passed": true,
     "principleOfSubsidiarity": false,
     "printsConsideredJointly": [
         "1632",
@@ -61,10 +62,60 @@
             "date": "2026-01-08",
             "stageName": "Praca w komisjach po I czytaniu",
             "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2026-01-21",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "RRW",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2026-01-21",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "comment": "poprawki",
+            "decision": "skierowano ponownie do komisji w celu przedstawienia sprawozdania",
+            "sittingNum": 50,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2026-01-22",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "2137-A",
+                    "proposal": "przyjąć część poprawek",
+                    "rapporteurID": "102",
+                    "rapporteurName": "Piotr Głowski",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/2137-A/2137-A.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2026-01-22",
+            "stageName": "Praca w komisjach po II czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "date": "2026-01-23",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "comment": "poprawki",
+            "decision": "uchwalono",
+            "sittingNum": 50,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/1390/attachment/1390_u3.pdf"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
         }
     ],
     "term": 10,
     "title": "Poselski projekt ustawy o zmianie ustawy o wstrzymaniu sprzedaży nieruchomości Zasobu Własności Rolnej Skarbu Państwa oraz o zmianie niektórych ustaw",
+    "titleFinal": "o zmianie niektórych ustaw w celu ochrony polskiego rolnictwa",
     "urgencyStatus": "NORMAL",
-    "webGeneratedDate": "2026-01-09T09:04:58"
+    "webGeneratedDate": "2026-01-26T10:24:31"
 }

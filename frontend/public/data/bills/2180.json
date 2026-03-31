@@ -1,6 +1,6 @@
 {
     "UE": "ENFORCEMENT",
-    "changeDate": "2026-01-21T15:58:10",
+    "changeDate": "2026-01-23T12:25:04",
     "description": "projekt dotyczy wprowadzenia nowego wsparcia dla rolników gospodarujących na obszarach wyznaczonych w ramach normy GAEC 2 dotyczącej ochrony torfowisk i obszarów podmokłych; zmiany definicji trwałych użytków zielonych (TUZ); Nowe przepisy wydłużają czas, po którym grunt orny zostaje uznany za TUZ ? z 5 do 7 lat. Grunty, które mają już status trwałych użytków zielonych, nie stracą go automatycznie po zmianie definicji, jednocześnie przepis umożliwia zmianę klasyfikacji gruntów z inicjatywy rolnika, zgodnie z obowiązującymi przepisami.",
     "documentDate": "2026-01-20",
     "documentType": "projekt ustawy",
@@ -35,10 +35,34 @@
             "date": "2026-01-21",
             "stageName": "Skierowano do I czytania w komisjach",
             "stageType": "ReadingReferral"
+        },
+        {
+            "date": "2026-01-23",
+            "stageName": "I czytanie w komisjach",
+            "stageType": "Reading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2026-01-23",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "2194",
+                    "proposal": "załączony projekt ustawy",
+                    "rapporteurID": "314",
+                    "rapporteurName": "Wiesław Różyński",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/2194/2194.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2026-01-23",
+            "stageName": "Praca w komisjach po I czytaniu",
+            "stageType": "CommitteeWork"
         }
     ],
     "term": 10,
     "title": "Rządowy projekt ustawy o zmianie ustawy o Planie Strategicznym dla Wspólnej Polityki  Rolnej na lata 2023-2027",
     "urgencyStatus": "NORMAL",
-    "webGeneratedDate": "2026-01-21T15:58:43"
+    "webGeneratedDate": "2026-01-23T12:25:27"
 }

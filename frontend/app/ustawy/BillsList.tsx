@@ -1,14 +1,22 @@
 "use client";
 
 import { Bill } from "@/lib/bills";
-import { FileText, ArrowRight, Activity, Clock, Euro, Search } from "lucide-react";
+import { FileText, ArrowRight, Clock, Euro, Search } from "lucide-react";
 import Link from "next/link";
-import { useState, useMemo, useEffect } from "react";
+import { useState, useEffect } from "react";
+import { useAppDispatch, useAppSelector } from "@/lib/hooks";
+import { setBills, setFilterStatus, selectFilteredBills, selectFilter } from "@/lib/features/bills/billsSlice";
 
 export default function BillsList({ initialProcesses }: { initialProcesses: Bill[] }) {
-    const [searchTerm, setSearchTerm] = useState("");
-    const [statusFilter, setStatusFilter] = useState("all");
+    const dispatch = useAppDispatch();
+    const filteredBills = useAppSelector(selectFilteredBills);
+    const { status: statusFilter } = useAppSelector(selectFilter);
     const [headerHidden, setHeaderHidden] = useState(false);
+
+    // Initialize store with server data
+    useEffect(() => {
+        dispatch(setBills(initialProcesses));
+    }, [dispatch, initialProcesses]);
 
     // Auto-hide header on scroll down
     useEffect(() => {
@@ -25,20 +33,6 @@ export default function BillsList({ initialProcesses }: { initialProcesses: Bill
         window.addEventListener('scroll', handleScroll, { passive: true });
         return () => window.removeEventListener('scroll', handleScroll);
     }, []);
-
-    const filteredBills = useMemo(() => {
-        return initialProcesses.filter(process => {
-            const matchesSearch = process.title.toLowerCase().includes(searchTerm.toLowerCase()) ||
-                (process.id && process.id.toLowerCase().includes(searchTerm.toLowerCase()));
-
-            if (!matchesSearch) return false;
-
-            if (statusFilter === "all") return true;
-            if (statusFilter === "UE") return process.isEU;
-
-            return process.documentType && process.documentType.includes(statusFilter);
-        });
-    }, [initialProcesses, searchTerm, statusFilter]);
 
     return (
         <div className="max-w-7xl mx-auto fade-in px-4">
@@ -64,6 +58,9 @@ export default function BillsList({ initialProcesses }: { initialProcesses: Bill
                         <Link href="/ustawy/table" className="px-3 py-1.5 rounded-button text-xs font-semibold bg-apple-gray-100 dark:bg-white/5 text-apple-gray-700 dark:text-apple-gray-300 hover:bg-apple-gray-200 dark:hover:bg-white/10 transition-colors">
                             Table
                         </Link>
+                        <Link href="/harmonogram" className="px-3 py-1.5 rounded-button text-xs font-semibold bg-apple-gray-100 dark:bg-white/5 text-apple-gray-700 dark:text-apple-gray-300 hover:bg-apple-gray-200 dark:hover:bg-white/10 transition-colors">
+                            Kanban
+                        </Link>
                     </div>
                 </div>
                 <p className="text-body-secondary">Projekty legislacyjne X kadencji Sejmu RP</p>
@@ -71,38 +68,26 @@ export default function BillsList({ initialProcesses }: { initialProcesses: Bill
 
             {/* Filters & Search */}
             <div className="mb-6 space-y-4">
-                {/* Search Bar */}
-                <div className="relative">
-                    <Search className="absolute left-4 top-1/2 -translate-y-1/2 text-apple-gray-500" size={20} />
-                    <input
-                        type="text"
-                        placeholder="Szukaj po tytule lub numerze druku..."
-                        className="w-full pl-12 pr-4 py-3.5 rounded-input bg-white/70 dark:bg-white/5 border border-apple-gray-200 dark:border-white/15 text-foreground placeholder:text-apple-gray-500 focus:outline-none focus:ring-2 focus:ring-apple-blue/50 focus:border-apple-blue transition-all backdrop-blur-xl"
-                        value={searchTerm}
-                        onChange={(e) => setSearchTerm(e.target.value)}
-                    />
-                </div>
-
                 {/* Filter Buttons */}
                 <div className="flex gap-2 overflow-x-auto pb-2 scrollbar-hide">
                     <FilterButton
                         active={statusFilter === "all"}
-                        onClick={() => setStatusFilter("all")}
+                        onClick={() => dispatch(setFilterStatus("all"))}
                         label="Wszystkie"
                     />
                     <FilterButton
                         active={statusFilter === "Projekt ustawy"}
-                        onClick={() => setStatusFilter("Projekt ustawy")}
+                        onClick={() => dispatch(setFilterStatus("Projekt ustawy"))}
                         label="Projekty Ustaw"
                     />
                     <FilterButton
                         active={statusFilter === "Projekt uchwały"}
-                        onClick={() => setStatusFilter("Projekt uchwały")}
+                        onClick={() => dispatch(setFilterStatus("Projekt uchwały"))}
                         label="Uchwały"
                     />
                     <FilterButton
                         active={statusFilter === "UE"}
-                        onClick={() => setStatusFilter("UE")}
+                        onClick={() => dispatch(setFilterStatus("UE"))}
                         label="Tylko UE"
                     />
                 </div>

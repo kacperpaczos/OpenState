@@ -69,7 +69,7 @@ try:
         
         # Determine status/date
         description = item.get('description', '')
-        date = item.get('proceedingsDate', '') # Date of initiation
+        date = item.get('processStartDate') or item.get('documentDate') or item.get('changeDate') or ''
         
         formatted_bills.append({
             "id": ueid,
@@ -81,7 +81,8 @@ try:
             "documentType": item.get('documentType', 'Inny'),
             "authorType": "Rządowy" if "rządowy" in title.lower() else "Poselski" if "poselski" in title.lower() else "Obywatelski" if "obywatelski" in title.lower() else "Senacki" if "senacki" in title.lower() else "Inny",
             "isapLink": next((l['href'] for l in item.get('links', []) if l.get('rel') == 'isap'), None),
-            "eliLink": next((l['href'] for l in item.get('links', []) if l.get('rel') == 'eli'), None)
+            "eliLink": next((l['href'] for l in item.get('links', []) if l.get('rel') == 'eli'), None),
+            "rclLink": next((l['href'] for l in item.get('links', []) if 'legislacja.rcl.gov.pl' in l.get('href', '')), None)
         })
         
     # Sort by date descending (newest first)
@@ -192,7 +193,25 @@ try:
                         bill['isapLink'] = next((l['href'] for l in details.get('links', []) if l.get('rel') == 'isap'), None)
                     if not bill.get('eliLink'):
                         bill['eliLink'] = next((l['href'] for l in details.get('links', []) if l.get('rel') == 'eli'), None)
+                    if not bill.get('rclLink'):
+                        bill['rclLink'] = next((l['href'] for l in details.get('links', []) if 'legislacja.rcl.gov.pl' in l.get('href', '')), bill.get('rclLink'))
             except:
+                pass
+                
+        # Resolve RCL project ID if we have a link
+        if bill.get('rclLink') and not bill.get('rclProjectId'):
+            try:
+                # Disguise as browser to avoid blocks
+                req = urllib.request.Request(
+                    bill['rclLink'], 
+                    method="HEAD",
+                    headers={'User-Agent': 'Mozilla/5.0'}
+                )
+                with urllib.request.urlopen(req, context=ctx) as res:
+                    final_url = res.url
+                    if "/projekt/" in final_url:
+                        bill['rclProjectId'] = final_url.split("/projekt/")[-1].strip()
+            except Exception as e:
                 pass
         
         bill['kanbanStage'] = kanban_stage

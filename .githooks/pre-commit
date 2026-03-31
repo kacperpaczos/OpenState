@@ -1,0 +1,26 @@
+#!/bin/sh
+# Pre-commit hook: runs TypeScript check and Jest tests before every commit.
+
+export PATH=$PATH:/usr/local/bin:/opt/homebrew/bin
+source ~/.nvm/nvm.sh 2>/dev/null || true
+source ~/.zprofile 2>/dev/null || true
+source ~/.zshrc 2>/dev/null || true
+# If any check fails, the commit is blocked.
+
+echo "🔍 Pre-commit: sprawdzam TypeScript..."
+cd frontend
+npx tsc --noEmit
+if [ $? -ne 0 ]; then
+    echo "❌ TypeScript: błędy kompilacji. Napraw przed commitem."
+    exit 1
+fi
+
+echo "🧪 Pre-commit: uruchamiam testy Jest..."
+npx jest --bail --passWithNoTests
+if [ $? -ne 0 ]; then
+    echo "❌ Jest: testy nie przeszły. Napraw przed commitem."
+    exit 1
+fi
+
+echo "✅ Wszystkie testy przeszły! Commit dozwolony."
+exit 0

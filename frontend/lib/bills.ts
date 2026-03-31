@@ -17,14 +17,17 @@ export interface Bill {
     title: string;
     description: string;
     documentType: string;
+    authorType: string;
+    isapLink?: string;
+    eliLink?: string;
+    rclLink?: string;
+    rclProjectId?: string;
+    kanbanStage?: string;
     isEU: boolean;
     date: string;
     term: number;
     urgency: string;
     stages: ProcessStage[];
-    kanbanStage?: string; // Added field
-    isapLink?: string;
-    eliLink?: string;
 }
 
 export async function getBills(): Promise<Bill[]> {
@@ -48,6 +51,36 @@ export async function getBills(): Promise<Bill[]> {
 }
 
 export async function getBill(id: string): Promise<Bill | undefined> {
-    const bills = await getBills();
-    return bills.find(p => p.id === id);
+    try {
+        // 1. Get summary to have the Kanban stage and other computed fields
+        const allBills = await getBills();
+        const summary = allBills.find(p => p.id === id);
+
+        // 2. Get detailed data for stages
+        const detailPath = path.join(process.cwd(), `public/data/bills/${id}.json`);
+        let details: any = {};
+
+        if (fs.existsSync(detailPath)) {
+            const detailContent = fs.readFileSync(detailPath, 'utf-8');
+            details = JSON.parse(detailContent);
+        }
+
+        if (!summary && !details.id) return undefined;
+
+        // 3. Merge
+        // Summary has better computed fields (kanbanStage), Details has 'stages' array
+        return {
+            ...(summary || {} as Bill),
+            ...details,
+            // Ensure we keep the computed fields from summary if details are missing them
+            kanbanStage: summary?.kanbanStage || details.kanbanStage,
+            id: id,
+            // Stages come from details
+            stages: details.stages || []
+        };
+
+    } catch (e) {
+        console.warn(`Error fetching bill ${id}`, e);
+        return undefined;
+    }
 }

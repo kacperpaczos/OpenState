@@ -1,6 +1,6 @@
 {
     "UE": "NO",
-    "changeDate": "2025-12-10T00:00:00",
+    "changeDate": "2026-01-23T15:56:37",
     "description": "projekt dotyczy zmian w treści art. 66 ust. 2 ustawy o referendum lokalnym poprzez uwzględnienie właściwych odesłań do obowiązujących przepisów ustawy z dnia 5 stycznia 2011 r. - Kodeks wyborczy regulujących kwestie dotyczące protestu wyborczego przeciwko ważności referendum lokalnego",
     "documentDate": "2025-12-10",
     "documentType": "projekt ustawy",
@@ -18,10 +18,24 @@
             "stageName": "Projekt wpłynął do Sejmu",
             "printNumber": "2126",
             "stageType": "Start"
+        },
+        {
+            "children": [
+                {
+                    "date": "2026-01-23",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "STR",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2026-01-23",
+            "stageName": "Skierowano do I czytania w komisjach",
+            "stageType": "ReadingReferral"
         }
     ],
     "term": 10,
     "title": "Senacki projekt ustawy o zmianie ustawy o referendum lokalnym",
     "urgencyStatus": "NORMAL",
-    "webGeneratedDate": "2026-01-08T10:19:34"
+    "webGeneratedDate": "2026-01-26T07:55:40"
 }

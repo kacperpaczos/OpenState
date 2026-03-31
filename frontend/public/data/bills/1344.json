@@ -1,7 +1,7 @@
 {
     "UE": "NO",
-    "changeDate": "2026-01-12T09:45:56",
-    "closureDate": "2026-01-09",
+    "changeDate": "2026-01-26T11:12:34",
+    "closureDate": "2026-01-23",
     "description": "projekt dotyczy określenia zasad i warunków wykonywania zawodu psychologa. Chodzi o podniesienie jakości świadczonych usług oraz dopuszczenie do zawodu tylko tych, którzy mają odpowiednie kwalifikacje. Rozwiązanie zapewni bezpieczeństwo osobom, które korzystają ze świadczeń psychologicznych. Nowe przepisy są również odpowiedzią na oczekiwania i potrzeby środowiska psychologów, związane z potrzebą utworzenia samorządu zawodowego.",
     "documentDate": "2025-06-06",
     "documentType": "projekt ustawy",
@@ -200,6 +200,60 @@
             "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/1344/attachment/1344_u3.pdf"
         },
         {
+            "children": [
+                {
+                    "date": "2026-01-22",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "ZDR",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                },
+                {
+                    "date": "2026-01-22",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "PSR",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2026-01-21",
+            "stageName": "Stanowisko Senatu",
+            "position": "wniósł poprawki",
+            "printNumber": "2186",
+            "stageType": "SenatePosition"
+        },
+        {
+            "children": [
+                {
+                    "date": "2026-01-23",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "2192",
+                    "proposal": "przyjąć poprawki",
+                    "rapporteurID": "402",
+                    "rapporteurName": "Katarzyna Ueberhan",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/2192/2192.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2026-01-23",
+            "stageName": "Praca w komisjach nad stanowiskiem Senatu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "date": "2026-01-23",
+            "stageName": "Rozpatrywanie na forum Sejmu stanowiska Senatu",
+            "decision": "przyjęto poprawki",
+            "sittingNum": 50,
+            "stageType": "SenatePositionConsideration"
+        },
+        {
+            "date": "2026-01-26",
+            "stageName": "Ustawę przekazano Prezydentowi do podpisu",
+            "stageType": "ToPresident"
+        },
+        {
             "stageName": "Uchwalono",
             "stageType": "End"
         }
@@ -208,5 +262,5 @@
     "title": "Rządowy projekt ustawy o zawodzie psychologa oraz samorządzie zawodowym psychologów",
     "titleFinal": "o zawodzie psychologa oraz samorządzie zawodowym psychologów",
     "urgencyStatus": "NORMAL",
-    "webGeneratedDate": "2026-01-12T09:46:10"
+    "webGeneratedDate": "2026-01-26T11:12:52"
 }

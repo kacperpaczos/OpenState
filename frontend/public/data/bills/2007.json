@@ -1,6 +1,6 @@
 {
     "UE": "NO",
-    "changeDate": "2025-12-05T12:48:15",
+    "changeDate": "2026-01-23T14:54:32",
     "description": "projekt dotyczy ograniczenia nadmiernej dostępności alkoholu i przeciwdziałanie jego promocji poprzez m.in całkowity zakaz reklamy i promocji wszystkich napojów alkoholowych, w tym piwa; zakaz sprzedaży alkoholu na stacjach paliw, w zakładach leczniczych oraz w godzinach nocnych na terenie całego kraju (22-6), wprowadzenie obowiązku weryfikacji wieku przy zakupie; zakaz sprzedaży alkoholu poniżej sumy podatku akcyzowego i VAT; uregulowanie sprzedaży internetowej wyłącznie z odbiorem osobistym po okazaniu dokumentu tożsamości",
     "documentDate": "2025-09-22",
     "documentType": "projekt ustawy",
@@ -38,10 +38,25 @@
             "date": "2025-12-05",
             "stageName": "Skierowano do I czytania na posiedzeniu Sejmu",
             "stageType": "ReadingReferral"
+        },
+        {
+            "children": [
+                {
+                    "date": "2026-01-23",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "ZDR",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2026-01-23",
+            "stageName": "I czytanie na posiedzeniu Sejmu",
+            "sittingNum": 50,
+            "stageType": "SejmReading"
         }
     ],
     "term": 10,
     "title": "Poselski projekt ustawy o zmianie ustawy o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi oraz ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych",
     "urgencyStatus": "NORMAL",
-    "webGeneratedDate": "2025-12-05T12:48:38"
+    "webGeneratedDate": "2026-01-26T07:55:40"
 }

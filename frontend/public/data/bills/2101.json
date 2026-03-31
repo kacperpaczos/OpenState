@@ -1,6 +1,7 @@
 {
     "UE": "ENFORCEMENT",
-    "changeDate": "2026-01-21T18:46:38",
+    "changeDate": "2026-01-26T10:47:03",
+    "closureDate": "2026-01-23",
     "description": "projekt dotyczy dostosowania polskiego prawa do unijnych przepisów dotyczących np. rynku usług płatniczych oraz przymusowej restrukturyzacji. Nowe rozwiązania zapewnią m.in., że szybkie przelewy w euro nie będą droższe niż zwykłe przelewy. Projekt ustawy wprowadza również techniczne zmiany jeśli chodzi o wymogi określane przez Bankowy Fundusz Gwarancyjny dla podmiotów krajowych takich jak banki, czy firmy inwestycyjne.",
     "documentDate": "2025-12-12",
     "documentType": "projekt ustawy",
@@ -8,7 +9,7 @@
     "legislativeCommittee": false,
     "links": [],
     "number": "2101",
-    "passed": false,
+    "passed": true,
     "principleOfSubsidiarity": false,
     "processStartDate": "2025-12-12",
     "rclLink": "https://legislacja.rcl.gov.pl/getIdFromLegislacja?number=RM-0610-228-25",
@@ -37,6 +38,11 @@
             "stageType": "ReadingReferral"
         },
         {
+            "date": "2026-01-21",
+            "stageName": "I czytanie w komisjach",
+            "stageType": "Reading"
+        },
+        {
             "children": [
                 {
                     "date": "2026-01-21",
@@ -54,10 +60,30 @@
             "date": "2026-01-21",
             "stageName": "Praca w komisjach po I czytaniu",
             "stageType": "CommitteeWork"
+        },
+        {
+            "date": "2026-01-22",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "decision": "niezwłocznie przystąpiono do III czytania",
+            "sittingNum": 50,
+            "stageType": "SejmReading"
+        },
+        {
+            "date": "2026-01-23",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "decision": "uchwalono",
+            "sittingNum": 50,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/2101/attachment/2101_u3.pdf"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
         }
     ],
     "term": 10,
     "title": "Rządowy projekt ustawy o zmianie niektórych ustaw związanych z funkcjonowaniem rynku finansowego oraz ochroną uczestników tego rynku",
+    "titleFinal": "o zmianie niektórych ustaw związanych z funkcjonowaniem rynku finansowego oraz ochroną uczestników tego rynku",
     "urgencyStatus": "NORMAL",
-    "webGeneratedDate": "2026-01-21T18:46:54"
+    "webGeneratedDate": "2026-01-26T10:47:21"
 }

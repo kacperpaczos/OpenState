@@ -2,19 +2,24 @@
 
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { Activity, LayoutDashboard, FileText, Users, Calendar } from "lucide-react";
+import { Activity, LayoutDashboard, FileText, Users, Calendar, Search } from "lucide-react";
 import ThemeToggle from "@/components/ThemeToggle";
+import { useAppDispatch, useAppSelector } from "@/lib/hooks";
+import { setGlobalSearch, selectGlobalSearch } from "@/lib/features/search/searchSlice";
 
 export default function Navbar() {
     const pathname = usePathname();
+    const dispatch = useAppDispatch();
+    const globalSearch = useAppSelector(selectGlobalSearch);
 
     const navItems = [
         { href: "/", label: "Start", icon: LayoutDashboard },
+        { href: "/ustawy", label: "Ustawy", icon: FileText },
         { href: "/poslowie", label: "Posłowie", icon: Users },
+        { href: "/senatorowie", label: "Senatorowie", icon: Users },
+        { href: "/glosowania", label: "Głosowania", icon: Calendar },
         { href: "/interpelacje", label: "Interpelacje", icon: FileText },
         { href: "/rcl", label: "RCL", icon: Activity },
-        { href: "/glosowania", label: "Głosowania", icon: Calendar },
-        { href: "/ustawy", label: "Ustawy", icon: FileText },
     ];
 
     return (
@@ -45,7 +50,21 @@ export default function Navbar() {
                         </Link>
                     );
                 })}
-                <div className="w-px h-6 bg-gray-200 dark:bg-white/10 mx-2" />
+
+                <div className="w-px h-6 bg-gray-200 dark:bg-white/10 mx-2 hidden sm:block" />
+
+                {/* Global Search */}
+                <div className="relative hidden md:block w-48 lg:w-64 mr-2">
+                    <Search className="absolute left-3 top-1/2 -translate-y-1/2 text-apple-gray-500" size={16} />
+                    <input
+                        type="text"
+                        placeholder="Szukaj..."
+                        className="w-full pl-9 pr-4 py-1.5 rounded-input bg-gray-100 dark:bg-white/10 border-none text-sm text-foreground focus:outline-none focus:ring-2 focus:ring-blue-500/50 transition-all font-medium"
+                        value={globalSearch}
+                        onChange={(e) => dispatch(setGlobalSearch(e.target.value))}
+                    />
+                </div>
+
                 <ThemeToggle />
             </div>
         </nav>

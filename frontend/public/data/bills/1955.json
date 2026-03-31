@@ -1,6 +1,7 @@
 {
     "UE": "ENFORCEMENT",
-    "changeDate": "2026-01-16T12:19:24",
+    "changeDate": "2026-01-26T10:34:28",
+    "closureDate": "2026-01-23",
     "description": "projekt dotyczy wdrożenia dyrektywy Parlamentu Europejskiego i Rady (UE) 2022/2555 z dnia 14 grudnia 2022 r. w sprawie środków na rzecz wysokiego wspólnego poziomu cyberbezpieczeństwa na terytorium Unii, zmieniającej rozporządzenie (UE) nr 910/2014 i dyrektywę (UE) 2018/1972 oraz uchylającej dyrektywę (UE) 2016/1148 (dyrektywa NIS 2) (Dz. Urz. UE L 333 z 27.12.2022 str. 80); nowe przepisy przewidują m. in.: rozszerzenie katalogu podmiotów krajowego systemu cyberbezpieczeństwa o nowe sektory gospodarki (ścieki, zarządzanie ICT, przestrzeń kosmiczna, poczta, produkcja, produkcja i dystrybucja chemikaliów, produkcja i dystrybucja żywności), zakup sprzętu i unowocześnienie infrastruktury oraz tworzenie zespołów reagowania na incydenty cyberbezpieczeństwa, zwiększenie odpowiedzialności osób, które zarządzają przedsiębiorstwami i instytucjami objętymi krajowym systemem cyberbezpieczeństwa, wprowadzenie obowiązku zgłaszania incydentów w sieci",
     "documentDate": "2025-11-07",
     "documentType": "projekt ustawy",
@@ -8,7 +9,7 @@
     "legislativeCommittee": false,
     "links": [],
     "number": "1955",
-    "passed": false,
+    "passed": true,
     "principleOfSubsidiarity": false,
     "processStartDate": "2025-11-07",
     "rclLink": "https://legislacja.rcl.gov.pl/getIdFromLegislacja?number=RM-0610-195-25",
@@ -106,10 +107,60 @@
             "date": "2026-01-09",
             "stageName": "Praca w komisjach po I czytaniu",
             "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2026-01-21",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "CNT",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2026-01-21",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "comment": "wniosek o odrzucenie, poprawki",
+            "decision": "skierowano ponownie do komisji w celu przedstawienia sprawozdania",
+            "sittingNum": 50,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2026-01-22",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "2139-A",
+                    "proposal": "przyjąć część poprawek",
+                    "rapporteurID": "19",
+                    "rapporteurName": "Paweł Bliźniuk",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/2139-A/2139-A.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2026-01-22",
+            "stageName": "Praca w komisjach po II czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "date": "2026-01-23",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "comment": "wniosek o odrzucenie, poprawki",
+            "decision": "uchwalono",
+            "sittingNum": 50,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/1955/attachment/1955_u3.pdf"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
         }
     ],
     "term": 10,
     "title": "Rządowy projekt ustawy o zmianie ustawy o krajowym systemie cyberbezpieczeństwa oraz niektórych innych ustaw",
+    "titleFinal": "o zmianie ustawy o krajowym systemie cyberbezpieczeństwa oraz niektórych innych ustaw",
     "urgencyStatus": "NORMAL",
-    "webGeneratedDate": "2026-01-16T12:20:00"
+    "webGeneratedDate": "2026-01-26T10:34:39"
 }

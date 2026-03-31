@@ -1,6 +1,7 @@
 {
     "UE": "NO",
-    "changeDate": "2025-12-22T09:37:24",
+    "changeDate": "2026-01-26T10:36:30",
+    "closureDate": "2026-01-23",
     "description": "projekt dotyczy wdrożenia zmian legislacyjnych w zakresie stosowania środków zapobiegawczych, które mają na celu rozwinięcie standardu wynikającego z dyrektywy PE i Rady 2012/13/UE z dnia 22 maja 2013 r. w sprawie prawa do informacji w postępowaniu karnym, a także w zakresie dostępu obrony do materiałów postępowania w związku ze stosowaniem tymczasowego aresztowania; projekt ma też na celu wzmocnienie prawa podejrzanego do obrony w zakresie tego dostępu poprzez dostęp podejrzanego i jego obrońcy do akt postępowania przygotowawczego i do dowodów wskazujących na potrzebę stosowania tymczasowego aresztowania",
     "documentDate": "2025-03-10",
     "documentType": "projekt ustawy",
@@ -8,7 +9,7 @@
     "legislativeCommittee": false,
     "links": [],
     "number": "1131",
-    "passed": false,
+    "passed": true,
     "principleOfSubsidiarity": false,
     "printsConsideredJointly": [
         "410",
@@ -83,10 +84,60 @@
             "date": "2025-11-20",
             "stageName": "Praca w komisjach po I czytaniu",
             "stageType": "CommitteeWork"
+        },
+        {
+            "children": [
+                {
+                    "date": "2026-01-21",
+                    "stageName": "Skierowanie",
+                    "committeeCode": "NKK",
+                    "stageType": "Referral",
+                    "type": "NORMAL"
+                }
+            ],
+            "date": "2026-01-21",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "comment": "poprawki",
+            "decision": "skierowano ponownie do komisji w celu przedstawienia sprawozdania",
+            "sittingNum": 50,
+            "stageType": "SejmReading"
+        },
+        {
+            "children": [
+                {
+                    "date": "2026-01-22",
+                    "stageName": "Sprawozdanie komisji",
+                    "minorityMotions": 0,
+                    "printNumber": "2086-A",
+                    "proposal": "przyjąć część poprawek",
+                    "rapporteurID": "491",
+                    "rapporteurName": "Aleksandra Kot",
+                    "reportFile": "https://api.sejm.gov.pl/sejm/term10/prints/2086-A/2086-A.pdf",
+                    "stageType": "CommitteeReport",
+                    "subCommittee": false
+                }
+            ],
+            "date": "2026-01-22",
+            "stageName": "Praca w komisjach po II czytaniu",
+            "stageType": "CommitteeWork"
+        },
+        {
+            "date": "2026-01-23",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "comment": "poprawki",
+            "decision": "uchwalono",
+            "sittingNum": 50,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/410/attachment/410_u3.pdf"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
         }
     ],
     "term": 10,
     "title": "Poselski projekt ustawy o zmianie ustawy - Kodeks postępowania karnego",
+    "titleFinal": "o zmianie ustawy Kodeks postępowania karnego\noraz niektórych innych ustaw",
     "urgencyStatus": "NORMAL",
-    "webGeneratedDate": "2025-12-22T09:43:18"
+    "webGeneratedDate": "2026-01-26T10:40:03"
 }

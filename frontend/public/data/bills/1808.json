@@ -1,6 +1,7 @@
 {
     "UE": "NO",
-    "changeDate": "2025-12-18T20:42:50",
+    "changeDate": "2026-01-26T10:55:39",
+    "closureDate": "2026-01-23",
     "description": "projekt dotyczy uchylenia art. 10 ust. 1e ustawy z dnia 7 kwietnia 1989 r. - Prawo o stowarzyszeniach i umożliwienia stosowania stowarzyszeniom i fundacjom środków komunikacji elektronicznej podczas posiedzeń i poza posiedzeniami władz fundacji i stowarzyszeń, w tym do przeprowadzania głosowań, niezależnie od obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii - bez konieczności zmiany statutu organizacji",
     "documentDate": "2025-09-25",
     "documentType": "projekt ustawy",
@@ -8,7 +9,7 @@
     "legislativeCommittee": false,
     "links": [],
     "number": "1808",
-    "passed": false,
+    "passed": true,
     "principleOfSubsidiarity": false,
     "processStartDate": "2025-09-25",
     "shortenProcedure": false,
@@ -62,10 +63,30 @@
             "stageName": "Wpłynęło stanowisko rządu",
             "stageType": "GovermentPosition",
             "title": "Stanowisko Rządu do druku nr 1808"
+        },
+        {
+            "date": "2026-01-22",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "decision": "niezwłocznie przystąpiono do III czytania",
+            "sittingNum": 50,
+            "stageType": "SejmReading"
+        },
+        {
+            "date": "2026-01-23",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "decision": "uchwalono",
+            "sittingNum": 50,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/1808/attachment/1808_u3.pdf"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
         }
     ],
     "term": 10,
     "title": "Senacki projekt ustawy o zmianie ustawy o fundacjach oraz ustawy - Prawo o stowarzyszeniach",
+    "titleFinal": "o zmianie ustawy o fundacjach oraz ustawy - Prawo o stowarzyszeniach",
     "urgencyStatus": "NORMAL",
-    "webGeneratedDate": "2025-12-18T20:43:11"
+    "webGeneratedDate": "2026-01-26T10:55:59"
 }

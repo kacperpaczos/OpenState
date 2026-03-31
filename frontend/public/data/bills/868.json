@@ -1,6 +1,7 @@
 {
     "UE": "NO",
-    "changeDate": "2025-12-11T15:13:44",
+    "changeDate": "2026-01-26T10:42:16",
+    "closureDate": "2026-01-23",
     "description": "projekt dotyczy wprowadzenia do systemu prawnego rozwiązania pozwalającego na szybką rejestrację stowarzyszeń rejestrowych w oparciu o wzorzec statutu (petycja nr BKSP-145-653/22)",
     "documentDate": "2024-01-25",
     "documentType": "projekt ustawy",
@@ -8,7 +9,7 @@
     "legislativeCommittee": false,
     "links": [],
     "number": "868",
-    "passed": false,
+    "passed": true,
     "principleOfSubsidiarity": false,
     "processStartDate": "2024-01-26",
     "shortenProcedure": false,
@@ -62,10 +63,30 @@
             "date": "2025-12-04",
             "stageName": "Praca w komisjach po I czytaniu",
             "stageType": "CommitteeWork"
+        },
+        {
+            "date": "2026-01-21",
+            "stageName": "II czytanie na posiedzeniu Sejmu",
+            "decision": "niezwłocznie przystąpiono do III czytania",
+            "sittingNum": 50,
+            "stageType": "SejmReading"
+        },
+        {
+            "date": "2026-01-23",
+            "stageName": "III czytanie na posiedzeniu Sejmu",
+            "decision": "uchwalono",
+            "sittingNum": 50,
+            "stageType": "SejmReading",
+            "textAfter3": "https://api.sejm.gov.pl/sejm/term10/processes/868/attachment/868_u3.pdf"
+        },
+        {
+            "stageName": "Uchwalono",
+            "stageType": "End"
         }
     ],
     "term": 10,
     "title": "Komisyjny projekt ustawy o zmianie ustawy - Prawo o stowarzyszeniach, ustawy o Krajowym Rejestrze Sądowym oraz ustawy o kosztach sądowych w sprawach cywilnych",
+    "titleFinal": "o zmianie ustawy - Prawo o stowarzyszeniach, ustawy o Krajowym Rejestrze Sądowym oraz ustawy o kosztach sądowych w sprawach cywilnych",
     "urgencyStatus": "NORMAL",
-    "webGeneratedDate": "2025-12-11T15:14:11"
+    "webGeneratedDate": "2026-01-26T10:43:29"
 }
