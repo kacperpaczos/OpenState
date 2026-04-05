@@ -1,94 +1,18 @@
 {
-    "UE": "NO",
-    "changeDate": "2024-02-23T09:27:32",
-    "closureDate": "2024-02-22",
-    "comments": "Obywatelski projekt ustawy został wniesiony w IX kadencji Sejmu (druk nr 1607). Na podstawie art. 4. ust. 3 ustawy o wykonywaniu inicjatywy ustawodawczej przez obywateli - projekt ustawy, w stosunku do którego postępowanie ustawodawcze nie zostało zakończone w trakcie kadencji Sejmu, w której został wniesiony, jest rozpatrywany przez Sejm następnej kadencji.",
-    "description": "projekt dotyczy zgodnie z uzasadnieniem - przeciwstawienia się działaniom kwestionującym wartości rodzinne w oczach społeczeństwa w szczególności przez środowiska \"zrzeszające aktywnych homoseksualistów (tzw. grupy LGBT)\"",
-    "documentDate": "2023-11-20",
-    "documentType": "projekt ustawy",
-    "documentTypeEnum": "BILL",
-    "legislativeCommittee": false,
-    "links": [],
-    "number": "26",
-    "passed": false,
-    "principleOfSubsidiarity": false,
-    "processStartDate": "2021-08-09",
-    "shortenProcedure": false,
-    "stages": [
-        {
-            "date": "2021-08-09",
-            "stageName": "Projekt wpłynął do Sejmu",
-            "printNumber": "26",
-            "stageType": "Start"
-        },
-        {
-            "children": [
-                {
-                    "date": "2023-11-20",
-                    "stageName": "Skierowanie",
-                    "committeeCode": "Sejm",
-                    "stageType": "Referral",
-                    "type": "NORMAL"
-                }
-            ],
-            "date": "2023-11-20",
-            "stageName": "Skierowano do I czytania na posiedzeniu Sejmu",
-            "stageType": "ReadingReferral"
-        },
-        {
-            "date": "2024-02-09",
-            "stageName": "I czytanie na posiedzeniu Sejmu",
-            "comment": "Marszałek Sejmu przeniósł na następne posiedzenie Sejmu głosowanie nad wnioskiem o odrzucenie projektu ustawy w pierwszym czytaniu",
-            "decision": "niedokończone I czytanie",
-            "sittingNum": 5,
-            "stageType": "SejmReading"
-        },
-        {
-            "children": [
-                {
-                    "date": "2024-02-22",
-                    "stageName": "Głosowanie",
-                    "stageType": "Voting",
-                    "voting": {
-                        "abstain": 0,
-                        "date": "2024-02-22T15:46:07",
-                        "description": "wniosek o odrzucenie projektu ustawy w pierwszym czytaniu",
-                        "kind": "ELECTRONIC",
-                        "links": [
-                            {
-                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/6/16/pdf",
-                                "rel": "pdf"
-                            }
-                        ],
-                        "majorityType": "SIMPLE_MAJORITY",
-                        "majorityVotes": 190,
-                        "no": 189,
-                        "notParticipating": 36,
-                        "present": 0,
-                        "sitting": 6,
-                        "sittingDay": 2,
-                        "term": 10,
-                        "title": "Pkt. 8 Pierwsze czytanie obywatelskiego projektu ustawy o zmianie ustawy z dnia 24 lipca 2015 r. - Prawo o zgromadzeniach oraz niektórych innych ustaw (druk nr 26) - kontynuacja",
-                        "topic": "wniosek o odrzucenie projektu w pierwszym czytaniu.",
-                        "totalVoted": 422,
-                        "votingNumber": 16,
-                        "yes": 233
-                    }
-                }
-            ],
-            "date": "2024-02-22",
-            "stageName": "I czytanie na posiedzeniu Sejmu",
-            "decision": "odrzucony",
-            "sittingNum": 6,
-            "stageType": "SejmReading"
-        },
-        {
-            "stageName": "Odrzucono",
-            "stageType": "End"
-        }
-    ],
-    "term": 10,
-    "title": "Obywatelski projekt ustawy o zmianie ustawy z dnia 24 lipca 2015 r. - Prawo o zgromadzeniach oraz niektórych innych ustaw",
-    "urgencyStatus": "NORMAL",
-    "webGeneratedDate": "2024-02-23T09:27:40"
+  "id": "26",
+  "printNo": "26",
+  "title": "Obywatelski projekt ustawy o zmianie ustawy z dnia 24 lipca 2015 r. - Prawo o zgromadzeniach oraz niektórych innych ustaw",
+  "description": "projekt dotyczy zgodnie z uzasadnieniem - przeciwstawienia się działaniom kwestionującym wartości rodzinne w oczach społeczeństwa w szczególności przez środowiska \"zrzeszające aktywnych homoseksualistów (tzw. grupy LGBT)\"",
+  "date": "2021-08-09",
+  "status": "W toku",
+  "documentType": "projekt ustawy",
+  "authorType": "Obywatelski",
+  "isEU": false,
+  "term": 10,
+  "isapLink": null,
+  "eliLink": null,
+  "rclLink": null,
+  "stages": [],
+  "urgency": "normalny",
+  "kanbanStage": "Inicjatywa"
 }

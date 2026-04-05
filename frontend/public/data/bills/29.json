@@ -1,86 +1,18 @@
 {
-    "UE": "NO",
-    "changeDate": "2024-05-13T10:35:21",
-    "closureDate": "2024-04-26",
-    "comments": "Obywatelski projekt ustawy został wniesiony w IX kadencji Sejmu (druk nr 2756). Na podstawie art. 4. ust. 3 ustawy o wykonywaniu inicjatywy ustawodawczej przez obywateli - projekt ustawy, w stosunku do którego postępowanie ustawodawcze nie zostało zakończone w trakcie kadencji Sejmu, w której został wniesiony, jest rozpatrywany przez Sejm następnej kadencji.",
-    "description": "projekt dotyczy wprowadzenia w polskim prawie karnym regulacji, która będzie chronić prawo do wyrażania poglądów i opinii związanych z wyznawaną religią",
-    "documentDate": "2023-11-20",
-    "documentType": "projekt ustawy",
-    "documentTypeEnum": "BILL",
-    "legislativeCommittee": false,
-    "links": [],
-    "number": "29",
-    "passed": false,
-    "principleOfSubsidiarity": false,
-    "processStartDate": "2022-10-04",
-    "shortenProcedure": false,
-    "stages": [
-        {
-            "date": "2022-10-04",
-            "stageName": "Projekt wpłynął do Sejmu",
-            "printNumber": "29",
-            "stageType": "Start"
-        },
-        {
-            "children": [
-                {
-                    "date": "2023-11-20",
-                    "stageName": "Skierowanie",
-                    "committeeCode": "Sejm",
-                    "stageType": "Referral",
-                    "type": "NORMAL"
-                }
-            ],
-            "date": "2023-11-20",
-            "stageName": "Skierowano do I czytania na posiedzeniu Sejmu",
-            "stageType": "ReadingReferral"
-        },
-        {
-            "children": [
-                {
-                    "date": "2024-04-26",
-                    "stageName": "Głosowanie",
-                    "stageType": "Voting",
-                    "voting": {
-                        "abstain": 7,
-                        "date": "2024-04-26T11:16:42",
-                        "description": "Wniosek o odrzucenie projektu ustawy w pierwszym czytaniu",
-                        "kind": "ELECTRONIC",
-                        "links": [
-                            {
-                                "href": "https://api.sejm.gov.pl/sejm/term10/votings/10/19/pdf",
-                                "rel": "pdf"
-                            }
-                        ],
-                        "majorityType": "SIMPLE_MAJORITY",
-                        "majorityVotes": 189,
-                        "no": 188,
-                        "notParticipating": 32,
-                        "present": 0,
-                        "sitting": 10,
-                        "sittingDay": 3,
-                        "term": 10,
-                        "title": "Pkt. 10 Pierwsze czytanie obywatelskiego projektu ustawy o zmianie ustawy - Kodeks karny (druk nr 29)",
-                        "topic": "wniosek o odrzucenie projektu w pierwszym czytaniu.",
-                        "totalVoted": 425,
-                        "votingNumber": 19,
-                        "yes": 230
-                    }
-                }
-            ],
-            "date": "2024-04-26",
-            "stageName": "I czytanie na posiedzeniu Sejmu",
-            "decision": "odrzucony",
-            "sittingNum": 10,
-            "stageType": "SejmReading"
-        },
-        {
-            "stageName": "Odrzucono",
-            "stageType": "End"
-        }
-    ],
-    "term": 10,
-    "title": "Obywatelski projekt ustawy o zmianie ustawy - Kodeks karny",
-    "urgencyStatus": "NORMAL",
-    "webGeneratedDate": "2024-05-13T11:15:36"
+  "id": "29",
+  "printNo": "29",
+  "title": "Obywatelski projekt ustawy o zmianie ustawy - Kodeks karny",
+  "description": "projekt dotyczy wprowadzenia w polskim prawie karnym regulacji, która będzie chronić prawo do wyrażania poglądów i opinii związanych z wyznawaną religią",
+  "date": "2022-10-04",
+  "status": "W toku",
+  "documentType": "projekt ustawy",
+  "authorType": "Obywatelski",
+  "isEU": false,
+  "term": 10,
+  "isapLink": null,
+  "eliLink": null,
+  "rclLink": null,
+  "stages": [],
+  "urgency": "normalny",
+  "kanbanStage": "Inicjatywa"
 }

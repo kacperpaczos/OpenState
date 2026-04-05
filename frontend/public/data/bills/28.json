@@ -1,57 +1,18 @@
 {
-    "UE": "NO",
-    "changeDate": "2024-01-26T09:31:37",
-    "comments": "Obywatelski projekt ustawy został wniesiony w IX kadencji Sejmu (druk nr 1840). Na podstawie art. 4. ust. 3 ustawy o wykonywaniu inicjatywy ustawodawczej przez obywateli - projekt ustawy, w stosunku do którego postępowanie ustawodawcze nie zostało zakończone w trakcie kadencji Sejmu, w której został wniesiony, jest rozpatrywany przez Sejm następnej kadencji.",
-    "description": "projekt dotyczy zmiany sposobu obliczania stawek średniego wynagrodzenia polegającego na zastąpieniu kwoty bazowej określanej corocznie dla nauczycieli w ustawie budżetowej przez Parlament, kwotą przeciętnego wynagrodzenia w III kwartale roku poprzedzającego",
-    "documentDate": "2023-11-20",
-    "documentType": "projekt ustawy",
-    "documentTypeEnum": "BILL",
-    "legislativeCommittee": false,
-    "links": [],
-    "number": "28",
-    "passed": false,
-    "principleOfSubsidiarity": false,
-    "processStartDate": "2021-11-18",
-    "shortenProcedure": false,
-    "stages": [
-        {
-            "date": "2021-11-18",
-            "stageName": "Projekt wpłynął do Sejmu",
-            "printNumber": "28",
-            "stageType": "Start"
-        },
-        {
-            "children": [
-                {
-                    "date": "2023-11-20",
-                    "stageName": "Skierowanie",
-                    "committeeCode": "Sejm",
-                    "stageType": "Referral",
-                    "type": "NORMAL"
-                }
-            ],
-            "date": "2023-11-20",
-            "stageName": "Skierowano do I czytania na posiedzeniu Sejmu",
-            "stageType": "ReadingReferral"
-        },
-        {
-            "children": [
-                {
-                    "date": "2024-01-25",
-                    "stageName": "Skierowanie",
-                    "committeeCode": "ENM",
-                    "stageType": "Referral",
-                    "type": "NORMAL"
-                }
-            ],
-            "date": "2024-01-25",
-            "stageName": "I czytanie na posiedzeniu Sejmu",
-            "sittingNum": 4,
-            "stageType": "SejmReading"
-        }
-    ],
-    "term": 10,
-    "title": "Obywatelski projekt ustawy o zmianie ustawy Karta Nauczyciela",
-    "urgencyStatus": "NORMAL",
-    "webGeneratedDate": "2024-07-11T11:15:21"
+  "id": "28",
+  "printNo": "28",
+  "title": "Obywatelski projekt ustawy o zmianie ustawy Karta Nauczyciela",
+  "description": "projekt dotyczy zmiany sposobu obliczania stawek średniego wynagrodzenia polegającego na zastąpieniu kwoty bazowej określanej corocznie dla nauczycieli w ustawie budżetowej przez Parlament, kwotą przeciętnego wynagrodzenia w III kwartale roku poprzedzającego",
+  "date": "2021-11-18",
+  "status": "W toku",
+  "documentType": "projekt ustawy",
+  "authorType": "Obywatelski",
+  "isEU": false,
+  "term": 10,
+  "isapLink": null,
+  "eliLink": null,
+  "rclLink": null,
+  "stages": [],
+  "urgency": "normalny",
+  "kanbanStage": "Inicjatywa"
 }
