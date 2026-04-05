@@ -25,7 +25,9 @@ class MPsTransformer(BaseTransformer):
                     "photoUrl": f"https://api.sejm.gov.pl/sejm/term10/MP/{mp.get('id')}/photo-mini",
                     "type": "Poseł",
                     "club": mp.get('club') or "Niezrzeszony",
-                    "email": mp.get('email', "")
+                    "email": mp.get('email', ""),
+                    "active": True,
+                    "firstLastName": mp.get('firstLastName', "")
                 })
             
             # Sort alphabetically by name

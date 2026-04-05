@@ -7,7 +7,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/74/photo-mini",
     "type": "Poseł",
     "club": "PSL-TD",
-    "email": "Adam.Dziedzic@sejm.pl"
+    "email": "Adam.Dziedzic@sejm.pl",
+    "active": true,
+    "firstLastName": "Adam Dziedzic"
   },
   {
     "id": "106",
@@ -17,7 +19,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/106/photo-mini",
     "type": "Poseł",
     "club": "Polska2050",
-    "email": "Adam.Gomola@sejm.pl"
+    "email": "Adam.Gomola@sejm.pl",
+    "active": true,
+    "firstLastName": "Adam Gomoła"
   },
   {
     "id": "195",
@@ -27,7 +31,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/195/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Adam.Krzeminski@sejm.pl"
+    "email": "Adam.Krzeminski@sejm.pl",
+    "active": true,
+    "firstLastName": "Adam Krzemiński"
   },
   {
     "id": "219",
@@ -37,7 +43,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/219/photo-mini",
     "type": "Poseł",
     "club": "Polska2050",
-    "email": "Adam.Lubonski@sejm.pl"
+    "email": "Adam.Lubonski@sejm.pl",
+    "active": true,
+    "firstLastName": "Adam Luboński"
   },
   {
     "id": "371",
@@ -47,7 +55,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/371/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Adam.Szlapka@sejm.pl"
+    "email": "Adam.Szlapka@sejm.pl",
+    "active": true,
+    "firstLastName": "Adam Szłapka"
   },
   {
     "id": "426",
@@ -57,7 +67,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/426/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Adrian.Witczak@sejm.pl"
+    "email": "Adrian.Witczak@sejm.pl",
+    "active": true,
+    "firstLastName": "Adrian Witczak"
   },
   {
     "id": "442",
@@ -67,7 +79,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/442/photo-mini",
     "type": "Poseł",
     "club": "Razem",
-    "email": "Adrian.Zandberg@sejm.pl"
+    "email": "Adrian.Zandberg@sejm.pl",
+    "active": true,
+    "firstLastName": "Adrian Zandberg"
   },
   {
     "id": "433",
@@ -77,7 +91,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/433/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Agata.Wojtyszek@sejm.pl"
+    "email": "Agata.Wojtyszek@sejm.pl",
+    "active": true,
+    "firstLastName": "Agata Wojtyszek"
   },
   {
     "id": "350",
@@ -87,7 +103,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/350/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Agnieszka.Soin@sejm.pl"
+    "email": "Agnieszka.Soin@sejm.pl",
+    "active": true,
+    "firstLastName": "Agnieszka Anna Soin"
   },
   {
     "id": "36",
@@ -97,7 +115,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/36/photo-mini",
     "type": "Poseł",
     "club": "Polska2050",
-    "email": "Agnieszka.Buczynska@sejm.pl"
+    "email": "Agnieszka.Buczynska@sejm.pl",
+    "active": true,
+    "firstLastName": "Agnieszka Buczyńska"
   },
   {
     "id": "76",
@@ -107,7 +127,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/76/photo-mini",
     "type": "Poseł",
     "club": "Lewica",
-    "email": "Agnieszka.Dziemianowicz-Bak@sejm.pl"
+    "email": "Agnieszka.Dziemianowicz-Bak@sejm.pl",
+    "active": true,
+    "firstLastName": "Agnieszka Dziemianowicz-Bąk"
   },
   {
     "id": "113",
@@ -117,7 +139,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/113/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Agnieszka.Gorska@sejm.pl"
+    "email": "Agnieszka.Gorska@sejm.pl",
+    "active": true,
+    "firstLastName": "Agnieszka Górska"
   },
   {
     "id": "126",
@@ -127,7 +151,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/126/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Agnieszka.Hanajczyk@sejm.pl"
+    "email": "Agnieszka.Hanajczyk@sejm.pl",
+    "active": true,
+    "firstLastName": "Agnieszka Hanajczyk"
   },
   {
     "id": "164",
@@ -137,7 +163,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/164/photo-mini",
     "type": "Poseł",
     "club": "PSL-TD",
-    "email": "Agnieszka.Klopotek@sejm.pl"
+    "email": "Agnieszka.Klopotek@sejm.pl",
+    "active": true,
+    "firstLastName": "Agnieszka Maria Kłopotek"
   },
   {
     "id": "302",
@@ -147,7 +175,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/302/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Agnieszka.Pomaska@sejm.pl"
+    "email": "Agnieszka.Pomaska@sejm.pl",
+    "active": true,
+    "firstLastName": "Agnieszka Pomaska"
   },
   {
     "id": "432",
@@ -157,7 +187,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/432/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Agnieszka.WojciechowskavanHeukelom@sejm.pl"
+    "email": "Agnieszka.WojciechowskavanHeukelom@sejm.pl",
+    "active": true,
+    "firstLastName": "Agnieszka Wojciechowska van Heukelom"
   },
   {
     "id": "380",
@@ -167,7 +199,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/380/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Agnieszka.Scigaj@sejm.pl"
+    "email": "Agnieszka.Scigaj@sejm.pl",
+    "active": true,
+    "firstLastName": "Agnieszka Ścigaj"
   },
   {
     "id": "250",
@@ -177,7 +211,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/250/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Aleksander.Mrowczynski@sejm.pl"
+    "email": "Aleksander.Mrowczynski@sejm.pl",
+    "active": true,
+    "firstLastName": "Aleksander Mikołaj Mrówczyński"
   },
   {
     "id": "86",
@@ -187,7 +223,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/86/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Aleksandra.Gajewska@sejm.pl"
+    "email": "Aleksandra.Gajewska@sejm.pl",
+    "active": true,
+    "firstLastName": "Aleksandra Gajewska"
   },
   {
     "id": "425",
@@ -197,7 +235,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/425/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Aleksandra.Uznanska-Wisniewska@sejm.pl"
+    "email": "Aleksandra.Uznanska-Wisniewska@sejm.pl",
+    "active": true,
+    "firstLastName": "Aleksandra Karolina Uznańska-Wiśniewska"
   },
   {
     "id": "491",
@@ -207,7 +247,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/491/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Aleksandra.Kot@sejm.pl"
+    "email": "Aleksandra.Kot@sejm.pl",
+    "active": true,
+    "firstLastName": "Aleksandra Kot"
   },
   {
     "id": "211",
@@ -217,7 +259,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/211/photo-mini",
     "type": "Poseł",
     "club": "Centrum",
-    "email": "Aleksandra.Leo@sejm.pl"
+    "email": "Aleksandra.Leo@sejm.pl",
+    "active": true,
+    "firstLastName": "Aleksandra Leo"
   },
   {
     "id": "47",
@@ -227,7 +271,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/47/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Alicja.Chybicka@sejm.pl"
+    "email": "Alicja.Chybicka@sejm.pl",
+    "active": true,
+    "firstLastName": "Alicja Chybicka"
   },
   {
     "id": "221",
@@ -237,7 +283,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/221/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Alicja.Lepkowska-Golas@sejm.pl"
+    "email": "Alicja.Lepkowska-Golas@sejm.pl",
+    "active": true,
+    "firstLastName": "Alicja Łepkowska-Gołaś"
   },
   {
     "id": "464",
@@ -247,7 +295,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/464/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Alicja.Luczak@sejm.pl"
+    "email": "Alicja.Luczak@sejm.pl",
+    "active": true,
+    "firstLastName": "Alicja Łuczak"
   },
   {
     "id": "1",
@@ -257,7 +307,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/1/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Andrzej.Adamczyk@sejm.pl"
+    "email": "Andrzej.Adamczyk@sejm.pl",
+    "active": true,
+    "firstLastName": "Andrzej Adamczyk"
   },
   {
     "id": "68",
@@ -267,7 +319,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/68/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Andrzej.Domanski@sejm.pl"
+    "email": "Andrzej.Domanski@sejm.pl",
+    "active": true,
+    "firstLastName": "Andrzej Domański"
   },
   {
     "id": "92",
@@ -277,7 +331,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/92/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Andrzej.Gawron@sejm.pl"
+    "email": "Andrzej.Gawron@sejm.pl",
+    "active": true,
+    "firstLastName": "Andrzej Gawron"
   },
   {
     "id": "120",
@@ -287,7 +343,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/120/photo-mini",
     "type": "Poseł",
     "club": "PSL-TD",
-    "email": "Andrzej.Grzyb@sejm.pl"
+    "email": "Andrzej.Grzyb@sejm.pl",
+    "active": true,
+    "firstLastName": "Andrzej Grzyb"
   },
   {
     "id": "121",
@@ -297,7 +355,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/121/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Andrzej.Gut-Mostowy@sejm.pl"
+    "email": "Andrzej.Gut-Mostowy@sejm.pl",
+    "active": true,
+    "firstLastName": "Andrzej Gut-Mostowy"
   },
   {
     "id": "176",
@@ -307,7 +367,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/176/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Andrzej.Kosztowniak@sejm.pl"
+    "email": "Andrzej.Kosztowniak@sejm.pl",
+    "active": true,
+    "firstLastName": "Andrzej Kosztowniak"
   },
   {
     "id": "192",
@@ -317,7 +379,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/192/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Andrzej.Kryj@sejm.pl"
+    "email": "Andrzej.Kryj@sejm.pl",
+    "active": true,
+    "firstLastName": "Andrzej Kryj"
   },
   {
     "id": "369",
@@ -327,7 +391,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/369/photo-mini",
     "type": "Poseł",
     "club": "Lewica",
-    "email": "Andrzej.Szejna@sejm.pl"
+    "email": "Andrzej.Szejna@sejm.pl",
+    "active": true,
+    "firstLastName": "Andrzej Szejna"
   },
   {
     "id": "370",
@@ -337,7 +403,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/370/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Andrzej.Szewinski@sejm.pl"
+    "email": "Andrzej.Szewinski@sejm.pl",
+    "active": true,
+    "firstLastName": "Andrzej Szewiński"
   },
   {
     "id": "443",
@@ -347,7 +415,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/443/photo-mini",
     "type": "Poseł",
     "club": "Konfederacja",
-    "email": "Andrzej.Zapalowski@sejm.pl"
+    "email": "Andrzej.Zapalowski@sejm.pl",
+    "active": true,
+    "firstLastName": "Andrzej Tomasz Zapałowski"
   },
   {
     "id": "381",
@@ -357,7 +427,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/381/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Andrzej.Sliwka@sejm.pl"
+    "email": "Andrzej.Sliwka@sejm.pl",
+    "active": true,
+    "firstLastName": "Andrzej Śliwka"
   },
   {
     "id": "61",
@@ -367,7 +439,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/61/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Anita.Czerwinska@sejm.pl"
+    "email": "Anita.Czerwinska@sejm.pl",
+    "active": true,
+    "firstLastName": "Anita Czerwińska"
   },
   {
     "id": "198",
@@ -377,7 +451,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/198/photo-mini",
     "type": "Poseł",
     "club": "Lewica",
-    "email": "Anita.Kucharska-Dziedzic@sejm.pl"
+    "email": "Anita.Kucharska-Dziedzic@sejm.pl",
+    "active": true,
+    "firstLastName": "Anita Kucharska-Dziedzic"
   },
   {
     "id": "461",
@@ -387,7 +463,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/461/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Anna.Baluch@sejm.pl"
+    "email": "Anna.Baluch@sejm.pl",
+    "active": true,
+    "firstLastName": "Anna Baluch"
   },
   {
     "id": "65",
@@ -397,7 +475,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/65/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Anna.Dabrowska-Banaszek@sejm.pl"
+    "email": "Anna.Dabrowska-Banaszek@sejm.pl",
+    "active": true,
+    "firstLastName": "Anna Dąbrowska-Banaszek"
   },
   {
     "id": "48",
@@ -407,7 +487,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/48/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Anna.Cicholska@sejm.pl"
+    "email": "Anna.Cicholska@sejm.pl",
+    "active": true,
+    "firstLastName": "Anna Ewa Cicholska"
   },
   {
     "id": "95",
@@ -417,7 +499,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/95/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Anna.Gembicka@sejm.pl"
+    "email": "Anna.Gembicka@sejm.pl",
+    "active": true,
+    "firstLastName": "Anna Gembicka"
   },
   {
     "id": "191",
@@ -427,7 +511,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/191/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Anna.Krupka@sejm.pl"
+    "email": "Anna.Krupka@sejm.pl",
+    "active": true,
+    "firstLastName": "Anna Krupka"
   },
   {
     "id": "205",
@@ -437,7 +523,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/205/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Anna.Kwiecien@sejm.pl"
+    "email": "Anna.Kwiecien@sejm.pl",
+    "active": true,
+    "firstLastName": "Anna Kwiecień"
   },
   {
     "id": "460",
@@ -447,7 +535,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/460/photo-mini",
     "type": "Poseł",
     "club": "Lewica",
-    "email": "Anna.Zukowska@sejm.pl"
+    "email": "Anna.Zukowska@sejm.pl",
+    "active": true,
+    "firstLastName": "Anna Maria Żukowska"
   },
   {
     "id": "242",
@@ -457,7 +547,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/242/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Anna.Milczanowska@sejm.pl"
+    "email": "Anna.Milczanowska@sejm.pl",
+    "active": true,
+    "firstLastName": "Anna Milczanowska"
   },
   {
     "id": "480",
@@ -467,7 +559,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/480/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Anna.Paluch@sejm.pl"
+    "email": "Anna.Paluch@sejm.pl",
+    "active": true,
+    "firstLastName": "Anna Paluch"
   },
   {
     "id": "290",
@@ -477,7 +571,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/290/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Anna.Pieczarka@sejm.pl"
+    "email": "Anna.Pieczarka@sejm.pl",
+    "active": true,
+    "firstLastName": "Anna Pieczarka"
   },
   {
     "id": "329",
@@ -487,7 +583,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/329/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Anna.Schmidt@sejm.pl"
+    "email": "Anna.Schmidt@sejm.pl",
+    "active": true,
+    "firstLastName": "Anna Schmidt"
   },
   {
     "id": "347",
@@ -497,7 +595,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/347/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Anna.Sobolak@sejm.pl"
+    "email": "Anna.Sobolak@sejm.pl",
+    "active": true,
+    "firstLastName": "Anna Sobolak"
   },
   {
     "id": "431",
@@ -507,7 +607,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/431/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Anna.Wojciechowska@sejm.pl"
+    "email": "Anna.Wojciechowska@sejm.pl",
+    "active": true,
+    "firstLastName": "Anna Wojciechowska"
   },
   {
     "id": "226",
@@ -517,7 +619,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/226/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Antoni.Macierewicz@sejm.pl"
+    "email": "Antoni.Macierewicz@sejm.pl",
+    "active": true,
+    "firstLastName": "Antoni Macierewicz"
   },
   {
     "id": "385",
@@ -527,7 +631,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/385/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Apoloniusz.Tajner@sejm.pl"
+    "email": "Apoloniusz.Tajner@sejm.pl",
+    "active": true,
+    "firstLastName": "Apoloniusz Tajner"
   },
   {
     "id": "57",
@@ -537,7 +643,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/57/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Arkadiusz.Czartoryski@sejm.pl"
+    "email": "Arkadiusz.Czartoryski@sejm.pl",
+    "active": true,
+    "firstLastName": "Arkadiusz Czartoryski"
   },
   {
     "id": "231",
@@ -547,7 +655,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/231/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Arkadiusz.Marchewka@sejm.pl"
+    "email": "Arkadiusz.Marchewka@sejm.pl",
+    "active": true,
+    "firstLastName": "Arkadiusz Marchewka"
   },
   {
     "id": "256",
@@ -557,7 +667,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/256/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Arkadiusz.Myrcha@sejm.pl"
+    "email": "Arkadiusz.Myrcha@sejm.pl",
+    "active": true,
+    "firstLastName": "Arkadiusz Myrcha"
   },
   {
     "id": "339",
@@ -567,7 +679,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/339/photo-mini",
     "type": "Poseł",
     "club": "Lewica",
-    "email": "Arkadiusz.Sikora@sejm.pl"
+    "email": "Arkadiusz.Sikora@sejm.pl",
+    "active": true,
+    "firstLastName": "Arkadiusz Sikora"
   },
   {
     "id": "43",
@@ -577,7 +691,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/43/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Artur.Chojecki@sejm.pl"
+    "email": "Artur.Chojecki@sejm.pl",
+    "active": true,
+    "firstLastName": "Artur Chojecki"
   },
   {
     "id": "96",
@@ -587,7 +703,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/96/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Artur.Gierada@sejm.pl"
+    "email": "Artur.Gierada@sejm.pl",
+    "active": true,
+    "firstLastName": "Artur Daniel Gierada"
   },
   {
     "id": "220",
@@ -597,7 +715,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/220/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Artur.Lacki@sejm.pl"
+    "email": "Artur.Lacki@sejm.pl",
+    "active": true,
+    "firstLastName": "Artur Jarosław Łącki"
   },
   {
     "id": "362",
@@ -607,7 +727,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/362/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Artur.Szalabawka@sejm.pl"
+    "email": "Artur.Szalabawka@sejm.pl",
+    "active": true,
+    "firstLastName": "Artur Szałabawka"
   },
   {
     "id": "14",
@@ -617,7 +739,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/14/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Barbara.Bartus@sejm.pl"
+    "email": "Barbara.Bartus@sejm.pl",
+    "active": true,
+    "firstLastName": "Barbara Bartuś"
   },
   {
     "id": "67",
@@ -627,7 +751,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/67/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Barbara.Dolniak@sejm.pl"
+    "email": "Barbara.Dolniak@sejm.pl",
+    "active": true,
+    "firstLastName": "Barbara Dolniak"
   },
   {
     "id": "469",
@@ -637,7 +763,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/469/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Barbara.Grygorcewicz@sejm.pl"
+    "email": "Barbara.Grygorcewicz@sejm.pl",
+    "active": true,
+    "firstLastName": "Barbara Grygorcewicz"
   },
   {
     "id": "263",
@@ -647,7 +775,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/263/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Barbara.Nowacka@sejm.pl"
+    "email": "Barbara.Nowacka@sejm.pl",
+    "active": true,
+    "firstLastName": "Barbara Nowacka"
   },
   {
     "id": "271",
@@ -657,7 +787,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/271/photo-mini",
     "type": "Poseł",
     "club": "Centrum",
-    "email": "Barbara.Okula@sejm.pl"
+    "email": "Barbara.Okula@sejm.pl",
+    "active": true,
+    "firstLastName": "Barbara Okuła"
   },
   {
     "id": "272",
@@ -667,7 +799,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/272/photo-mini",
     "type": "Poseł",
     "club": "Centrum",
-    "email": "Barbara.Oliwiecka@sejm.pl"
+    "email": "Barbara.Oliwiecka@sejm.pl",
+    "active": true,
+    "firstLastName": "Barbara Oliwiecka"
   },
   {
     "id": "181",
@@ -677,7 +811,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/181/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Bartosz.Kownacki@sejm.pl"
+    "email": "Bartosz.Kownacki@sejm.pl",
+    "active": true,
+    "firstLastName": "Bartosz Józef Kownacki"
   },
   {
     "id": "312",
@@ -687,7 +823,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/312/photo-mini",
     "type": "Poseł",
     "club": "Polska2050",
-    "email": "Bartosz.Romowicz@sejm.pl"
+    "email": "Bartosz.Romowicz@sejm.pl",
+    "active": true,
+    "firstLastName": "Bartosz Romowicz"
   },
   {
     "id": "444",
@@ -697,7 +835,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/444/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Bartosz.Zawieja@sejm.pl"
+    "email": "Bartosz.Zawieja@sejm.pl",
+    "active": true,
+    "firstLastName": "Bartosz Zawieja"
   },
   {
     "id": "69",
@@ -707,7 +847,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/69/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Bartlomiej.Dorywalski@sejm.pl"
+    "email": "Bartlomiej.Dorywalski@sejm.pl",
+    "active": true,
+    "firstLastName": "Bartłomiej Dorywalski"
   },
   {
     "id": "285",
@@ -717,7 +859,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/285/photo-mini",
     "type": "Poseł",
     "club": "Konfederacja",
-    "email": "Bartlomiej.Pejo@sejm.pl"
+    "email": "Bartlomiej.Pejo@sejm.pl",
+    "active": true,
+    "firstLastName": "Bartłomiej Pejo"
   },
   {
     "id": "440",
@@ -727,7 +871,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/440/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Bartlomiej.Wroblewski@sejm.pl"
+    "email": "Bartlomiej.Wroblewski@sejm.pl",
+    "active": true,
+    "firstLastName": "Bartłomiej Wróblewski"
   },
   {
     "id": "496",
@@ -737,7 +883,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/496/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Bogumila.Olbrys@sejm.pl"
+    "email": "Bogumila.Olbrys@sejm.pl",
+    "active": true,
+    "firstLastName": "Bogumiła Olbryś"
   },
   {
     "id": "434",
@@ -747,7 +895,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/434/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Boguslaw.Woloszanski@sejm.pl"
+    "email": "Boguslaw.Woloszanski@sejm.pl",
+    "active": true,
+    "firstLastName": "Bogusław Wołoszański"
   },
   {
     "id": "288",
@@ -757,7 +907,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/288/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Boleslaw.Piecha@sejm.pl"
+    "email": "Boleslaw.Piecha@sejm.pl",
+    "active": true,
+    "firstLastName": "Bolesław Piecha"
   },
   {
     "id": "30",
@@ -767,7 +919,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/30/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Bozena.Borys-Szopa@sejm.pl"
+    "email": "Bozena.Borys-Szopa@sejm.pl",
+    "active": true,
+    "firstLastName": "Bożena Borys-Szopa"
   },
   {
     "id": "489",
@@ -777,7 +931,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/489/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Bozena.Lisowska@sejm.pl"
+    "email": "Bozena.Lisowska@sejm.pl",
+    "active": true,
+    "firstLastName": "Bożena Lisowska"
   },
   {
     "id": "459",
@@ -787,7 +943,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/459/photo-mini",
     "type": "Poseł",
     "club": "PSL-TD",
-    "email": "Bozena.Zelazowska@sejm.pl"
+    "email": "Bozena.Zelazowska@sejm.pl",
+    "active": true,
+    "firstLastName": "Bożena Żelazowska"
   },
   {
     "id": "470",
@@ -797,7 +955,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/470/photo-mini",
     "type": "Poseł",
     "club": "Polska2050",
-    "email": "Bozenna.Holownia@sejm.pl"
+    "email": "Bozenna.Holownia@sejm.pl",
+    "active": true,
+    "firstLastName": "Bożenna Hołownia"
   },
   {
     "id": "80",
@@ -807,7 +967,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/80/photo-mini",
     "type": "Poseł",
     "club": "Konfederacja",
-    "email": "Bronislaw.Foltyn@sejm.pl"
+    "email": "Bronislaw.Foltyn@sejm.pl",
+    "active": true,
+    "firstLastName": "Bronisław Foltyn"
   },
   {
     "id": "392",
@@ -817,7 +979,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/392/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Cezary.Tomczyk@sejm.pl"
+    "email": "Cezary.Tomczyk@sejm.pl",
+    "active": true,
+    "firstLastName": "Cezary Tomczyk"
   },
   {
     "id": "130",
@@ -827,7 +991,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/130/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Czeslaw.Hoc@sejm.pl"
+    "email": "Czeslaw.Hoc@sejm.pl",
+    "active": true,
+    "firstLastName": "Czesław Hoc"
   },
   {
     "id": "249",
@@ -837,7 +1003,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/249/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Czeslaw.Mroczek@sejm.pl"
+    "email": "Czeslaw.Mroczek@sejm.pl",
+    "active": true,
+    "firstLastName": "Czesław Mroczek"
   },
   {
     "id": "335",
@@ -847,7 +1015,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/335/photo-mini",
     "type": "Poseł",
     "club": "PSL-TD",
-    "email": "Czeslaw.Siekierski@sejm.pl"
+    "email": "Czeslaw.Siekierski@sejm.pl",
+    "active": true,
+    "firstLastName": "Czesław Siekierski"
   },
   {
     "id": "243",
@@ -857,7 +1027,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/243/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Daniel.Milewski@sejm.pl"
+    "email": "Daniel.Milewski@sejm.pl",
+    "active": true,
+    "firstLastName": "Daniel Milewski"
   },
   {
     "id": "143",
@@ -867,7 +1039,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/143/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Danuta.Jazlowiecka@sejm.pl"
+    "email": "Danuta.Jazlowiecka@sejm.pl",
+    "active": true,
+    "firstLastName": "Danuta Jazłowiecka"
   },
   {
     "id": "110",
@@ -877,7 +1051,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/110/photo-mini",
     "type": "Poseł",
     "club": "Lewica",
-    "email": "Daria.Gosek-Popiolek@sejm.pl"
+    "email": "Daria.Gosek-Popiolek@sejm.pl",
+    "active": true,
+    "firstLastName": "Daria Gosek-Popiołek"
   },
   {
     "id": "162",
@@ -887,7 +1063,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/162/photo-mini",
     "type": "Poseł",
     "club": "PSL-TD",
-    "email": "Dariusz.Klimczak@sejm.pl"
+    "email": "Dariusz.Klimczak@sejm.pl",
+    "active": true,
+    "firstLastName": "Dariusz Klimczak"
   },
   {
     "id": "234",
@@ -897,7 +1075,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/234/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Dariusz.Matecki@sejm.pl"
+    "email": "Dariusz.Matecki@sejm.pl",
+    "active": true,
+    "firstLastName": "Dariusz Matecki"
   },
   {
     "id": "294",
@@ -907,7 +1087,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/294/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Dariusz.Piontkowski@sejm.pl"
+    "email": "Dariusz.Piontkowski@sejm.pl",
+    "active": true,
+    "firstLastName": "Dariusz Piontkowski"
   },
   {
     "id": "356",
@@ -917,7 +1099,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/356/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Dariusz.Stefaniuk@sejm.pl"
+    "email": "Dariusz.Stefaniuk@sejm.pl",
+    "active": true,
+    "firstLastName": "Dariusz Stefaniuk"
   },
   {
     "id": "419",
@@ -927,7 +1111,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/419/photo-mini",
     "type": "Poseł",
     "club": "Lewica",
-    "email": "Dariusz.Wieczorek@sejm.pl"
+    "email": "Dariusz.Wieczorek@sejm.pl",
+    "active": true,
+    "firstLastName": "Dariusz Wieczorek"
   },
   {
     "id": "465",
@@ -937,7 +1123,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/465/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Dominik.Jaskowiec@sejm.pl"
+    "email": "Dominik.Jaskowiec@sejm.pl",
+    "active": true,
+    "firstLastName": "Dominik Jaśkowiec"
   },
   {
     "id": "45",
@@ -947,7 +1135,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/45/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Dominika.Chorosinska@sejm.pl"
+    "email": "Dominika.Chorosinska@sejm.pl",
+    "active": true,
+    "firstLastName": "Dominika Chorosińska"
   },
   {
     "id": "400",
@@ -957,7 +1147,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/400/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Donald.Tusk@sejm.pl"
+    "email": "Donald.Tusk@sejm.pl",
+    "active": true,
+    "firstLastName": "Donald Tusk"
   },
   {
     "id": "5",
@@ -967,7 +1159,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/5/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Dorota.Arciszewska-Mielewczyk@sejm.pl"
+    "email": "Dorota.Arciszewska-Mielewczyk@sejm.pl",
+    "active": true,
+    "firstLastName": "Dorota Arciszewska-Mielewczyk"
   },
   {
     "id": "233",
@@ -977,7 +1171,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/233/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Dorota.Marek@sejm.pl"
+    "email": "Dorota.Marek@sejm.pl",
+    "active": true,
+    "firstLastName": "Dorota Marek"
   },
   {
     "id": "258",
@@ -987,7 +1183,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/258/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Dorota.Niedziela@sejm.pl"
+    "email": "Dorota.Niedziela@sejm.pl",
+    "active": true,
+    "firstLastName": "Dorota Niedziela"
   },
   {
     "id": "273",
@@ -997,7 +1195,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/273/photo-mini",
     "type": "Poseł",
     "club": "Lewica",
-    "email": "Dorota.Olko@sejm.pl"
+    "email": "Dorota.Olko@sejm.pl",
+    "active": true,
+    "firstLastName": "Dorota Olko"
   },
   {
     "id": "222",
@@ -1007,7 +1207,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/222/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Dorota.Loboda@sejm.pl"
+    "email": "Dorota.Loboda@sejm.pl",
+    "active": true,
+    "firstLastName": "Dorota Łoboda"
   },
   {
     "id": "333",
@@ -1017,7 +1219,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/333/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Edward.Siarka@sejm.pl"
+    "email": "Edward.Siarka@sejm.pl",
+    "active": true,
+    "firstLastName": "Edward Siarka"
   },
   {
     "id": "300",
@@ -1027,7 +1231,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/300/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Elzbieta.Polak@sejm.pl"
+    "email": "Elzbieta.Polak@sejm.pl",
+    "active": true,
+    "firstLastName": "Elżbieta Anna Polak"
   },
   {
     "id": "39",
@@ -1037,7 +1243,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/39/photo-mini",
     "type": "Poseł",
     "club": "Centrum",
-    "email": "Elzbieta.Burkiewicz@sejm.pl"
+    "email": "Elzbieta.Burkiewicz@sejm.pl",
+    "active": true,
+    "firstLastName": "Elżbieta Burkiewicz"
   },
   {
     "id": "72",
@@ -1047,7 +1255,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/72/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Elzbieta.Duda@sejm.pl"
+    "email": "Elzbieta.Duda@sejm.pl",
+    "active": true,
+    "firstLastName": "Elżbieta Duda"
   },
   {
     "id": "88",
@@ -1057,7 +1267,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/88/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Elzbieta.Gapinska@sejm.pl"
+    "email": "Elzbieta.Gapinska@sejm.pl",
+    "active": true,
+    "firstLastName": "Elżbieta Gapińska"
   },
   {
     "id": "94",
@@ -1067,7 +1279,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/94/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Elzbieta.Gelert@sejm.pl"
+    "email": "Elzbieta.Gelert@sejm.pl",
+    "active": true,
+    "firstLastName": "Elżbieta Gelert"
   },
   {
     "id": "428",
@@ -1077,7 +1291,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/428/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Elzbieta.Witek@sejm.pl"
+    "email": "Elzbieta.Witek@sejm.pl",
+    "active": true,
+    "firstLastName": "Elżbieta Witek"
   },
   {
     "id": "168",
@@ -1087,7 +1303,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/168/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Ewa.Kolodziej@sejm.pl"
+    "email": "Ewa.Kolodziej@sejm.pl",
+    "active": true,
+    "firstLastName": "Ewa Kołodziej"
   },
   {
     "id": "210",
@@ -1097,7 +1315,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/210/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Ewa.Leniart@sejm.pl"
+    "email": "Ewa.Leniart@sejm.pl",
+    "active": true,
+    "firstLastName": "Ewa Leniart"
   },
   {
     "id": "228",
@@ -1107,7 +1327,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/228/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Ewa.Malik@sejm.pl"
+    "email": "Ewa.Malik@sejm.pl",
+    "active": true,
+    "firstLastName": "Ewa Malik"
   },
   {
     "id": "327",
@@ -1117,7 +1339,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/327/photo-mini",
     "type": "Poseł",
     "club": "Polska2050",
-    "email": "Ewa.Schadler@sejm.pl"
+    "email": "Ewa.Schadler@sejm.pl",
+    "active": true,
+    "firstLastName": "Ewa Schädler"
   },
   {
     "id": "376",
@@ -1127,7 +1351,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/376/photo-mini",
     "type": "Poseł",
     "club": "Centrum",
-    "email": "Ewa.Szymanowska@sejm.pl"
+    "email": "Ewa.Szymanowska@sejm.pl",
+    "active": true,
+    "firstLastName": "Ewa Szymanowska"
   },
   {
     "id": "147",
@@ -1137,7 +1363,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/147/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Filip.Kaczynski@sejm.pl"
+    "email": "Filip.Kaczynski@sejm.pl",
+    "active": true,
+    "firstLastName": "Filip Kaczyński"
   },
   {
     "id": "357",
@@ -1147,7 +1375,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/357/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Franciszek.Sterczewski@sejm.pl"
+    "email": "Franciszek.Sterczewski@sejm.pl",
+    "active": true,
+    "firstLastName": "Franciszek Sterczewski"
   },
   {
     "id": "155",
@@ -1157,7 +1387,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/155/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Fryderyk.Kapinos@sejm.pl"
+    "email": "Fryderyk.Kapinos@sejm.pl",
+    "active": true,
+    "firstLastName": "Fryderyk Sylwester Kapinos"
   },
   {
     "id": "209",
@@ -1167,7 +1399,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/209/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Gabriela.Lenartowicz@sejm.pl"
+    "email": "Gabriela.Lenartowicz@sejm.pl",
+    "active": true,
+    "firstLastName": "Gabriela Lenartowicz"
   },
   {
     "id": "93",
@@ -1177,7 +1411,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/93/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Grzegorz.Gaza@sejm.pl"
+    "email": "Grzegorz.Gaza@sejm.pl",
+    "active": true,
+    "firstLastName": "Grzegorz Gaża"
   },
   {
     "id": "216",
@@ -1187,7 +1423,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/216/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Grzegorz.Lorek@sejm.pl"
+    "email": "Grzegorz.Lorek@sejm.pl",
+    "active": true,
+    "firstLastName": "Grzegorz Lorek"
   },
   {
     "id": "477",
@@ -1197,7 +1435,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/477/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Grzegorz.Macko@sejm.pl"
+    "email": "Grzegorz.Macko@sejm.pl",
+    "active": true,
+    "firstLastName": "Grzegorz Macko"
   },
   {
     "id": "236",
@@ -1207,7 +1447,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/236/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Grzegorz.Matusiak@sejm.pl"
+    "email": "Grzegorz.Matusiak@sejm.pl",
+    "active": true,
+    "firstLastName": "Grzegorz Matusiak"
   },
   {
     "id": "257",
@@ -1217,7 +1459,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/257/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Grzegorz.Napieralski@sejm.pl"
+    "email": "Grzegorz.Napieralski@sejm.pl",
+    "active": true,
+    "firstLastName": "Grzegorz Napieralski"
   },
   {
     "id": "289",
@@ -1227,7 +1471,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/289/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Grzegorz.Piechowiak@sejm.pl"
+    "email": "Grzegorz.Piechowiak@sejm.pl",
+    "active": true,
+    "firstLastName": "Grzegorz Piechowiak"
   },
   {
     "id": "306",
@@ -1237,7 +1483,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/306/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Grzegorz.Puda@sejm.pl"
+    "email": "Grzegorz.Puda@sejm.pl",
+    "active": true,
+    "firstLastName": "Grzegorz Puda"
   },
   {
     "id": "296",
@@ -1247,7 +1495,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/296/photo-mini",
     "type": "Poseł",
     "club": "Konfederacja",
-    "email": "Grzegorz.Placzek@sejm.pl"
+    "email": "Grzegorz.Placzek@sejm.pl",
+    "active": true,
+    "firstLastName": "Grzegorz Płaczek"
   },
   {
     "id": "436",
@@ -1257,7 +1507,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/436/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Grzegorz.Wozniak@sejm.pl"
+    "email": "Grzegorz.Wozniak@sejm.pl",
+    "active": true,
+    "firstLastName": "Grzegorz Woźniak"
   },
   {
     "id": "159",
@@ -1267,7 +1519,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/159/photo-mini",
     "type": "Poseł",
     "club": "PSL-TD",
-    "email": "Henryk.Kiepura@sejm.pl"
+    "email": "Henryk.Kiepura@sejm.pl",
+    "active": true,
+    "firstLastName": "Henryk Kiepura"
   },
   {
     "id": "179",
@@ -1277,7 +1531,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/179/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Henryk.Kowalczyk@sejm.pl"
+    "email": "Henryk.Kowalczyk@sejm.pl",
+    "active": true,
+    "firstLastName": "Henryk Kowalczyk"
   },
   {
     "id": "493",
@@ -1287,7 +1543,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/493/photo-mini",
     "type": "Poseł",
     "club": "PSL-TD",
-    "email": "Henryk.Smolarz@sejm.pl"
+    "email": "Henryk.Smolarz@sejm.pl",
+    "active": true,
+    "firstLastName": "Henryk Smolarz"
   },
   {
     "id": "372",
@@ -1297,7 +1555,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/372/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Henryk.Szopinski@sejm.pl"
+    "email": "Henryk.Szopinski@sejm.pl",
+    "active": true,
+    "firstLastName": "Henryk Szopiński"
   },
   {
     "id": "196",
@@ -1307,7 +1567,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/196/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Henryka.Krzywonos-Strycharska@sejm.pl"
+    "email": "Henryka.Krzywonos-Strycharska@sejm.pl",
+    "active": true,
+    "firstLastName": "Henryka Krzywonos-Strycharska"
   },
   {
     "id": "309",
@@ -1317,7 +1579,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/309/photo-mini",
     "type": "Poseł",
     "club": "PSL-TD",
-    "email": "Ireneusz.Ras@sejm.pl"
+    "email": "Ireneusz.Ras@sejm.pl",
+    "active": true,
+    "firstLastName": "Ireneusz Raś"
   },
   {
     "id": "458",
@@ -1327,7 +1591,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/458/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Ireneusz.Zyska@sejm.pl"
+    "email": "Ireneusz.Zyska@sejm.pl",
+    "active": true,
+    "firstLastName": "Ireneusz Zyska"
   },
   {
     "id": "7",
@@ -1337,7 +1603,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/7/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Iwona.Arent@sejm.pl"
+    "email": "Iwona.Arent@sejm.pl",
+    "active": true,
+    "firstLastName": "Iwona Ewa Arent"
   },
   {
     "id": "127",
@@ -1347,7 +1615,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/127/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Iwona.Hartwich@sejm.pl"
+    "email": "Iwona.Hartwich@sejm.pl",
+    "active": true,
+    "firstLastName": "Iwona Hartwich"
   },
   {
     "id": "157",
@@ -1357,7 +1627,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/157/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Iwona.Karolewska@sejm.pl"
+    "email": "Iwona.Karolewska@sejm.pl",
+    "active": true,
+    "firstLastName": "Iwona Karolewska"
   },
   {
     "id": "182",
@@ -1367,7 +1639,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/182/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Iwona.Kozlowska@sejm.pl"
+    "email": "Iwona.Kozlowska@sejm.pl",
+    "active": true,
+    "firstLastName": "Iwona Maria Kozłowska"
   },
   {
     "id": "186",
@@ -1377,7 +1651,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/186/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Iwona.Krawczyk@sejm.pl"
+    "email": "Iwona.Krawczyk@sejm.pl",
+    "active": true,
+    "firstLastName": "Iwona Małgorzata Krawczyk"
   },
   {
     "id": "23",
@@ -1387,7 +1663,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/23/photo-mini",
     "type": "Poseł",
     "club": "Centrum",
-    "email": "Izabela.Bodnar@sejm.pl"
+    "email": "Izabela.Bodnar@sejm.pl",
+    "active": true,
+    "firstLastName": "Izabela Bodnar"
   },
   {
     "id": "212",
@@ -1397,7 +1675,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/212/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Izabela.Leszczyna@sejm.pl"
+    "email": "Izabela.Leszczyna@sejm.pl",
+    "active": true,
+    "firstLastName": "Izabela Leszczyna"
   },
   {
     "id": "24",
@@ -1407,7 +1687,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/24/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Jacek.Bogucki@sejm.pl"
+    "email": "Jacek.Bogucki@sejm.pl",
+    "active": true,
+    "firstLastName": "Jacek Bogucki"
   },
   {
     "id": "59",
@@ -1417,7 +1699,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/59/photo-mini",
     "type": "Poseł",
     "club": "Lewica",
-    "email": "Jacek.Czerniak@sejm.pl"
+    "email": "Jacek.Czerniak@sejm.pl",
+    "active": true,
+    "firstLastName": "Jacek Czerniak"
   },
   {
     "id": "156",
@@ -1427,7 +1711,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/156/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Jacek.Karnowski@sejm.pl"
+    "email": "Jacek.Karnowski@sejm.pl",
+    "active": true,
+    "firstLastName": "Jacek Karnowski"
   },
   {
     "id": "259",
@@ -1437,7 +1723,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/259/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Jacek.Niedzwiedzki@sejm.pl"
+    "email": "Jacek.Niedzwiedzki@sejm.pl",
+    "active": true,
+    "firstLastName": "Jacek Niedźwiedzki"
   },
   {
     "id": "278",
@@ -1447,7 +1735,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/278/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Jacek.Osuch@sejm.pl"
+    "email": "Jacek.Osuch@sejm.pl",
+    "active": true,
+    "firstLastName": "Jacek Osuch"
   },
   {
     "id": "325",
@@ -1457,7 +1747,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/325/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Jacek.Sasin@sejm.pl"
+    "email": "Jacek.Sasin@sejm.pl",
+    "active": true,
+    "firstLastName": "Jacek Sasin"
   },
   {
     "id": "390",
@@ -1467,7 +1759,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/390/photo-mini",
     "type": "Poseł",
     "club": "PSL-TD",
-    "email": "Jacek.Tomczak@sejm.pl"
+    "email": "Jacek.Tomczak@sejm.pl",
+    "active": true,
+    "firstLastName": "Jacek Tomczak"
   },
   {
     "id": "384",
@@ -1477,7 +1771,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/384/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Jacek.Swiat@sejm.pl"
+    "email": "Jacek.Swiat@sejm.pl",
+    "active": true,
+    "firstLastName": "Jacek Świat"
   },
   {
     "id": "317",
@@ -1487,7 +1783,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/317/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Jakub.Rutnicki@sejm.pl"
+    "email": "Jakub.Rutnicki@sejm.pl",
+    "active": true,
+    "firstLastName": "Jakub Rutnicki"
   },
   {
     "id": "115",
@@ -1497,7 +1795,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/115/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Jan.Grabiec@sejm.pl"
+    "email": "Jan.Grabiec@sejm.pl",
+    "active": true,
+    "firstLastName": "Jan Grabiec"
   },
   {
     "id": "154",
@@ -1507,7 +1807,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/154/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Jan.Kanthak@sejm.pl"
+    "email": "Jan.Kanthak@sejm.pl",
+    "active": true,
+    "firstLastName": "Jan Kanthak"
   },
   {
     "id": "6",
@@ -1517,7 +1819,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/6/photo-mini",
     "type": "Poseł",
     "club": "Demokracja",
-    "email": "Jan.Ardanowski@sejm.pl"
+    "email": "Jan.Ardanowski@sejm.pl",
+    "active": true,
+    "firstLastName": "Jan Krzysztof Ardanowski"
   },
   {
     "id": "75",
@@ -1527,7 +1831,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/75/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Jan.Dziedziczak@sejm.pl"
+    "email": "Jan.Dziedziczak@sejm.pl",
+    "active": true,
+    "firstLastName": "Jan Michał Dziedziczak"
   },
   {
     "id": "247",
@@ -1537,7 +1843,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/247/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Jan.Mosinski@sejm.pl"
+    "email": "Jan.Mosinski@sejm.pl",
+    "active": true,
+    "firstLastName": "Jan Mosiński"
   },
   {
     "id": "410",
@@ -1547,7 +1855,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/410/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Jan.Warzecha@sejm.pl"
+    "email": "Jan.Warzecha@sejm.pl",
+    "active": true,
+    "firstLastName": "Jan Warzecha"
   },
   {
     "id": "49",
@@ -1557,7 +1867,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/49/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Janusz.Cichon@sejm.pl"
+    "email": "Janusz.Cichon@sejm.pl",
+    "active": true,
+    "firstLastName": "Janusz Cichoń"
   },
   {
     "id": "51",
@@ -1567,7 +1879,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/51/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Janusz.Cieszynski@sejm.pl"
+    "email": "Janusz.Cieszynski@sejm.pl",
+    "active": true,
+    "firstLastName": "Janusz Cieszyński"
   },
   {
     "id": "180",
@@ -1577,7 +1891,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/180/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Janusz.Kowalski@sejm.pl"
+    "email": "Janusz.Kowalski@sejm.pl",
+    "active": true,
+    "firstLastName": "Janusz Kowalski"
   },
   {
     "id": "148",
@@ -1587,7 +1903,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/148/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Jaroslaw.Kaczynski@sejm.pl"
+    "email": "Jaroslaw.Kaczynski@sejm.pl",
+    "active": true,
+    "firstLastName": "Jarosław Kaczyński"
   },
   {
     "id": "488",
@@ -1597,7 +1915,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/488/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Jaroslaw.Krajewski@sejm.pl"
+    "email": "Jaroslaw.Krajewski@sejm.pl",
+    "active": true,
+    "firstLastName": "Jarosław Krajewski"
   },
   {
     "id": "320",
@@ -1607,7 +1927,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/320/photo-mini",
     "type": "Poseł",
     "club": "PSL-TD",
-    "email": "Jaroslaw.Rzepa@sejm.pl"
+    "email": "Jaroslaw.Rzepa@sejm.pl",
+    "active": true,
+    "firstLastName": "Jarosław Rzepa"
   },
   {
     "id": "321",
@@ -1617,7 +1939,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/321/photo-mini",
     "type": "Poseł",
     "club": "Demokracja",
-    "email": "Jaroslaw.Sachajko@sejm.pl"
+    "email": "Jaroslaw.Sachajko@sejm.pl",
+    "active": true,
+    "firstLastName": "Jarosław Sachajko"
   },
   {
     "id": "331",
@@ -1627,7 +1951,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/331/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Jaroslaw.Sellin@sejm.pl"
+    "email": "Jaroslaw.Sellin@sejm.pl",
+    "active": true,
+    "firstLastName": "Jarosław Sellin"
   },
   {
     "id": "403",
@@ -1637,7 +1963,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/403/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Jaroslaw.Urbaniak@sejm.pl"
+    "email": "Jaroslaw.Urbaniak@sejm.pl",
+    "active": true,
+    "firstLastName": "Jarosław Urbaniak"
   },
   {
     "id": "406",
@@ -1647,7 +1975,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/406/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Jaroslaw.Walesa@sejm.pl"
+    "email": "Jaroslaw.Walesa@sejm.pl",
+    "active": true,
+    "firstLastName": "Jarosław Wałęsa"
   },
   {
     "id": "420",
@@ -1657,7 +1987,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/420/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Jaroslaw.Wieczorek@sejm.pl"
+    "email": "Jaroslaw.Wieczorek@sejm.pl",
+    "active": true,
+    "firstLastName": "Jarosław Wiesław Wieczorek"
   },
   {
     "id": "452",
@@ -1667,7 +1999,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/452/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Jaroslaw.Zielinski@sejm.pl"
+    "email": "Jaroslaw.Zielinski@sejm.pl",
+    "active": true,
+    "firstLastName": "Jarosław Zieliński"
   },
   {
     "id": "235",
@@ -1677,7 +2011,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/235/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Jerzy.Materna@sejm.pl"
+    "email": "Jerzy.Materna@sejm.pl",
+    "active": true,
+    "firstLastName": "Jerzy Materna"
   },
   {
     "id": "478",
@@ -1687,7 +2023,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/478/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Jerzy.Meysztowicz@sejm.pl"
+    "email": "Jerzy.Meysztowicz@sejm.pl",
+    "active": true,
+    "firstLastName": "Jerzy Meysztowicz"
   },
   {
     "id": "299",
@@ -1697,7 +2035,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/299/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Jerzy.Polaczek@sejm.pl"
+    "email": "Jerzy.Polaczek@sejm.pl",
+    "active": true,
+    "firstLastName": "Jerzy Polaczek"
   },
   {
     "id": "27",
@@ -1707,7 +2047,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/27/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Joanna.Borowiak@sejm.pl"
+    "email": "Joanna.Borowiak@sejm.pl",
+    "active": true,
+    "firstLastName": "Joanna Borowiak"
   },
   {
     "id": "82",
@@ -1717,7 +2059,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/82/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Joanna.Frydrych@sejm.pl"
+    "email": "Joanna.Frydrych@sejm.pl",
+    "active": true,
+    "firstLastName": "Joanna Frydrych"
   },
   {
     "id": "163",
@@ -1727,7 +2071,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/163/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Joanna.Kluzik-Rostkowska@sejm.pl"
+    "email": "Joanna.Kluzik-Rostkowska@sejm.pl",
+    "active": true,
+    "firstLastName": "Joanna Kluzik-Rostkowska"
   },
   {
     "id": "213",
@@ -1737,7 +2083,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/213/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Joanna.Lichocka@sejm.pl"
+    "email": "Joanna.Lichocka@sejm.pl",
+    "active": true,
+    "firstLastName": "Joanna Lichocka"
   },
   {
     "id": "252",
@@ -1747,7 +2095,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/252/photo-mini",
     "type": "Poseł",
     "club": "niez.",
-    "email": "Joanna.Mucha@sejm.pl"
+    "email": "Joanna.Mucha@sejm.pl",
+    "active": true,
+    "firstLastName": "Joanna Mucha"
   },
   {
     "id": "417",
@@ -1757,7 +2107,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/417/photo-mini",
     "type": "Poseł",
     "club": "Lewica",
-    "email": "Joanna.Wicha@sejm.pl"
+    "email": "Joanna.Wicha@sejm.pl",
+    "active": true,
+    "firstLastName": "Joanna Wicha"
   },
   {
     "id": "261",
@@ -1767,7 +2119,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/261/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Jolanta.Niezgodzka@sejm.pl"
+    "email": "Jolanta.Niezgodzka@sejm.pl",
+    "active": true,
+    "firstLastName": "Jolanta Niezgodzka"
   },
   {
     "id": "454",
@@ -1777,7 +2131,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/454/photo-mini",
     "type": "Poseł",
     "club": "PSL-TD",
-    "email": "Jolanta.Zieba-Gzik@sejm.pl"
+    "email": "Jolanta.Zieba-Gzik@sejm.pl",
+    "active": true,
+    "firstLastName": "Jolanta Zięba-Gzik"
   },
   {
     "id": "367",
@@ -1787,7 +2143,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/367/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Jozefa.Szczurek-Zelazko@sejm.pl"
+    "email": "Jozefa.Szczurek-Zelazko@sejm.pl",
+    "active": true,
+    "firstLastName": "Józefa Szczurek-Żelazko"
   },
   {
     "id": "297",
@@ -1797,7 +2155,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/297/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Kacper.Plazynski@sejm.pl"
+    "email": "Kacper.Plazynski@sejm.pl",
+    "active": true,
+    "firstLastName": "Kacper Płażyński"
   },
   {
     "id": "28",
@@ -1807,7 +2167,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/28/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Kamil.Bortniczuk@sejm.pl"
+    "email": "Kamil.Bortniczuk@sejm.pl",
+    "active": true,
+    "firstLastName": "Kamil Bortniczuk"
   },
   {
     "id": "430",
@@ -1817,7 +2179,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/430/photo-mini",
     "type": "Poseł",
     "club": "Polska2050",
-    "email": "Kamil.Wnuk@sejm.pl"
+    "email": "Kamil.Wnuk@sejm.pl",
+    "active": true,
+    "firstLastName": "Kamil Wnuk"
   },
   {
     "id": "32",
@@ -1827,7 +2191,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/32/photo-mini",
     "type": "Poseł",
     "club": "Konfederacja",
-    "email": "Karina.Bosak@sejm.pl"
+    "email": "Karina.Bosak@sejm.pl",
+    "active": true,
+    "firstLastName": "Karina Anna Bosak"
   },
   {
     "id": "284",
@@ -1837,7 +2203,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/284/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Karolina.Pawliczak@sejm.pl"
+    "email": "Karolina.Pawliczak@sejm.pl",
+    "active": true,
+    "firstLastName": "Karolina Pawliczak"
   },
   {
     "id": "218",
@@ -1847,7 +2215,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/218/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Katarzyna.Lubnauer@sejm.pl"
+    "email": "Katarzyna.Lubnauer@sejm.pl",
+    "active": true,
+    "firstLastName": "Katarzyna Anna Lubnauer"
   },
   {
     "id": "62",
@@ -1857,7 +2227,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/62/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Katarzyna.Czochara@sejm.pl"
+    "email": "Katarzyna.Czochara@sejm.pl",
+    "active": true,
+    "firstLastName": "Katarzyna Czochara"
   },
   {
     "id": "161",
@@ -1867,7 +2239,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/161/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Katarzyna.Kierzek-Koperska@sejm.pl"
+    "email": "Katarzyna.Kierzek-Koperska@sejm.pl",
+    "active": true,
+    "firstLastName": "Katarzyna Kierzek-Koperska"
   },
   {
     "id": "177",
@@ -1877,7 +2251,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/177/photo-mini",
     "type": "Poseł",
     "club": "Lewica",
-    "email": "Katarzyna.Kotula@sejm.pl"
+    "email": "Katarzyna.Kotula@sejm.pl",
+    "active": true,
+    "firstLastName": "Katarzyna Kotula"
   },
   {
     "id": "475",
@@ -1887,7 +2263,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/475/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Katarzyna.Krolak@sejm.pl"
+    "email": "Katarzyna.Krolak@sejm.pl",
+    "active": true,
+    "firstLastName": "Katarzyna Królak"
   },
   {
     "id": "291",
@@ -1897,7 +2275,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/291/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Katarzyna.Piekarska@sejm.pl"
+    "email": "Katarzyna.Piekarska@sejm.pl",
+    "active": true,
+    "firstLastName": "Katarzyna Maria Piekarska"
   },
   {
     "id": "237",
@@ -1907,7 +2287,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/237/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Katarzyna.Matusik-Lipiec@sejm.pl"
+    "email": "Katarzyna.Matusik-Lipiec@sejm.pl",
+    "active": true,
+    "firstLastName": "Katarzyna Matusik-Lipiec"
   },
   {
     "id": "277",
@@ -1917,7 +2299,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/277/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Katarzyna.Osos@sejm.pl"
+    "email": "Katarzyna.Osos@sejm.pl",
+    "active": true,
+    "firstLastName": "Katarzyna Osos"
   },
   {
     "id": "467",
@@ -1927,7 +2311,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/467/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Katarzyna.Stachowicz@sejm.pl"
+    "email": "Katarzyna.Stachowicz@sejm.pl",
+    "active": true,
+    "firstLastName": "Katarzyna Stachowicz"
   },
   {
     "id": "353",
@@ -1937,7 +2323,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/353/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Katarzyna.Sojka@sejm.pl"
+    "email": "Katarzyna.Sojka@sejm.pl",
+    "active": true,
+    "firstLastName": "Katarzyna Sójka"
   },
   {
     "id": "402",
@@ -1947,7 +2335,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/402/photo-mini",
     "type": "Poseł",
     "club": "Lewica",
-    "email": "Katarzyna.Ueberhan@sejm.pl"
+    "email": "Katarzyna.Ueberhan@sejm.pl",
+    "active": true,
+    "firstLastName": "Katarzyna Ueberhan"
   },
   {
     "id": "44",
@@ -1957,7 +2347,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/44/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Kazimierz.Choma@sejm.pl"
+    "email": "Kazimierz.Choma@sejm.pl",
+    "active": true,
+    "firstLastName": "Kazimierz Bogusław Choma"
   },
   {
     "id": "105",
@@ -1967,7 +2359,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/105/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Kazimierz.Golojuch@sejm.pl"
+    "email": "Kazimierz.Golojuch@sejm.pl",
+    "active": true,
+    "firstLastName": "Kazimierz Gołojuch"
   },
   {
     "id": "122",
@@ -1977,7 +2371,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/122/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Kazimierz.Gwiazdowski@sejm.pl"
+    "email": "Kazimierz.Gwiazdowski@sejm.pl",
+    "active": true,
+    "firstLastName": "Kazimierz Gwiazdowski"
   },
   {
     "id": "295",
@@ -1987,7 +2383,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/295/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Kazimierz.Plocke@sejm.pl"
+    "email": "Kazimierz.Plocke@sejm.pl",
+    "active": true,
+    "firstLastName": "Kazimierz Plocke"
   },
   {
     "id": "346",
@@ -1997,7 +2395,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/346/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Kazimierz.Smolinski@sejm.pl"
+    "email": "Kazimierz.Smolinski@sejm.pl",
+    "active": true,
+    "firstLastName": "Kazimierz Smoliński"
   },
   {
     "id": "87",
@@ -2007,7 +2407,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/87/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Kinga.Gajewska@sejm.pl"
+    "email": "Kinga.Gajewska@sejm.pl",
+    "active": true,
+    "firstLastName": "Kinga Gajewska"
   },
   {
     "id": "138",
@@ -2017,7 +2419,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/138/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Klaudia.Jachira@sejm.pl"
+    "email": "Klaudia.Jachira@sejm.pl",
+    "active": true,
+    "firstLastName": "Klaudia Jachira"
   },
   {
     "id": "16",
@@ -2027,7 +2431,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/16/photo-mini",
     "type": "Poseł",
     "club": "Konfederacja",
-    "email": "Konrad.Berkowicz@sejm.pl"
+    "email": "Konrad.Berkowicz@sejm.pl",
+    "active": true,
+    "firstLastName": "Konrad Berkowicz"
   },
   {
     "id": "83",
@@ -2037,7 +2443,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/83/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Konrad.Frysztak@sejm.pl"
+    "email": "Konrad.Frysztak@sejm.pl",
+    "active": true,
+    "firstLastName": "Konrad Frysztak"
   },
   {
     "id": "223",
@@ -2047,7 +2455,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/223/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Krystian.Luczak@sejm.pl"
+    "email": "Krystian.Luczak@sejm.pl",
+    "active": true,
+    "firstLastName": "Krystian Łuczak"
   },
   {
     "id": "334",
@@ -2057,7 +2467,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/334/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Krystyna.Sibinska@sejm.pl"
+    "email": "Krystyna.Sibinska@sejm.pl",
+    "active": true,
+    "firstLastName": "Krystyna Sibińska"
   },
   {
     "id": "342",
@@ -2067,7 +2479,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/342/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Krystyna.Skowronska@sejm.pl"
+    "email": "Krystyna.Skowronska@sejm.pl",
+    "active": true,
+    "firstLastName": "Krystyna Skowrońska"
   },
   {
     "id": "374",
@@ -2077,7 +2491,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/374/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Krystyna.Szumilas@sejm.pl"
+    "email": "Krystyna.Szumilas@sejm.pl",
+    "active": true,
+    "firstLastName": "Krystyna Szumilas"
   },
   {
     "id": "26",
@@ -2087,7 +2503,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/26/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Krzysztof.Bojarski@sejm.pl"
+    "email": "Krzysztof.Bojarski@sejm.pl",
+    "active": true,
+    "firstLastName": "Krzysztof Bojarski"
   },
   {
     "id": "33",
@@ -2097,7 +2515,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/33/photo-mini",
     "type": "Poseł",
     "club": "Konfederacja",
-    "email": "Krzysztof.Bosak@sejm.pl"
+    "email": "Krzysztof.Bosak@sejm.pl",
+    "active": true,
+    "firstLastName": "Krzysztof Bosak"
   },
   {
     "id": "50",
@@ -2107,7 +2527,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/50/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Krzysztof.Cieciora@sejm.pl"
+    "email": "Krzysztof.Cieciora@sejm.pl",
+    "active": true,
+    "firstLastName": "Krzysztof Ciecióra"
   },
   {
     "id": "54",
@@ -2117,7 +2539,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/54/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Krzysztof.Czarnecki@sejm.pl"
+    "email": "Krzysztof.Czarnecki@sejm.pl",
+    "active": true,
+    "firstLastName": "Krzysztof Czarnecki"
   },
   {
     "id": "85",
@@ -2127,7 +2551,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/85/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Krzysztof.Gadowski@sejm.pl"
+    "email": "Krzysztof.Gadowski@sejm.pl",
+    "active": true,
+    "firstLastName": "Krzysztof Gadowski"
   },
   {
     "id": "90",
@@ -2137,7 +2563,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/90/photo-mini",
     "type": "Poseł",
     "club": "Lewica",
-    "email": "Krzysztof.Gawkowski@sejm.pl"
+    "email": "Krzysztof.Gawkowski@sejm.pl",
+    "active": true,
+    "firstLastName": "Krzysztof Gawkowski"
   },
   {
     "id": "114",
@@ -2147,7 +2575,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/114/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Krzysztof.Grabczuk@sejm.pl"
+    "email": "Krzysztof.Grabczuk@sejm.pl",
+    "active": true,
+    "firstLastName": "Krzysztof Grabczuk"
   },
   {
     "id": "125",
@@ -2157,7 +2587,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/125/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Krzysztof.Habura@sejm.pl"
+    "email": "Krzysztof.Habura@sejm.pl",
+    "active": true,
+    "firstLastName": "Krzysztof Habura"
   },
   {
     "id": "197",
@@ -2167,7 +2599,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/197/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Krzysztof.Kubow@sejm.pl"
+    "email": "Krzysztof.Kubow@sejm.pl",
+    "active": true,
+    "firstLastName": "Krzysztof Kubów"
   },
   {
     "id": "214",
@@ -2177,7 +2611,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/214/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Krzysztof.Lipiec@sejm.pl"
+    "email": "Krzysztof.Lipiec@sejm.pl",
+    "active": true,
+    "firstLastName": "Krzysztof Lipiec"
   },
   {
     "id": "479",
@@ -2187,7 +2623,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/479/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Krzysztof.Mieszkowski@sejm.pl"
+    "email": "Krzysztof.Mieszkowski@sejm.pl",
+    "active": true,
+    "firstLastName": "Krzysztof Mieszkowski"
   },
   {
     "id": "254",
@@ -2197,7 +2635,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/254/photo-mini",
     "type": "Poseł",
     "club": "Konfederacja",
-    "email": "Krzysztof.Mulawa@sejm.pl"
+    "email": "Krzysztof.Mulawa@sejm.pl",
+    "active": true,
+    "firstLastName": "Krzysztof Mulawa"
   },
   {
     "id": "283",
@@ -2207,7 +2647,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/283/photo-mini",
     "type": "Poseł",
     "club": "PSL-TD",
-    "email": "Krzysztof.Paszyk@sejm.pl"
+    "email": "Krzysztof.Paszyk@sejm.pl",
+    "active": true,
+    "firstLastName": "Krzysztof Paszyk"
   },
   {
     "id": "481",
@@ -2217,7 +2659,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/481/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Krzysztof.Piatkowski@sejm.pl"
+    "email": "Krzysztof.Piatkowski@sejm.pl",
+    "active": true,
+    "firstLastName": "Krzysztof Piątkowski"
   },
   {
     "id": "348",
@@ -2227,7 +2671,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/348/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Krzysztof.Sobolewski@sejm.pl"
+    "email": "Krzysztof.Sobolewski@sejm.pl",
+    "active": true,
+    "firstLastName": "Krzysztof Sobolewski"
   },
   {
     "id": "366",
@@ -2237,7 +2683,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/366/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Krzysztof.Szczucki@sejm.pl"
+    "email": "Krzysztof.Szczucki@sejm.pl",
+    "active": true,
+    "firstLastName": "Krzysztof Szczucki"
   },
   {
     "id": "485",
@@ -2247,7 +2695,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/485/photo-mini",
     "type": "Poseł",
     "club": "Konfederacja",
-    "email": "Krzysztof.Szymanski@sejm.pl"
+    "email": "Krzysztof.Szymanski@sejm.pl",
+    "active": true,
+    "firstLastName": "Krzysztof Szymański"
   },
   {
     "id": "386",
@@ -2257,7 +2707,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/386/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Krzysztof.Tchorzewski@sejm.pl"
+    "email": "Krzysztof.Tchorzewski@sejm.pl",
+    "active": true,
+    "firstLastName": "Krzysztof Tchórzewski"
   },
   {
     "id": "396",
@@ -2267,7 +2719,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/396/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Krzysztof.Truskolaski@sejm.pl"
+    "email": "Krzysztof.Truskolaski@sejm.pl",
+    "active": true,
+    "firstLastName": "Krzysztof Truskolaski"
   },
   {
     "id": "397",
@@ -2277,7 +2731,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/397/photo-mini",
     "type": "Poseł",
     "club": "Konfederacja",
-    "email": "Krzysztof.Tuduj@sejm.pl"
+    "email": "Krzysztof.Tuduj@sejm.pl",
+    "active": true,
+    "firstLastName": "Krzysztof Tuduj"
   },
   {
     "id": "185",
@@ -2287,7 +2743,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/185/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Leonard.Krasulski@sejm.pl"
+    "email": "Leonard.Krasulski@sejm.pl",
+    "active": true,
+    "firstLastName": "Leonard Krasulski"
   },
   {
     "id": "40",
@@ -2297,7 +2755,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/40/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Lidia.Burzynska@sejm.pl"
+    "email": "Lidia.Burzynska@sejm.pl",
+    "active": true,
+    "firstLastName": "Lidia Burzyńska"
   },
   {
     "id": "468",
@@ -2307,7 +2767,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/468/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Lidia.Czechak@sejm.pl"
+    "email": "Lidia.Czechak@sejm.pl",
+    "active": true,
+    "firstLastName": "Lidia Czechak"
   },
   {
     "id": "293",
@@ -2317,7 +2779,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/293/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Lucjan.Pietrzczyk@sejm.pl"
+    "email": "Lucjan.Pietrzczyk@sejm.pl",
+    "active": true,
+    "firstLastName": "Lucjan Marek Pietrzczyk"
   },
   {
     "id": "172",
@@ -2327,7 +2791,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/172/photo-mini",
     "type": "Poseł",
     "club": "Razem",
-    "email": "Maciej.Konieczny@sejm.pl"
+    "email": "Maciej.Konieczny@sejm.pl",
+    "active": true,
+    "firstLastName": "Maciej Konieczny"
   },
   {
     "id": "208",
@@ -2337,7 +2803,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/208/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Maciej.Lasek@sejm.pl"
+    "email": "Maciej.Lasek@sejm.pl",
+    "active": true,
+    "firstLastName": "Maciej Lasek"
   },
   {
     "id": "230",
@@ -2347,7 +2815,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/230/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Maciej.Malecki@sejm.pl"
+    "email": "Maciej.Malecki@sejm.pl",
+    "active": true,
+    "firstLastName": "Maciej Małecki"
   },
   {
     "id": "487",
@@ -2357,7 +2827,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/487/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Maciej.Tomczykiewicz@sejm.pl"
+    "email": "Maciej.Tomczykiewicz@sejm.pl",
+    "active": true,
+    "firstLastName": "Maciej Tomczykiewicz"
   },
   {
     "id": "439",
@@ -2367,7 +2839,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/439/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Maciej.Wrobel@sejm.pl"
+    "email": "Maciej.Wrobel@sejm.pl",
+    "active": true,
+    "firstLastName": "Maciej Wróbel"
   },
   {
     "id": "77",
@@ -2377,7 +2851,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/77/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Magdalena.Filiks@sejm.pl"
+    "email": "Magdalena.Filiks@sejm.pl",
+    "active": true,
+    "firstLastName": "Magdalena Filiks"
   },
   {
     "id": "78",
@@ -2387,7 +2863,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/78/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Magdalena.Filipek-Sobczak@sejm.pl"
+    "email": "Magdalena.Filipek-Sobczak@sejm.pl",
+    "active": true,
+    "firstLastName": "Magdalena Filipek-Sobczak"
   },
   {
     "id": "169",
@@ -2397,7 +2875,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/169/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Magdalena.Kolodziejczak@sejm.pl"
+    "email": "Magdalena.Kolodziejczak@sejm.pl",
+    "active": true,
+    "firstLastName": "Magdalena Małgorzata Kołodziejczak"
   },
   {
     "id": "483",
@@ -2407,7 +2887,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/483/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Magdalena.Roguska@sejm.pl"
+    "email": "Magdalena.Roguska@sejm.pl",
+    "active": true,
+    "firstLastName": "Magdalena Roguska"
   },
   {
     "id": "354",
@@ -2417,7 +2899,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/354/photo-mini",
     "type": "Poseł",
     "club": "PSL-TD",
-    "email": "Magdalena.Sroka@sejm.pl"
+    "email": "Magdalena.Sroka@sejm.pl",
+    "active": true,
+    "firstLastName": "Magdalena Sroka"
   },
   {
     "id": "462",
@@ -2427,7 +2911,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/462/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Magdalena.Losko@sejm.pl"
+    "email": "Magdalena.Losko@sejm.pl",
+    "active": true,
+    "firstLastName": "Magdalena Łośko"
   },
   {
     "id": "264",
@@ -2437,7 +2923,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/264/photo-mini",
     "type": "Poseł",
     "club": "Polska2050",
-    "email": "Maja.Nowak@sejm.pl"
+    "email": "Maja.Nowak@sejm.pl",
+    "active": true,
+    "firstLastName": "Maja Ewa Nowak"
   },
   {
     "id": "445",
@@ -2447,7 +2935,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/445/photo-mini",
     "type": "Poseł",
     "club": "Razem",
-    "email": "Marcelina.Zawisza@sejm.pl"
+    "email": "Marcelina.Zawisza@sejm.pl",
+    "active": true,
+    "firstLastName": "Marcelina Zawisza"
   },
   {
     "id": "31",
@@ -2457,7 +2947,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/31/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Marcin.Bosacki@sejm.pl"
+    "email": "Marcin.Bosacki@sejm.pl",
+    "active": true,
+    "firstLastName": "Marcin Bosacki"
   },
   {
     "id": "116",
@@ -2467,7 +2959,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/116/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Marcin.Grabowski@sejm.pl"
+    "email": "Marcin.Grabowski@sejm.pl",
+    "active": true,
+    "firstLastName": "Marcin Grabowski"
   },
   {
     "id": "123",
@@ -2477,7 +2971,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/123/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Marcin.Gwozdz@sejm.pl"
+    "email": "Marcin.Gwozdz@sejm.pl",
+    "active": true,
+    "firstLastName": "Marcin Gwóźdź"
   },
   {
     "id": "134",
@@ -2487,7 +2983,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/134/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Marcin.Horala@sejm.pl"
+    "email": "Marcin.Horala@sejm.pl",
+    "active": true,
+    "firstLastName": "Marcin Horała"
   },
   {
     "id": "145",
@@ -2497,7 +2995,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/145/photo-mini",
     "type": "Poseł",
     "club": "niez.",
-    "email": "Marcin.Jozefaciuk@sejm.pl"
+    "email": "Marcin.Jozefaciuk@sejm.pl",
+    "active": true,
+    "firstLastName": "Marcin Józefaciuk"
   },
   {
     "id": "201",
@@ -2507,7 +3007,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/201/photo-mini",
     "type": "Poseł",
     "club": "Lewica",
-    "email": "Marcin.Kulasek@sejm.pl"
+    "email": "Marcin.Kulasek@sejm.pl",
+    "active": true,
+    "firstLastName": "Marcin Kulasek"
   },
   {
     "id": "269",
@@ -2517,7 +3019,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/269/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Marcin.Ociepa@sejm.pl"
+    "email": "Marcin.Ociepa@sejm.pl",
+    "active": true,
+    "firstLastName": "Marcin Ociepa"
   },
   {
     "id": "303",
@@ -2527,7 +3031,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/303/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Marcin.Porzucek@sejm.pl"
+    "email": "Marcin.Porzucek@sejm.pl",
+    "active": true,
+    "firstLastName": "Marcin Porzucek"
   },
   {
     "id": "311",
@@ -2537,7 +3043,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/311/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Marcin.Romanowski@sejm.pl"
+    "email": "Marcin.Romanowski@sejm.pl",
+    "active": true,
+    "firstLastName": "Marcin Romanowski"
   },
   {
     "id": "341",
@@ -2547,7 +3055,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/341/photo-mini",
     "type": "Poseł",
     "club": "Centrum",
-    "email": "Marcin.Skonieczka@sejm.pl"
+    "email": "Marcin.Skonieczka@sejm.pl",
+    "active": true,
+    "firstLastName": "Marcin Skonieczka"
   },
   {
     "id": "407",
@@ -2557,7 +3067,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/407/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Marcin.Warchol@sejm.pl"
+    "email": "Marcin.Warchol@sejm.pl",
+    "active": true,
+    "firstLastName": "Marcin Warchoł"
   },
   {
     "id": "9",
@@ -2567,7 +3079,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/9/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Marek.Ast@sejm.pl"
+    "email": "Marek.Ast@sejm.pl",
+    "active": true,
+    "firstLastName": "Marek Ast"
   },
   {
     "id": "18",
@@ -2577,7 +3091,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/18/photo-mini",
     "type": "Poseł",
     "club": "PSL-TD",
-    "email": "Marek.Biernacki@sejm.pl"
+    "email": "Marek.Biernacki@sejm.pl",
+    "active": true,
+    "firstLastName": "Marek Biernacki"
   },
   {
     "id": "119",
@@ -2587,7 +3103,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/119/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Marek.Grobarczyk@sejm.pl"
+    "email": "Marek.Grobarczyk@sejm.pl",
+    "active": true,
+    "firstLastName": "Marek Gróbarczyk"
   },
   {
     "id": "124",
@@ -2597,7 +3115,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/124/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Marek.Gzik@sejm.pl"
+    "email": "Marek.Gzik@sejm.pl",
+    "active": true,
+    "firstLastName": "Marek Gzik"
   },
   {
     "id": "139",
@@ -2607,7 +3127,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/139/photo-mini",
     "type": "Poseł",
     "club": "niez.",
-    "email": "Marek.Jakubiak@sejm.pl"
+    "email": "Marek.Jakubiak@sejm.pl",
+    "active": true,
+    "firstLastName": "Marek Jakubiak"
   },
   {
     "id": "41",
@@ -2617,7 +3139,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/41/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Marek.Chmielewski@sejm.pl"
+    "email": "Marek.Chmielewski@sejm.pl",
+    "active": true,
+    "firstLastName": "Marek Jan Chmielewski"
   },
   {
     "id": "194",
@@ -2627,7 +3151,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/194/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Marek.Krzakala@sejm.pl"
+    "email": "Marek.Krzakala@sejm.pl",
+    "active": true,
+    "firstLastName": "Marek Krząkała"
   },
   {
     "id": "199",
@@ -2637,7 +3163,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/199/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Marek.Kuchcinski@sejm.pl"
+    "email": "Marek.Kuchcinski@sejm.pl",
+    "active": true,
+    "firstLastName": "Marek Kuchciński"
   },
   {
     "id": "238",
@@ -2647,7 +3175,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/238/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Marek.Matuszewski@sejm.pl"
+    "email": "Marek.Matuszewski@sejm.pl",
+    "active": true,
+    "firstLastName": "Marek Matuszewski"
   },
   {
     "id": "319",
@@ -2657,7 +3187,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/319/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Marek.Rzasa@sejm.pl"
+    "email": "Marek.Rzasa@sejm.pl",
+    "active": true,
+    "firstLastName": "Marek Rząsa"
   },
   {
     "id": "326",
@@ -2667,7 +3199,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/326/photo-mini",
     "type": "Poseł",
     "club": "PSL-TD",
-    "email": "Marek.Sawicki@sejm.pl"
+    "email": "Marek.Sawicki@sejm.pl",
+    "active": true,
+    "firstLastName": "Marek Sawicki"
   },
   {
     "id": "352",
@@ -2677,7 +3211,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/352/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Marek.Sowa@sejm.pl"
+    "email": "Marek.Sowa@sejm.pl",
+    "active": true,
+    "firstLastName": "Marek Sowa"
   },
   {
     "id": "498",
@@ -2687,7 +3223,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/498/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Marek.Subocz@sejm.pl"
+    "email": "Marek.Subocz@sejm.pl",
+    "active": true,
+    "firstLastName": "Marek Subocz"
   },
   {
     "id": "360",
@@ -2697,7 +3235,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/360/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Marek.Suski@sejm.pl"
+    "email": "Marek.Suski@sejm.pl",
+    "active": true,
+    "firstLastName": "Marek Suski"
   },
   {
     "id": "132",
@@ -2707,7 +3247,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/132/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Marek.Hok@sejm.pl"
+    "email": "Marek.Hok@sejm.pl",
+    "active": true,
+    "firstLastName": "Marek Tomasz Hok"
   },
   {
     "id": "416",
@@ -2717,7 +3259,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/416/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Marek.Wesoly@sejm.pl"
+    "email": "Marek.Wesoly@sejm.pl",
+    "active": true,
+    "firstLastName": "Marek Wesoły"
   },
   {
     "id": "474",
@@ -2727,7 +3271,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/474/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Maria.Kozlakiewicz@sejm.pl"
+    "email": "Maria.Kozlakiewicz@sejm.pl",
+    "active": true,
+    "firstLastName": "Maria Joanna Koźlakiewicz"
   },
   {
     "id": "167",
@@ -2737,7 +3283,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/167/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Maria.Koc@sejm.pl"
+    "email": "Maria.Koc@sejm.pl",
+    "active": true,
+    "firstLastName": "Maria Koc"
   },
   {
     "id": "202",
@@ -2747,7 +3295,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/202/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Maria.Kurowska@sejm.pl"
+    "email": "Maria.Kurowska@sejm.pl",
+    "active": true,
+    "firstLastName": "Maria Kurowska"
   },
   {
     "id": "140",
@@ -2757,7 +3307,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/140/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Maria.Janyska@sejm.pl"
+    "email": "Maria.Janyska@sejm.pl",
+    "active": true,
+    "firstLastName": "Maria Małgorzata Janyska"
   },
   {
     "id": "20",
@@ -2767,7 +3319,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/20/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Mariusz.Blaszczak@sejm.pl"
+    "email": "Mariusz.Blaszczak@sejm.pl",
+    "active": true,
+    "firstLastName": "Mariusz Błaszczak"
   },
   {
     "id": "109",
@@ -2777,7 +3331,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/109/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Mariusz.Gosek@sejm.pl"
+    "email": "Mariusz.Gosek@sejm.pl",
+    "active": true,
+    "firstLastName": "Mariusz Gosek"
   },
   {
     "id": "151",
@@ -2787,7 +3343,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/151/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Mariusz.Kaluzny@sejm.pl"
+    "email": "Mariusz.Kaluzny@sejm.pl",
+    "active": true,
+    "firstLastName": "Mariusz Kałużny"
   },
   {
     "id": "193",
@@ -2797,7 +3355,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/193/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Mariusz.Krystian@sejm.pl"
+    "email": "Mariusz.Krystian@sejm.pl",
+    "active": true,
+    "firstLastName": "Mariusz Krystian"
   },
   {
     "id": "482",
@@ -2807,7 +3367,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/482/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Mariusz.Popielarz@sejm.pl"
+    "email": "Mariusz.Popielarz@sejm.pl",
+    "active": true,
+    "firstLastName": "Mariusz Popielarz"
   },
   {
     "id": "427",
@@ -2817,7 +3379,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/427/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Mariusz.Witczak@sejm.pl"
+    "email": "Mariusz.Witczak@sejm.pl",
+    "active": true,
+    "firstLastName": "Mariusz Witczak"
   },
   {
     "id": "103",
@@ -2827,7 +3391,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/103/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Marta.Golbik@sejm.pl"
+    "email": "Marta.Golbik@sejm.pl",
+    "active": true,
+    "firstLastName": "Marta Golbik"
   },
   {
     "id": "484",
@@ -2837,7 +3403,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/484/photo-mini",
     "type": "Poseł",
     "club": "Razem",
-    "email": "Marta.Stozek@sejm.pl"
+    "email": "Marta.Stozek@sejm.pl",
+    "active": true,
+    "firstLastName": "Marta Stożek"
   },
   {
     "id": "225",
@@ -2847,7 +3415,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/225/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Marzena.Machalek@sejm.pl"
+    "email": "Marzena.Machalek@sejm.pl",
+    "active": true,
+    "firstLastName": "Marzena Anna Machałek"
   },
   {
     "id": "270",
@@ -2857,7 +3427,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/270/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Marzena.Okla-Drewnowicz@sejm.pl"
+    "email": "Marzena.Okla-Drewnowicz@sejm.pl",
+    "active": true,
+    "firstLastName": "Marzena Okła-Drewnowicz"
   },
   {
     "id": "21",
@@ -2867,7 +3439,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/21/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Mateusz.Bochenek@sejm.pl"
+    "email": "Mateusz.Bochenek@sejm.pl",
+    "active": true,
+    "firstLastName": "Mateusz Bochenek"
   },
   {
     "id": "246",
@@ -2877,7 +3451,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/246/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Mateusz.Morawiecki@sejm.pl"
+    "email": "Mateusz.Morawiecki@sejm.pl",
+    "active": true,
+    "firstLastName": "Mateusz Morawiecki"
   },
   {
     "id": "104",
@@ -2887,7 +3463,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/104/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Malgorzata.Golinska@sejm.pl"
+    "email": "Malgorzata.Golinska@sejm.pl",
+    "active": true,
+    "firstLastName": "Małgorzata Golińska"
   },
   {
     "id": "118",
@@ -2897,7 +3475,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/118/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Malgorzata.Gromadzka@sejm.pl"
+    "email": "Malgorzata.Gromadzka@sejm.pl",
+    "active": true,
+    "firstLastName": "Małgorzata Gromadzka"
   },
   {
     "id": "260",
@@ -2907,7 +3487,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/260/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Malgorzata.Niemczyk@sejm.pl"
+    "email": "Malgorzata.Niemczyk@sejm.pl",
+    "active": true,
+    "firstLastName": "Małgorzata Niemczyk"
   },
   {
     "id": "287",
@@ -2917,7 +3499,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/287/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Malgorzata.Pepek@sejm.pl"
+    "email": "Malgorzata.Pepek@sejm.pl",
+    "active": true,
+    "firstLastName": "Małgorzata Pępek"
   },
   {
     "id": "394",
@@ -2927,7 +3511,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/394/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Malgorzata.Tracz@sejm.pl"
+    "email": "Malgorzata.Tracz@sejm.pl",
+    "active": true,
+    "firstLastName": "Małgorzata Tracz"
   },
   {
     "id": "411",
@@ -2937,7 +3523,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/411/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Malgorzata.Wassermann@sejm.pl"
+    "email": "Malgorzata.Wassermann@sejm.pl",
+    "active": true,
+    "firstLastName": "Małgorzata Wassermann"
   },
   {
     "id": "52",
@@ -2947,7 +3535,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/52/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Michal.Cieslak@sejm.pl"
+    "email": "Michal.Cieslak@sejm.pl",
+    "active": true,
+    "firstLastName": "Michał Cieślak"
   },
   {
     "id": "117",
@@ -2957,7 +3547,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/117/photo-mini",
     "type": "Poseł",
     "club": "Polska2050",
-    "email": "Michal.Gramatyka@sejm.pl"
+    "email": "Michal.Gramatyka@sejm.pl",
+    "active": true,
+    "firstLastName": "Michał Gramatyka"
   },
   {
     "id": "495",
@@ -2967,7 +3559,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/495/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Michal.Jach@sejm.pl"
+    "email": "Michal.Jach@sejm.pl",
+    "active": true,
+    "firstLastName": "Michał Jach"
   },
   {
     "id": "141",
@@ -2977,7 +3571,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/141/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Michal.Jaros@sejm.pl"
+    "email": "Michal.Jaros@sejm.pl",
+    "active": true,
+    "firstLastName": "Michał Jaros"
   },
   {
     "id": "473",
@@ -2987,7 +3583,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/473/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Michal.Kowalski@sejm.pl"
+    "email": "Michal.Kowalski@sejm.pl",
+    "active": true,
+    "firstLastName": "Michał Kowalski"
   },
   {
     "id": "170",
@@ -2997,7 +3595,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/170/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Michal.Kolodziejczak@sejm.pl"
+    "email": "Michal.Kolodziejczak@sejm.pl",
+    "active": true,
+    "firstLastName": "Michał Kołodziejczak"
   },
   {
     "id": "187",
@@ -3007,7 +3607,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/187/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Michal.Krawczyk@sejm.pl"
+    "email": "Michal.Krawczyk@sejm.pl",
+    "active": true,
+    "firstLastName": "Michał Krawczyk"
   },
   {
     "id": "248",
@@ -3017,7 +3619,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/248/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Michal.Moskal@sejm.pl"
+    "email": "Michal.Moskal@sejm.pl",
+    "active": true,
+    "firstLastName": "Michał Moskal"
   },
   {
     "id": "490",
@@ -3027,7 +3631,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/490/photo-mini",
     "type": "Poseł",
     "club": "Konfederacja",
-    "email": "Michal.Poluboczek@sejm.pl"
+    "email": "Michal.Poluboczek@sejm.pl",
+    "active": true,
+    "firstLastName": "Michał Połuboczek"
   },
   {
     "id": "307",
@@ -3037,7 +3643,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/307/photo-mini",
     "type": "Poseł",
     "club": "PSL-TD",
-    "email": "Michal.Pyrzyk@sejm.pl"
+    "email": "Michal.Pyrzyk@sejm.pl",
+    "active": true,
+    "firstLastName": "Michał Pyrzyk"
   },
   {
     "id": "412",
@@ -3047,7 +3655,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/412/photo-mini",
     "type": "Poseł",
     "club": "Konfederacja",
-    "email": "Michal.Wawer@sejm.pl"
+    "email": "Michal.Wawer@sejm.pl",
+    "active": true,
+    "firstLastName": "Michał Wawer"
   },
   {
     "id": "435",
@@ -3057,7 +3667,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/435/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Michal.Wos@sejm.pl"
+    "email": "Michal.Wos@sejm.pl",
+    "active": true,
+    "firstLastName": "Michał Woś"
   },
   {
     "id": "438",
@@ -3067,7 +3679,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/438/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Michal.Wojcik@sejm.pl"
+    "email": "Michal.Wojcik@sejm.pl",
+    "active": true,
+    "firstLastName": "Michał Wójcik"
   },
   {
     "id": "275",
@@ -3077,7 +3691,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/275/photo-mini",
     "type": "Poseł",
     "club": "PSL-TD",
-    "email": "Miroslaw.Orlinski@sejm.pl"
+    "email": "Miroslaw.Orlinski@sejm.pl",
+    "active": true,
+    "firstLastName": "Mirosław Adam Orliński"
   },
   {
     "id": "229",
@@ -3087,7 +3703,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/229/photo-mini",
     "type": "Poseł",
     "club": "PSL-TD",
-    "email": "Miroslaw.Maliszewski@sejm.pl"
+    "email": "Miroslaw.Maliszewski@sejm.pl",
+    "active": true,
+    "firstLastName": "Mirosław Maliszewski"
   },
   {
     "id": "359",
@@ -3097,7 +3715,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/359/photo-mini",
     "type": "Poseł",
     "club": "Centrum",
-    "email": "Miroslaw.Suchon@sejm.pl"
+    "email": "Miroslaw.Suchon@sejm.pl",
+    "active": true,
+    "firstLastName": "Mirosław Suchoń"
   },
   {
     "id": "355",
@@ -3107,7 +3727,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/355/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Miroslawa.Stachowiak-Rozecka@sejm.pl"
+    "email": "Miroslawa.Stachowiak-Rozecka@sejm.pl",
+    "active": true,
+    "firstLastName": "Mirosława Stachowiak-Różecka"
   },
   {
     "id": "463",
@@ -3117,7 +3739,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/463/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Monika.Pawlowska@sejm.pl"
+    "email": "Monika.Pawlowska@sejm.pl",
+    "active": true,
+    "firstLastName": "Monika Pawłowska"
   },
   {
     "id": "313",
@@ -3127,7 +3751,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/313/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Monika.Rosa@sejm.pl"
+    "email": "Monika.Rosa@sejm.pl",
+    "active": true,
+    "firstLastName": "Monika Rosa"
   },
   {
     "id": "421",
@@ -3137,7 +3763,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/421/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Monika.Wielichowska@sejm.pl"
+    "email": "Monika.Wielichowska@sejm.pl",
+    "active": true,
+    "firstLastName": "Monika Wielichowska"
   },
   {
     "id": "146",
@@ -3147,7 +3775,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/146/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Norbert.Kaczmarczyk@sejm.pl"
+    "email": "Norbert.Kaczmarczyk@sejm.pl",
+    "active": true,
+    "firstLastName": "Norbert Jakub Kaczmarczyk"
   },
   {
     "id": "292",
@@ -3157,7 +3787,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/292/photo-mini",
     "type": "Poseł",
     "club": "Centrum",
-    "email": "Norbert.Pietrykowski@sejm.pl"
+    "email": "Norbert.Pietrykowski@sejm.pl",
+    "active": true,
+    "firstLastName": "Norbert Pietrykowski"
   },
   {
     "id": "332",
@@ -3167,7 +3799,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/332/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Olga.Semeniuk-Patkowska@sejm.pl"
+    "email": "Olga.Semeniuk-Patkowska@sejm.pl",
+    "active": true,
+    "firstLastName": "Olga Ewa Semeniuk-Patkowska"
   },
   {
     "id": "84",
@@ -3177,7 +3811,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/84/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Patryk.Gabriel@sejm.pl"
+    "email": "Patryk.Gabriel@sejm.pl",
+    "active": true,
+    "firstLastName": "Patryk Gabriel"
   },
   {
     "id": "142",
@@ -3187,7 +3823,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/142/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Patryk.Jaskulski@sejm.pl"
+    "email": "Patryk.Jaskulski@sejm.pl",
+    "active": true,
+    "firstLastName": "Patryk Jaskulski"
   },
   {
     "id": "418",
@@ -3197,7 +3835,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/418/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Patryk.Wicher@sejm.pl"
+    "email": "Patryk.Wicher@sejm.pl",
+    "active": true,
+    "firstLastName": "Patryk Wicher"
   },
   {
     "id": "128",
@@ -3207,7 +3847,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/128/photo-mini",
     "type": "Poseł",
     "club": "Centrum",
-    "email": "Paulina.Hennig-Kloska@sejm.pl"
+    "email": "Paulina.Hennig-Kloska@sejm.pl",
+    "active": true,
+    "firstLastName": "Paulina Hennig-Kloska"
   },
   {
     "id": "239",
@@ -3217,7 +3859,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/239/photo-mini",
     "type": "Poseł",
     "club": "niez.",
-    "email": "Paulina.Matysiak@sejm.pl"
+    "email": "Paulina.Matysiak@sejm.pl",
+    "active": true,
+    "firstLastName": "Paulina Matysiak"
   },
   {
     "id": "15",
@@ -3227,7 +3871,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/15/photo-mini",
     "type": "Poseł",
     "club": "PSL-TD",
-    "email": "Pawel.Bejda@sejm.pl"
+    "email": "Pawel.Bejda@sejm.pl",
+    "active": true,
+    "firstLastName": "Paweł Bejda"
   },
   {
     "id": "19",
@@ -3237,7 +3883,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/19/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Pawel.Blizniuk@sejm.pl"
+    "email": "Pawel.Blizniuk@sejm.pl",
+    "active": true,
+    "firstLastName": "Paweł Bliźniuk"
   },
   {
     "id": "136",
@@ -3247,7 +3895,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/136/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Pawel.Hreniak@sejm.pl"
+    "email": "Pawel.Hreniak@sejm.pl",
+    "active": true,
+    "firstLastName": "Paweł Hreniak"
   },
   {
     "id": "137",
@@ -3257,7 +3907,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/137/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Pawel.Jablonski@sejm.pl"
+    "email": "Pawel.Jablonski@sejm.pl",
+    "active": true,
+    "firstLastName": "Paweł Jabłoński"
   },
   {
     "id": "178",
@@ -3267,7 +3919,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/178/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Pawel.Kowal@sejm.pl"
+    "email": "Pawel.Kowal@sejm.pl",
+    "active": true,
+    "firstLastName": "Paweł Kowal"
   },
   {
     "id": "200",
@@ -3277,7 +3931,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/200/photo-mini",
     "type": "Poseł",
     "club": "Demokracja",
-    "email": "Pawel.Kukiz@sejm.pl"
+    "email": "Pawel.Kukiz@sejm.pl",
+    "active": true,
+    "firstLastName": "Paweł Kukiz"
   },
   {
     "id": "466",
@@ -3287,7 +3943,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/466/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Pawel.Maselko@sejm.pl"
+    "email": "Pawel.Maselko@sejm.pl",
+    "active": true,
+    "firstLastName": "Paweł Masełko"
   },
   {
     "id": "274",
@@ -3297,7 +3955,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/274/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Pawel.Olszewski@sejm.pl"
+    "email": "Pawel.Olszewski@sejm.pl",
+    "active": true,
+    "firstLastName": "Paweł Olszewski"
   },
   {
     "id": "281",
@@ -3307,7 +3967,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/281/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Pawel.Papke@sejm.pl"
+    "email": "Pawel.Papke@sejm.pl",
+    "active": true,
+    "firstLastName": "Paweł Papke"
   },
   {
     "id": "318",
@@ -3317,7 +3979,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/318/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Pawel.Rychlik@sejm.pl"
+    "email": "Pawel.Rychlik@sejm.pl",
+    "active": true,
+    "firstLastName": "Paweł Rychlik"
   },
   {
     "id": "322",
@@ -3327,7 +3991,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/322/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Pawel.Salek@sejm.pl"
+    "email": "Pawel.Salek@sejm.pl",
+    "active": true,
+    "firstLastName": "Paweł Sałek"
   },
   {
     "id": "361",
@@ -3337,7 +4003,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/361/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Pawel.Suski@sejm.pl"
+    "email": "Pawel.Suski@sejm.pl",
+    "active": true,
+    "firstLastName": "Paweł Suski"
   },
   {
     "id": "373",
@@ -3347,7 +4015,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/373/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Pawel.Szrot@sejm.pl"
+    "email": "Pawel.Szrot@sejm.pl",
+    "active": true,
+    "firstLastName": "Paweł Szrot"
   },
   {
     "id": "441",
@@ -3357,7 +4027,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/441/photo-mini",
     "type": "Poseł",
     "club": "niez.",
-    "email": "Pawel.Zalewski@sejm.pl"
+    "email": "Pawel.Zalewski@sejm.pl",
+    "active": true,
+    "firstLastName": "Paweł Zalewski"
   },
   {
     "id": "382",
@@ -3367,7 +4039,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/382/photo-mini",
     "type": "Poseł",
     "club": "Polska2050",
-    "email": "Pawel.Sliz@sejm.pl"
+    "email": "Pawel.Sliz@sejm.pl",
+    "active": true,
+    "firstLastName": "Paweł Śliz"
   },
   {
     "id": "2",
@@ -3377,7 +4051,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/2/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Piotr.Adamowicz@sejm.pl"
+    "email": "Piotr.Adamowicz@sejm.pl",
+    "active": true,
+    "firstLastName": "Piotr Adamowicz"
   },
   {
     "id": "11",
@@ -3387,7 +4063,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/11/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Piotr.Babinetz@sejm.pl"
+    "email": "Piotr.Babinetz@sejm.pl",
+    "active": true,
+    "firstLastName": "Piotr Babinetz"
   },
   {
     "id": "29",
@@ -3397,7 +4075,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/29/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Piotr.Borys@sejm.pl"
+    "email": "Piotr.Borys@sejm.pl",
+    "active": true,
+    "firstLastName": "Piotr Borys"
   },
   {
     "id": "100",
@@ -3407,7 +4087,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/100/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Piotr.Glinski@sejm.pl"
+    "email": "Piotr.Glinski@sejm.pl",
+    "active": true,
+    "firstLastName": "Piotr Gliński"
   },
   {
     "id": "112",
@@ -3417,7 +4099,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/112/photo-mini",
     "type": "Poseł",
     "club": "Polska2050",
-    "email": "Piotr.Gornikiewicz@sejm.pl"
+    "email": "Piotr.Gornikiewicz@sejm.pl",
+    "active": true,
+    "firstLastName": "Piotr Górnikiewicz"
   },
   {
     "id": "102",
@@ -3427,7 +4111,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/102/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Piotr.Glowski@sejm.pl"
+    "email": "Piotr.Glowski@sejm.pl",
+    "active": true,
+    "firstLastName": "Piotr Głowski"
   },
   {
     "id": "149",
@@ -3437,7 +4123,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/149/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Piotr.Kaleta@sejm.pl"
+    "email": "Piotr.Kaleta@sejm.pl",
+    "active": true,
+    "firstLastName": "Piotr Kaleta"
   },
   {
     "id": "153",
@@ -3447,7 +4135,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/153/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Piotr.Kandyba@sejm.pl"
+    "email": "Piotr.Kandyba@sejm.pl",
+    "active": true,
+    "firstLastName": "Piotr Kandyba"
   },
   {
     "id": "472",
@@ -3457,7 +4147,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/472/photo-mini",
     "type": "Poseł",
     "club": "Lewica",
-    "email": "Piotr.Kowal@sejm.pl"
+    "email": "Piotr.Kowal@sejm.pl",
+    "active": true,
+    "firstLastName": "Piotr Kowal"
   },
   {
     "id": "189",
@@ -3467,7 +4159,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/189/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Piotr.Krol@sejm.pl"
+    "email": "Piotr.Krol@sejm.pl",
+    "active": true,
+    "firstLastName": "Piotr Król"
   },
   {
     "id": "206",
@@ -3477,7 +4171,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/206/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Piotr.Lachowicz@sejm.pl"
+    "email": "Piotr.Lachowicz@sejm.pl",
+    "active": true,
+    "firstLastName": "Piotr Lachowicz"
   },
   {
     "id": "358",
@@ -3487,7 +4183,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/358/photo-mini",
     "type": "Poseł",
     "club": "Polska2050",
-    "email": "Piotr.Strach@sejm.pl"
+    "email": "Piotr.Strach@sejm.pl",
+    "active": true,
+    "firstLastName": "Piotr Paweł Strach"
   },
   {
     "id": "301",
@@ -3497,7 +4195,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/301/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Piotr.Polak@sejm.pl"
+    "email": "Piotr.Polak@sejm.pl",
+    "active": true,
+    "firstLastName": "Piotr Polak"
   },
   {
     "id": "404",
@@ -3507,7 +4207,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/404/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Piotr.Uruski@sejm.pl"
+    "email": "Piotr.Uruski@sejm.pl",
+    "active": true,
+    "firstLastName": "Piotr Uruski"
   },
   {
     "id": "405",
@@ -3517,7 +4219,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/405/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Piotr.Uscinski@sejm.pl"
+    "email": "Piotr.Uscinski@sejm.pl",
+    "active": true,
+    "firstLastName": "Piotr Uściński"
   },
   {
     "id": "449",
@@ -3527,7 +4231,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/449/photo-mini",
     "type": "Poseł",
     "club": "PSL-TD",
-    "email": "Piotr.Zgorzelski@sejm.pl"
+    "email": "Piotr.Zgorzelski@sejm.pl",
+    "active": true,
+    "firstLastName": "Piotr Zgorzelski"
   },
   {
     "id": "56",
@@ -3537,7 +4243,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/56/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Przemyslaw.Czarnek@sejm.pl"
+    "email": "Przemyslaw.Czarnek@sejm.pl",
+    "active": true,
+    "firstLastName": "Przemysław Czarnek"
   },
   {
     "id": "71",
@@ -3547,7 +4255,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/71/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Przemyslaw.Drabek@sejm.pl"
+    "email": "Przemyslaw.Drabek@sejm.pl",
+    "active": true,
+    "firstLastName": "Przemysław Drabek"
   },
   {
     "id": "424",
@@ -3557,7 +4267,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/424/photo-mini",
     "type": "Poseł",
     "club": "Konfederacja",
-    "email": "Przemyslaw.Wipler@sejm.pl"
+    "email": "Przemyslaw.Wipler@sejm.pl",
+    "active": true,
+    "firstLastName": "Przemysław Wipler"
   },
   {
     "id": "429",
@@ -3567,7 +4279,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/429/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Przemyslaw.Witek@sejm.pl"
+    "email": "Przemyslaw.Witek@sejm.pl",
+    "active": true,
+    "firstLastName": "Przemysław Witek"
   },
   {
     "id": "79",
@@ -3577,7 +4291,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/79/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Radoslaw.Fogiel@sejm.pl"
+    "email": "Radoslaw.Fogiel@sejm.pl",
+    "active": true,
+    "firstLastName": "Radosław Fogiel"
   },
   {
     "id": "217",
@@ -3587,7 +4303,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/217/photo-mini",
     "type": "Poseł",
     "club": "PSL-TD",
-    "email": "Radoslaw.Lubczyk@sejm.pl"
+    "email": "Radoslaw.Lubczyk@sejm.pl",
+    "active": true,
+    "firstLastName": "Radosław Lubczyk"
   },
   {
     "id": "22",
@@ -3597,7 +4315,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/22/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Rafal.Bochenek@sejm.pl"
+    "email": "Rafal.Bochenek@sejm.pl",
+    "active": true,
+    "firstLastName": "Rafał Bochenek"
   },
   {
     "id": "158",
@@ -3607,7 +4327,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/158/photo-mini",
     "type": "Poseł",
     "club": "Centrum",
-    "email": "Rafal.Kasprzyk@sejm.pl"
+    "email": "Rafal.Kasprzyk@sejm.pl",
+    "active": true,
+    "firstLastName": "Rafał Kasprzyk"
   },
   {
     "id": "171",
@@ -3617,7 +4339,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/171/photo-mini",
     "type": "Poseł",
     "club": "Centrum",
-    "email": "Rafal.Komarewicz@sejm.pl"
+    "email": "Rafal.Komarewicz@sejm.pl",
+    "active": true,
+    "firstLastName": "Rafał Komarewicz"
   },
   {
     "id": "492",
@@ -3627,7 +4351,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/492/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Rafal.Romanowski@sejm.pl"
+    "email": "Rafal.Romanowski@sejm.pl",
+    "active": true,
+    "firstLastName": "Rafał Romanowski"
   },
   {
     "id": "336",
@@ -3637,7 +4363,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/336/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Rafal.Siemaszko@sejm.pl"
+    "email": "Rafal.Siemaszko@sejm.pl",
+    "active": true,
+    "firstLastName": "Rafał Siemaszko"
   },
   {
     "id": "415",
@@ -3647,7 +4375,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/415/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Rafal.Weber@sejm.pl"
+    "email": "Rafal.Weber@sejm.pl",
+    "active": true,
+    "firstLastName": "Rafał Weber"
   },
   {
     "id": "308",
@@ -3657,7 +4387,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/308/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Renata.Rak@sejm.pl"
+    "email": "Renata.Rak@sejm.pl",
+    "active": true,
+    "firstLastName": "Renata Rak"
   },
   {
     "id": "70",
@@ -3667,7 +4399,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/70/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Robert.Dowhan@sejm.pl"
+    "email": "Robert.Dowhan@sejm.pl",
+    "active": true,
+    "firstLastName": "Robert Dowhan"
   },
   {
     "id": "107",
@@ -3677,7 +4411,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/107/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Robert.Gontarz@sejm.pl"
+    "email": "Robert.Gontarz@sejm.pl",
+    "active": true,
+    "firstLastName": "Robert Gontarz"
   },
   {
     "id": "494",
@@ -3687,7 +4423,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/494/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Robert.Jagla@sejm.pl"
+    "email": "Robert.Jagla@sejm.pl",
+    "active": true,
+    "firstLastName": "Robert Jagła"
   },
   {
     "id": "188",
@@ -3697,7 +4435,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/188/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Robert.Kropiwnicki@sejm.pl"
+    "email": "Robert.Kropiwnicki@sejm.pl",
+    "active": true,
+    "firstLastName": "Robert Kropiwnicki"
   },
   {
     "id": "387",
@@ -3707,7 +4447,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/387/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Robert.Telus@sejm.pl"
+    "email": "Robert.Telus@sejm.pl",
+    "active": true,
+    "firstLastName": "Robert Telus"
   },
   {
     "id": "408",
@@ -3717,7 +4459,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/408/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Robert.Wardzala@sejm.pl"
+    "email": "Robert.Wardzala@sejm.pl",
+    "active": true,
+    "firstLastName": "Robert Wardzała"
   },
   {
     "id": "409",
@@ -3727,7 +4471,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/409/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Robert.Warwas@sejm.pl"
+    "email": "Robert.Warwas@sejm.pl",
+    "active": true,
+    "firstLastName": "Robert Warwas"
   },
   {
     "id": "81",
@@ -3737,7 +4483,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/81/photo-mini",
     "type": "Poseł",
     "club": "Konfederacja_KP",
-    "email": "Roman.Fritz@sejm.pl"
+    "email": "Roman.Fritz@sejm.pl",
+    "active": true,
+    "firstLastName": "Roman Fritz"
   },
   {
     "id": "97",
@@ -3747,7 +4495,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/97/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Roman.Giertych@sejm.pl"
+    "email": "Roman.Giertych@sejm.pl",
+    "active": true,
+    "firstLastName": "Roman Giertych"
   },
   {
     "id": "12",
@@ -3757,7 +4507,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/12/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Ryszard.Bartosik@sejm.pl"
+    "email": "Ryszard.Bartosik@sejm.pl",
+    "active": true,
+    "firstLastName": "Ryszard Bartosik"
   },
   {
     "id": "286",
@@ -3767,7 +4519,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/286/photo-mini",
     "type": "Poseł",
     "club": "Centrum",
-    "email": "Ryszard.Petru@sejm.pl"
+    "email": "Ryszard.Petru@sejm.pl",
+    "active": true,
+    "firstLastName": "Ryszard Petru"
   },
   {
     "id": "388",
@@ -3777,7 +4531,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/388/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Ryszard.Terlecki@sejm.pl"
+    "email": "Ryszard.Terlecki@sejm.pl",
+    "active": true,
+    "firstLastName": "Ryszard Terlecki"
   },
   {
     "id": "422",
@@ -3787,7 +4543,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/422/photo-mini",
     "type": "Poseł",
     "club": "Konfederacja",
-    "email": "Ryszard.Wilk@sejm.pl"
+    "email": "Ryszard.Wilk@sejm.pl",
+    "active": true,
+    "firstLastName": "Ryszard Wilk"
   },
   {
     "id": "150",
@@ -3797,7 +4555,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/150/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Sebastian.Kaleta@sejm.pl"
+    "email": "Sebastian.Kaleta@sejm.pl",
+    "active": true,
+    "firstLastName": "Sebastian Kaleta"
   },
   {
     "id": "224",
@@ -3807,7 +4567,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/224/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Sebastian.Lukaszewicz@sejm.pl"
+    "email": "Sebastian.Lukaszewicz@sejm.pl",
+    "active": true,
+    "firstLastName": "Sebastian Łukaszewicz"
   },
   {
     "id": "108",
@@ -3817,7 +4579,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/108/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Stanislaw.Gorczyca@sejm.pl"
+    "email": "Stanislaw.Gorczyca@sejm.pl",
+    "active": true,
+    "firstLastName": "Stanisław Gorczyca"
   },
   {
     "id": "207",
@@ -3827,7 +4591,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/207/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Stanislaw.Lamczyk@sejm.pl"
+    "email": "Stanislaw.Lamczyk@sejm.pl",
+    "active": true,
+    "firstLastName": "Stanisław Lamczyk"
   },
   {
     "id": "375",
@@ -3837,7 +4603,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/375/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Stanislaw.Szwed@sejm.pl"
+    "email": "Stanislaw.Szwed@sejm.pl",
+    "active": true,
+    "firstLastName": "Stanisław Szwed"
   },
   {
     "id": "393",
@@ -3847,7 +4615,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/393/photo-mini",
     "type": "Poseł",
     "club": "PSL-TD",
-    "email": "Stanislaw.Tomczyszyn@sejm.pl"
+    "email": "Stanislaw.Tomczyszyn@sejm.pl",
+    "active": true,
+    "firstLastName": "Stanisław Tomczyszyn"
   },
   {
     "id": "183",
@@ -3857,7 +4627,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/183/photo-mini",
     "type": "Poseł",
     "club": "PSL-TD",
-    "email": "Stefan.Krajewski@sejm.pl"
+    "email": "Stefan.Krajewski@sejm.pl",
+    "active": true,
+    "firstLastName": "Stefan Krajewski"
   },
   {
     "id": "398",
@@ -3867,7 +4639,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/398/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Sylwester.Tulajew@sejm.pl"
+    "email": "Sylwester.Tulajew@sejm.pl",
+    "active": true,
+    "firstLastName": "Sylwester Tułajew"
   },
   {
     "id": "17",
@@ -3877,7 +4651,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/17/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Sylwia.Bielawska@sejm.pl"
+    "email": "Sylwia.Bielawska@sejm.pl",
+    "active": true,
+    "firstLastName": "Sylwia Bielawska"
   },
   {
     "id": "99",
@@ -3887,7 +4663,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/99/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Szymon.Gizynski@sejm.pl"
+    "email": "Szymon.Gizynski@sejm.pl",
+    "active": true,
+    "firstLastName": "Szymon Giżyński"
   },
   {
     "id": "133",
@@ -3897,7 +4675,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/133/photo-mini",
     "type": "Poseł",
     "club": "Polska2050",
-    "email": "Szymon.Holownia@sejm.pl"
+    "email": "Szymon.Holownia@sejm.pl",
+    "active": true,
+    "firstLastName": "Szymon Hołownia"
   },
   {
     "id": "298",
@@ -3907,7 +4687,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/298/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Szymon.Pogoda@sejm.pl"
+    "email": "Szymon.Pogoda@sejm.pl",
+    "active": true,
+    "firstLastName": "Szymon Pogoda"
   },
   {
     "id": "378",
@@ -3917,7 +4699,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/378/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Szymon.SzynkowskiVelSek@sejm.pl"
+    "email": "Szymon.SzynkowskiVelSek@sejm.pl",
+    "active": true,
+    "firstLastName": "Szymon Szynkowski vel Sęk"
   },
   {
     "id": "241",
@@ -3927,7 +4711,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/241/photo-mini",
     "type": "Poseł",
     "club": "Konfederacja",
-    "email": "Slawomir.Mentzen@sejm.pl"
+    "email": "Slawomir.Mentzen@sejm.pl",
+    "active": true,
+    "firstLastName": "Sławomir Mentzen"
   },
   {
     "id": "262",
@@ -3937,7 +4723,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/262/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Slawomir.Nitras@sejm.pl"
+    "email": "Slawomir.Nitras@sejm.pl",
+    "active": true,
+    "firstLastName": "Sławomir Nitras"
   },
   {
     "id": "343",
@@ -3947,7 +4735,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/343/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Slawomir.Skwarek@sejm.pl"
+    "email": "Slawomir.Skwarek@sejm.pl",
+    "active": true,
+    "firstLastName": "Sławomir Skwarek"
   },
   {
     "id": "446",
@@ -3957,7 +4747,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/446/photo-mini",
     "type": "Poseł",
     "club": "Konfederacja_KP",
-    "email": "Slawomir.Zawislak@sejm.pl"
+    "email": "Slawomir.Zawislak@sejm.pl",
+    "active": true,
+    "firstLastName": "Sławomir Zawiślak"
   },
   {
     "id": "63",
@@ -3967,7 +4759,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/63/photo-mini",
     "type": "Poseł",
     "club": "Centrum",
-    "email": "Slawomir.Cwik@sejm.pl"
+    "email": "Slawomir.Cwik@sejm.pl",
+    "active": true,
+    "firstLastName": "Sławomir Ćwik"
   },
   {
     "id": "46",
@@ -3977,7 +4771,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/46/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Tadeusz.Chrzan@sejm.pl"
+    "email": "Tadeusz.Chrzan@sejm.pl",
+    "active": true,
+    "firstLastName": "Tadeusz Chrzan"
   },
   {
     "id": "324",
@@ -3987,7 +4783,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/324/photo-mini",
     "type": "Poseł",
     "club": "PSL-TD",
-    "email": "Tadeusz.Samborski@sejm.pl"
+    "email": "Tadeusz.Samborski@sejm.pl",
+    "active": true,
+    "firstLastName": "Tadeusz Samborski"
   },
   {
     "id": "389",
@@ -3997,7 +4795,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/389/photo-mini",
     "type": "Poseł",
     "club": "Lewica",
-    "email": "Tadeusz.Tomaszewski@sejm.pl"
+    "email": "Tadeusz.Tomaszewski@sejm.pl",
+    "active": true,
+    "firstLastName": "Tadeusz Tomaszewski"
   },
   {
     "id": "437",
@@ -4007,7 +4807,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/437/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Tadeusz.Wozniak@sejm.pl"
+    "email": "Tadeusz.Wozniak@sejm.pl",
+    "active": true,
+    "firstLastName": "Tadeusz Woźniak"
   },
   {
     "id": "280",
@@ -4017,7 +4819,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/280/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Teresa.Pamula@sejm.pl"
+    "email": "Teresa.Pamula@sejm.pl",
+    "active": true,
+    "firstLastName": "Teresa Pamuła"
   },
   {
     "id": "423",
@@ -4027,7 +4831,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/423/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Teresa.Wilk@sejm.pl"
+    "email": "Teresa.Wilk@sejm.pl",
+    "active": true,
+    "firstLastName": "Teresa Wilk"
   },
   {
     "id": "101",
@@ -4037,7 +4843,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/101/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Tomasz.Glogowski@sejm.pl"
+    "email": "Tomasz.Glogowski@sejm.pl",
+    "active": true,
+    "firstLastName": "Tomasz Głogowski"
   },
   {
     "id": "175",
@@ -4047,7 +4855,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/175/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Tomasz.Kostus@sejm.pl"
+    "email": "Tomasz.Kostus@sejm.pl",
+    "active": true,
+    "firstLastName": "Tomasz Kostuś"
   },
   {
     "id": "265",
@@ -4057,7 +4867,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/265/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Tomasz.Nowak@sejm.pl"
+    "email": "Tomasz.Nowak@sejm.pl",
+    "active": true,
+    "firstLastName": "Tomasz Piotr Nowak"
   },
   {
     "id": "497",
@@ -4067,7 +4879,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/497/photo-mini",
     "type": "Poseł",
     "club": "Demokracja",
-    "email": "Tomasz.Rzymkowski@sejm.pl"
+    "email": "Tomasz.Rzymkowski@sejm.pl",
+    "active": true,
+    "firstLastName": "Tomasz Rzymkowski"
   },
   {
     "id": "337",
@@ -4077,7 +4891,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/337/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Tomasz.Siemoniak@sejm.pl"
+    "email": "Tomasz.Siemoniak@sejm.pl",
+    "active": true,
+    "firstLastName": "Tomasz Siemoniak"
   },
   {
     "id": "377",
@@ -4087,7 +4903,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/377/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Tomasz.Szymanski@sejm.pl"
+    "email": "Tomasz.Szymanski@sejm.pl",
+    "active": true,
+    "firstLastName": "Tomasz Szymański"
   },
   {
     "id": "395",
@@ -4097,7 +4915,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/395/photo-mini",
     "type": "Poseł",
     "club": "Lewica",
-    "email": "Tomasz.Trela@sejm.pl"
+    "email": "Tomasz.Trela@sejm.pl",
+    "active": true,
+    "firstLastName": "Tomasz Trela"
   },
   {
     "id": "453",
@@ -4107,7 +4927,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/453/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Tomasz.Zielinski@sejm.pl"
+    "email": "Tomasz.Zielinski@sejm.pl",
+    "active": true,
+    "firstLastName": "Tomasz Zieliński"
   },
   {
     "id": "455",
@@ -4117,7 +4939,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/455/photo-mini",
     "type": "Poseł",
     "club": "niez.",
-    "email": "Tomasz.Zimoch@sejm.pl"
+    "email": "Tomasz.Zimoch@sejm.pl",
+    "active": true,
+    "firstLastName": "Tomasz Zimoch"
   },
   {
     "id": "10",
@@ -4127,7 +4951,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/10/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Urszula.Augustyn@sejm.pl"
+    "email": "Urszula.Augustyn@sejm.pl",
+    "active": true,
+    "firstLastName": "Urszula Augustyn"
   },
   {
     "id": "471",
@@ -4137,7 +4963,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/471/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Urszula.Koszutska@sejm.pl"
+    "email": "Urszula.Koszutska@sejm.pl",
+    "active": true,
+    "firstLastName": "Urszula Koszutska"
   },
   {
     "id": "267",
@@ -4147,7 +4975,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/267/photo-mini",
     "type": "Poseł",
     "club": "PSL-TD",
-    "email": "Urszula.Nowogorska@sejm.pl"
+    "email": "Urszula.Nowogorska@sejm.pl",
+    "active": true,
+    "firstLastName": "Urszula Nowogórska"
   },
   {
     "id": "282",
@@ -4157,7 +4987,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/282/photo-mini",
     "type": "Poseł",
     "club": "PSL-TD",
-    "email": "Urszula.Paslawska@sejm.pl"
+    "email": "Urszula.Paslawska@sejm.pl",
+    "active": true,
+    "firstLastName": "Urszula Pasławska"
   },
   {
     "id": "315",
@@ -4167,7 +4999,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/315/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Urszula.Rusecka@sejm.pl"
+    "email": "Urszula.Rusecka@sejm.pl",
+    "active": true,
+    "firstLastName": "Urszula Rusecka"
   },
   {
     "id": "451",
@@ -4177,7 +5011,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/451/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Urszula.Zielinska@sejm.pl"
+    "email": "Urszula.Zielinska@sejm.pl",
+    "active": true,
+    "firstLastName": "Urszula Sara Zielińska"
   },
   {
     "id": "4",
@@ -4187,7 +5023,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/4/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Waldemar.Andzel@sejm.pl"
+    "email": "Waldemar.Andzel@sejm.pl",
+    "active": true,
+    "firstLastName": "Waldemar Andzel"
   },
   {
     "id": "344",
@@ -4197,7 +5035,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/344/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Waldemar.Slugocki@sejm.pl"
+    "email": "Waldemar.Slugocki@sejm.pl",
+    "active": true,
+    "firstLastName": "Waldemar Sługocki"
   },
   {
     "id": "266",
@@ -4207,7 +5047,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/266/photo-mini",
     "type": "Poseł",
     "club": "Lewica",
-    "email": "Wanda.Nowicka@sejm.pl"
+    "email": "Wanda.Nowicka@sejm.pl",
+    "active": true,
+    "firstLastName": "Wanda Nowicka"
   },
   {
     "id": "345",
@@ -4217,7 +5059,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/345/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Weronika.Smarduch@sejm.pl"
+    "email": "Weronika.Smarduch@sejm.pl",
+    "active": true,
+    "firstLastName": "Weronika Smarduch"
   },
   {
     "id": "184",
@@ -4227,7 +5071,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/184/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Wieslaw.Krajewski@sejm.pl"
+    "email": "Wieslaw.Krajewski@sejm.pl",
+    "active": true,
+    "firstLastName": "Wiesław Krajewski"
   },
   {
     "id": "314",
@@ -4237,7 +5083,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/314/photo-mini",
     "type": "Poseł",
     "club": "PSL-TD",
-    "email": "Wieslaw.Rozynski@sejm.pl"
+    "email": "Wieslaw.Rozynski@sejm.pl",
+    "active": true,
+    "firstLastName": "Wiesław Różyński"
   },
   {
     "id": "364",
@@ -4247,7 +5095,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/364/photo-mini",
     "type": "Poseł",
     "club": "Lewica",
-    "email": "Wieslaw.Szczepanski@sejm.pl"
+    "email": "Wieslaw.Szczepanski@sejm.pl",
+    "active": true,
+    "firstLastName": "Wiesław Szczepański"
   },
   {
     "id": "391",
@@ -4257,7 +5107,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/391/photo-mini",
     "type": "Poseł",
     "club": "Polska2050",
-    "email": "Wioleta.Tomczak@sejm.pl"
+    "email": "Wioleta.Tomczak@sejm.pl",
+    "active": true,
+    "firstLastName": "Wioleta Tomczak"
   },
   {
     "id": "476",
@@ -4267,7 +5119,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/476/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Wioletta.Kulpa@sejm.pl"
+    "email": "Wioletta.Kulpa@sejm.pl",
+    "active": true,
+    "firstLastName": "Wioletta Maria Kulpa"
   },
   {
     "id": "399",
@@ -4277,7 +5131,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/399/photo-mini",
     "type": "Poseł",
     "club": "Konfederacja",
-    "email": "Witold.Tumanowicz@sejm.pl"
+    "email": "Witold.Tumanowicz@sejm.pl",
+    "active": true,
+    "firstLastName": "Witold Tumanowicz"
   },
   {
     "id": "55",
@@ -4287,7 +5143,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/55/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Witold.Czarnecki@sejm.pl"
+    "email": "Witold.Czarnecki@sejm.pl",
+    "active": true,
+    "firstLastName": "Witold Wojciech Czarnecki"
   },
   {
     "id": "448",
@@ -4297,7 +5155,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/448/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Witold.Zembaczynski@sejm.pl"
+    "email": "Witold.Zembaczynski@sejm.pl",
+    "active": true,
+    "firstLastName": "Witold Zembaczyński"
   },
   {
     "id": "190",
@@ -4307,7 +5167,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/190/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Wojciech.Krol@sejm.pl"
+    "email": "Wojciech.Krol@sejm.pl",
+    "active": true,
+    "firstLastName": "Wojciech Król"
   },
   {
     "id": "457",
@@ -4317,7 +5179,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/457/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Wojciech.Zubowski@sejm.pl"
+    "email": "Wojciech.Zubowski@sejm.pl",
+    "active": true,
+    "firstLastName": "Wojciech Michał Zubowski"
   },
   {
     "id": "363",
@@ -4327,7 +5191,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/363/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Wojciech.Szarama@sejm.pl"
+    "email": "Wojciech.Szarama@sejm.pl",
+    "active": true,
+    "firstLastName": "Wojciech Szarama"
   },
   {
     "id": "13",
@@ -4337,7 +5203,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/13/photo-mini",
     "type": "Poseł",
     "club": "PSL-TD",
-    "email": "Wladyslaw.Bartoszewski@sejm.pl"
+    "email": "Wladyslaw.Bartoszewski@sejm.pl",
+    "active": true,
+    "firstLastName": "Władysław Bartoszewski"
   },
   {
     "id": "64",
@@ -4347,7 +5215,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/64/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Wladyslaw.Dajczak@sejm.pl"
+    "email": "Wladyslaw.Dajczak@sejm.pl",
+    "active": true,
+    "firstLastName": "Władysław Dajczak"
   },
   {
     "id": "174",
@@ -4357,7 +5227,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/174/photo-mini",
     "type": "Poseł",
     "club": "PSL-TD",
-    "email": "Wladyslaw.Kosiniak-Kamysz@sejm.pl"
+    "email": "Wladyslaw.Kosiniak-Kamysz@sejm.pl",
+    "active": true,
+    "firstLastName": "Władysław Kosiniak-Kamysz"
   },
   {
     "id": "203",
@@ -4367,7 +5239,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/203/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Wladyslaw.Kurowski@sejm.pl"
+    "email": "Wladyslaw.Kurowski@sejm.pl",
+    "active": true,
+    "firstLastName": "Władysław Kurowski"
   },
   {
     "id": "58",
@@ -4377,7 +5251,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/58/photo-mini",
     "type": "Poseł",
     "club": "Lewica",
-    "email": "Wlodzimierz.Czarzasty@sejm.pl"
+    "email": "Wlodzimierz.Czarzasty@sejm.pl",
+    "active": true,
+    "firstLastName": "Włodzimierz Czarzasty"
   },
   {
     "id": "340",
@@ -4387,7 +5263,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/340/photo-mini",
     "type": "Poseł",
     "club": "Konfederacja_KP",
-    "email": "Wlodzimierz.Skalik@sejm.pl"
+    "email": "Wlodzimierz.Skalik@sejm.pl",
+    "active": true,
+    "firstLastName": "Włodzimierz Skalik"
   },
   {
     "id": "486",
@@ -4397,7 +5275,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/486/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Wlodzimierz.Tomaszewski@sejm.pl"
+    "email": "Wlodzimierz.Tomaszewski@sejm.pl",
+    "active": true,
+    "firstLastName": "Włodzimierz Tomaszewski"
   },
   {
     "id": "98",
@@ -4407,7 +5287,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/98/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Wlodzislaw.Gizinski@sejm.pl"
+    "email": "Wlodzislaw.Gizinski@sejm.pl",
+    "active": true,
+    "firstLastName": "Włodzisław Giziński"
   },
   {
     "id": "42",
@@ -4417,7 +5299,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/42/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Zbigniew.Chmielowiec@sejm.pl"
+    "email": "Zbigniew.Chmielowiec@sejm.pl",
+    "active": true,
+    "firstLastName": "Zbigniew Chmielowiec"
   },
   {
     "id": "66",
@@ -4427,7 +5311,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/66/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Zbigniew.Dolata@sejm.pl"
+    "email": "Zbigniew.Dolata@sejm.pl",
+    "active": true,
+    "firstLastName": "Zbigniew Dolata"
   },
   {
     "id": "131",
@@ -4437,7 +5323,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/131/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Zbigniew.Hoffmann@sejm.pl"
+    "email": "Zbigniew.Hoffmann@sejm.pl",
+    "active": true,
+    "firstLastName": "Zbigniew Hoffmann"
   },
   {
     "id": "173",
@@ -4447,7 +5335,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/173/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Zbigniew.Konwinski@sejm.pl"
+    "email": "Zbigniew.Konwinski@sejm.pl",
+    "active": true,
+    "firstLastName": "Zbigniew Konwiński"
   },
   {
     "id": "204",
@@ -4457,7 +5347,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/204/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Zbigniew.Kuzmiuk@sejm.pl"
+    "email": "Zbigniew.Kuzmiuk@sejm.pl",
+    "active": true,
+    "firstLastName": "Zbigniew Krzysztof Kuźmiuk"
   },
   {
     "id": "310",
@@ -4467,7 +5359,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/310/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Zbigniew.Rau@sejm.pl"
+    "email": "Zbigniew.Rau@sejm.pl",
+    "active": true,
+    "firstLastName": "Zbigniew Rau"
   },
   {
     "id": "351",
@@ -4477,7 +5371,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/351/photo-mini",
     "type": "Poseł",
     "club": "PSL-TD",
-    "email": "Zbigniew.Sosnowski@sejm.pl"
+    "email": "Zbigniew.Sosnowski@sejm.pl",
+    "active": true,
+    "firstLastName": "Zbigniew Sosnowski"
   },
   {
     "id": "450",
@@ -4487,7 +5383,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/450/photo-mini",
     "type": "Poseł",
     "club": "PSL-TD",
-    "email": "Zbigniew.Ziejewski@sejm.pl"
+    "email": "Zbigniew.Ziejewski@sejm.pl",
+    "active": true,
+    "firstLastName": "Zbigniew Ziejewski"
   },
   {
     "id": "456",
@@ -4497,7 +5395,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/456/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Zbigniew.Ziobro@sejm.pl"
+    "email": "Zbigniew.Ziobro@sejm.pl",
+    "active": true,
+    "firstLastName": "Zbigniew Ziobro"
   },
   {
     "id": "91",
@@ -4507,7 +5407,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/91/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Zdzislaw.Gawlik@sejm.pl"
+    "email": "Zdzislaw.Gawlik@sejm.pl",
+    "active": true,
+    "firstLastName": "Zdzisław Gawlik"
   },
   {
     "id": "60",
@@ -4517,7 +5419,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/60/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Zofia.Czernow@sejm.pl"
+    "email": "Zofia.Czernow@sejm.pl",
+    "active": true,
+    "firstLastName": "Zofia Czernow"
   },
   {
     "id": "135",
@@ -4527,7 +5431,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/135/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Lukasz.Horbatowski@sejm.pl"
+    "email": "Lukasz.Horbatowski@sejm.pl",
+    "active": true,
+    "firstLastName": "Łukasz Horbatowski"
   },
   {
     "id": "165",
@@ -4537,7 +5443,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/165/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Lukasz.Kmita@sejm.pl"
+    "email": "Lukasz.Kmita@sejm.pl",
+    "active": true,
+    "firstLastName": "Łukasz Kmita"
   },
   {
     "id": "215",
@@ -4547,7 +5455,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/215/photo-mini",
     "type": "Poseł",
     "club": "Lewica",
-    "email": "Lukasz.Litewka@sejm.pl"
+    "email": "Lukasz.Litewka@sejm.pl",
+    "active": true,
+    "firstLastName": "Łukasz Litewka"
   },
   {
     "id": "240",
@@ -4557,7 +5467,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/240/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Lukasz.Mejza@sejm.pl"
+    "email": "Lukasz.Mejza@sejm.pl",
+    "active": true,
+    "firstLastName": "Łukasz Mejza"
   },
   {
     "id": "276",
@@ -4567,7 +5479,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/276/photo-mini",
     "type": "Poseł",
     "club": "Polska2050",
-    "email": "Lukasz.Osmalak@sejm.pl"
+    "email": "Lukasz.Osmalak@sejm.pl",
+    "active": true,
+    "firstLastName": "Łukasz Osmalak"
   },
   {
     "id": "330",
@@ -4577,7 +5491,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/330/photo-mini",
     "type": "Poseł",
     "club": "PiS",
-    "email": "Lukasz.Schreiber@sejm.pl"
+    "email": "Lukasz.Schreiber@sejm.pl",
+    "active": true,
+    "firstLastName": "Łukasz Schreiber"
   },
   {
     "id": "379",
@@ -4587,7 +5503,9 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/379/photo-mini",
     "type": "Poseł",
     "club": "KO",
-    "email": "Lukasz.Sciebiorowski@sejm.pl"
+    "email": "Lukasz.Sciebiorowski@sejm.pl",
+    "active": true,
+    "firstLastName": "Łukasz Ściebiorowski"
   },
   {
     "id": "53",
@@ -4597,6 +5515,8 @@
     "photoUrl": "https://api.sejm.gov.pl/sejm/term10/MP/53/photo-mini",
     "type": "Poseł",
     "club": "Centrum",
-    "email": "Zaneta.Cwalina-Sliwowska@sejm.pl"
+    "email": "Zaneta.Cwalina-Sliwowska@sejm.pl",
+    "active": true,
+    "firstLastName": "Żaneta Cwalina-Śliwowska"
   }
 ]
