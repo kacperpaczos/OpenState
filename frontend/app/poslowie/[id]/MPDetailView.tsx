@@ -1,7 +1,7 @@
 "use client";
 
 import { MP } from "@/lib/mps";
-import { ArrowLeft, Mail, MapPin } from "lucide-react";
+import { ArrowLeft, Mail, MapPin, GitCompare } from "lucide-react";
 import Link from "next/link";
 import { User } from "lucide-react";
 
@@ -17,7 +17,7 @@ export default function MPDetailView({ mp }: { mp: MP }) {
                 <div className="absolute top-0 right-0 w-64 h-64 bg-accent-blue/10 rounded-full blur-3xl -translate-y-1/2 translate-x-1/4 pointer-events-none"></div>
 
                 <div className="flex flex-col md:flex-row gap-8 items-start relative z-10">
-                    <div className="w-40 h-40 md:w-56 md:h-56 rounded-full overflow-hidden border-4 border-surface-border shadow-2xl shrink-0 bg-gray-800 flex items-center justify-center">
+                    <div className="w-40 h-40 md:w-56 md:h-56 rounded-full overflow-hidden border-4 border-surface-border shadow-2xl shrink-0 bg-surface-color flex items-center justify-center">
                         {mp.photoUrl ? (
                             <img src={mp.photoUrl} alt={mp.name} className="w-full h-full object-cover" />
                         ) : (
@@ -44,9 +44,9 @@ export default function MPDetailView({ mp }: { mp: MP }) {
                             </div>
                         </div>
 
-                        <div className="pt-6 flex flex-wrap gap-4">
+                        <div className="pt-6 flex flex-wrap gap-3">
                             {mp.email ? (
-                                <a href={`mailto:${mp.email}`} className="flex items-center gap-2 px-5 py-2.5 bg-surface-color border border-surface-border rounded-xl hover:bg-white/10 transition-colors text-foreground font-medium shadow-sm">
+                                <a href={`mailto:${mp.email}`} className="flex items-center gap-2 px-5 py-2.5 bg-surface-color border border-surface-border rounded-xl hover:bg-surface-hover transition-colors text-foreground font-medium shadow-sm">
                                     <Mail size={18} className="text-accent-blue" />
                                     Wyślij wiadomość
                                 </a>
@@ -55,6 +55,13 @@ export default function MPDetailView({ mp }: { mp: MP }) {
                                     <Mail size={18} /> Brak adresu email
                                 </span>
                             )}
+                            <Link
+                                href={`/porownaj?a=${mp.id}`}
+                                className="flex items-center gap-2 px-5 py-2.5 bg-indigo-500/10 border border-indigo-500/20 rounded-xl hover:bg-indigo-500/20 transition-colors text-indigo-400 font-medium shadow-sm"
+                            >
+                                <GitCompare size={18} />
+                                Porównaj z…
+                            </Link>
                         </div>
                     </div>
                 </div>

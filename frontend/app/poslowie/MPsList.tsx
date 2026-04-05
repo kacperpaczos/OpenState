@@ -1,7 +1,7 @@
 "use client";
 
 import { useState, useMemo, useEffect } from "react";
-import { Search, User } from "lucide-react";
+import { Search, User, Filter, SortAsc } from "lucide-react";
 import Link from "next/link";
 import { MP } from "@/lib/mps";
 import { useAppSelector } from "@/lib/hooks";
@@ -27,15 +27,26 @@ export default function MPsList({ initialMPs }: { initialMPs: MP[] }) {
         return () => window.removeEventListener('scroll', handleScroll);
     }, []);
 
+    const [activeOnly, setActiveOnly] = useState(false);
+    const [sortActive, setSortActive] = useState(true); // aktywni pierwsi domyslnie
+
     const filteredMps = useMemo(() => {
-        if (!globalSearch) return mps;
-        const lower = globalSearch.toLowerCase();
-        return mps.filter(mp =>
-            mp.name.toLowerCase().includes(lower) ||
-            mp.club.toLowerCase().includes(lower) ||
-            mp.district.toLowerCase().includes(lower)
-        );
-    }, [mps, globalSearch]);
+        let result = mps;
+        // text filter
+        if (globalSearch) {
+            const lower = globalSearch.toLowerCase();
+            result = result.filter(mp =>
+                mp.name.toLowerCase().includes(lower) ||
+                mp.club.toLowerCase().includes(lower) ||
+                mp.district.toLowerCase().includes(lower)
+            );
+        }
+        // active-only filter
+        if (activeOnly) result = result.filter(mp => mp.active);
+        // sort
+        if (sortActive) result = [...result].sort((a, b) => (b.active ? 1 : 0) - (a.active ? 1 : 0));
+        return result;
+    }, [mps, globalSearch, activeOnly, sortActive]);
 
     const [visibleCount, setVisibleCount] = useState(100);
 
@@ -51,6 +62,30 @@ export default function MPsList({ initialMPs }: { initialMPs: MP[] }) {
                 <div>
                     <h1 className="text-3xl font-bold text-foreground mb-2">Posłowie</h1>
                     <p className="text-gray-400">Posłowie X kadencji Sejmu · {mps.length} osób</p>
+                </div>
+                {/* Controls */}
+                <div className="flex flex-wrap items-center gap-2">
+                    <button
+                        onClick={() => setActiveOnly(v => !v)}
+                        data-testid="active-only-toggle"
+                        className={`flex items-center gap-1.5 px-3 py-1.5 rounded-full text-xs font-semibold border transition-colors ${activeOnly
+                            ? 'bg-green-500/15 text-green-500 border-green-500/30'
+                            : 'bg-surface-color text-text-secondary border-surface-border hover:border-green-500/30'
+                            }`}
+                    >
+                        <span className={`w-2 h-2 rounded-full ${activeOnly ? 'bg-green-500' : 'bg-gray-400'}`} />
+                        Tylko aktywni
+                    </button>
+                    <button
+                        onClick={() => setSortActive(v => !v)}
+                        className={`flex items-center gap-1.5 px-3 py-1.5 rounded-full text-xs font-semibold border transition-colors ${sortActive
+                            ? 'bg-accent-blue/10 text-accent-blue border-accent-blue/30'
+                            : 'bg-surface-color text-text-secondary border-surface-border hover:border-accent-blue/30'
+                            }`}
+                    >
+                        <SortAsc size={12} />
+                        {sortActive ? 'Aktywni pierwsi' : 'Alfabetycznie'}
+                    </button>
                 </div>
             </header>
 
@@ -83,19 +118,24 @@ function MPCard({ mp }: { mp: MP }) {
 
     return (
         <Link href={href} className="block">
-            <div className="glass-card p-4 flex items-center gap-4 hover:bg-white/5 transition-colors cursor-pointer group h-full">
-                <div className="w-16 h-16 rounded-full overflow-hidden bg-gradient-to-br from-gray-700 to-gray-900 flex items-center justify-center border border-surface-border group-hover:border-accent-blue/50 transition-colors relative shrink-0">
+            <div className="glass-card p-4 flex items-center gap-4 hover:bg-surface-hover transition-colors cursor-pointer group h-full">
+                <div className="w-16 h-16 rounded-full overflow-hidden bg-gradient-to-br from-gray-200 to-gray-400 dark:from-gray-700 dark:to-gray-900 flex items-center justify-center border border-surface-border group-hover:border-accent-blue/50 transition-colors relative shrink-0">
                     {mp.photoUrl ? (
                         <img src={mp.photoUrl} alt={mp.name} className="w-full h-full object-cover" loading="lazy" />
                     ) : (
                         <User size={24} className="text-gray-400 group-hover:text-blue-400" />
                     )}
                 </div>
-                <div className="overflow-hidden">
-                    <h3 className="font-semibold text-foreground text-sm truncate">{mp.name}</h3>
-                    <div className="flex flex-col gap-0.5 mt-1">
+                <div className="overflow-hidden min-w-0">
+                    <div className="flex items-center gap-1.5 mb-0.5">
+                        <h3 className="font-semibold text-foreground text-sm truncate">{mp.name}</h3>
+                        {mp.active && (
+                            <span className="shrink-0 text-[9px] font-bold uppercase px-1.5 py-0.5 rounded bg-green-500/10 text-green-500 border border-green-500/20">Aktywny</span>
+                        )}
+                    </div>
+                    <div className="flex flex-col gap-0.5">
                         <div className="flex items-center gap-1.5">
-                            <span className={`w-1.5 h-1.5 rounded-full ${mp.active ? 'bg-green-500' : 'bg-red-500'}`}></span>
+                            <span className={`w-1.5 h-1.5 rounded-full shrink-0 ${mp.active ? 'bg-green-500' : 'bg-red-400'}`} />
                             <span className="text-xs text-text-secondary truncate" title={mp.club}>{mp.club}</span>
                         </div>
                         <span className="text-[10px] text-gray-500 uppercase tracking-wider truncate">
