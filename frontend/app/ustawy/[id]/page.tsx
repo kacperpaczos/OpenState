@@ -1,6 +1,7 @@
 import { getBill } from "@/lib/bills";
 import { getRclProject } from "@/lib/rcl";
 import ProcessTimeline from "./ProcessTimeline";
+import RelatedVotings from "./RelatedVotings";
 import DiffViewer from "@/components/DiffViewer";
 import { notFound } from "next/navigation";
 import Link from "next/link";
@@ -104,6 +105,8 @@ export default async function BillPage({ params }: { params: Promise<{ id: strin
             </header>
 
             <ProcessTimeline process={process} />
+
+            <RelatedVotings billId={process.id} />
 
             {/* Version Comparison */}
             <div className="mt-12">
