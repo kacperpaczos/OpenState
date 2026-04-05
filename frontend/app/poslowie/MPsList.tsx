@@ -10,7 +10,6 @@ import { selectGlobalSearch } from "@/lib/features/search/searchSlice";
 export default function MPsList({ initialMPs }: { initialMPs: MP[] }) {
     const [mps] = useState<MP[]>(initialMPs);
     const globalSearch = useAppSelector(selectGlobalSearch);
-    const [chamber, setChamber] = useState<"all" | "sejm" | "senat">("all");
     const [headerHidden, setHeaderHidden] = useState(false);
 
     useEffect(() => {
@@ -29,27 +28,14 @@ export default function MPsList({ initialMPs }: { initialMPs: MP[] }) {
     }, []);
 
     const filteredMps = useMemo(() => {
-        let result = mps;
-
-        // Filter by chamber
-        if (chamber === "sejm") {
-            result = result.filter(mp => mp.chamber === "Sejm");
-        } else if (chamber === "senat") {
-            result = result.filter(mp => mp.chamber === "Senat");
-        }
-
-        // Filter by search
-        if (globalSearch) {
-            const lower = globalSearch.toLowerCase();
-            result = result.filter(mp =>
-                mp.name.toLowerCase().includes(lower) ||
-                mp.club.toLowerCase().includes(lower) ||
-                mp.district.toLowerCase().includes(lower)
-            );
-        }
-
-        return result;
-    }, [mps, globalSearch, chamber]);
+        if (!globalSearch) return mps;
+        const lower = globalSearch.toLowerCase();
+        return mps.filter(mp =>
+            mp.name.toLowerCase().includes(lower) ||
+            mp.club.toLowerCase().includes(lower) ||
+            mp.district.toLowerCase().includes(lower)
+        );
+    }, [mps, globalSearch]);
 
     const [visibleCount, setVisibleCount] = useState(100);
 
@@ -63,32 +49,8 @@ export default function MPsList({ initialMPs }: { initialMPs: MP[] }) {
                 }}
             >
                 <div>
-                    <h1 className="text-3xl font-bold text-foreground mb-2">Parlamentarzyści</h1>
-                    <p className="text-gray-400">Posłowie X kadencji i Senatorowie XI kadencji</p>
-                </div>
-
-                <div className="flex flex-col md:flex-row gap-4 items-end md:items-center">
-                    {/* Chamber Toggle */}
-                    <div className="flex bg-surface-color border border-surface-border rounded-xl p-1">
-                        <button
-                            onClick={() => setChamber("all")}
-                            className={`px-4 py-2 rounded-lg text-sm font-medium transition-all ${chamber === 'all' ? 'bg-accent-blue text-white shadow-lg' : 'text-gray-500 hover:text-foreground'}`}
-                        >
-                            Wszyscy
-                        </button>
-                        <button
-                            onClick={() => setChamber("sejm")}
-                            className={`px-4 py-2 rounded-lg text-sm font-medium transition-all ${chamber === 'sejm' ? 'bg-accent-blue text-white shadow-lg' : 'text-gray-500 hover:text-foreground'}`}
-                        >
-                            Sejm
-                        </button>
-                        <button
-                            onClick={() => setChamber("senat")}
-                            className={`px-4 py-2 rounded-lg text-sm font-medium transition-all ${chamber === 'senat' ? 'bg-accent-blue text-white shadow-lg' : 'text-gray-500 hover:text-foreground'}`}
-                        >
-                            Senat
-                        </button>
-                    </div>
+                    <h1 className="text-3xl font-bold text-foreground mb-2">Posłowie</h1>
+                    <p className="text-gray-400">Posłowie X kadencji Sejmu · {mps.length} osób</p>
                 </div>
             </header>
 

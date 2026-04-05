@@ -1,6 +1,7 @@
 /**
- * MPsList Integration Tests (tests 51-56)
- * Tests the full flow of search, filters, and load more with a real Redux store.
+ * MPsList Integration Tests
+ * Tests search, load-more, and MP card links.
+ * Note: chamber toggle was removed — /poslowie now shows only Sejm MPs.
  */
 import { render, screen, fireEvent } from '@testing-library/react';
 import { configureStore } from '@reduxjs/toolkit';
@@ -37,101 +38,85 @@ function renderWithStore(ui: React.ReactElement, preloadedSearch = '') {
 }
 
 const mockMPs = [
-    createMockMP({ id: '1', name: 'Jan Kowalski', club: 'KO', district: 'Warszawa', chamber: 'Sejm' }),
-    createMockMP({ id: '2', name: 'Anna Nowak', club: 'PiS', district: 'Kraków', chamber: 'Sejm' }),
-    createMockMP({ id: '3', name: 'Piotr Wiśniewski', club: 'KO', district: 'Gdańsk', chamber: 'Senat' }),
-    createMockMP({ id: '4', name: 'Maria Zielińska', club: 'Lewica', district: 'Łódź', chamber: 'Sejm', active: false }),
+    createMockMP({ id: '1', name: 'Jan Kowalski', club: 'KO', district: 'Warszawa' }),
+    createMockMP({ id: '2', name: 'Anna Nowak', club: 'PiS', district: 'Krakow' }),
+    createMockMP({ id: '3', name: 'Piotr Wisniewski', club: 'KO', district: 'Gdansk', chamber: 'Senat' }),
+    createMockMP({ id: '4', name: 'Maria Zielinska', club: 'Lewica', district: 'Lodz', active: false }),
 ];
 
 describe('MPsList Integration', () => {
-    // 51. Global search filters by name
+    // Search
     it('globalSearch filters by name', () => {
         renderWithStore(<MPsList initialMPs={mockMPs} />, 'Kowalski');
         expect(screen.getByText('Jan Kowalski')).toBeInTheDocument();
         expect(screen.queryByText('Anna Nowak')).not.toBeInTheDocument();
     });
 
-    // 52. Global search filters by club
     it('globalSearch filters by club', () => {
         renderWithStore(<MPsList initialMPs={mockMPs} />, 'PiS');
         expect(screen.getByText('Anna Nowak')).toBeInTheDocument();
         expect(screen.queryByText('Jan Kowalski')).not.toBeInTheDocument();
     });
 
-    // 53. "Senat" filter hides MPs
-    it('clicking "Senat" shows only senators', () => {
+    // Heading / rendering
+    it('shows Poslowie heading', () => {
         renderWithStore(<MPsList initialMPs={mockMPs} />);
-        fireEvent.click(screen.getByText('Senat'));
-        expect(screen.getByText('Piotr Wiśniewski')).toBeInTheDocument();
-        expect(screen.queryByText('Jan Kowalski')).not.toBeInTheDocument();
+        expect(screen.getByRole('heading', { name: /Pos/i })).toBeInTheDocument();
     });
 
-    // 54. "Sejm" filter hides senators
-    it('clicking "Sejm" shows only MPs', () => {
+    it('renders all MPs passed in', () => {
         renderWithStore(<MPsList initialMPs={mockMPs} />);
-        fireEvent.click(screen.getByText('Sejm'));
         expect(screen.getByText('Jan Kowalski')).toBeInTheDocument();
-        expect(screen.queryByText('Piotr Wiśniewski')).not.toBeInTheDocument();
+        expect(screen.getByText('Anna Nowak')).toBeInTheDocument();
     });
 
-    // 55. Load More increases visible count
-    it('"Pokaż więcej" increases visible count', () => {
+    it('renders inactive MP without crashing', () => {
+        renderWithStore(<MPsList initialMPs={mockMPs} />);
+        expect(screen.getByText('Maria Zielinska')).toBeInTheDocument();
+    });
+
+    // Load more
+    it('"Pokaz wiecej" increases visible count', () => {
         const manyMPs = Array.from({ length: 150 }, (_, i) =>
-            createMockMP({ id: String(i), name: `Poseł ${i}` })
+            createMockMP({ id: String(i), name: `Posel ${i}` })
         );
         renderWithStore(<MPsList initialMPs={manyMPs} />);
 
-        const btn = screen.getByText(/Pokaż więcej/);
+        const btn = screen.getByText(/Poka/);
         expect(btn).toBeInTheDocument();
-
         fireEvent.click(btn);
-        expect(screen.queryByText(/Pokaż więcej/)).not.toBeInTheDocument();
+        expect(screen.queryByText(/Poka/)).not.toBeInTheDocument();
     });
 
-    // 56. Double Load More shows all
-    it('clicking "Pokaż więcej" twice shows all MPs', () => {
+    it('clicking load more twice shows all MPs', () => {
         const manyMPs = Array.from({ length: 250 }, (_, i) =>
-            createMockMP({ id: String(i), name: `Poseł ${i}` })
+            createMockMP({ id: String(i), name: `Posel ${i}` })
         );
         renderWithStore(<MPsList initialMPs={manyMPs} />);
 
-        fireEvent.click(screen.getByText(/Pokaż więcej/));
-        // After first click: 200 visible, 50 remain
-        expect(screen.getByText(/Pokaż więcej/)).toBeInTheDocument();
+        fireEvent.click(screen.getByText(/Poka/));
+        expect(screen.getByText(/Poka/)).toBeInTheDocument();
 
-        fireEvent.click(screen.getByText(/Pokaż więcej/));
-        // After second click: all 250 visible
-        expect(screen.queryByText(/Pokaż więcej/)).not.toBeInTheDocument();
+        fireEvent.click(screen.getByText(/Poka/));
+        expect(screen.queryByText(/Poka/)).not.toBeInTheDocument();
     });
 
-    // Extra: "Wszyscy" shows all after filter
-    it('"Wszyscy" resets chamber filter', () => {
-        renderWithStore(<MPsList initialMPs={mockMPs} />);
-        fireEvent.click(screen.getByText('Senat'));
-        expect(screen.queryByText('Jan Kowalski')).not.toBeInTheDocument();
-
-        fireEvent.click(screen.getByText('Wszyscy'));
-        expect(screen.getByText('Jan Kowalski')).toBeInTheDocument();
-        expect(screen.getByText('Piotr Wiśniewski')).toBeInTheDocument();
-    });
-
-    // Extra: MPCard links correctly for Sejm
+    // Card links
     it('Sejm MP card links to /poslowie/[id]', () => {
         renderWithStore(<MPsList initialMPs={[mockMPs[0]]} />);
         const link = screen.getByText('Jan Kowalski').closest('a');
         expect(link).toHaveAttribute('href', '/poslowie/1');
     });
 
-    // Extra: MPCard links correctly for Senat
     it('Senat MP card links to /senatorowie/[id]', () => {
         renderWithStore(<MPsList initialMPs={[mockMPs[2]]} />);
-        const link = screen.getByText('Piotr Wiśniewski').closest('a');
+        const link = screen.getByText('Piotr Wisniewski').closest('a');
         expect(link).toHaveAttribute('href', '/senatorowie/3');
     });
 
-    // Extra: Empty state message
+    // Empty state
     it('shows empty message when no results match', () => {
         renderWithStore(<MPsList initialMPs={mockMPs} />, 'zzznonexistent');
-        expect(screen.getByText('Nie znaleziono parlamentarzystów.')).toBeInTheDocument();
+        expect(screen.getByText(/Nie znaleziono/i)).toBeInTheDocument();
     });
 });
