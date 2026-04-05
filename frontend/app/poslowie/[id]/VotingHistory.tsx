@@ -3,7 +3,7 @@
 import { VoteRecord } from "@/lib/votes";
 import { CheckCircle, XCircle, MinusCircle, UserX, AlertCircle, ChevronDown, ChevronRight } from "lucide-react";
 import Link from "next/link";
-import { useState } from "react";
+import { useState, useMemo } from "react";
 
 const VOTE_CONFIG: Record<string, { label: string; icon: React.ReactNode; badge: string }> = {
     YES: { label: "ZA", icon: <CheckCircle size={16} className="text-green-500" />, badge: "bg-green-500/10 text-green-400 border-green-500/20" },
@@ -73,7 +73,21 @@ function SittingSection({ group }: { group: SittingGroup }) {
     );
 }
 
+type VoteFilter = "ALL" | "YES" | "NO" | "ABSTAIN" | "ABSENT";
+const PAGE_SIZE = 50;
+
+const FILTERS: { value: VoteFilter; label: string }[] = [
+    { value: "ALL", label: "Wszystkie" },
+    { value: "YES", label: "ZA" },
+    { value: "NO", label: "PRZECIW" },
+    { value: "ABSTAIN", label: "WSTRZ." },
+    { value: "ABSENT", label: "NIEOB." },
+];
+
 export default function VotingHistory({ votes }: { votes: VoteRecord[] }) {
+    const [filter, setFilter] = useState<VoteFilter>("ALL");
+    const [limit, setLimit] = useState(PAGE_SIZE);
+
     if (!votes || votes.length === 0) {
         return (
             <div className="glass-card p-8 text-center opacity-70 mt-8">
@@ -83,8 +97,18 @@ export default function VotingHistory({ votes }: { votes: VoteRecord[] }) {
         );
     }
 
+    // Apply filter
+    const filtered = useMemo(
+        () => filter === "ALL" ? votes : votes.filter(v => v.vote === filter),
+        [votes, filter]
+    );
+
+    // Apply limit (on filtered votes before grouping)
+    const limitedVotes = filtered.slice(0, limit);
+    const hasMore = filtered.length > limit;
+
     // Group by sitting, sorted newest first
-    const grouped = votes.reduce<Record<number, SittingGroup>>((acc, vote) => {
+    const grouped = limitedVotes.reduce<Record<number, SittingGroup>>((acc, vote) => {
         if (!acc[vote.sitting]) {
             acc[vote.sitting] = { sitting: vote.sitting, date: vote.date, votes: [] };
         }
@@ -95,21 +119,56 @@ export default function VotingHistory({ votes }: { votes: VoteRecord[] }) {
 
     return (
         <div className="glass-card overflow-hidden mt-8">
-            <div className="p-6 border-b border-surface-border flex items-center justify-between">
-                <h3 className="font-semibold text-foreground flex items-center gap-2">
-                    <AlertCircle size={18} className="text-accent-blue" />
-                    Historia Głosowań
-                </h3>
-                <span className="text-xs text-gray-500 bg-surface-color px-2 py-1 rounded">
-                    {votes.length} głosowań · {groups.length} posiedzeń
-                </span>
+            {/* Header */}
+            <div className="p-6 border-b border-surface-border">
+                <div className="flex items-center justify-between mb-4">
+                    <h3 className="font-semibold text-foreground flex items-center gap-2">
+                        <AlertCircle size={18} className="text-accent-blue" />
+                        Historia Głosowań
+                    </h3>
+                    <span className="text-xs text-gray-500 bg-surface-color px-2 py-1 rounded">
+                        {filtered.length} głosowań · {groups.length} posiedzeń
+                    </span>
+                </div>
+                {/* Filter buttons */}
+                <div className="flex flex-wrap gap-2">
+                    {FILTERS.map(f => (
+                        <button
+                            key={f.value}
+                            data-testid={`filter-${f.value}`}
+                            onClick={() => { setFilter(f.value); setLimit(PAGE_SIZE); }}
+                            className={`text-xs px-3 py-1.5 rounded-full border transition-colors ${filter === f.value
+                                    ? "bg-accent-blue text-white border-accent-blue"
+                                    : "border-surface-border text-gray-400 hover:border-gray-500"
+                                }`}
+                        >
+                            {f.label}
+                        </button>
+                    ))}
+                </div>
             </div>
 
+            {/* Grouped rows */}
             <div>
-                {groups.map(g => (
-                    <SittingSection key={g.sitting} group={g} />
-                ))}
+                {groups.length === 0 ? (
+                    <p className="p-6 text-center text-gray-500 text-sm">Brak głosowań dla wybranego filtra.</p>
+                ) : (
+                    groups.map(g => <SittingSection key={g.sitting} group={g} />)
+                )}
             </div>
+
+            {/* Load more */}
+            {hasMore && (
+                <div className="p-4 border-t border-surface-border text-center">
+                    <button
+                        data-testid="load-more"
+                        onClick={() => setLimit(l => l + PAGE_SIZE)}
+                        className="text-sm text-accent-blue hover:underline"
+                    >
+                        Załaduj więcej ({filtered.length - limit} pozostałych)
+                    </button>
+                </div>
+            )}
         </div>
     );
 }

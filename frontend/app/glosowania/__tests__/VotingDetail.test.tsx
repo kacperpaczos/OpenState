@@ -13,6 +13,13 @@ jest.mock("../../../lib/votings", () => ({
     getSittingVotings: jest.fn(),
 }));
 
+jest.mock("../../../lib/mps", () => ({
+    getMPs: jest.fn().mockResolvedValue([
+        { id: "442", name: "Adrian Zandberg" },
+        { id: "195", name: "Adam Krzemiński" },
+    ]),
+}));
+
 import { getVotingDetails, getSittingVotings } from "../../../lib/votings";
 import VotingDetailPage from "../[sitting]/[voting]/page";
 
@@ -98,7 +105,7 @@ describe("VotingDetailPage", () => {
         const page = await VotingDetailPage({ params: Promise.resolve({ sitting: "12", voting: "3" }) });
         render(page);
 
-        const link = screen.getByRole("link", { name: /Poseł #442/ });
+        const link = screen.getByRole("link", { name: /Adrian Zandberg/ });
         expect(link).toHaveAttribute("href", "/poslowie/442");
     });
 

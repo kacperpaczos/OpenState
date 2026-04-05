@@ -1,4 +1,5 @@
 import { getVotingDetails, getSittingVotings } from "@/lib/votings";
+import { getMPs } from "@/lib/mps";
 import { notFound } from "next/navigation";
 import Link from "next/link";
 import { ArrowLeft, CheckCircle, XCircle, MinusCircle, UserX } from "lucide-react";
@@ -28,6 +29,11 @@ export default async function VotingDetailPage({ params }: PageProps) {
     const votingNum = parseInt(voting);
 
     const details = await getVotingDetails(sittingNum, votingNum);
+    const allMPs = await getMPs();
+    const mpNames: Record<number, string> = {};
+    for (const mp of allMPs) {
+        mpNames[parseInt(mp.id)] = mp.name;
+    }
 
     if (!details) {
         // Try to find basic info in sitting index
@@ -71,8 +77,8 @@ export default async function VotingDetailPage({ params }: PageProps) {
                 <div className="flex items-start justify-between gap-4 mb-4">
                     <span className="text-blue-400 font-mono text-sm">Posiedzenie {sitting} · Głosowanie nr {voting}</span>
                     <span className={`text-xs font-bold uppercase px-3 py-1 rounded-full border ${result === "passed" ? "bg-green-500/10 text-green-400 border-green-500/20" :
-                            result === "rejected" ? "bg-red-500/10 text-red-400 border-red-500/20" :
-                                "bg-gray-500/10 text-gray-400 border-gray-500/20"
+                        result === "rejected" ? "bg-red-500/10 text-red-400 border-red-500/20" :
+                            "bg-gray-500/10 text-gray-400 border-gray-500/20"
                         }`}>
                         {result === "passed" ? "✓ Przyjęto" : result === "rejected" ? "✗ Odrzucono" : "Remis"}
                     </span>
@@ -110,12 +116,12 @@ export default async function VotingDetailPage({ params }: PageProps) {
                                     {v.vote === "ABSTAIN" && <MinusCircle size={18} className="text-yellow-400" />}
                                     {v.vote === "ABSENT" && <UserX size={18} className="text-gray-600" />}
                                 </div>
-                                <span className="text-sm text-foreground flex-1">Poseł #{v.MP}</span>
+                                <span className="text-sm text-foreground flex-1">{mpNames[v.MP] ?? `Poseł #${v.MP}`}</span>
                                 {v.club && <span className="text-xs text-gray-500">{v.club}</span>}
                                 <span className={`text-[10px] uppercase font-bold px-2 py-0.5 rounded border ${v.vote === "YES" ? "bg-green-500/10 text-green-400 border-green-500/20" :
-                                        v.vote === "NO" ? "bg-red-500/10 text-red-400 border-red-500/20" :
-                                            v.vote === "ABSTAIN" ? "bg-yellow-500/10 text-yellow-400 border-yellow-500/20" :
-                                                "bg-gray-800 text-gray-500 border-gray-700"
+                                    v.vote === "NO" ? "bg-red-500/10 text-red-400 border-red-500/20" :
+                                        v.vote === "ABSTAIN" ? "bg-yellow-500/10 text-yellow-400 border-yellow-500/20" :
+                                            "bg-gray-800 text-gray-500 border-gray-700"
                                     }`}>
                                     {v.vote === "YES" ? "ZA" : v.vote === "NO" ? "PRZEC" : v.vote === "ABSTAIN" ? "WSTRZ" : "NIEOB"}
                                 </span>
