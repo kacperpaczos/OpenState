@@ -56,3 +56,14 @@ export async function getVotingDetails(sitting: number, voting: number): Promise
     }
     return null;
 }
+
+export async function getAllVotings(): Promise<VotingSummary[]> {
+    const sittings = await getSittings();
+    const all: VotingSummary[] = [];
+    for (const s of sittings) {
+        const sv = await getSittingVotings(s.sitting);
+        all.push(...sv);
+    }
+    // Newest first: sort by sitting desc, then votingNumber desc
+    return all.sort((a, b) => b.sitting !== a.sitting ? b.sitting - a.sitting : b.votingNumber - a.votingNumber);
+}
