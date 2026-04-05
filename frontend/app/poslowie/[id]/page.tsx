@@ -2,6 +2,7 @@ import { getMP } from "@/lib/mps";
 import { getVotesForMP } from "@/lib/votes";
 import MPDetailView from "./MPDetailView";
 import VotingHistory from "./VotingHistory";
+import MPStats from "./MPStats";
 import { notFound } from "next/navigation";
 
 export default async function MPPage({ params }: { params: Promise<{ id: string }> }) {
@@ -20,8 +21,10 @@ export default async function MPPage({ params }: { params: Promise<{ id: string 
         <>
             <MPDetailView mp={mp} />
             <div className="max-w-4xl mx-auto pb-20 fade-in -mt-16 px-8 md:px-12">
+                <MPStats votes={votes} />
                 <VotingHistory votes={votes} />
             </div>
         </>
     );
 }
+
