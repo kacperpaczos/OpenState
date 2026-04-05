@@ -1,143 +1,144 @@
 import React from 'react';
-import { Search, ArrowUpRight, Play, BookOpen, BarChart3, Calendar } from 'lucide-react';
+import { ArrowUpRight, BookOpen, BarChart3, Users, Calendar, GitCompare, Vote } from 'lucide-react';
 import Link from 'next/link';
 import { getProcessStats, getVotingStats, getParliamentStats } from '@/lib/stats';
 
 export default async function HomePage() {
-  // Fetch real data
-  const processStats = await getProcessStats();
-  const votingStats = await getVotingStats();
-  const parliamentStats = await getParliamentStats();
+  const [processStats, votingStats, parliamentStats] = await Promise.all([
+    getProcessStats(),
+    getVotingStats(),
+    getParliamentStats(),
+  ]);
 
   return (
-    <div className="min-h-screen text-foreground font-sans p-4 md:p-8 flex flex-col items-center">
+    <div className="min-h-screen text-foreground font-sans flex flex-col items-center px-4 md:px-8 pb-16">
 
-      {/* Main Hero + Quick Links */}
-      <div className="w-full max-w-2xl mb-16 text-center space-y-8 mt-8">
-        <h1 className="text-4xl md:text-5xl font-medium tracking-tight text-foreground">
-          Śledź polski proces legislacyjny
+      {/* ── Hero ─────────────────────────────────────────────────────────── */}
+      <div className="w-full max-w-2xl text-center pt-16 pb-12 space-y-5">
+        <div className="inline-block bg-blue-500/10 text-blue-400 text-xs font-bold uppercase tracking-widest px-3 py-1 rounded-full border border-blue-500/20 mb-2">
+          JasnaSprawa.pl
+        </div>
+        <h1 className="text-4xl md:text-5xl font-bold tracking-tight text-foreground leading-tight">
+          Przeźroczysty<br />
+          <span className="text-gradient">parlament polski</span>
         </h1>
-        <p className="text-text-secondary text-lg">Przejrzyste dane o ustawach, głosowaniach i parlamentarzystach.</p>
-        <div className="flex justify-center gap-3 text-sm text-text-secondary">
-          <Link href="/ustawy" className="bg-apple-gray-100 dark:bg-white/10 px-4 py-2 rounded-full cursor-pointer hover:bg-apple-gray-200 dark:hover:bg-white/15 transition text-foreground font-medium">📝 Ostatnie ustawy</Link>
-          <Link href="/glosowania" className="bg-apple-gray-100 dark:bg-white/10 px-4 py-2 rounded-full cursor-pointer hover:bg-apple-gray-200 dark:hover:bg-white/15 transition text-foreground font-medium">🗳️ Wyniki głosowań</Link>
-          <Link href="/poslowie" className="bg-apple-gray-100 dark:bg-white/10 px-4 py-2 rounded-full cursor-pointer hover:bg-apple-gray-200 dark:hover:bg-white/15 transition text-foreground font-medium">👤 Znajdź posła</Link>
+        <p className="text-text-secondary text-lg max-w-lg mx-auto">
+          Ustawy, głosowania i parlamentarzyści — w jednym miejscu.
+        </p>
+
+        {/* Quick-entry pills */}
+        <div className="flex flex-wrap justify-center gap-2 pt-2">
+          <Link href="/poslowie" className="quick-pill">👤 Posłowie</Link>
+          <Link href="/senatorowie" className="quick-pill">🏛 Senatorowie</Link>
+          <Link href="/glosowania" className="quick-pill">🗳️ Głosowania</Link>
+          <Link href="/ustawy" className="quick-pill">📝 Ustawy</Link>
+          <Link href="/porownaj" className="quick-pill">⚖️ Porównaj posłów</Link>
+          <Link href="/interpelacje" className="quick-pill">💬 Interpelacje</Link>
         </div>
       </div>
 
-      {/* BENTO GRID */}
-      <div className="w-full max-w-6xl grid grid-cols-1 md:grid-cols-4 md:grid-rows-3 gap-4 h-auto md:h-[600px]">
+      {/* ── Bento Grid ───────────────────────────────────────────────────── */}
+      <div className="w-full max-w-6xl grid grid-cols-1 md:grid-cols-6 auto-rows-[160px] gap-4">
 
-        {/* Large Feature / Hero Block */}
-        <Link href="/harmonogram" className="col-span-1 md:col-span-2 md:row-span-2 glass-card !p-8 relative overflow-hidden group hover:border-accent-blue/30 transition-colors cursor-pointer">
-          <div className="relative z-10 h-full flex flex-col justify-between">
-            <div>
-              <div className="w-10 h-10 bg-blue-100 dark:bg-blue-900/30 rounded-2xl flex items-center justify-center mb-4 text-blue-600 dark:text-blue-400">
-                <BarChart3 className="w-6 h-6" />
-              </div>
-              <h2 className="text-2xl font-semibold mb-2">Harmonogram Legislacyjny</h2>
-              <p className="text-gray-500 dark:text-gray-400">Śledź projekty ustaw na każdym etapie procesu legislacyjnego.</p>
-
-              {/* Real Stats */}
-              <div className="mt-4 flex items-center gap-4 text-sm">
-                <span className="bg-blue-100 dark:bg-blue-900/30 text-blue-700 dark:text-blue-300 px-3 py-1 rounded-full font-medium">
-                  {processStats.inProgress} w toku
-                </span>
-                <span className="text-gray-500 dark:text-gray-400">
-                  {processStats.completed} zakończonych
-                </span>
-              </div>
+        {/* 1 — Posłowie (2×2) */}
+        <Link href="/poslowie"
+          className="md:col-span-2 md:row-span-2 glass-card !p-7 relative overflow-hidden group hover:border-accent-blue/40 transition-colors flex flex-col justify-between">
+          <div>
+            <div className="w-10 h-10 bg-green-500/10 rounded-2xl flex items-center justify-center mb-4 text-green-400">
+              <Users className="w-6 h-6" />
             </div>
-            <div className="flex items-center gap-2 mt-4">
-              <span className="text-sm font-medium">Zobacz harmonogram</span>
-              <ArrowUpRight className="w-4 h-4" />
+            <h2 className="text-2xl font-bold mb-1">Posłowie</h2>
+            <p className="text-gray-500 text-sm">Profile, głosowania i statystyki aktywności</p>
+            <div className="mt-4 flex gap-3 text-sm">
+              <span className="bg-green-500/10 text-green-400 px-3 py-1 rounded-full font-medium">{parliamentStats.totalMPs} posłów</span>
+              <span className="bg-surface-color text-gray-500 px-3 py-1 rounded-full">{parliamentStats.totalSenators} senatorów</span>
             </div>
           </div>
-          {/* Abstract visual */}
-          <div className="absolute right-[-20px] bottom-[-20px] w-48 h-48 bg-blue-500/10 rounded-full blur-3xl group-hover:bg-blue-500/20 transition-colors"></div>
+          <div className="flex items-center gap-1 text-sm font-medium text-gray-400 group-hover:text-foreground transition-colors">
+            Przeglądaj <ArrowUpRight className="w-4 h-4" />
+          </div>
+          <div className="absolute right-[-30px] bottom-[-30px] w-48 h-48 bg-green-500/10 rounded-full blur-3xl group-hover:bg-green-500/20 transition-colors" />
         </Link>
 
-        {/* Top Right - Status */}
-        <Link href="/harmonogram" className="md:col-span-2 glass-card !p-6 flex items-center justify-between hover:scale-[1.01] transition-transform cursor-pointer">
-          <div>
-            <h3 className="font-semibold text-lg">Harmonogram</h3>
-            <p className="text-gray-500 dark:text-gray-400 text-sm">Proces legislacyjny w czasie rzeczywistym</p>
+        {/* 2 — Głosowania (2×1) */}
+        <Link href="/glosowania"
+          className="md:col-span-2 glass-card !p-6 flex items-center gap-4 hover:border-purple-500/30 transition-colors group">
+          <div className="w-12 h-12 bg-purple-500/10 rounded-2xl flex items-center justify-center text-purple-400 shrink-0">
+            <Vote className="w-6 h-6" />
           </div>
-          <div className="bg-white dark:bg-black p-3 rounded-full">
+          <div>
+            <h3 className="font-bold text-base">Głosowania</h3>
+            <p className="text-gray-500 text-xs mt-0.5">
+              {votingStats.latestSitting
+                ? `${votingStats.totalSittings} posiedze\u0144 \u00b7 ostatnie: pos. ${votingStats.latestSitting.sitting}`
+                : 'Wyniki g\u0142osowa\u0144 Sejmu'}
+            </p>
+          </div>
+          <ArrowUpRight className="w-4 h-4 ml-auto text-gray-500 group-hover:text-foreground transition-colors" />
+        </Link>
+
+        {/* 3 — Ustawy (2×1) */}
+        <Link href="/ustawy"
+          className="md:col-span-2 glass-card !p-6 flex items-center gap-4 hover:border-blue-500/30 transition-colors group">
+          <div className="w-12 h-12 bg-blue-500/10 rounded-2xl flex items-center justify-center text-blue-400 shrink-0">
+            <BookOpen className="w-6 h-6" />
+          </div>
+          <div>
+            <h3 className="font-bold text-base">Projekty Ustaw</h3>
+            <p className="text-gray-500 text-xs mt-0.5">{processStats.inProgress} w toku · {processStats.completed} zakończonych</p>
+          </div>
+          <ArrowUpRight className="w-4 h-4 ml-auto text-gray-500 group-hover:text-foreground transition-colors" />
+        </Link>
+
+        {/* 4 — Interpelacje (1×1) */}
+        <Link href="/interpelacje"
+          className="md:col-span-2 glass-card !p-6 flex flex-col justify-between hover:border-yellow-500/30 transition-colors group">
+          <div className="w-10 h-10 bg-yellow-500/10 rounded-2xl flex items-center justify-center text-yellow-400">
             <Calendar className="w-5 h-5" />
           </div>
+          <div>
+            <h3 className="font-bold text-sm">Interpelacje</h3>
+            <p className="text-gray-500 text-xs">Zapytania posłów do rządu</p>
+          </div>
         </Link>
 
-        {/* Mid Left - Process */}
-        <Link href="/ustawy" className="glass-card !p-6 hover:scale-[1.02] transition-transform cursor-pointer">
-          <div className="flex justify-between items-start mb-4">
-            <BookOpen className="w-6 h-6 text-purple-500" />
-            <span className="text-xs bg-purple-100 dark:bg-purple-900/30 text-purple-700 dark:text-purple-300 px-2 py-1 rounded-md">{processStats.total} aktywnych</span>
+        {/* 5 — Porównaj (2×1) wide */}
+        <Link href="/porownaj"
+          className="md:col-span-4 bg-gradient-to-r from-indigo-950/80 to-blue-950/80 border border-indigo-500/20 rounded-[24px] !p-6 flex items-center gap-5 hover:border-indigo-500/40 transition-colors group relative overflow-hidden">
+          <div className="w-12 h-12 bg-indigo-500/20 rounded-2xl flex items-center justify-center text-indigo-300 shrink-0">
+            <GitCompare className="w-6 h-6" />
           </div>
-          <h3 className="font-semibold text-lg mb-1">Projekty Ustaw</h3>
-          <p className="text-gray-500 dark:text-gray-400 text-xs">Przeglądaj aktualne projekty</p>
+          <div className="flex-1 min-w-0">
+            <h3 className="font-bold text-base text-white">Porównaj Posłów</h3>
+            <p className="text-indigo-300 text-xs mt-0.5">
+              Sprawdź jak często dwóch posłów głosowało tak samo — oblicz % zgodności
+            </p>
+          </div>
+          <span className="shrink-0 bg-indigo-500 text-white text-xs font-bold px-4 py-2 rounded-full group-hover:bg-indigo-400 transition-colors">
+            Nowe →
+          </span>
+          <div className="absolute right-[-40px] top-[-40px] w-40 h-40 bg-indigo-500/10 rounded-full blur-3xl" />
         </Link>
 
-        {/* Mid Right - Stats */}
-        <Link href="/poslowie" className="glass-card !p-6 hover:scale-[1.02] transition-transform cursor-pointer">
-          <div className="flex justify-between items-start mb-4">
-            <UsersIcon className="w-6 h-6 text-green-500" />
+        {/* 6 — Harmonogram (2×1) */}
+        <Link href="/harmonogram"
+          className="md:col-span-2 glass-card !p-6 flex items-center gap-4 hover:border-orange-500/30 transition-colors group">
+          <div className="w-12 h-12 bg-orange-500/10 rounded-2xl flex items-center justify-center text-orange-400 shrink-0">
+            <BarChart3 className="w-6 h-6" />
           </div>
-          <h3 className="font-semibold text-lg mb-1">Parlamentarzyści</h3>
-          <p className="text-gray-500 dark:text-gray-400 text-xs">{parliamentStats.totalMPs} posłów • {parliamentStats.totalSenators} senatorów</p>
-        </Link>
-
-        {/* Bottom Wide - Quick Actions */}
-        <Link href="/glosowania" className="md:col-span-4 bg-gradient-to-r from-gray-900 to-gray-800 text-white rounded-[32px] p-6 flex flex-col md:flex-row items-center justify-between relative overflow-hidden hover:scale-[1.005] transition-transform cursor-pointer">
-          <div className="relative z-10 flex items-center gap-4">
-            <div className="p-3 bg-white/10 rounded-full backdrop-blur-sm">
-              <Play className="w-6 h-6 fill-white" />
-            </div>
-            <div>
-              <h3 className="font-semibold text-lg">Głosowania Sejmu</h3>
-              <p className="text-gray-300 text-sm">
-                {votingStats.latestSitting
-                  ? `Ostatnie: Posiedzenie #${votingStats.latestSitting.sitting} • ${votingStats.totalSittings} posiedzeń`
-                  : 'Zobacz wyniki głosowań i frekwencję posłów'}
-              </p>
-            </div>
+          <div>
+            <h3 className="font-bold text-base">Harmonogram</h3>
+            <p className="text-gray-500 text-xs mt-0.5">Etapy procesu legislacyjnego</p>
           </div>
-          <div className="relative z-10 mt-4 md:mt-0 bg-white text-black px-6 py-2 rounded-full font-medium text-sm hover:bg-gray-200 transition-colors">
-            Przeglądaj
-          </div>
-          {/* Background Pattern */}
-          <div className="absolute inset-0 opacity-20 bg-[url('https://grainy-gradients.vercel.app/noise.svg')]"></div>
+          <ArrowUpRight className="w-4 h-4 ml-auto text-gray-500 group-hover:text-foreground transition-colors" />
         </Link>
 
       </div>
 
-      <div className="mt-12 text-center text-gray-400 text-sm">
-        <p>OpenOurGov 2026 • Otwarte Dane Parlamentarne</p>
-      </div>
+      <p className="mt-12 text-center text-gray-600 text-xs">
+        JasnaSprawa.pl · Otwarte Dane Parlamentarne · X kadencja Sejmu
+      </p>
 
     </div>
   );
-}
-
-// Users Icon component
-function UsersIcon(props: any) {
-  return (
-    <svg
-      {...props}
-      xmlns="http://www.w3.org/2000/svg"
-      width="24"
-      height="24"
-      viewBox="0 0 24 24"
-      fill="none"
-      stroke="currentColor"
-      strokeWidth="2"
-      strokeLinecap="round"
-      strokeLinejoin="round"
-    >
-      <path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2" />
-      <circle cx="9" cy="7" r="4" />
-      <path d="M22 21v-2a4 4 0 0 0-3-3.87" />
-      <path d="M16 3.13a4 4 0 0 1 0 7.75" />
-    </svg>
-  )
 }

@@ -19,6 +19,7 @@ export default function Navbar() {
         { href: "/senatorowie", label: "Senatorowie", icon: Users },
         { href: "/glosowania", label: "Głosowania", icon: Calendar },
         { href: "/interpelacje", label: "Interpelacje", icon: FileText },
+        { href: "/porownaj", label: "Porównaj", icon: Users },
         { href: "/rcl", label: "RCL", icon: Activity },
     ];
 

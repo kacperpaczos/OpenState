@@ -116,6 +116,25 @@ body {
   border-color: var(--glass-highlight);
 }
 
+/* Quick-entry pill links on homepage */
+.quick-pill {
+  background: var(--surface-color);
+  border: 1px solid var(--surface-border);
+  border-radius: 999px;
+  padding: 6px 16px;
+  font-size: 0.8rem;
+  font-weight: 500;
+  color: var(--text-primary);
+  transition: background 0.2s, border-color 0.2s;
+  cursor: pointer;
+}
+
+.quick-pill:hover {
+  background: rgba(var(--accent-blue-rgb, 59 130 246) / 0.12);
+  border-color: rgba(var(--accent-blue-rgb, 59 130 246) / 0.35);
+  color: var(--accent-blue);
+}
+
 /* Typography Utils */
 .text-gradient {
   background: linear-gradient(135deg, var(--text-primary) 30%, var(--accent-blue));
