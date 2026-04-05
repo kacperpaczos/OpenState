@@ -62,12 +62,6 @@ export default function SenatorDetailView({ senator }: { senator: Senator }) {
                     </div>
                 </div>
             </div>
-
-            {/* Placeholder for Voting History */}
-            <div className="mt-8 glass-card p-8 text-center opacity-70">
-                <h3 className="text-xl font-bold text-foreground mb-2">Historia Głosowań</h3>
-                <p className="text-text-secondary">Dane o głosowaniach senackich będą dostępne wkrótce.</p>
-            </div>
         </div>
     );
 }

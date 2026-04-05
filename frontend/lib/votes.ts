@@ -33,3 +33,22 @@ export async function getVotesForMP(mpId: number): Promise<VoteRecord[]> {
         return [];
     }
 }
+
+// Optimized loader for Senators
+export async function getVotesForSenator(senatorId: string): Promise<VoteRecord[]> {
+    try {
+        const senatorFile = path.join(process.cwd(), 'public/data/votes_by_senator', `${senatorId}.json`);
+
+        if (fs.existsSync(senatorFile)) {
+            const content = fs.readFileSync(senatorFile, 'utf-8');
+            const votes = JSON.parse(content);
+            return votes;
+        }
+
+        return [];
+
+    } catch (e) {
+        console.error("Error loading votes for Senator", e);
+        return [];
+    }
+}
