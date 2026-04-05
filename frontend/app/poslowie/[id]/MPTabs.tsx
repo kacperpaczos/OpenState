@@ -29,15 +29,15 @@ export default function MPTabs({ votingPanel, aboutPanel, interpellationsPanel }
     return (
         <div>
             {/* Tab bar */}
-            <div className="flex gap-1 p-1 bg-white/5 rounded-xl border border-surface-border mb-6">
+            <div className="flex gap-1 p-1 bg-surface-color rounded-xl border border-surface-border mb-6">
                 {TABS.map(tab => (
                     <button
                         key={tab.id}
                         data-testid={`tab-${tab.id}`}
                         onClick={() => setActive(tab.id)}
                         className={`flex-1 flex items-center justify-center gap-2 py-2.5 px-3 rounded-lg text-sm font-medium transition-all ${active === tab.id
-                                ? "bg-accent-blue text-white shadow-sm"
-                                : "text-gray-400 hover:text-foreground hover:bg-white/5"
+                            ? "bg-accent-blue text-white shadow-sm"
+                            : "text-gray-500 hover:text-foreground hover:bg-surface-hover"
                             }`}
                     >
                         {tab.icon}

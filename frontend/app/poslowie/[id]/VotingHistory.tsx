@@ -9,7 +9,7 @@ const VOTE_CONFIG: Record<string, { label: string; icon: React.ReactNode; badge:
     YES: { label: "ZA", icon: <CheckCircle size={16} className="text-green-500" />, badge: "bg-green-500/10 text-green-400 border-green-500/20" },
     NO: { label: "PRZECIW", icon: <XCircle size={16} className="text-red-500" />, badge: "bg-red-500/10 text-red-400 border-red-500/20" },
     ABSTAIN: { label: "WSTRZYMAŁ", icon: <MinusCircle size={16} className="text-yellow-400" />, badge: "bg-yellow-500/10 text-yellow-400 border-yellow-500/20" },
-    ABSENT: { label: "NIEOBECNY", icon: <UserX size={16} className="text-gray-600" />, badge: "bg-gray-800 text-gray-500 border-gray-700" },
+    ABSENT: { label: "NIEOBECNY", icon: <UserX size={16} className="text-gray-500" />, badge: "bg-surface-color text-text-secondary border-surface-border" },
 };
 
 function VoteRow({ vote }: { vote: VoteRecord }) {
@@ -17,11 +17,11 @@ function VoteRow({ vote }: { vote: VoteRecord }) {
     return (
         <Link
             href={`/glosowania/${vote.sitting}/${vote.votingNumber}`}
-            className="flex items-start gap-3 px-4 py-3 hover:bg-white/5 transition-colors group border-b border-white/5 last:border-0"
+            className="flex items-start gap-3 px-4 py-3 hover:bg-surface-hover transition-colors group border-b border-surface-border last:border-0"
         >
             <div className="pt-0.5 flex-shrink-0">{cfg.icon}</div>
             <div className="flex-1 min-w-0">
-                <p className="text-sm text-foreground leading-snug line-clamp-2 group-hover:text-blue-300 transition-colors">{vote.title}</p>
+                <p className="text-sm text-foreground leading-snug line-clamp-2 group-hover:text-blue-600 dark:group-hover:text-blue-400 transition-colors">{vote.title}</p>
                 {vote.topic && <p className="text-xs text-gray-500 mt-0.5 line-clamp-1">{vote.topic}</p>}
             </div>
             <span className={`text-[10px] uppercase font-bold px-2 py-0.5 rounded border flex-shrink-0 ${cfg.badge}`}>
@@ -44,10 +44,10 @@ function SittingSection({ group }: { group: SittingGroup }) {
     const absent = group.votes.filter(v => v.vote === "ABSENT").length;
 
     return (
-        <div className="border-b border-white/5 last:border-0">
+        <div className="border-b border-surface-border last:border-0">
             <button
                 onClick={() => setOpen(o => !o)}
-                className="w-full flex items-center gap-3 px-4 py-3 hover:bg-white/5 transition-colors text-left"
+                className="w-full flex items-center gap-3 px-4 py-3 hover:bg-surface-hover transition-colors text-left"
             >
                 {open ? <ChevronDown size={16} className="text-gray-400 flex-shrink-0" /> : <ChevronRight size={16} className="text-gray-400 flex-shrink-0" />}
                 <div className="flex-1">
@@ -138,8 +138,8 @@ export default function VotingHistory({ votes }: { votes: VoteRecord[] }) {
                             data-testid={`filter-${f.value}`}
                             onClick={() => { setFilter(f.value); setLimit(PAGE_SIZE); }}
                             className={`text-xs px-3 py-1.5 rounded-full border transition-colors ${filter === f.value
-                                    ? "bg-accent-blue text-white border-accent-blue"
-                                    : "border-surface-border text-gray-400 hover:border-gray-500"
+                                ? "bg-accent-blue text-white border-accent-blue"
+                                : "border-surface-border text-gray-400 hover:border-gray-500"
                                 }`}
                         >
                             {f.label}

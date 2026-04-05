@@ -20,7 +20,7 @@ function StatBar({ label, count, total, color, textColor }: StatBarProps) {
     return (
         <div className="flex items-center gap-3">
             <span className={`text-xs font-semibold w-20 shrink-0 ${textColor}`}>{label}</span>
-            <div className="flex-1 h-2 bg-white/10 rounded-full overflow-hidden">
+            <div className="flex-1 h-2 bg-surface-border rounded-full overflow-hidden">
                 <div
                     className={`h-full rounded-full ${color} transition-all duration-500`}
                     style={{ width: `${pct}%` }}
@@ -59,7 +59,7 @@ export default function MPStats({ votes }: MPStatsProps) {
             </h3>
 
             {/* Attendance KPI */}
-            <div className="flex items-center justify-between mb-6 p-4 bg-white/5 rounded-xl border border-white/10">
+            <div className="flex items-center justify-between mb-6 p-4 bg-surface-color rounded-xl border border-surface-border">
                 <div>
                     <p className="text-xs text-gray-500 uppercase tracking-wide font-semibold">Frekwencja</p>
                     <p className={`text-4xl font-bold mt-1 ${attendanceColor}`}>{attendancePct}%</p>
@@ -68,7 +68,7 @@ export default function MPStats({ votes }: MPStatsProps) {
                 {/* Donut ring (pure CSS) */}
                 <div className="relative w-20 h-20 shrink-0">
                     <svg viewBox="0 0 36 36" className="w-20 h-20 -rotate-90">
-                        <circle cx="18" cy="18" r="15.9" fill="none" stroke="rgba(255,255,255,0.08)" strokeWidth="3" />
+                        <circle cx="18" cy="18" r="15.9" fill="none" stroke="currentColor" className="text-surface-border" strokeWidth="3" />
                         <circle
                             cx="18" cy="18" r="15.9" fill="none"
                             stroke={attendancePct >= 90 ? "#4ade80" : attendancePct >= 75 ? "#facc15" : "#f87171"}
@@ -92,7 +92,7 @@ export default function MPStats({ votes }: MPStatsProps) {
             </div>
 
             {/* Summary chips */}
-            <div className="flex flex-wrap gap-2 mt-5 pt-4 border-t border-white/10">
+            <div className="flex flex-wrap gap-2 mt-5 pt-4 border-t border-surface-border">
                 <span className="flex items-center gap-1 text-xs bg-green-500/10 text-green-400 px-2.5 py-1 rounded-full border border-green-500/20">
                     <CheckCircle2 size={12} /> {yes} ZA
                 </span>
@@ -102,7 +102,7 @@ export default function MPStats({ votes }: MPStatsProps) {
                 <span className="flex items-center gap-1 text-xs bg-yellow-500/10 text-yellow-400 px-2.5 py-1 rounded-full border border-yellow-500/20">
                     <MinusCircle size={12} /> {abstain} WSTRZ.
                 </span>
-                <span className="flex items-center gap-1 text-xs bg-gray-800 text-gray-500 px-2.5 py-1 rounded-full border border-gray-700">
+                <span className="flex items-center gap-1 text-xs bg-surface-color text-text-secondary px-2.5 py-1 rounded-full border border-surface-border">
                     <UserX size={12} /> {absent} NIEOB.
                 </span>
             </div>

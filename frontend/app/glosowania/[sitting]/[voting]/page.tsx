@@ -103,12 +103,12 @@ export default async function VotingDetailPage({ params }: PageProps) {
                     <div className="p-4 border-b border-surface-border">
                         <h2 className="font-semibold text-foreground">Głosowania posłów ({votes.length})</h2>
                     </div>
-                    <div className="divide-y divide-white/5 max-h-[600px] overflow-y-auto">
+                    <div className="divide-y divide-surface-border max-h-[600px] overflow-y-auto">
                         {votes.map((v) => (
                             <Link
                                 key={v.MP}
                                 href={`/poslowie/${v.MP}`}
-                                className="flex items-center gap-4 px-4 py-3 hover:bg-white/5 transition-colors"
+                                className="flex items-center gap-4 px-4 py-3 hover:bg-surface-hover transition-colors"
                             >
                                 <div className="w-5 flex-shrink-0">
                                     {v.vote === "YES" && <CheckCircle size={18} className="text-green-500" />}
@@ -121,7 +121,7 @@ export default async function VotingDetailPage({ params }: PageProps) {
                                 <span className={`text-[10px] uppercase font-bold px-2 py-0.5 rounded border ${v.vote === "YES" ? "bg-green-500/10 text-green-400 border-green-500/20" :
                                     v.vote === "NO" ? "bg-red-500/10 text-red-400 border-red-500/20" :
                                         v.vote === "ABSTAIN" ? "bg-yellow-500/10 text-yellow-400 border-yellow-500/20" :
-                                            "bg-gray-800 text-gray-500 border-gray-700"
+                                            "bg-surface-color text-text-secondary border-surface-border"
                                     }`}>
                                     {v.vote === "YES" ? "ZA" : v.vote === "NO" ? "PRZEC" : v.vote === "ABSTAIN" ? "WSTRZ" : "NIEOB"}
                                 </span>

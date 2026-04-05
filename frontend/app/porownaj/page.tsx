@@ -56,7 +56,7 @@ export default async function ComparePage({ searchParams }: PageProps) {
                 <div className="glass-card p-6 mt-8 text-left">
                     <p className="text-xs text-gray-500 mb-3 uppercase font-bold tracking-wide">Przykłady</p>
                     {mps.slice(0, 6).map(mp => (
-                        <div key={mp.id} className="flex items-center justify-between py-2 border-b border-white/5 last:border-0">
+                        <div key={mp.id} className="flex items-center justify-between py-2 border-b border-surface-border last:border-0">
                             <span className="text-sm text-foreground">{mp.name}</span>
                             <span className="font-mono text-xs text-gray-500">id: {mp.id}</span>
                         </div>
@@ -146,7 +146,7 @@ export default async function ComparePage({ searchParams }: PageProps) {
                     <div className="p-5 border-b border-surface-border">
                         <h2 className="font-semibold text-foreground">Rozbieżności (ostatnie {diffs.length})</h2>
                     </div>
-                    <div className="divide-y divide-white/5">
+                    <div className="divide-y divide-surface-border">
                         {diffs.map(va => {
                             const vb = mapB.get(`${va.sitting}-${va.votingNumber}`)!;
                             const cfgA = VOTE_LABEL[va.vote] ?? VOTE_LABEL.ABSENT;
@@ -155,7 +155,7 @@ export default async function ComparePage({ searchParams }: PageProps) {
                                 <Link
                                     key={`${va.sitting}-${va.votingNumber}`}
                                     href={`/glosowania/${va.sitting}/${va.votingNumber}`}
-                                    className="flex items-start gap-4 px-5 py-4 hover:bg-white/5 transition-colors group"
+                                    className="flex items-start gap-4 px-5 py-4 hover:bg-surface-hover transition-colors group"
                                 >
                                     <div className="w-10 shrink-0 text-center">
                                         <div className="text-[10px] text-gray-600 font-mono">pos.</div>
@@ -163,7 +163,7 @@ export default async function ComparePage({ searchParams }: PageProps) {
                                         <div className="text-[10px] text-gray-600">/{va.votingNumber}</div>
                                     </div>
                                     <div className="flex-1 min-w-0">
-                                        <p className="text-sm text-foreground line-clamp-2 group-hover:text-blue-300 transition-colors">{va.title}</p>
+                                        <p className="text-sm text-foreground line-clamp-2 group-hover:text-blue-600 dark:group-hover:text-blue-400 transition-colors">{va.title}</p>
                                     </div>
                                     <div className="flex items-center gap-2 shrink-0">
                                         <span className={`text-xs font-bold flex items-center gap-1 ${cfgA.cls}`}>{cfgA.icon}{cfgA.label}</span>

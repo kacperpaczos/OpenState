@@ -71,12 +71,12 @@ export default function VotingsList({ votings }: { votings: VotingSummary[] }) {
                 {visible.length === 0 ? (
                     <p className="p-8 text-center text-gray-500 text-sm">Brak wyników dla podanej frazy.</p>
                 ) : (
-                    <div className="divide-y divide-white/5">
+                    <div className="divide-y divide-surface-border">
                         {visible.map(v => (
                             <Link
                                 key={`${v.sitting}-${v.votingNumber}`}
                                 href={`/glosowania/${v.sitting}/${v.votingNumber}`}
-                                className="flex items-start gap-4 px-5 py-4 hover:bg-white/5 transition-colors group"
+                                className="flex items-start gap-4 px-5 py-4 hover:bg-surface-hover transition-colors group"
                             >
                                 <div className="w-10 shrink-0 text-center pt-0.5">
                                     <div className="text-[10px] text-gray-600 uppercase font-mono">pos.</div>
@@ -84,7 +84,7 @@ export default function VotingsList({ votings }: { votings: VotingSummary[] }) {
                                     <div className="text-[10px] text-gray-600">/{v.votingNumber}</div>
                                 </div>
                                 <div className="flex-1 min-w-0">
-                                    <p className="text-sm font-medium text-foreground line-clamp-2 group-hover:text-blue-300 transition-colors">{v.title}</p>
+                                    <p className="text-sm font-medium text-foreground line-clamp-2 group-hover:text-blue-600 dark:group-hover:text-blue-400 transition-colors">{v.title}</p>
                                     {v.topic && <p className="text-xs text-gray-500 mt-0.5 line-clamp-1">{v.topic}</p>}
                                     <p className="text-[10px] text-gray-600 mt-1">{v.date} · {v.kind}</p>
                                 </div>
