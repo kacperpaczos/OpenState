@@ -44,7 +44,12 @@ export default async function SittingPage({ params }: PageProps) {
                             {v.topic && <p className="text-gray-400 text-sm">{v.topic}</p>}
                         </div>
                         <div className="flex-shrink-0 self-center">
-                            {/* Button to detail could go here if implemented, or just link rows */}
+                            <Link
+                                href={`/glosowania/${sitting}/${v.votingNumber}`}
+                                className="text-xs text-blue-400 hover:text-blue-300 border border-blue-500/20 px-3 py-1.5 rounded-lg hover:border-blue-400/40 transition-colors whitespace-nowrap"
+                            >
+                                Szczegóły →
+                            </Link>
                         </div>
                     </div>
                 ))}
