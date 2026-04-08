@@ -1,6 +1,6 @@
 import { getSittingVotings } from "@/lib/votings";
 import Link from "next/link";
-import { ArrowLeft } from "lucide-react";
+import { ArrowLeft, Calendar } from "lucide-react";
 import SittingVotingsList from "./SittingVotingsList";
 
 interface PageProps {
@@ -27,7 +27,15 @@ export default async function SittingPage({ params }: PageProps) {
                 </h1>
             </header>
 
-            <SittingVotingsList votings={votings} sitting={sitting} />
+            {votings.length === 0 ? (
+                <div className="glass-card p-12 text-center">
+                    <Calendar size={40} className="mx-auto mb-4 text-gray-600" />
+                    <p className="text-gray-400 font-medium">Brak danych o głosowaniach dla tego posiedzenia.</p>
+                    <p className="text-gray-600 text-sm mt-1">Dane mogą nie być jeszcze zaindeksowane.</p>
+                </div>
+            ) : (
+                <SittingVotingsList votings={votings} sitting={sitting} />
+            )}
         </div>
     );
 }
