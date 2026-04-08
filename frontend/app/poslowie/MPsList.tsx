@@ -57,6 +57,11 @@ export default function MPsList({ initialMPs }: { initialMPs: MP[] }) {
 
     const [visibleCount, setVisibleCount] = useState(100);
 
+    // Reset pagination when any filter changes
+    useEffect(() => {
+        setVisibleCount(100);
+    }, [globalSearch, selectedClub, activeOnly, sortActive]);
+
     return (
         <div className="max-w-7xl mx-auto pb-20 fade-in">
             <header
