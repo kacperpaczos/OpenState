@@ -3,7 +3,7 @@
 import { VotingSummary } from "@/lib/votings";
 import Link from "next/link";
 import { useState } from "react";
-import { ChevronLeft, ChevronRight } from "lucide-react";
+import { ChevronLeft, ChevronRight, ArrowRight } from "lucide-react";
 
 const PAGE_SIZE = 30;
 
@@ -29,25 +29,24 @@ export default function SittingVotingsList({
             {/* List */}
             <div className="space-y-3">
                 {visible.map((v) => (
-                    <div key={v.votingNumber} className="glass-card p-5 flex items-start gap-4">
+                    <Link
+                        key={v.votingNumber}
+                        href={`/glosowania/${sitting}/${v.votingNumber}`}
+                        className="glass-card p-5 flex items-start gap-4 hover:bg-surface-hover transition-colors group block"
+                    >
                         <div className="w-14 shrink-0 text-center">
                             <div className="text-[10px] text-gray-500 uppercase font-bold">Nr</div>
                             <div className="text-2xl font-bold text-foreground leading-none">{v.votingNumber}</div>
                         </div>
                         <div className="flex-1 min-w-0">
                             <div className="text-xs text-gray-500 mb-1">{v.date} · {v.kind}</div>
-                            <h3 className="text-base font-semibold text-foreground mb-1 leading-snug">{v.title}</h3>
+                            <h3 className="text-base font-semibold text-foreground mb-1 leading-snug group-hover:text-blue-400 transition-colors">{v.title}</h3>
                             {v.topic && <p className="text-gray-500 text-sm">{v.topic}</p>}
                         </div>
-                        <div className="shrink-0 self-center">
-                            <Link
-                                href={`/glosowania/${sitting}/${v.votingNumber}`}
-                                className="text-xs text-blue-500 hover:text-blue-400 border border-blue-500/20 px-3 py-1.5 rounded-lg hover:border-blue-400/40 transition-colors whitespace-nowrap"
-                            >
-                                Szczegóły →
-                            </Link>
+                        <div className="shrink-0 self-center text-gray-500 group-hover:text-blue-400 transition-colors">
+                            <ArrowRight size={18} />
                         </div>
-                    </div>
+                    </Link>
                 ))}
             </div>
 
