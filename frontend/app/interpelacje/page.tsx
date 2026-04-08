@@ -70,11 +70,11 @@ export default function InterpellationsPage() {
                 {paginated.map((i) => (
                     <div key={i.num} className="glass-card p-6 hover:bg-surface-color/50 transition-colors">
                         <div className="flex justify-between items-start mb-2 gap-4">
-                            <span className="text-xs font-mono text-gray-400 shrink-0">Nr {i.num} • {i.receiptDate}</span>
+                            <span className="text-xs font-mono text-text-secondary shrink-0">Nr {i.num} • {i.receiptDate}</span>
                             {i.to && i.to.length > 0 && (
                                 <div className="flex flex-wrap gap-2 justify-end">
                                     {i.to.slice(0, 3).map((recipient, idx) => (
-                                        <span key={idx} title={recipient} className="px-2.5 py-1 text-[10px] font-semibold uppercase tracking-wider rounded-md border border-gray-500/30 bg-gray-500/10 text-gray-400 dark:text-gray-300 text-right">
+                                        <span key={idx} title={recipient} className="px-2.5 py-1 text-[10px] font-semibold uppercase tracking-wider rounded-md border border-gray-500/30 bg-gray-500/10 text-gray-600 dark:text-gray-300 text-right">
                                             {recipient.replace(/Minister|Ministrowie kompetentni:/g, 'Min.').substring(0, 60)}{recipient.length > 60 ? '...' : ''}
                                         </span>
                                     ))}
@@ -84,7 +84,7 @@ export default function InterpellationsPage() {
                         <h3 className="text-lg font-semibold text-foreground mb-2 line-clamp-2">
                             {i.title}
                         </h3>
-                        <p className="text-sm text-gray-400 mb-4">
+                        <p className="text-sm text-text-secondary mb-4">
                             Zgłaszający: {i.from.join(", ")}
                         </p>
                         <Link

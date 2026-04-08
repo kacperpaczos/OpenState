@@ -11,7 +11,7 @@ export default async function RclPage() {
                 Rządowe Centrum <span className="text-gradient">Legislacji</span>
             </h1>
 
-            <p className="text-gray-400 mb-8 max-w-2xl">
+            <p className="text-text-secondary dark:text-gray-400 mb-8 max-w-2xl">
                 Projekty ustaw i rozporządzeń będące na etapie prac rządowych, zanim trafią do laski marszałkowskiej.
             </p>
 
@@ -28,7 +28,7 @@ export default async function RclPage() {
                                 `}>
                                     {p.status || "W toku"}
                                 </span>
-                                <span className="text-gray-500 text-xs flex items-center gap-1">
+                                <span className="text-text-secondary dark:text-gray-500 text-xs flex items-center gap-1">
                                     <Calendar className="w-3 h-3" /> {p.date}
                                 </span>
                             </div>
@@ -36,8 +36,8 @@ export default async function RclPage() {
                                 {p.title}
                             </h3>
                             <div className="flex justify-between items-end mt-4">
-                                <div className="text-sm text-gray-400">
-                                    Wnioskodawca: <span className="text-gray-300">{p.applicant}</span>
+                                <div className="text-sm text-text-secondary dark:text-gray-400">
+                                    Wnioskodawca: <span className="text-gray-800 dark:text-gray-300">{p.applicant}</span>
                                     <br />
                                     Numer wykazu: {p.number}
                                 </div>

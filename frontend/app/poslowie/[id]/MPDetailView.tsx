@@ -27,8 +27,8 @@ export default function MPDetailView({ mp }: { mp: MP }) {
 
                     <div className="flex-1 space-y-4">
                         <div>
-                            <span className={`inline-block px-3 py-1 ${mp.active ? 'bg-green-500/10 text-green-500 border-green-500/20' : 'bg-red-500/10 text-red-500 border-red-500/20'} border rounded-full text-xs font-bold uppercase tracking-wider mb-2`}>
-                                {mp.active ? 'Poseł na Sejm RP' : 'Wygaszony mandat'}
+                            <span className={`inline-block px-3 py-1 ${mp.active !== false ? 'bg-green-500/10 text-green-500 border-green-500/20' : 'bg-red-500/10 text-red-500 border-red-500/20'} border rounded-full text-xs font-bold uppercase tracking-wider mb-2`}>
+                                {mp.active !== false ? "Aktywny Poseł" : "Status Nieaktywny"}
                             </span>
                             <h1 className="text-4xl font-bold text-foreground leading-tight">{mp.name}</h1>
                         </div>

@@ -49,9 +49,9 @@ export default function MPsList({ initialMPs }: { initialMPs: MP[] }) {
         // club filter
         if (selectedClub) result = result.filter(mp => mp.club === selectedClub);
         // active-only filter
-        if (activeOnly) result = result.filter(mp => mp.active);
+        if (activeOnly) result = result.filter(mp => mp.active !== false);
         // sort
-        if (sortActive) result = [...result].sort((a, b) => (b.active ? 1 : 0) - (a.active ? 1 : 0));
+        if (sortActive) result = [...result].sort((a, b) => (b.active !== false ? 1 : 0) - (a.active !== false ? 1 : 0));
         return result;
     }, [mps, globalSearch, activeOnly, sortActive, selectedClub]);
 
@@ -146,13 +146,13 @@ function MPCard({ mp }: { mp: MP }) {
                 <div className="overflow-hidden min-w-0">
                     <div className="flex items-center gap-1.5 mb-0.5">
                         <h3 className="font-semibold text-foreground text-sm truncate">{mp.name}</h3>
-                        {mp.active && (
+                        {mp.active !== false && (
                             <span className="shrink-0 text-[9px] font-bold uppercase px-1.5 py-0.5 rounded bg-green-500/10 text-green-500 border border-green-500/20">Aktywny</span>
                         )}
                     </div>
                     <div className="flex flex-col gap-0.5">
                         <div className="flex items-center gap-1.5">
-                            <span className={`w-1.5 h-1.5 rounded-full shrink-0 ${mp.active ? 'bg-green-500' : 'bg-red-400'}`} />
+                            <span className={`w-1.5 h-1.5 rounded-full shrink-0 ${mp.active !== false ? 'bg-green-500' : 'bg-red-400'}`} />
                             <span className="text-xs text-text-secondary truncate" title={mp.club}>{mp.club}</span>
                         </div>
                         <span className="text-[10px] text-gray-500 uppercase tracking-wider truncate">

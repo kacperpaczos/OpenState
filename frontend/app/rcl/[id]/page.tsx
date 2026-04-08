@@ -33,14 +33,14 @@ export default async function RclProjectPage({ params }: { params: Promise<{ id:
                     </span>
                 </div>
 
-                <h1 className="text-3xl md:text-4xl font-bold text-white mb-6 leading-tight">
+                <h1 className="text-3xl md:text-4xl font-bold text-foreground mb-6 leading-tight">
                     {project.title}
                 </h1>
 
                 <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4 pt-6 border-t border-white/10">
-                    <div className="flex items-center gap-2 text-gray-300">
+                    <div className="flex items-center gap-2 text-text-secondary">
                         <User size={18} className="text-gray-500" />
-                        <span>Wnioskodawca: <span className="font-semibold text-white">{project.applicant}</span></span>
+                        <span>Wnioskodawca: <span className="font-semibold text-foreground">{project.applicant}</span></span>
                     </div>
 
                     <a
@@ -61,10 +61,10 @@ export default async function RclProjectPage({ params }: { params: Promise<{ id:
                     {/* Description if available */}
                     {project.description && (
                         <div className="glass-card p-6">
-                            <h2 className="text-xl font-bold text-white mb-4 flex items-center gap-2">
+                            <h2 className="text-xl font-bold text-foreground mb-4 flex items-center gap-2">
                                 <FileText className="text-blue-500" /> Opis projektu
                             </h2>
-                            <p className="text-gray-300 leading-relaxed whitespace-pre-line">
+                            <p className="text-gray-700 dark:text-gray-300 leading-relaxed whitespace-pre-line">
                                 {project.description}
                             </p>
                         </div>
@@ -72,13 +72,13 @@ export default async function RclProjectPage({ params }: { params: Promise<{ id:
 
                     {/* Timeline */}
                     <div className="glass-card p-6">
-                        <h2 className="text-xl font-bold text-white mb-6 flex items-center gap-2">
+                        <h2 className="text-xl font-bold text-foreground mb-6 flex items-center gap-2">
                             <Activity className="text-green-500" /> Przebieg procesu
                         </h2>
 
                         <div className="relative pl-4 space-y-8">
                             {/* Vertical Line */}
-                            <div className="absolute left-[27px] top-2 bottom-2 w-0.5 bg-white/10"></div>
+                            <div className="absolute left-[27px] top-2 bottom-2 w-0.5 bg-black/10 dark:bg-white/10"></div>
 
                             {project.stages && project.stages.length > 0 ? (
                                 project.stages.map((stage, idx) => (
@@ -93,7 +93,7 @@ export default async function RclProjectPage({ params }: { params: Promise<{ id:
                                         </div>
                                         <div className="flex-1 pt-0.5">
                                             <div className="flex justify-between items-start mb-1">
-                                                <h3 className={`font-semibold ${stage.status === 'current' ? 'text-green-400' : 'text-gray-200'}`}>
+                                                <h3 className={`font-semibold ${stage.status === 'current' ? 'text-green-500' : 'text-gray-600 dark:text-gray-200'}`}>
                                                     {stage.name}
                                                 </h3>
                                                 {stage.date && (
@@ -115,7 +115,7 @@ export default async function RclProjectPage({ params }: { params: Promise<{ id:
                 {/* Sidebar - Documents */}
                 <div className="space-y-6">
                     <div className="glass-card p-6 sticky top-6">
-                        <h2 className="text-lg font-bold text-white mb-4 flex items-center gap-2">
+                        <h2 className="text-lg font-bold text-foreground mb-4 flex items-center gap-2">
                             <Download className="text-purple-500" /> Dokumenty
                         </h2>
 
@@ -127,12 +127,12 @@ export default async function RclProjectPage({ params }: { params: Promise<{ id:
                                         href={doc.url}
                                         target="_blank"
                                         rel="noopener noreferrer"
-                                        className="block p-3 rounded-lg bg-white/5 hover:bg-white/10 border border-white/5 hover:border-purple-500/30 transition-all group"
+                                        className="block p-3 rounded-lg bg-black/5 dark:bg-white/5 hover:bg-black/10 dark:hover:bg-white/10 border border-black/5 dark:border-white/5 hover:border-purple-500/30 transition-all group"
                                     >
                                         <div className="flex items-start gap-3">
                                             <FileText size={18} className="text-gray-400 group-hover:text-purple-400 mt-0.5 flex-shrink-0" />
                                             <div className="overflow-hidden">
-                                                <div className="text-sm text-gray-300 group-hover:text-white truncate" title={doc.title}>
+                                                <div className="text-sm text-text-secondary group-hover:text-foreground truncate" title={doc.title}>
                                                     {doc.title}
                                                 </div>
                                                 <div className="text-xs text-gray-500 mt-1">Pobierz plik</div>
