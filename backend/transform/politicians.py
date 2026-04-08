@@ -12,28 +12,27 @@ class MPsTransformer(BaseTransformer):
         self._validate_list(raw_data)
         
         try:
-            # Filter active MPs
-            active_mps = [mp for mp in raw_data if mp.get('active', False)]
-            
+            # Keep ALL MPs (active and inactive) — inactive MPs have full voting histories
             formatted_mps = []
-            for mp in active_mps:
+            for mp in raw_data:
+                is_active = bool(mp.get('active', False))
                 formatted_mps.append({
                     "id": str(mp.get('id')),
                     "name": mp.get('firstLastName'),
-                    "party": mp.get('club') or "Niezrzeszony",
-                    "district": f"Okręg {mp.get('districtNum', 0)}",
-                    "photoUrl": f"https://api.sejm.gov.pl/sejm/term10/MP/{mp.get('id')}/photo-mini",
-                    "type": "Poseł",
+                    "firstLastName": mp.get('firstLastName', ""),
                     "club": mp.get('club') or "Niezrzeszony",
+                    "district": mp.get('districtName') or f"Okręg {mp.get('districtNum', 0)}",
                     "email": mp.get('email', ""),
-                    "active": True,
-                    "firstLastName": mp.get('firstLastName', "")
+                    "active": is_active,
+                    "photoUrl": f"https://api.sejm.gov.pl/sejm/term10/MP/{mp.get('id')}/photo-mini",
+                    "chamber": "Sejm",
                 })
             
-            # Sort alphabetically by name
-            formatted_mps.sort(key=lambda x: x['name'])
+            # Sort: active first, then alphabetically
+            formatted_mps.sort(key=lambda x: (not x['active'], x['name']))
             
-            logger.debug(f"Transformed {len(raw_data)} raw MPs to {len(formatted_mps)} active MPs.")
+            active_count = sum(1 for m in formatted_mps if m['active'])
+            logger.debug(f"Transformed {len(raw_data)} raw MPs ({active_count} active, {len(formatted_mps) - active_count} inactive).")
             return formatted_mps
             
         except Exception as e:
