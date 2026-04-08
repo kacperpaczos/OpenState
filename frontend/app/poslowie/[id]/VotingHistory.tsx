@@ -1,7 +1,7 @@
 "use client";
 
 import { VoteRecord } from "@/lib/votes";
-import { CheckCircle, XCircle, MinusCircle, UserX, AlertCircle, ChevronDown, ChevronRight } from "lucide-react";
+import { CheckCircle, XCircle, MinusCircle, UserX, BarChart3, ChevronDown, ChevronRight } from "lucide-react";
 import Link from "next/link";
 import { useState, useMemo } from "react";
 
@@ -123,7 +123,7 @@ export default function VotingHistory({ votes }: { votes: VoteRecord[] }) {
             <div className="p-6 border-b border-surface-border">
                 <div className="flex items-center justify-between mb-4">
                     <h3 className="font-semibold text-foreground flex items-center gap-2">
-                        <AlertCircle size={18} className="text-accent-blue" />
+                        <BarChart3 size={18} className="text-accent-blue" />
                         Historia Głosowań
                     </h3>
                     <span className="text-xs text-gray-500 bg-surface-color px-2 py-1 rounded">
