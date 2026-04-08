@@ -2,6 +2,7 @@ from pipeline import PipelineOrchestrator, ETLJob
 from core.logger import setup_logger
 
 from extract.sejm_api import SejmApiExtractor
+from extract.sejm_votings_api import SejmVotingsExtractor
 from extract.rcl_api import RclXmlExtractor
 
 from transform.politicians import MPsTransformer
@@ -58,7 +59,7 @@ def run_sync():
     # 3. Sejm Votings Job
     orchestrator.add_job(ETLJob(
         name="Sejm_Votings",
-        extractor=SejmApiExtractor("votings"),
+        extractor=SejmVotingsExtractor(),
         transformer=VotingsTransformer(),
         loader=VotingsLoader(target_person_type="mp")
     ))
