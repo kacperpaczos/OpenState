@@ -7,7 +7,7 @@ import { User } from "lucide-react";
 
 export default function MPDetailView({ mp }: { mp: MP }) {
     return (
-        <div className="max-w-4xl mx-auto pb-20 fade-in h-screen overflow-y-auto custom-scrollbar">
+        <div className="max-w-4xl mx-auto pb-10 fade-in">
             <Link href="/poslowie" className="inline-flex items-center gap-2 text-gray-500 hover:text-foreground mb-6 transition-colors font-medium">
                 <ArrowLeft size={18} /> Powrót do listy
             </Link>
