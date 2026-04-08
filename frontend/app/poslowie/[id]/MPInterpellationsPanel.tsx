@@ -4,9 +4,14 @@ import { MessageSquare, ExternalLink } from "lucide-react";
 
 export default async function MPInterpellationsPanel({ mpName }: { mpName: string }) {
     const all = await getInterpellations();
-    // Match by name — interpellations.from contains the full name string
+    // Match by full name to avoid false positives from surname-only matching.
+    // Normalise to lower-case and check that every word in mpName appears in the author string.
+    const nameParts = mpName.toLowerCase().trim().split(/\s+/);
     const mine = all
-        .filter(i => i.from.some(f => f.toLowerCase().includes(mpName.toLowerCase().split(" ").slice(-1)[0])))
+        .filter(i => i.from.some(f => {
+            const fLow = f.toLowerCase();
+            return nameParts.every(part => fLow.includes(part));
+        }))
         .sort((a, b) => b.num - a.num)
         .slice(0, 50);
 
