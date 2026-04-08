@@ -4,6 +4,7 @@
  * Note: chamber toggle was removed — /poslowie now shows only Sejm MPs.
  */
 import { render, screen, fireEvent } from '@testing-library/react';
+import userEvent from '@testing-library/user-event';
 import { configureStore } from '@reduxjs/toolkit';
 import { Provider } from 'react-redux';
 import billsReducer from '@/lib/features/bills/billsSlice';
@@ -118,5 +119,29 @@ describe('MPsList Integration', () => {
     it('shows empty message when no results match', () => {
         renderWithStore(<MPsList initialMPs={mockMPs} />, 'zzznonexistent');
         expect(screen.getByText(/Nie znaleziono/i)).toBeInTheDocument();
+    });
+
+    // Filter changes reset visible count
+    it('active-only filter resets visible count so load-more appears correctly', async () => {
+        const user = userEvent.setup();
+        // 150 MPs — all active except the last 50 which are inactive
+        const activeMPs = Array.from({ length: 110 }, (_, i) =>
+            createMockMP({ id: String(i), name: `Aktywny ${i}`, active: true })
+        );
+        const inactiveMPs = Array.from({ length: 40 }, (_, i) =>
+            createMockMP({ id: String(i + 200), name: `Nieaktywny ${i}`, active: false })
+        );
+        renderWithStore(<MPsList initialMPs={[...activeMPs, ...inactiveMPs]} />);
+
+        // Initial: 150 MPs, visibleCount=100 → load-more shown
+        expect(screen.getByText(/Pokaż więcej/)).toBeInTheDocument();
+
+        // Click load-more to exhaust the list
+        await user.click(screen.getByText(/Pokaż więcej/));
+        expect(screen.queryByText(/Pokaż więcej/)).not.toBeInTheDocument();
+
+        // Toggle "Tylko aktywni" — should reset visibleCount → 110 active, 100 visible → load-more re-appears
+        await user.click(screen.getByTestId('active-only-toggle'));
+        expect(screen.getByText(/Pokaż więcej/)).toBeInTheDocument();
     });
 });
