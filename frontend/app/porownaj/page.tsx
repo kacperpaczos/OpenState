@@ -4,6 +4,7 @@ import { notFound } from "next/navigation";
 import Link from "next/link";
 import { ArrowLeft, Users, CheckCircle, XCircle, MinusCircle, UserX } from "lucide-react";
 import { VoteRecord } from "@/lib/votes";
+import MPCompareSelector from "@/components/porownaj/MPCompareSelector";
 
 interface PageProps {
     searchParams: Promise<{ a?: string; b?: string }>;
@@ -44,24 +45,11 @@ export default async function ComparePage({ searchParams }: PageProps) {
     if (!idA || !idB || isNaN(idA) || isNaN(idB)) {
         // Show picker page
         const mps = await getMPs();
+        // Since we only have voting records for MPs, filter out Senators if necessary (but active=true MPs is a start)
+        const activeMPs = mps.filter(m => m.chamber === 'Sejm' || !m.chamber).filter(m => m.active !== false);
         return (
-            <div className="max-w-3xl mx-auto px-4 py-16 fade-in text-center">
-                <h1 className="text-4xl font-bold mb-4">Porównaj Posłów</h1>
-                <p className="text-gray-400 mb-8">
-                    Wybierz dwóch posłów, aby zobaczyć jak często głosowali tak samo.
-                </p>
-                <p className="text-sm text-gray-500">
-                    Użyj adresu URL: <span className="font-mono text-blue-400">/porownaj?a=[id1]&b=[id2]</span>
-                </p>
-                <div className="glass-card p-6 mt-8 text-left">
-                    <p className="text-xs text-gray-500 mb-3 uppercase font-bold tracking-wide">Przykłady</p>
-                    {mps.slice(0, 6).map(mp => (
-                        <div key={mp.id} className="flex items-center justify-between py-2 border-b border-surface-border last:border-0">
-                            <span className="text-sm text-foreground">{mp.name}</span>
-                            <span className="font-mono text-xs text-gray-500">id: {mp.id}</span>
-                        </div>
-                    ))}
-                </div>
+            <div className="min-h-screen pt-20 px-4">
+                <MPCompareSelector mps={activeMPs} prefilledA={a} prefilledB={b} />
             </div>
         );
     }
