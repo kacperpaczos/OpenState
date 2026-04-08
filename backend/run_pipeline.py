@@ -65,7 +65,7 @@ def main():
     log_path = os.path.join(log_dir, f"pipeline_{timestamp}.log")
     
     print("========================================")
-    print("   OpenOurGov Data Refresh Engine       ")
+    print("   OpenState Data Refresh Engine       ")
     print(f"   Log File: {log_path}")
     print("========================================")
     

@@ -16,7 +16,7 @@ export default async function HomePage() {
       {/* ── Hero ─────────────────────────────────────────────────────────── */}
       <div className="w-full max-w-2xl text-center pt-16 pb-12 space-y-5">
         <div className="inline-block bg-blue-500/10 text-blue-400 text-xs font-bold uppercase tracking-widest px-3 py-1 rounded-full border border-blue-500/20 mb-2">
-          JasnaSprawa.pl
+          OpenState
         </div>
         <h1 className="text-4xl md:text-5xl font-bold tracking-tight text-foreground leading-tight">
           Przeźroczysty<br />
@@ -136,7 +136,7 @@ export default async function HomePage() {
       </div>
 
       <p className="mt-12 text-center text-gray-600 text-xs">
-        JasnaSprawa.pl · Otwarte Dane Parlamentarne · X kadencja Sejmu
+        OpenState · Otwarte Dane Parlamentarne · X kadencja Sejmu
       </p>
 
     </div>

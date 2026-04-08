@@ -19,7 +19,7 @@ def test_pipeline():
     
     base_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
     
-    print("🧪 Testing OpenOurGov 'Git for Law' Engine\n")
+    print("🧪 Testing OpenState 'Git for Law' Engine\n")
     print("=" * 60)
     
     # Initialize components

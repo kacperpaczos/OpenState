@@ -69,8 +69,8 @@ describe('Navbar', () => {
         }
     });
 
-    it('renders JasnaSprawa.pl logo', () => {
+    it('renders OpenState logo', () => {
         render(<Navbar />);
-        expect(screen.getByText('JasnaSprawa.pl')).toBeInTheDocument();
+        expect(screen.getByText('OpenState')).toBeInTheDocument();
     });
 });

@@ -7,8 +7,8 @@ import StoreProvider from "./StoreProvider";
 const inter = Inter({ subsets: ["latin"], variable: "--font-inter" });
 
 export const metadata: Metadata = {
-  title: "JasnaSprawa.pl",
-  description: "Transparentny monitoring polskiego parlamentu.",
+  title: "OpenState",
+  description: "Transparentny monitoring działalności publicznej.",
 };
 
 export default function RootLayout({

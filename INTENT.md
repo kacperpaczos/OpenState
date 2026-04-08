@@ -1,7 +1,7 @@
-# Project Intent - OpenOurGov (JasnaSprawa.pl)
+# Project Intent - OpenState
 
 ## Mission Statement
-**OpenOurGov (JasnaSprawa.pl)** is a **non-profit civic transparency platform** that provides comprehensive, real-time insights into the Polish parliamentary legislative process. The goal is to create **the definitive portal for Polish parliamentary activity** by aggregating all available data sources into one accessible, modern interface.
+**OpenState** is a **non-profit civic transparency platform** that provides comprehensive, real-time insights into the Polish parliamentary legislative process. The goal is to create **the definitive portal for Polish parliamentary activity** by aggregating all available data sources into one accessible, modern interface.
 
 ### Business Model
 - **Non-profit**: No ads, no paywalls, free for all citizens

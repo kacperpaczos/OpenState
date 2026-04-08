@@ -9,8 +9,8 @@ test.describe('E2: Homepage', () => {
         await page.goto('/');
         await expect(page.locator('h1')).toContainText('legislacyjny');
 
-        // Only one "JasnaSprawa" from the Navbar, no duplicate
-        const logoCount = await page.locator('text=JasnaSprawa').count();
+        // Only one "OpenState" from the Navbar, no duplicate
+        const logoCount = await page.locator('text=OpenState').count();
         expect(logoCount).toBe(1);
     });
 

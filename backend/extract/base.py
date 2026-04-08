@@ -46,7 +46,7 @@ class BaseApiExtractor(BaseExtractor):
 
     def fetch_json(self, url: str) -> Any:
         try:
-            req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0 (OpenOurGov ETL Pipeline)'})
+            req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0 (OpenState ETL Pipeline)'})
             with urllib.request.urlopen(req, context=self.ctx, timeout=REQUEST_TIMEOUT) as response:
                 if response.status != 200:
                     raise ExtractError(f"HTTP Error {response.status} from {url}")

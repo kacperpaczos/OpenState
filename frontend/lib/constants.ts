@@ -1,5 +1,5 @@
 /**
- * Shared Constants for OpenOurGov
+ * Shared Constants for OpenState
  * 
  * Central place for all magic strings and configuration values
  * to prevent desynchronization across codebase.

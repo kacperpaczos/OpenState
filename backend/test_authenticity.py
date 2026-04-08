@@ -189,7 +189,7 @@ def test_freshness():
 
 def main():
     print(f"\n{Colors.BOLD}{'='*60}{Colors.END}")
-    print(f"{Colors.BOLD}OpenOurGov Data Authenticity Verification{Colors.END}")
+    print(f"{Colors.BOLD}OpenState Data Authenticity Verification{Colors.END}")
     print(f"{Colors.BOLD}{'='*60}{Colors.END}")
     
     # Change to backend directory

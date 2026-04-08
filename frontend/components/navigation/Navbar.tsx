@@ -27,8 +27,8 @@ export default function Navbar() {
         <nav className="fixed top-0 left-0 w-full z-50 glass-card !rounded-none border-x-0 border-t-0 h-16 px-4 sm:px-6 flex items-center justify-between bg-surface-color backdrop-blur-xl transition-colors duration-300">
             <Link href="/" className="flex items-center gap-3 hover:opacity-80 transition-opacity">
                 <Activity className="text-blue-600 dark:text-blue-500" size={24} />
-                <h1 className="text-lg font-bold text-gray-900 dark:text-white hidden sm:block">JasnaSprawa.pl</h1>
-                <h1 className="text-lg font-bold text-gray-900 dark:text-white sm:hidden">JS.pl</h1>
+                <h1 className="text-lg font-bold text-gray-900 dark:text-white hidden sm:block">OpenState</h1>
+                <h1 className="text-lg font-bold text-gray-900 dark:text-white sm:hidden">OS</h1>
             </Link>
 
             <div className="flex items-center gap-1">

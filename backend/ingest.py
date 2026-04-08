@@ -10,7 +10,7 @@ from ingestion.rcl import RCLIngestor
 from ingestion.isap import ISAPIngestor
 
 def main():
-    parser = argparse.ArgumentParser(description="OpenOurGov Data Ingestion Engine")
+    parser = argparse.ArgumentParser(description="OpenState Data Ingestion Engine")
     parser.add_argument('--full', action='store_true', help='Run full ingestion pipeline')
     parser.add_argument('--source', type=str, choices=['sejm', 'rcl', 'isap'], help='Run specific source')
     
@@ -19,7 +19,7 @@ def main():
     current_dir = os.path.dirname(os.path.abspath(__file__))
     base_dir = os.path.abspath(os.path.join(current_dir, "../"))
     
-    print(f"🏛️  OpenOurGov Data Engine | Root: {base_dir}")
+    print(f"🏛️  OpenState Data Engine | Root: {base_dir}")
     
     run_all = args.full or not args.source
     

@@ -1,4 +1,4 @@
-# Shared Constants for OpenOurGov Backend
+# Shared Constants for OpenState Backend
 # CRITICAL: Must match frontend/lib/constants.ts KANBAN_STAGES
 
 class KanbanStages:

@@ -1,4 +1,4 @@
-# Tech Stack - OpenOurGov (JasnaSprawa.pl)
+# Tech Stack - OpenState
 
 ## Frontend
 
