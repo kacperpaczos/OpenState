@@ -29,6 +29,11 @@ export default function MPsList({ initialMPs }: { initialMPs: MP[] }) {
 
     const [activeOnly, setActiveOnly] = useState(false);
     const [sortActive, setSortActive] = useState(true); // aktywni pierwsi domyslnie
+    const [selectedClub, setSelectedClub] = useState("");
+
+    const clubs = useMemo(() => {
+        return Array.from(new Set(mps.map(mp => mp.club))).filter(Boolean).sort();
+    }, [mps]);
 
     const filteredMps = useMemo(() => {
         let result = mps;
@@ -41,12 +46,14 @@ export default function MPsList({ initialMPs }: { initialMPs: MP[] }) {
                 mp.district.toLowerCase().includes(lower)
             );
         }
+        // club filter
+        if (selectedClub) result = result.filter(mp => mp.club === selectedClub);
         // active-only filter
         if (activeOnly) result = result.filter(mp => mp.active);
         // sort
         if (sortActive) result = [...result].sort((a, b) => (b.active ? 1 : 0) - (a.active ? 1 : 0));
         return result;
-    }, [mps, globalSearch, activeOnly, sortActive]);
+    }, [mps, globalSearch, activeOnly, sortActive, selectedClub]);
 
     const [visibleCount, setVisibleCount] = useState(100);
 
@@ -65,6 +72,16 @@ export default function MPsList({ initialMPs }: { initialMPs: MP[] }) {
                 </div>
                 {/* Controls */}
                 <div className="flex flex-wrap items-center gap-2">
+                    <select
+                        value={selectedClub}
+                        onChange={(e) => setSelectedClub(e.target.value)}
+                        className="bg-surface-color text-text-secondary border-surface-border text-xs font-semibold rounded-full px-3 py-1.5 focus:outline-none focus:ring-1 focus:ring-accent-blue border cursor-pointer hover:border-accent-blue/30 transition-colors"
+                    >
+                        <option value="">Wszystkie kluby</option>
+                        {clubs.map(club => (
+                            <option key={club} value={club}>{club}</option>
+                        ))}
+                    </select>
                     <button
                         onClick={() => setActiveOnly(v => !v)}
                         data-testid="active-only-toggle"

@@ -75,13 +75,13 @@ export default function HorizontalKanban({ kanban }: { kanban: any }) {
                 {/* Kanban Columns */}
                 <div
                     ref={scrollRef}
-                    className="flex gap-4 overflow-x-auto h-full px-12 pb-4 scroll-smooth"
+                    className="flex gap-4 overflow-x-auto h-full px-12 pb-4 scroll-smooth snap-x snap-mandatory"
                     style={{ scrollbarWidth: 'none', msOverflowStyle: 'none' }}
                 >
                     {columns.map((col) => {
                         const items = kanban[col.key] || [];
                         return (
-                            <div key={col.key} className="flex-shrink-0 w-[180px] flex flex-col">
+                            <div key={col.key} className="flex-shrink-0 w-[180px] flex flex-col snap-center">
                                 {/* Column Header */}
                                 <div className="mb-3">
                                     <h3 className="text-xs font-bold text-apple-gray-800 dark:text-apple-gray-200 mb-1">
