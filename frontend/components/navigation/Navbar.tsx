@@ -18,7 +18,11 @@ import {
     X,
     ArrowRight,
     TrendingUp,
-    ExternalLink
+    ExternalLink,
+    Landmark,
+    Edit3,
+    MessageSquare,
+    Globe
 } from "lucide-react";
 import ThemeToggle from "@/components/ThemeToggle";
 import { useState, FormEvent, useEffect, useRef } from "react";
@@ -110,11 +114,42 @@ export default function Navbar() {
         },
         {
             label: "Senat",
-            description: "Izba wyższa parlamentu",
+            description: "Izba wyższa parlamentu - refleksja i obywatelskość",
             mainHref: "/senatorowie",
             icon: LayoutGrid,
-            items: [
-                { href: "/senatorowie", label: "Senatorowie", description: "Skład i działalność Senatu", icon: Users },
+            columns: [
+                {
+                    title: "Skład i Ludzie",
+                    items: [
+                        { href: "/senatorowie", label: "Senatorowie RP", description: "Wykaz i aktywność senatorów", icon: Users },
+                        { href: "https://www.senat.gov.pl/sklad/senatorowie/oswiadczenia,92,11.html", label: "Majątki", description: "Oświadczenia majątkowe XI kad.", icon: TrendingUp, isExternal: true },
+                        { href: "https://www.senat.gov.pl/o-senacie/organy/", label: "Organy Senatu", description: "Marszałek i Prezydium", icon: Landmark, isExternal: true },
+                    ]
+                },
+                {
+                    title: "Legislacja",
+                    items: [
+                        { href: "https://www.senat.gov.pl/prace/proces-legislacyjny-w-senacie/ustawy-uchwalone-przez-sejm/", label: "Poprawki Senatu", description: "Zmiany wprowadzane do ustaw", icon: Edit3, isExternal: true },
+                        { href: "https://www.senat.gov.pl/prace/opinie-i-ekspertyzy/", label: "Opinie i Ekspertyzy", description: "Analizy prawne projektów", icon: Search, isExternal: true },
+                        { href: "https://www.senat.gov.pl/prace/druki/", label: "Druki Senackie", description: "Oficjalna dokumentacja prac", icon: FileText, isExternal: true },
+                    ]
+                },
+                {
+                    title: "Inicjatywy",
+                    items: [
+                        { href: "https://www.senat.gov.pl/prace/petycje/", label: "Petycje Obywatelskie", description: "Wnioski o zmiany w prawie", icon: MessageSquare, isExternal: true },
+                        { href: "https://www.senat.gov.pl/prace/komisje-senackie/", label: "Komisje", description: "Specjalistyczne prace izby", icon: Users, isExternal: true },
+                        { href: "https://www.senat.gov.pl/prace/posiedzenia/", label: "Posiedzenia", description: "Harmonogram i porządek obrad", icon: Calendar, isExternal: true },
+                    ]
+                },
+                {
+                    title: "Misja i Wiedza",
+                    items: [
+                        { href: "https://www.senat.gov.pl/o-senacie/senat-w-liczbach-i-grafikach/", label: "Senat w liczbach", description: "Statystyki i infografiki", icon: Activity, isExternal: true },
+                        { href: "https://www.senat.gov.pl/o-senacie/osrodki-senackie/osrodek-studiow-i-opinii/", label: "Ośrodek Studiów", description: "Zaplecze analityczne Senatu", icon: FileText, isExternal: true },
+                        { href: "https://www.senat.gov.pl/polonia/", label: "Polonia", description: "Opieka nad Polakami za granicą", icon: Globe, isExternal: true },
+                    ]
+                }
             ]
         },
         {
