@@ -10,9 +10,14 @@ type SortField = "id" | "title" | "date" | "stage";
 type SortDirection = "asc" | "desc";
 
 export default function BillsList({ initialProcesses }: { initialProcesses: Bill[] }) {
-    const [statusFilter, setStatusFilter] = useState("all");
     const [viewMode, setViewMode] = useState<ViewMode>("cards");
     const [headerHidden, setHeaderHidden] = useState(false);
+
+    // Multidimensional filters
+    const [typeFilter, setTypeFilter] = useState("all"); // all, Projekt ustawy, Projekt uchwały
+    const [stageGroupFilter, setStageGroupFilter] = useState("all"); // Sejm, Senat, Prezydent, Zakończone
+    const [isEUFilter, setIsEUFilter] = useState<boolean | null>(null);
+    const [authorFilter, setAuthorFilter] = useState("all"); // Nieznany, Obywatelski
 
     // Table sort state
     const [sortField, setSortField] = useState<SortField>("id");
@@ -20,16 +25,33 @@ export default function BillsList({ initialProcesses }: { initialProcesses: Bill
 
     // Local filtering
     const filteredBills = useMemo(() => {
-        let items = initialProcesses;
-        if (statusFilter !== "all") {
-             if (statusFilter === "UE") {
-                 items = items.filter(b => b.isEU);
-             } else {
-                 items = items.filter(b => b.documentType === statusFilter);
-             }
-        }
-        return items;
-    }, [initialProcesses, statusFilter]);
+        return initialProcesses.filter(bill => {
+            // Type filter
+            if (typeFilter !== "all" && bill.documentType !== typeFilter) return false;
+            
+            // EU filter
+            if (isEUFilter !== null && bill.isEU !== isEUFilter) return false;
+
+            // Author filter
+            if (authorFilter !== "all" && bill.authorType !== authorFilter) return false;
+
+            // Stage grouping filter
+            if (stageGroupFilter !== "all") {
+                const stage = (bill.kanbanStage || "").toLowerCase();
+                if (stageGroupFilter === "Sejm") {
+                    if (!stage.includes("sejm") && !stage.includes("komisjach") && !stage.includes("czytanie")) return false;
+                } else if (stageGroupFilter === "Senat") {
+                    if (!stage.includes("senat")) return false;
+                } else if (stageGroupFilter === "Prezydent") {
+                    if (!stage.includes("prezydent")) return false;
+                } else if (stageGroupFilter === "Zakończone") {
+                    if (!stage.includes("uchwalono") && !stage.includes("odrzucono") && !stage.includes("wycofano") && !stage.includes("nie uchwalona")) return false;
+                }
+            }
+
+            return true;
+        });
+    }, [initialProcesses, typeFilter, stageGroupFilter, isEUFilter, authorFilter]);
 
     // Auto-hide header on scroll down
     useEffect(() => {
@@ -94,68 +116,68 @@ export default function BillsList({ initialProcesses }: { initialProcesses: Bill
     // Reset pagination when filter changes
     useEffect(() => {
         setVisibleCount(50);
-    }, [statusFilter]);
+    }, [typeFilter, stageGroupFilter, isEUFilter, authorFilter]);
 
     return (
         <div className={`mx-auto fade-in h-full flex flex-col ${viewMode === 'table' ? 'max-w-[1600px] px-4' : viewMode === 'compact' ? 'max-w-[1400px] px-4' : 'max-w-7xl px-4'}`}>
             <header
-                className={`mb-4 mt-6 transition-all duration-300 ${viewMode !== 'cards' ? 'sticky top-0 z-50 bg-background/90 backdrop-blur-xl border-b border-apple-gray-200 dark:border-white/10 pb-4' : ''}`}
+                className={`mb-4 mt-6 transition-all duration-300 sticky top-0 z-50 bg-background/90 backdrop-blur-xl border-b border-apple-gray-200 dark:border-white/10 pb-4 pt-4`}
                 style={viewMode === 'cards' ? {
                     transform: headerHidden ? 'translateY(-150px)' : 'translateY(0)',
                     opacity: headerHidden ? 0 : 1
                 } : {}}
             >
-                <div className="flex items-center justify-between mb-2 gap-4">
-                    <div className="flex items-center gap-4">
-                        <h1 className={`${viewMode === "cards" ? "text-title-large" : "text-xl font-bold"} text-foreground`}>
-                            Śledzenie Ustaw
-                        </h1>
-                        {viewMode !== "cards" && (
-                            <span className="text-sm font-semibold text-apple-gray-500">
-                                ({displayBills.length} projektów)
+                <div className="flex flex-col gap-4">
+                    <div className="flex items-center justify-between gap-4">
+                        <div className="flex items-center gap-4">
+                            <span className="text-sm font-semibold text-apple-gray-500 bg-apple-gray-100 dark:bg-white/5 px-2 py-1 rounded">
+                                {displayBills.length} projektów
                             </span>
-                        )}
+                        </div>
+
+                        <div className="flex gap-1 bg-apple-gray-100 dark:bg-white/5 p-1 rounded-button">
+                            {(["cards", "compact", "table"] as ViewMode[]).map(mode => (
+                                <button
+                                    key={mode}
+                                    onClick={() => setViewMode(mode)}
+                                    className={`px-3 py-1.5 rounded-button text-xs font-semibold transition-colors capitalize ${
+                                        viewMode === mode
+                                            ? 'bg-apple-blue text-white'
+                                            : 'text-apple-gray-600 dark:text-apple-gray-400 hover:text-apple-gray-900 dark:hover:text-white'
+                                    }`}
+                                >
+                                    {mode}
+                                </button>
+                            ))}
+                        </div>
                     </div>
 
-                    <div className="flex gap-2">
-                        {/* View Filters directly beside switcher if simplified */}
-                        {viewMode !== "cards" && (
-                            <div className="hidden md:flex gap-1 mr-4 border-r border-apple-gray-200 dark:border-white/10 pr-4">
-                               <MiniFilterButton active={statusFilter === "all"} onClick={() => setStatusFilter("all")} label="Wszystkie" />
-                               <MiniFilterButton active={statusFilter === "Projekt ustawy"} onClick={() => setStatusFilter("Projekt ustawy")} label="Krajowe" />
-                               <MiniFilterButton active={statusFilter === "UE"} onClick={() => setStatusFilter("UE")} label="UE" />
-                            </div>
-                        )}
-                        
-                        {(["cards", "compact", "table"] as ViewMode[]).map(mode => (
-                            <button
-                                key={mode}
-                                onClick={() => setViewMode(mode)}
-                                className={`px-3 py-1.5 rounded-button text-xs font-semibold transition-colors capitalize ${
-                                    viewMode === mode
-                                        ? 'bg-apple-blue text-white'
-                                        : 'bg-apple-gray-100 dark:bg-white/5 text-apple-gray-700 dark:text-apple-gray-300 hover:bg-apple-gray-200 dark:hover:bg-white/10'
-                                }`}
-                            >
-                                {mode}
-                            </button>
-                        ))}
+                    <div className="flex flex-wrap gap-y-3 gap-x-6 items-center">
+                        <div className="flex gap-1 overflow-x-auto scrollbar-hide">
+                            <MiniFilterButton active={typeFilter === "all"} onClick={() => setTypeFilter("all")} label="Wszystkie" />
+                            <MiniFilterButton active={typeFilter === "Projekt ustawy"} onClick={() => setTypeFilter("Projekt ustawy")} label="Ustawy" />
+                            <MiniFilterButton active={typeFilter === "Projekt uchwały"} onClick={() => setTypeFilter("Projekt uchwały")} label="Uchwały" />
+                        </div>
+
+                        <div className="h-4 w-[1px] bg-apple-gray-200 dark:bg-white/10 hidden sm:block" />
+
+                        <div className="flex gap-1 overflow-x-auto scrollbar-hide">
+                            <MiniFilterButton active={stageGroupFilter === "all"} onClick={() => setStageGroupFilter("all")} label="Dowolny etap" />
+                            <MiniFilterButton active={stageGroupFilter === "Sejm"} onClick={() => setStageGroupFilter("Sejm")} label="W Sejmie" />
+                            <MiniFilterButton active={stageGroupFilter === "Senat"} onClick={() => setStageGroupFilter("Senat")} label="W Senacie" />
+                            <MiniFilterButton active={stageGroupFilter === "Prezydent"} onClick={() => setStageGroupFilter("Prezydent")} label="U Prezydenta" />
+                            <MiniFilterButton active={stageGroupFilter === "Zakończone"} onClick={() => setStageGroupFilter("Zakończone")} label="Zakończone" />
+                        </div>
+
+                        <div className="h-4 w-[1px] bg-apple-gray-200 dark:bg-white/10 hidden sm:block" />
+
+                        <div className="flex gap-1 overflow-x-auto scrollbar-hide">
+                            <MiniFilterButton active={isEUFilter === true} onClick={() => setIsEUFilter(isEUFilter === true ? null : true)} label="Tylko UE" />
+                            <MiniFilterButton active={authorFilter === "Obywatelski"} onClick={() => setAuthorFilter(authorFilter === "Obywatelski" ? "all" : "Obywatelski")} label="Obywatelskie" />
+                        </div>
                     </div>
                 </div>
-                {viewMode === "cards" && <p className="text-body-secondary">Projekty legislacyjne X kadencji Sejmu RP</p>}
             </header>
-
-            {/* Standard Filters */}
-            {viewMode === "cards" && (
-                <div className="mb-6 space-y-4">
-                    <div className="flex gap-2 overflow-x-auto pb-2 scrollbar-hide">
-                        <FilterButton active={statusFilter === "all"} onClick={() => setStatusFilter("all")} label="Wszystkie" />
-                        <FilterButton active={statusFilter === "Projekt ustawy"} onClick={() => setStatusFilter("Projekt ustawy")} label="Projekty Ustaw" />
-                        <FilterButton active={statusFilter === "Projekt uchwały"} onClick={() => setStatusFilter("Projekt uchwały")} label="Uchwały" />
-                        <FilterButton active={statusFilter === "UE"} onClick={() => setStatusFilter("UE")} label="Tylko UE" />
-                    </div>
-                </div>
-            )}
 
             {/* Content Display based on ViewMode */}
             <div className={`pb-20 ${viewMode !== 'cards' ? 'flex-1 overflow-auto custom-scrollbar' : ''}`}>
@@ -219,22 +241,8 @@ function MiniFilterButton({ active, onClick, label }: { active: boolean; onClick
          <button
             onClick={onClick}
             className={`px-2.5 py-1 rounded-button text-xs font-semibold transition-all ${
-                active ? 'bg-apple-blue text-white' : 'text-apple-gray-700 dark:text-apple-gray-300 hover:bg-apple-gray-100 dark:hover:bg-white/10'
+                active ? 'bg-apple-blue text-white shadow-sm' : 'text-apple-gray-700 dark:text-apple-gray-300 hover:bg-apple-gray-100 dark:hover:bg-white/10'
             }`}
-        >
-            {label}
-        </button>
-    );
-}
-
-function FilterButton({ active, onClick, label }: { active: boolean; onClick: () => void; label: string }) {
-    return (
-        <button
-            onClick={onClick}
-            className={`px-4 py-2 rounded-button text-sm font-semibold transition-all whitespace-nowrap ${active
-                ? 'bg-apple-blue text-white shadow-apple-lg'
-                : 'bg-white/50 dark:bg-white/5 text-apple-gray-700 dark:text-apple-gray-300 border border-apple-gray-200 dark:border-white/10 hover:bg-white/80 dark:hover:bg-white/10'
-                }`}
         >
             {label}
         </button>
