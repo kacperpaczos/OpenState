@@ -1,6 +1,6 @@
 "use client";
 
-import React, { useState } from 'react';
+import React, { useState, useMemo } from 'react';
 import { 
     PieChart as RePieChart, 
     Pie, 
@@ -11,116 +11,178 @@ import {
     Bar, 
     XAxis, 
     YAxis, 
-    CartesianGrid, 
-    Legend
+    CartesianGrid,
+    LineChart,
+    Line,
+    AreaChart,
+    Area
 } from 'recharts';
-import { BUDGET_DATA, BudgetCategory } from '@/lib/budget';
-import { ArrowDownRight, ArrowUpRight, Banknote, Info, Wallet, TrendingDown } from 'lucide-react';
+import { BUDGET_DATA, BudgetCategory, BudgetYear } from '@/lib/budget';
+import { 
+    ArrowDownRight, 
+    ArrowUpRight, 
+    Banknote, 
+    Wallet, 
+    TrendingDown, 
+    History, 
+    ArrowRight,
+    Search,
+    Info,
+    LineChart as LucideLineChart
+} from 'lucide-react';
 
 export default function BudgetPage() {
-    const [selectedYear, setSelectedYear] = useState(BUDGET_DATA[0]);
+    const sortedBudgets = [...BUDGET_DATA].sort((a, b) => b.year - a.year);
+    const [selectedYear, setSelectedYear] = useState<BudgetYear>(sortedBudgets[0]);
+    
+    // Znajdź poprzedni rok dla porównania delt
+    const prevYearData = useMemo(() => {
+        const index = sortedBudgets.findIndex(b => b.year === selectedYear.year);
+        return sortedBudgets[index + 1];
+    }, [selectedYear, sortedBudgets]);
 
     const formatPLN = (value: number) => {
-        return new Intl.NumberFormat('pl-PL', {
-            style: 'currency',
-            currency: 'PLN',
+        const absValue = Math.abs(value);
+        const suffix = ' mld';
+        const formatted = new Intl.NumberFormat('pl-PL', {
             maximumFractionDigits: 1
-        }).format(value) + ' mld';
+        }).format(absValue);
+        return (value < 0 ? '-' : '') + formatted + suffix;
+    };
+
+    const calculateDiff = (current: number, prev: number | undefined) => {
+        if (prev === undefined) return null;
+        const diff = current - prev;
+        const isPositive = diff > 0;
+        return {
+            value: formatPLN(diff),
+            isPositive,
+            percent: ((diff / prev) * 100).toFixed(1) + '%'
+        };
     };
 
     return (
-        <div className="max-w-7xl mx-auto space-y-8 animate-in fade-in slide-in-from-bottom-4 duration-700">
-            {/* Header */}
-            <div className="flex flex-col md:flex-row md:items-end justify-between gap-4">
-                <div>
-                    <h1 className="text-3xl font-extrabold tracking-tight text-gray-900 dark:text-white">Budżet Państwa</h1>
-                    <p className="text-gray-500 font-medium mt-1">Analiza finansów publicznych i kierunków wydatkowania</p>
+        <div className="max-w-7xl mx-auto space-y-12 pb-20 animate-in fade-in slide-in-from-bottom-6 duration-1000">
+            {/* Elegant Header with Time Machine */}
+            <div className="flex flex-col gap-8">
+                <div className="flex flex-col md:flex-row md:items-end justify-between gap-6">
+                    <div className="space-y-2">
+                        <div className="flex items-center gap-2 text-blue-600 dark:text-blue-500 font-black text-xs uppercase tracking-[0.2em]">
+                            <History size={14} />
+                            Wejdź w wehikuł czasu
+                        </div>
+                        <h1 className="text-5xl font-black tracking-tighter text-gray-900 dark:text-white">
+                            Budżet Państwa <span className="text-blue-600">{selectedYear.year}</span>
+                        </h1>
+                        <p className="text-gray-500 font-medium max-w-xl leading-relaxed">
+                            Analiza historyczna i bieżąca finansów publicznych Rzeczypospolitej. 
+                            Przełączaj lata, aby zobaczyć jak rosły wydatki i zmieniały się priorytety państwa.
+                        </p>
+                    </div>
+
+                    {/* Desktop Year Selector */}
+                    <div className="hidden lg:flex items-center gap-2 bg-gray-100/50 dark:bg-white/5 p-1.5 rounded-2xl backdrop-blur-md">
+                        {sortedBudgets.map(b => (
+                            <button
+                                key={b.year}
+                                onClick={() => setSelectedYear(b)}
+                                className={`px-5 py-2.5 rounded-xl text-sm font-black transition-all duration-300 ${
+                                    selectedYear.year === b.year 
+                                    ? "bg-white dark:bg-white/10 shadow-xl shadow-black/5 text-blue-600 dark:text-white scale-105" 
+                                    : "text-gray-400 hover:text-gray-600 dark:hover:text-gray-300"
+                                }`}
+                            >
+                                {b.year}
+                            </button>
+                        ))}
+                    </div>
                 </div>
-                <div className="flex bg-gray-100 dark:bg-white/5 p-1 rounded-xl">
-                    {BUDGET_DATA.map(year => (
+
+                {/* Mobile Year Selector */}
+                <div className="lg:hidden flex gap-2 overflow-x-auto pb-2 -mx-4 px-4 scrollbar-hide">
+                    {sortedBudgets.map(b => (
                         <button
-                            key={year.year}
-                            onClick={() => setSelectedYear(year)}
-                            className={`px-4 py-2 rounded-lg text-sm font-bold transition-all ${
-                                selectedYear.year === year.year 
-                                ? "bg-white dark:bg-white/10 shadow-sm text-blue-600 dark:text-white" 
-                                : "text-gray-500 hover:text-gray-700 dark:hover:text-gray-300"
+                            key={b.year}
+                            onClick={() => setSelectedYear(b)}
+                            className={`px-6 py-3 rounded-2xl text-sm font-bold shrink-0 transition-all ${
+                                selectedYear.year === b.year 
+                                ? "bg-blue-600 text-white shadow-lg" 
+                                : "bg-gray-100 dark:bg-white/5 text-gray-500"
                             }`}
                         >
-                            Rok {year.year}
+                            {b.year}
                         </button>
                     ))}
                 </div>
             </div>
 
-            {/* Summary Grid */}
-            <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
-                <div className="glass-card !p-6 flex flex-col justify-between group overflow-hidden relative">
-                    <div className="flex items-center gap-4">
-                        <div className="w-12 h-12 bg-green-500/10 rounded-2xl flex items-center justify-center text-green-600 dark:text-green-400">
-                            <Banknote size={24} />
+            {/* KPI Cards Section */}
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+                {[
+                    { 
+                        label: "Dochody", 
+                        value: selectedYear.revenue, 
+                        icon: Banknote, 
+                        color: "emerald",
+                        diff: calculateDiff(selectedYear.revenue, prevYearData?.revenue)
+                    },
+                    { 
+                        label: "Wydatki", 
+                        value: selectedYear.expenditure, 
+                        icon: Wallet, 
+                        color: "blue",
+                        diff: calculateDiff(selectedYear.expenditure, prevYearData?.expenditure)
+                    },
+                    { 
+                        label: "Deficyt / Nadwyżka", 
+                        value: selectedYear.deficit, 
+                        icon: TrendingDown, 
+                        color: selectedYear.deficit > 0 ? "red" : "emerald",
+                        diff: calculateDiff(selectedYear.deficit, prevYearData?.deficit)
+                    },
+                    { 
+                        label: "Relacja % do PKB", 
+                        value: selectedYear.gdpRatio || 0, 
+                        icon: LucideLineChart, 
+                        color: "purple",
+                        isPercent: true
+                    }
+                ].map((stat, i) => (
+                    <div key={i} className="glass-card !p-6 group relative overflow-hidden transition-all duration-500 hover:scale-[1.02] border border-gray-100 dark:border-white/5">
+                        <div className="flex justify-between items-start mb-4">
+                            <div className={`p-3 rounded-2xl bg-${stat.color}-500/10 text-${stat.color}-600 dark:text-${stat.color}-400 group-hover:scale-110 transition-transform`}>
+                                <stat.icon size={22} />
+                            </div>
+                            {stat.diff && (
+                                <div className={`px-2 py-1 rounded-full text-[10px] font-black uppercase tracking-wider ${stat.diff.isPositive ? 'bg-red-500/10 text-red-600' : 'bg-emerald-500/10 text-emerald-600'}`}>
+                                    {stat.diff.isPositive ? '+' : ''}{stat.diff.percent}
+                                </div>
+                            )}
                         </div>
-                        <div>
-                            <p className="text-xs font-bold text-gray-500 uppercase tracking-widest">Dochody</p>
-                            <h3 className="text-2xl font-black">{formatPLN(selectedYear.revenue)}</h3>
-                        </div>
+                        <p className="text-[10px] font-black text-gray-400 uppercase tracking-[0.15em]">{stat.label}</p>
+                        <h3 className="text-2xl font-black mt-1">
+                            {stat.isPercent ? `${stat.value}%` : formatPLN(stat.value)}
+                        </h3>
+                        <div className={`absolute -right-4 -bottom-4 w-20 h-20 bg-${stat.color}-500/5 rounded-full blur-3xl opacity-0 group-hover:opacity-100 transition-opacity`} />
                     </div>
-                    <div className="mt-4 flex items-center gap-1 text-xs font-bold text-green-600">
-                        <TrendingDown className="rotate-180" size={14} /> 
-                        +{(selectedYear.revenue - BUDGET_DATA[1].revenue).toFixed(1)} mld r/r
-                    </div>
-                    <div className="absolute -right-4 -bottom-4 w-24 h-24 bg-green-500/5 rounded-full blur-2xl group-hover:bg-green-500/10 transition-colors" />
-                </div>
-
-                <div className="glass-card !p-6 flex flex-col justify-between group overflow-hidden relative">
-                    <div className="flex items-center gap-4">
-                        <div className="w-12 h-12 bg-blue-500/10 rounded-2xl flex items-center justify-center text-blue-600 dark:text-blue-400">
-                            <Wallet size={24} />
-                        </div>
-                        <div>
-                            <p className="text-xs font-bold text-gray-500 uppercase tracking-widest">Wydatki</p>
-                            <h3 className="text-2xl font-black">{formatPLN(selectedYear.expenditure)}</h3>
-                        </div>
-                    </div>
-                    <div className="mt-4 flex items-center gap-1 text-xs font-bold text-gray-400">
-                        Porażająca kwota, dynamicznie rosnąca
-                    </div>
-                    <div className="absolute -right-4 -bottom-4 w-24 h-24 bg-blue-500/5 rounded-full blur-2xl group-hover:bg-blue-500/10 transition-colors" />
-                </div>
-
-                <div className="glass-card !p-6 flex flex-col justify-between group overflow-hidden relative border-red-500/20">
-                    <div className="flex items-center gap-4">
-                        <div className="w-12 h-12 bg-red-500/10 rounded-2xl flex items-center justify-center text-red-600 dark:text-red-400">
-                            <TrendingDown size={24} />
-                        </div>
-                        <div>
-                            <p className="text-xs font-bold text-gray-500 uppercase tracking-widest">Deficyt</p>
-                            <h3 className="text-2xl font-black text-red-600 dark:text-red-400">{formatPLN(selectedYear.deficit)}</h3>
-                        </div>
-                    </div>
-                    <div className="mt-4 flex items-center gap-1 text-xs font-bold text-red-500">
-                        <ArrowUpRight size={14} /> 
-                        Wzrost o {(selectedYear.deficit - BUDGET_DATA[1].deficit).toFixed(1)} mld r/r
-                    </div>
-                    <div className="absolute -right-4 -bottom-4 w-24 h-24 bg-red-500/5 rounded-full blur-2xl group-hover:bg-red-500/10 transition-colors" />
-                </div>
+                ))}
             </div>
 
-            {/* Main Content: Charts */}
-            <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
-                {/* Left: Category Breakdown */}
-                <div className="lg:col-span-2 glass-card !p-8">
-                    <div className="mb-6">
-                        <h2 className="text-xl font-bold">Struktura Wydatków</h2>
-                        <p className="text-sm text-gray-500">Gdzie trafiają pieniądze z budżetu państwa</p>
+            {/* Advanced Analytics Grid */}
+            <div className="grid grid-cols-1 lg:grid-cols-3 gap-8 items-start">
+                {/* Horizontal Expenditure Bar Chart */}
+                <div className="lg:col-span-2 glass-card !p-10 space-y-8">
+                    <div>
+                        <h3 className="text-2xl font-black tracking-tight">Gdzie trafiają Twoje pieniądze?</h3>
+                        <p className="text-sm text-gray-500 font-medium leading-relaxed">Szczegółowa struktura wydatków państwa w roku {selectedYear.year}.</p>
                     </div>
                     
-                    <div className="h-[400px] w-full">
+                    <div className="h-[450px] w-full">
                         <ResponsiveContainer width="100%" height="100%">
                             <BarChart
                                 data={selectedYear.categories}
                                 layout="vertical"
-                                margin={{ top: 5, right: 30, left: 100, bottom: 5 }}
+                                margin={{ top: 0, right: 40, left: 20, bottom: 0 }}
                             >
                                 <XAxis type="number" hide />
                                 <YAxis 
@@ -129,7 +191,7 @@ export default function BudgetPage() {
                                     width={140} 
                                     axisLine={false}
                                     tickLine={false}
-                                    tick={{ fontSize: 12, fontWeight: 600 }}
+                                    tick={{ fontSize: 12, fontWeight: 700, fill: '#888' }}
                                 />
                                 <ReTooltip 
                                     cursor={{ fill: 'transparent' }}
@@ -137,10 +199,10 @@ export default function BudgetPage() {
                                         if (active && payload && payload.length) {
                                             const data = payload[0].payload as BudgetCategory;
                                             return (
-                                                <div className="glass-card !p-3 shadow-xl border-gray-200/50 dark:border-white/10">
-                                                    <p className="font-bold text-sm mb-1">{data.label}</p>
-                                                    <p className="text-blue-600 dark:text-blue-400 font-black text-lg">{formatPLN(data.amount)}</p>
-                                                    <p className="text-[10px] text-gray-500 max-w-[200px] leading-relaxed mt-1">{data.description}</p>
+                                                <div className="bg-white/95 dark:bg-zinc-900/95 backdrop-blur-2xl p-4 rounded-3xl shadow-2xl border border-gray-100 dark:border-white/10 ring-1 ring-black/5 animate-in fade-in zoom-in-95 duration-200">
+                                                    <p className="font-black text-xs uppercase tracking-widest text-gray-400 mb-1">{data.label}</p>
+                                                    <p className="text-2xl font-black text-blue-600 dark:text-blue-400">{formatPLN(data.amount)}</p>
+                                                    <p className="text-[10px] text-gray-500 max-w-[220px] leading-relaxed mt-2 font-medium">{data.description}</p>
                                                 </div>
                                             );
                                         }
@@ -149,11 +211,12 @@ export default function BudgetPage() {
                                 />
                                 <Bar 
                                     dataKey="amount" 
-                                    radius={[0, 8, 8, 0]} 
-                                    barSize={24}
+                                    radius={[0, 12, 12, 0]} 
+                                    barSize={28}
+                                    animationDuration={1500}
                                 >
                                     {selectedYear.categories.map((entry, index) => (
-                                        <Cell key={`cell-${index}`} fill={entry.color} />
+                                        <Cell key={`cell-${index}`} fill={entry.color} fillOpacity={0.8} />
                                     ))}
                                 </Bar>
                             </BarChart>
@@ -161,68 +224,107 @@ export default function BudgetPage() {
                     </div>
                 </div>
 
-                {/* Right: Pie Chart + Legend */}
-                <div className="glass-card !p-8 flex flex-col">
-                    <div className="mb-6">
-                        <h2 className="text-xl font-bold">Proporcje</h2>
-                        <p className="text-sm text-gray-500">Udział w całkowitych wydatkach</p>
-                    </div>
-                    <div className="h-[240px] w-full shrink-0">
-                        <ResponsiveContainer width="100%" height="100%">
-                            <RePieChart>
-                                <Pie
-                                    data={selectedYear.categories}
-                                    cx="50%"
-                                    cy="50%"
-                                    innerRadius={60}
-                                    outerRadius={80}
-                                    paddingAngle={4}
-                                    dataKey="amount"
-                                >
-                                    {selectedYear.categories.map((entry, index) => (
-                                        <Cell key={`cell-${index}`} fill={entry.color} stroke="none" />
-                                    ))}
-                                </Pie>
-                                <ReTooltip />
-                            </RePieChart>
-                        </ResponsiveContainer>
-                    </div>
-                    <div className="space-y-3 overflow-y-auto pr-2 mt-4 custom-scrollbar">
-                        {selectedYear.categories.map((cat) => (
-                            <div key={cat.id} className="flex items-center justify-between text-xs">
-                                <div className="flex items-center gap-2">
-                                    <div className="w-2.5 h-2.5 rounded-full" style={{ backgroundColor: cat.color }} />
-                                    <span className="font-medium text-gray-700 dark:text-gray-300">{cat.label}</span>
-                                </div>
-                                <span className="font-black text-gray-900 dark:text-white">
-                                    {((cat.amount / selectedYear.expenditure) * 100).toFixed(1)}%
-                                </span>
+                {/* Vertical Context Panel (Proportions & History) */}
+                <div className="space-y-8">
+                    {/* Proportions Card */}
+                    <div className="glass-card !p-8 flex flex-col items-center">
+                        <div className="w-full text-center mb-8">
+                            <h3 className="text-lg font-black tracking-tight">Punkt widzenia</h3>
+                            <p className="text-xs text-gray-500 font-medium">Udziały procentowe</p>
+                        </div>
+                        <div className="h-[220px] w-full relative">
+                            <ResponsiveContainer width="100%" height="100%">
+                                <RePieChart>
+                                    <Pie
+                                        data={selectedYear.categories}
+                                        cx="50%"
+                                        cy="50%"
+                                        innerRadius={70}
+                                        outerRadius={95}
+                                        paddingAngle={6}
+                                        dataKey="amount"
+                                        animationDuration={1500}
+                                    >
+                                        {selectedYear.categories.map((entry, index) => (
+                                            <Cell key={`cell-${index}`} fill={entry.color} stroke="none" />
+                                        ))}
+                                    </Pie>
+                                </RePieChart>
+                            </ResponsiveContainer>
+                            <div className="absolute inset-0 flex flex-col items-center justify-center pointer-events-none">
+                                <span className="text-xs font-black text-gray-400 uppercase tracking-widest">Wydatki</span>
+                                <span className="text-2xl font-black">100%</span>
                             </div>
-                        ))}
+                        </div>
+                        <div className="grid grid-cols-2 gap-4 w-full mt-10">
+                            {selectedYear.categories.slice(0, 4).map((cat) => (
+                                <div key={cat.id} className="flex flex-col gap-1">
+                                    <div className="flex items-center gap-1.5">
+                                        <div className="w-1.5 h-1.5 rounded-full" style={{ backgroundColor: cat.color }} />
+                                        <span className="text-[9px] font-black uppercase tracking-wider text-gray-500 truncate">{cat.label}</span>
+                                    </div>
+                                    <span className="text-sm font-black text-gray-900 dark:text-white pl-3 text-left">
+                                        {((cat.amount / selectedYear.expenditure) * 100).toFixed(1)}%
+                                    </span>
+                                </div>
+                            ))}
+                        </div>
+                    </div>
+
+                    {/* Historical Pulse Chart */}
+                    <div className="glass-card !p-8">
+                        <div className="mb-6">
+                            <h3 className="text-lg font-black tracking-tight">Kondycja PKB</h3>
+                            <p className="text-xs text-gray-500 font-medium leading-tight">Relacja deficytu do gospodarki (%)</p>
+                        </div>
+                        <div className="h-[140px] w-full">
+                            <ResponsiveContainer width="100%" height="100%">
+                                <AreaChart data={sortedBudgets.reverse()}>
+                                    <defs>
+                                        <linearGradient id="colorGdp" x1="0" y1="0" x2="0" y2="1">
+                                            <stop offset="5%" stopColor="#3B82F6" stopOpacity={0.3}/>
+                                            <stop offset="95%" stopColor="#3B82F6" stopOpacity={0}/>
+                                        </linearGradient>
+                                    </defs>
+                                    <Area 
+                                        type="monotone" 
+                                        dataKey="gdpRatio" 
+                                        stroke="#3B82F6" 
+                                        fillOpacity={1} 
+                                        strokeWidth={3}
+                                        fill="url(#colorGdp)" 
+                                    />
+                                    <ReTooltip />
+                                </AreaChart>
+                            </ResponsiveContainer>
+                        </div>
+                        <p className="text-[10px] text-gray-400 font-medium mt-4 leading-relaxed italic">
+                            Trend historyczny odzwierciedla dyscyplinę budżetową na przestrzeni ostatnich dekad.
+                        </p>
                     </div>
                 </div>
             </div>
 
-            {/* Tax Info Section */}
-            <div className="glass-card !p-10 bg-gradient-to-br from-gray-900 to-blue-950 text-white border-none relative overflow-hidden group">
-                <div className="relative z-10 max-w-2xl">
-                    <h2 className="text-3xl font-black mb-4">Na co idą Twoje podatki?</h2>
-                    <p className="text-blue-100/80 leading-relaxed mb-6">
-                        Budżet państwa to nie tylko cyfry na papierze. To Twoje składki, podatki PIT i VAT przekute w infrastrukturę, 
-                        bezpieczeństwo i usługi publiczne. Pół biliona złotych rocznie to gigantyczna odpowiedzialność. 
-                        Monitoruj, jak te środki są rozdysponowywane i czy kierunki wydatków pokrywają się z Twoimi priorytetami.
+            {/* Educational / Interactive call to action */}
+            <div className="glass-card !p-12 bg-gradient-to-br from-zinc-900 to-blue-950 text-white border-none relative overflow-hidden group">
+                <div className="relative z-10 max-w-3xl">
+                    <h2 className="text-4xl font-black mb-6 tracking-tighter">Zrozumieć Miliardy</h2>
+                    <p className="text-blue-100/70 text-lg leading-relaxed mb-10">
+                        Budżet państwa zmieniał się drastycznie na przestrzeni lat. Od skromnych 16 miliardów w 1990 roku, 
+                        po blisko bilionowe wydatki dzisiaj. OpenState pozwala Ci analizować te zmiany nie tylko jako suche 
+                        cyfry, ale jako realny obraz rozwoju naszego kraju. 
                     </p>
                     <div className="flex flex-wrap gap-4">
-                        <button className="bg-white text-blue-950 px-6 py-2.5 rounded-full font-bold text-sm hover:bg-blue-50 transition-colors shadow-lg shadow-white/10">
-                            Przewodnik po budżecie
+                        <button className="bg-white text-blue-950 px-8 py-3.5 rounded-2xl font-black text-sm hover:scale-105 transition-all shadow-xl shadow-white/5">
+                            Analiza Porównawcza Dekad
                         </button>
-                        <button className="bg-blue-500/20 backdrop-blur-md border border-white/10 text-white px-6 py-2.5 rounded-full font-bold text-sm hover:bg-blue-500/30 transition-colors">
-                            Wszystkie działy klasyfikacji
+                        <button className="bg-white/10 backdrop-blur-2xl border border-white/10 text-white px-8 py-3.5 rounded-2xl font-black text-sm hover:bg-white/20 transition-all">
+                            Pobierz Raport PDF
                         </button>
                     </div>
                 </div>
-                <div className="absolute top-0 right-0 w-1/2 h-full bg-gradient-to-l from-blue-500/20 to-transparent pointer-none" />
-                <div className="absolute -right-20 -top-20 w-96 h-96 bg-blue-500/10 rounded-full blur-[100px] group-hover:bg-blue-500/20 transition-all duration-1000" />
+                <div className="absolute -right-20 -bottom-20 w-[400px] h-[400px] bg-blue-500/10 rounded-full blur-[120px] group-hover:bg-blue-500/20 transition-all duration-1000" />
+                <LucideLineChart className="absolute right-12 top-1/2 -translate-y-1/2 text-white/5 w-64 h-64 -rotate-12" />
             </div>
         </div>
     );

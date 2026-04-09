@@ -18,13 +18,16 @@ import {
     X,
     ArrowRight,
     TrendingUp,
+    TrendingDown,
     ExternalLink,
     Landmark,
     Edit3,
     MessageSquare,
     Globe,
     BookOpen,
-    ShieldCheck
+    ShieldCheck,
+    Banknote,
+    BarChart3
 } from "lucide-react";
 import ThemeToggle from "@/components/ThemeToggle";
 import { useState, FormEvent, useEffect, useRef } from "react";
@@ -155,12 +158,42 @@ export default function Navbar() {
             ]
         },
         {
-            label: "Finanse",
-            description: "Budżet i wydatki publiczne",
+            label: "Budżet Państwa",
+            description: "Analiza finansów publicznych i wydatków państwa",
             mainHref: "/budzet",
             icon: PieChart,
-            items: [
-                { href: "/budzet", label: "Budżet Państwa", description: "Interaktywna analiza finansów", icon: TrendingUp },
+            columns: [
+                {
+                    title: "Dashboard Finansowy",
+                    items: [
+                        { href: "/budzet", label: "Stan Budżetu", description: "Bieżące dochody i wydatki", icon: TrendingUp },
+                        { href: "/budzet?view=plan", label: "Plan na 2025", description: "Założenia ustawy budżetowej", icon: Calendar },
+                        { href: "/budzet?view=debt", label: "Licznik Długu", description: "Dług publiczny w czasie rzeczywistym", icon: Activity },
+                    ]
+                },
+                {
+                    title: "Historia i Trendy",
+                    items: [
+                        { href: "/budzet?view=history", label: "Budżety od 1989", description: "Archiwum danych historycznych", icon: BookOpen },
+                        { href: "/budzet?view=compare", label: "Porównywarka Lat", description: "Zestawienie różnych dekad", icon: ArrowRight },
+                        { href: "/budzet?view=inflation", label: "Wartość Realna", description: "Kalkulator wpływu inflacji", icon: TrendingUp },
+                    ]
+                },
+                {
+                    title: "Struktura Wydatków",
+                    items: [
+                        { href: "/budzet?view=departments", label: "Ranking Resortów", description: "Kto dostaje najwięcej?", icon: Landmark },
+                        { href: "/budzet?view=social", label: "Programy Socjalne", description: "Koszt transferów społecznych", icon: Users },
+                        { href: "/budzet?view=investments", label: "Inwestycje", description: "Koszty rozwoju i infrastruktury", icon: Activity },
+                    ]
+                },
+                {
+                    title: "Transparentność",
+                    items: [
+                        { href: "https://www.nik.gov.pl/kontrole/analiza-budzetu-panstwa/", label: "Audyt NIK", description: "Raporty i opinie kontrolerów", icon: ShieldCheck, isExternal: true },
+                        { href: "/budzet?view=data", label: "Pobierz Dane", description: "Archiwa CSV / JSON / PDF", icon: FileText },
+                    ]
+                }
             ]
         },
         {
@@ -204,12 +237,40 @@ export default function Navbar() {
         },
         {
             label: "Analizy",
-            description: "Statystyki i monitoring danych",
+            description: "Zaawansowane zestawienia i modele danych",
             mainHref: "/glosowania",
             icon: Activity,
-            items: [
-                { href: "/glosowania", label: "Głosowania", description: "Wyniki i analiza głosowań", icon: Calendar },
-                { href: "/porownaj", label: "Porównaj", description: "Sprawdź zgodność posłów", icon: RotateCcw },
+            columns: [
+                {
+                    title: "Analiza Głosowań",
+                    items: [
+                        { href: "/glosowania", label: "Ostatnie Głosowania", description: "Wyniki i statystyki sesji", icon: Activity },
+                        { href: "/glosowania?view=attendance", label: "Frekwencja", description: "Dyscyplina obecności na obradach", icon: Users },
+                        { href: "/glosowania?view=controversial", label: "Głosowania Kontrowersyjne", description: "Najbardziej podzielone decyzje", icon: TrendingDown },
+                    ]
+                },
+                {
+                    title: "Rankingi i Oceny",
+                    items: [
+                        { href: "/poslowie?sort=active", label: "Ranking Aktywności", description: "Kto pracuje najwięcej?", icon: TrendingUp },
+                        { href: "/budzet?view=data", label: "Ranking Majątków", description: "Zestawienie oświadczeń finansowych", icon: Banknote },
+                        { href: "/ustawy?view=efficiency", label: "Efektywność", description: "Skuteczność zgłaszanych ustaw", icon: ShieldCheck },
+                    ]
+                },
+                {
+                    title: "Narzędzia Porównawcze",
+                    items: [
+                        { href: "/porownaj", label: "Porównaj Posłów", description: "Zestaw dwóch reprezentantów", icon: Users },
+                        { href: "/porownaj-partie", label: "Zgodność Partii", description: "Kto głosuje najczęściej razem?", icon: Search },
+                    ]
+                },
+                {
+                    title: "Modele i Symulacje",
+                    items: [
+                        { href: "/projekcje", label: "Projekcje Wyborcze", description: "Algorytmiczne przewidywania", icon: LayoutGrid },
+                        { href: "/ai", label: "Analiza AI", description: "Inteligentne streszczenia ustaw", icon: Activity },
+                    ]
+                }
             ]
         }
     ];
