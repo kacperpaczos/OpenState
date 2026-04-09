@@ -50,4 +50,27 @@ export const KANBAN_STAGE_COLORS: Record<KanbanStage, string> = {
     [KANBAN_STAGES.PUBLIKACJA]: "bg-apple-green text-white",
     [KANBAN_STAGES.WEJSCIE_W_ZYCIE]: "bg-apple-green text-white",
 };
-
+// Party/Club Colors
+export const PARTY_COLORS: Record<string, string> = {
+    "PiS": "#0056a1",
+    "KO": "#f68d2e",
+    "Trzecia Droga": "#ffd700",
+    "PSL-TD": "#15a347",
+    "PL2050-TD": "#ffd700",
+    "Lewica": "#e2001a",
+    "Konfederacja": "#122744",
+    "Kukiz15": "#2e3b4e",
+    "Polska2050": "#ffd700",
+    "Klub Parlamentarny Prawo i Sprawiedliwość": "#0056a1",
+    "Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni": "#f68d2e",
+    "Klub Parlamentarny Trzecia Droga - Polska 2050 - Polskie Stronnictwo Ludowe": "#ffd700",
+    "Klub Parlamentarny Lewica (Nowa Lewica, PPS, Razem, Unia Pracy)": "#e2001a",
+    "Klub Parlamentarny Konfederacja Wolność i Niepodległość": "#122744",
+    // Senate specific or generic
+    "Koalicja Obywatelska": "#f68d2e",
+    "Prawo i Sprawiedliwość": "#0056a1",
+    "Trzecia Droga - PSL": "#15a347",
+    "Trzecia Droga - Polska 2050": "#ffd700",
+    "Nowa Lewica": "#e2001a",
+    "Independent": "#86868b",
+};

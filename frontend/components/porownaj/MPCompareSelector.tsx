@@ -1,10 +1,11 @@
 "use client";
 
-import { useState, useMemo, useEffect, useRef, useCallback } from "react";
+import { useState, useMemo, useEffect } from "react";
 import { useRouter } from "next/navigation";
 import { MP } from "@/lib/mps";
-import { Search, X, User, ArrowRightLeft } from "lucide-react";
+import { Search, X, User, ArrowRightLeft, ChevronDown, Check } from "lucide-react";
 import { useCompare } from "@/lib/contexts/CompareContext";
+import { PARTY_COLORS } from "@/lib/constants";
 
 interface MPCompareSelectorProps {
     mps: MP[];
@@ -12,23 +13,38 @@ interface MPCompareSelectorProps {
     prefilledB?: string | null;
 }
 
-function MPOption({ mp, onClick }: { mp: MP, onClick: (mp: MP) => void }) {
+function getSafePhotoUrl(mp: MP) {
+    if (!mp.photoUrl) return null;
+    if (mp.chamber === 'Senat') {
+        return `/api/image-proxy?url=${encodeURIComponent(mp.photoUrl)}`;
+    }
+    return mp.photoUrl;
+}
+
+function MPOption({ mp, onClick, isSelected }: { mp: MP, onClick: (mp: MP) => void, isSelected?: boolean }) {
+    const partyColor = PARTY_COLORS[mp.club] || PARTY_COLORS[Object.keys(PARTY_COLORS).find(k => mp.club.includes(k)) || ""] || "#86868b";
+
     return (
         <button
             onClick={() => onClick(mp)}
-            className="w-full flex items-center gap-3 p-3 hover:bg-surface-hover text-left transition-colors"
+            className={`w-full flex items-center gap-3 p-3 hover:bg-surface-hover text-left transition-colors border-l-4 ${isSelected ? "bg-blue-500/10 border-blue-500" : "border-transparent"}`}
+            style={{ borderLeftColor: partyColor }}
         >
             <div className="w-10 h-10 rounded-full bg-surface-color border border-surface-border overflow-hidden shrink-0 flex items-center justify-center">
                 {mp.photoUrl ? (
-                    <img src={mp.photoUrl} alt={mp.name} className="w-full h-full object-cover" />
+                    <img src={getSafePhotoUrl(mp)!} alt={mp.name} className="w-full h-full object-cover" />
                 ) : (
                     <User size={16} className="text-gray-500" />
                 )}
             </div>
-            <div>
-                <div className="font-semibold text-foreground text-sm">{mp.name}</div>
-                <div className="text-xs text-text-secondary">{mp.club}</div>
+            <div className="flex-1 min-w-0">
+                <div className="font-semibold text-foreground text-sm truncate">{mp.name}</div>
+                <div className="text-[10px] text-text-secondary flex items-center gap-1">
+                    <span className="font-bold px-1 rounded bg-black/5 dark:bg-white/5">{mp.chamber}</span>
+                    <span className="truncate">{mp.club}</span>
+                </div>
             </div>
+            {isSelected && <Check size={16} className="text-blue-500 shrink-0" />}
         </button>
     );
 }
@@ -36,209 +52,175 @@ function MPOption({ mp, onClick }: { mp: MP, onClick: (mp: MP) => void }) {
 export default function MPCompareSelector({ mps, prefilledA, prefilledB }: MPCompareSelectorProps) {
     const router = useRouter();
     const { mpA, mpB, setMPA, setMPB, clearCompare } = useCompare();
-    
-    // Sort MPs alphabetically for better default display
+
+    // Filters state
+    const [chamberFilter, setChamberFilter] = useState<'All' | 'Sejm' | 'Senat'>('All');
+    const [clubFilter, setClubFilter] = useState<string>('All');
+    const [searchQuery, setSearchQuery] = useState("");
+
+    const clubs = useMemo(() => {
+        const set = new Set(mps.map(m => m.club));
+        return Array.from(set).sort();
+    }, [mps]);
+
+    // Sort MPs alphabetically
     const sortedMps = useMemo(() => {
         return [...mps].sort((a, b) => a.firstLastName.localeCompare(b.firstLastName));
     }, [mps]);
 
+    const filteredMps = useMemo(() => {
+        return sortedMps.filter(mp => {
+            const matchesChamber = chamberFilter === 'All' || mp.chamber === chamberFilter;
+            const matchesClub = clubFilter === 'All' || mp.club === clubFilter;
+            const matchesSearch = !searchQuery || 
+                mp.name.toLowerCase().includes(searchQuery.toLowerCase()) || 
+                mp.club.toLowerCase().includes(searchQuery.toLowerCase());
+            return matchesChamber && matchesClub && matchesSearch;
+        });
+    }, [sortedMps, chamberFilter, clubFilter, searchQuery]);
+
     const findMp = (id?: string | null) => sortedMps.find(m => m.id === id) || null;
 
-    // Sync URL params on mount
     useEffect(() => {
         if (prefilledA && !mpA) setMPA(findMp(prefilledA));
         if (prefilledB && !mpB) setMPB(findMp(prefilledB));
-    }, [prefilledA, prefilledB]);
-
-    const [searchA, setSearchA] = useState("");
-    const [searchB, setSearchB] = useState("");
-
-    const [openA, setOpenA] = useState(false);
-    const [openB, setOpenB] = useState(false);
-
-    const refA = useRef<HTMLDivElement>(null);
-    const refB = useRef<HTMLDivElement>(null);
-
-    // Close dropdowns on click outside
-    useEffect(() => {
-        const handleOutsideClick = (e: MouseEvent) => {
-            if (refA.current && !refA.current.contains(e.target as Node)) setOpenA(false);
-            if (refB.current && !refB.current.contains(e.target as Node)) setOpenB(false);
-        };
-        document.addEventListener("mousedown", handleOutsideClick);
-        return () => document.removeEventListener("mousedown", handleOutsideClick);
-    }, []);
-
-    const handleSelectA = useCallback((m: MP) => {
-        setMPA(m);
-        setOpenA(false);
-        setSearchA("");
-    }, [setMPA]);
-
-    const handleSelectB = useCallback((m: MP) => {
-        setMPB(m);
-        setOpenB(false);
-        setSearchB("");
-    }, [setMPB]);
-
-    const filterMps = (query: string) => {
-        if (!query) return sortedMps.slice(0, 10);
-        const q = query.toLowerCase();
-        return sortedMps
-            .filter(mp => mp.name.toLowerCase().includes(q) || mp.club.toLowerCase().includes(q))
-            .slice(0, 10);
-    };
-
-    const resultsA = filterMps(searchA);
-    const resultsB = filterMps(searchB);
+    }, [prefilledA, prefilledB, mps]);
 
     const canCompare = mpA && mpB;
 
     return (
-        <div className="w-full max-w-4xl mx-auto p-4 fade-in">
-            <h1 className="text-3xl md:text-5xl font-extrabold text-center mb-4 tracking-tight">Waga <span className="text-blue-500">Głosowań</span></h1>
-            <p className="text-center text-text-secondary mb-12 max-w-lg mx-auto">
-                Sprawdź, jak bardzo posłowie są zgodni. Wybierz dwóch polityków, aby zobaczyć ich wspólne historię głosowań i różnice w decyzjach.
-            </p>
+        <div className="w-full max-w-6xl mx-auto p-4 pb-32 fade-in">
+            <div className="mb-12 text-center">
+                <h1 className="text-4xl md:text-6xl font-black mb-4 tracking-tight">
+                    Waga <span className="text-blue-500">Głosowań</span>
+                </h1>
+                <p className="text-text-secondary max-w-2xl mx-auto text-lg">
+                    Porównaj głosowania posłów i senatorów. Wybierz dwóch parlamentarzystów, aby zobaczyć ich zgodność i kluczowe różnice.
+                </p>
+            </div>
 
-            <div className="flex flex-col md:flex-row items-center gap-6 relative">
-                
-                {/* SELECTOR A */}
-                <div className="flex-1 w-full relative z-20" ref={refA}>
-                    <label className="block text-sm font-semibold text-text-secondary mb-3 uppercase tracking-wider text-center md:text-left">Poseł A</label>
-                    
-                    {!mpA ? (
-                        <div className="relative glass-card overflow-visible">
-                            <div className="flex items-center px-4 py-3 border-b border-surface-border bg-surface-color hover:bg-surface-hover transition-colors rounded-t-[15px] rounded-b-[15px] focus-within:ring-2 ring-blue-500/50">
-                                <Search className="text-gray-400 mr-3 shrink-0" size={18} />
-                                <input
-                                    type="text"
-                                    placeholder="Wyszukaj posła..."
-                                    className="w-full bg-transparent border-none focus:outline-none text-foreground font-medium placeholder:text-gray-500"
-                                    value={searchA}
-                                    onChange={(e) => { setSearchA(e.target.value); setOpenA(true); }}
-                                    onFocus={() => setOpenA(true)}
-                                />
-                            </div>
-                            
-                            {openA && (
-                                <div className="absolute top-full left-0 w-full mt-2 glass-card shadow-apple-2xl max-h-64 overflow-y-auto custom-scrollbar border border-surface-border animate-slide-up-fade z-50">
-                                    {resultsA.length > 0 ? (
-                                        <div className="py-2">
-                                            {resultsA.map(mp => (
-                                                <MPOption key={mp.id} mp={mp} onClick={handleSelectA} />
-                                            ))}
-                                        </div>
-                                    ) : (
-                                        <div className="p-4 text-center text-gray-500 text-sm">Nie znaleziono posła</div>
-                                    )}
-                                </div>
-                            )}
-                        </div>
-                    ) : (
-                        <div className="glass-card p-4 flex items-center justify-between border-2 border-blue-500/30 bg-blue-500/5 hover:border-blue-500/50 transition-colors">
-                            <div className="flex items-center gap-4">
-                                <div className="w-14 h-14 rounded-full bg-surface-color border border-surface-border overflow-hidden shrink-0">
-                                    {mpA.photoUrl ? (
-                                        <img src={mpA.photoUrl} alt={mpA.name} className="w-full h-full object-cover" />
-                                    ) : (
-                                        <User size={24} className="text-gray-400 m-4" />
-                                    )}
-                                </div>
-                                <div>
-                                    <div className="font-bold text-foreground text-lg">{mpA.name}</div>
-                                    <div className="text-sm text-text-secondary">{mpA.club}</div>
-                                </div>
-                            </div>
-                            <button onClick={() => setMPA(null)} className="p-2 text-gray-400 hover:text-red-500 transition-colors bg-surface-hover rounded-full" aria-label="Usuń">
-                                <X size={18} />
-                            </button>
-                        </div>
-                    )}
+            {/* QUICK FILTERS */}
+            <div className="glass-card mb-8 p-6 flex flex-wrap items-center gap-4">
+                <div className="flex items-center gap-2 bg-black/5 dark:bg-white/5 p-1 rounded-xl">
+                    {(['All', 'Sejm', 'Senat'] as const).map(c => (
+                        <button
+                            key={c}
+                            onClick={() => setChamberFilter(c)}
+                            className={`px-4 py-2 rounded-lg text-sm font-bold transition-all ${chamberFilter === c ? 'bg-white dark:bg-gray-800 shadow-sm text-blue-500' : 'text-text-secondary hover:text-foreground'}`}
+                        >
+                            {c === 'All' ? 'Wszyscy' : c}
+                        </button>
+                    ))}
                 </div>
 
-                {/* VS ICON */}
-                <div className="shrink-0 flex items-center justify-center p-4 bg-surface-color/50 rounded-full border border-surface-border text-text-secondary">
-                    <ArrowRightLeft size={24} />
+                <div className="flex-1 min-w-[200px] relative">
+                    <Search className="absolute left-4 top-1/2 -translate-y-1/2 text-gray-400" size={18} />
+                    <input
+                        type="text"
+                        placeholder="Szukaj po nazwisku lub klubie..."
+                        className="w-full bg-black/5 dark:bg-white/5 border-none rounded-xl py-3 pl-12 pr-4 focus:ring-2 ring-blue-500/50 outline-none transition-all"
+                        value={searchQuery}
+                        onChange={(e) => setSearchQuery(e.target.value)}
+                    />
                 </div>
 
-                {/* SELECTOR B */}
-                <div className="flex-1 w-full relative z-10" ref={refB}>
-                    <label className="block text-sm font-semibold text-text-secondary mb-3 uppercase tracking-wider text-center md:text-left">Poseł B</label>
-                    
-                    {!mpB ? (
-                        <div className="relative glass-card overflow-visible">
-                            <div className="flex items-center px-4 py-3 border-b border-surface-border bg-surface-color hover:bg-surface-hover transition-colors rounded-t-[15px] rounded-b-[15px] focus-within:ring-2 ring-blue-500/50">
-                                <Search className="text-gray-400 mr-3 shrink-0" size={18} />
-                                <input
-                                    type="text"
-                                    placeholder="Wyszukaj posła..."
-                                    className="w-full bg-transparent border-none focus:outline-none text-foreground font-medium placeholder:text-gray-500"
-                                    value={searchB}
-                                    onChange={(e) => { setSearchB(e.target.value); setOpenB(true); }}
-                                    onFocus={() => setOpenB(true)}
-                                />
-                            </div>
-                            
-                            {openB && (
-                                <div className="absolute top-full left-0 w-full mt-2 glass-card shadow-apple-2xl max-h-64 overflow-y-auto custom-scrollbar border border-surface-border animate-slide-up-fade z-50">
-                                    {resultsB.length > 0 ? (
-                                        <div className="py-2">
-                                            {resultsB.map(mp => (
-                                                <MPOption key={mp.id} mp={mp} onClick={handleSelectB} />
-                                            ))}
-                                        </div>
-                                    ) : (
-                                        <div className="p-4 text-center text-gray-500 text-sm">Nie znaleziono posła</div>
-                                    )}
-                                </div>
-                            )}
-                        </div>
-                    ) : (
-                        <div className="glass-card p-4 flex items-center justify-between border-2 border-blue-500/30 bg-blue-500/5 hover:border-blue-500/50 transition-colors">
-                            <div className="flex items-center gap-4">
-                                <div className="w-14 h-14 rounded-full bg-surface-color border border-surface-border overflow-hidden shrink-0">
-                                    {mpB.photoUrl ? (
-                                        <img src={mpB.photoUrl} alt={mpB.name} className="w-full h-full object-cover" />
-                                    ) : (
-                                        <User size={24} className="text-gray-400 m-4" />
-                                    )}
-                                </div>
-                                <div>
-                                    <div className="font-bold text-foreground text-lg">{mpB.name}</div>
-                                    <div className="text-sm text-text-secondary">{mpB.club}</div>
-                                </div>
-                            </div>
-                            <button onClick={() => setMPB(null)} className="p-2 text-gray-400 hover:text-red-500 transition-colors bg-surface-hover rounded-full" aria-label="Usuń">
-                                <X size={18} />
-                            </button>
-                        </div>
-                    )}
+                <div className="relative group">
+                    <select 
+                        className="appearance-none bg-black/5 dark:bg-white/5 rounded-xl py-3 pl-4 pr-10 font-bold text-sm outline-none focus:ring-2 ring-blue-500/50 cursor-pointer"
+                        value={clubFilter}
+                        onChange={(e) => setClubFilter(e.target.value)}
+                    >
+                        <option value="All">Wszystkie kluby</option>
+                        {clubs.map(c => <option key={c} value={c}>{c}</option>)}
+                    </select>
+                    <ChevronDown className="absolute right-3 top-1/2 -translate-y-1/2 pointer-events-none text-gray-400" size={16} />
                 </div>
             </div>
-            
-            <div className="mt-12 flex flex-col items-center gap-4">
-                {canCompare ? (
-                    <button 
-                        onClick={() => router.push(`/porownaj?a=${mpA.id}&b=${mpB.id}`)}
-                        className="bg-blue-600 hover:bg-blue-500 text-white px-8 py-3 rounded-xl font-bold transition-all shadow-lg shadow-blue-500/20 active:scale-95"
-                    >
-                        Rozpocznij porównanie
-                    </button>
-                ) : (
-                    <div className="text-center text-sm text-gray-500 animate-pulse">
-                        Wybierz dwóch posłów, aby ropocząć porównywanie.
+
+            {/* GRID OF MEMBERS */}
+            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4 max-h-[60vh] overflow-y-auto pr-2 custom-scrollbar p-1">
+                {filteredMps.slice(0, 48).map(mp => (
+                    <div key={mp.id} className="glass-card !p-0 overflow-hidden hover:scale-[1.02] active:scale-[0.98] transition-all cursor-pointer">
+                        <MPOption 
+                            mp={mp} 
+                            isSelected={mpA?.id === mp.id || mpB?.id === mp.id}
+                            onClick={(m) => {
+                                if (mpA?.id === m.id) setMPA(null);
+                                else if (mpB?.id === m.id) setMPB(null);
+                                else if (!mpA) setMPA(m);
+                                else if (!mpB) setMPB(m);
+                                else {
+                                    setMPB(m);
+                                }
+                            }} 
+                        />
+                    </div>
+                ))}
+                {filteredMps.length === 0 && (
+                    <div className="col-span-full py-20 text-center text-gray-500 font-medium">
+                        Nie znaleziono parlamentarzysty o podanych kryteriach.
                     </div>
                 )}
-                
-                {(mpA || mpB) && (
-                    <button 
-                        onClick={() => clearCompare()}
-                        className="text-xs text-gray-500 hover:text-red-500 transition-colors underline decoration-dotted"
-                    >
-                        Wyczyść wszystko
-                    </button>
-                )}
+            </div>
+
+            {/* FLOATING COMPARISON TRAY */}
+            <div className={`fixed bottom-8 left-1/2 -translate-x-1/2 z-50 transition-all duration-500 transform ${mpA || mpB ? 'translate-y-0 opacity-100' : 'translate-y-20 opacity-0 pointer-events-none'}`}>
+                <div className="glass-card-heavy flex items-center gap-4 p-3 md:p-4 shadow-2xl border-2 border-blue-500/20">
+                    
+                    <div className="flex items-center gap-2">
+                        {/* Member A */}
+                        <div className={`w-12 h-12 md:w-16 md:h-16 rounded-2xl overflow-hidden border-2 transition-all ${mpA ? 'border-blue-500 shadow-lg shadow-blue-500/20' : 'border-dashed border-gray-400/30'}`}>
+                            {mpA ? (
+                                <div className="relative w-full h-full group">
+                                    <img src={getSafePhotoUrl(mpA)!} className="w-full h-full object-cover" alt="" />
+                                    <button onClick={() => setMPA(null)} className="absolute inset-0 bg-red-500/80 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity text-white">
+                                        <X size={20} />
+                                    </button>
+                                </div>
+                            ) : (
+                                <div className="w-full h-full flex items-center justify-center text-gray-400 bg-gray-100/10">1</div>
+                            )}
+                        </div>
+
+                        <ArrowRightLeft className="text-gray-400 mx-1 md:mx-2 shrink-0" size={20} />
+
+                        {/* Member B */}
+                        <div className={`w-12 h-12 md:w-16 md:h-16 rounded-2xl overflow-hidden border-2 transition-all ${mpB ? 'border-blue-500 shadow-lg shadow-blue-500/20' : 'border-dashed border-gray-400/30'}`}>
+                            {mpB ? (
+                                <div className="relative w-full h-full group">
+                                    <img src={getSafePhotoUrl(mpB)!} className="w-full h-full object-cover" alt="" />
+                                    <button onClick={() => setMPB(null)} className="absolute inset-0 bg-red-500/80 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity text-white">
+                                        <X size={20} />
+                                    </button>
+                                </div>
+                            ) : (
+                                <div className="w-full h-full flex items-center justify-center text-gray-400 bg-gray-100/10">2</div>
+                            )}
+                        </div>
+                    </div>
+
+                    <div className="h-10 w-px bg-surface-border mx-2 hidden md:block" />
+
+                    <div className="flex flex-col gap-1 pr-2">
+                        {canCompare ? (
+                            <button 
+                                onClick={() => router.push(`/porownaj?a=${mpA.id}&b=${mpB.id}`)}
+                                className="bg-blue-600 hover:bg-blue-500 text-white px-6 py-3 rounded-xl font-bold flex items-center gap-2 shadow-lg shadow-blue-500/30 transition-all active:scale-95 whitespace-nowrap"
+                            >
+                                Porównaj <ArrowRightLeft size={16} />
+                            </button>
+                        ) : (
+                            <div className="hidden md:block text-xs font-bold text-gray-500 uppercase tracking-widest animate-pulse px-4">
+                                Wybierz {mpA ? 'drugą osobę' : 'pierwszą osobę'}
+                            </div>
+                        )}
+                        {(mpA || mpB) && (
+                            <button onClick={clearCompare} className="text-[10px] text-gray-500 hover:text-red-500 transition-colors underline decoration-dotted text-center md:text-left">
+                                Wyczyść
+                            </button>
+                        )}
+                    </div>
+                </div>
             </div>
         </div>
     );

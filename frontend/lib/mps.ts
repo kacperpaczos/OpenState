@@ -16,13 +16,34 @@ export interface MP {
 
 export async function getMPs(): Promise<MP[]> {
     try {
-        const filePath = path.join(process.cwd(), 'public/data/mps.json');
-        if (fs.existsSync(filePath)) {
-            const fileContent = fs.readFileSync(filePath, 'utf-8');
-            return JSON.parse(fileContent);
+        const mpsPath = path.join(process.cwd(), 'public/data/mps.json');
+        const senatorsPath = path.join(process.cwd(), 'public/data/senators.json');
+        
+        let allMembers: MP[] = [];
+
+        if (fs.existsSync(mpsPath)) {
+            const mpsContent = fs.readFileSync(mpsPath, 'utf-8');
+            const mps = JSON.parse(mpsContent).map((m: any) => ({
+                ...m,
+                chamber: 'Sejm' as const,
+                firstLastName: m.firstLastName || m.name
+            }));
+            allMembers = [...allMembers, ...mps];
         }
+
+        if (fs.existsSync(senatorsPath)) {
+            const senatorsContent = fs.readFileSync(senatorsPath, 'utf-8');
+            const senators = JSON.parse(senatorsContent).map((s: any) => ({
+                ...s,
+                chamber: 'Senat' as const,
+                firstLastName: s.name
+            }));
+            allMembers = [...allMembers, ...senators];
+        }
+
+        return allMembers;
     } catch (e) {
-        console.warn("MPs data not found", e);
+        console.warn("Error loading parliament members data", e);
     }
     return [];
 }
