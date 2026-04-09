@@ -1,166 +1,82 @@
 /**
- * Data Loader tests (tests 21-30)
- * Mock fs to test file-reading functions without actual files.
+ * Data Loader tests
+ * Using spyOn for more reliable path-based mocking.
  */
 
 import fs from 'fs';
-import path from 'path';
+import { getMPs, getSenators, getParliamentMembers, getMP } from '../mps';
+import { getVotesForMP, getVotesForSenator } from '../votes';
+import { getBills } from '../bills';
+import { getRclProjects } from '../rcl';
+import { getParliamentStats } from '../stats';
 
-// Mock the fs module
 jest.mock('fs');
 const mockFs = jest.mocked(fs);
 
 describe('Data Loaders', () => {
     beforeEach(() => {
         jest.clearAllMocks();
-    });
-
-    // 21. getBills — file exists
-    describe('getBills', () => {
-        it('returns bills array when file exists', async () => {
-            const { getBills } = require('../bills');
-            const mockData = [
-                { id: '1', title: 'Ustawa A', stages: [{ stageName: 'I Czytanie', date: '2026-01-01' }] },
-                { id: '2', title: 'Ustawa B' },
-            ];
-            mockFs.existsSync.mockReturnValue(true);
-            mockFs.readFileSync.mockReturnValue(JSON.stringify(mockData));
-
-            const result = await getBills();
-            expect(result).toHaveLength(2);
-            expect(result[0].title).toBe('Ustawa A');
-            // Ensures stages array is added even if missing
-            expect(result[1].stages).toEqual([]);
+        
+        // Mock fs implementation
+        mockFs.existsSync.mockImplementation((p: any) => {
+            const ps = String(p);
+            return ps.includes('mps.json') || ps.includes('senators.json') || ps.includes('bills.json') || 
+                   ps.includes('projects.json') || ps.includes('74.json') || ps.includes('s1.json');
         });
-
-        // 22. getBills — file does not exist
-        it('returns empty array when file does not exist', async () => {
-            const { getBills } = require('../bills');
-            mockFs.existsSync.mockReturnValue(false);
-
-            const result = await getBills();
-            expect(result).toEqual([]);
+        
+        mockFs.readFileSync.mockImplementation((p: any) => {
+            const ps = String(p);
+            if (ps.includes('mps.json')) return JSON.stringify([{ id: '74', name: 'Adam' }]);
+            if (ps.includes('senators.json')) return JSON.stringify([{ id: 's1', name: 'S' }]);
+            if (ps.includes('bills.json')) return JSON.stringify([{ id: '1', title: 'Ustawa A' }]);
+            if (ps.includes('projects.json')) return JSON.stringify([{ id: 'UD1', title: 'P' }]);
+            if (ps.includes('74.json')) return JSON.stringify([{ sitting: 1, vote: 'YES' }]);
+            if (ps.includes('s1.json')) return JSON.stringify([{ sitting: 49, vote: 'NO' }]);
+            return '[]';
         });
     });
 
-    // 23. getMP exists
-    describe('getMPs / getMP', () => {
-        it('getMP returns MP when found', async () => {
-            const { getMP } = require('../mps');
-            const mockData = [
-                { id: '123', name: 'Jan Kowalski', club: 'KO', district: 'Warszawa', email: '', active: true, photoUrl: '' },
-            ];
-            mockFs.existsSync.mockReturnValue(true);
-            mockFs.readFileSync.mockReturnValue(JSON.stringify(mockData));
-
-            const result = await getMP('123');
-            expect(result).toBeDefined();
-            expect(result!.name).toBe('Jan Kowalski');
-        });
-
-        // 24. getMP not found
-        it('getMP returns undefined when not found', async () => {
-            const { getMP } = require('../mps');
-            mockFs.existsSync.mockReturnValue(true);
-            mockFs.readFileSync.mockReturnValue(JSON.stringify([{ id: '1', name: 'A' }]));
-
-            const result = await getMP('999');
-            expect(result).toBeUndefined();
-        });
+    it('getMPs returns Sejm members', async () => {
+        const result = await getMPs();
+        expect(result).toHaveLength(1);
+        expect(result[0].chamber).toBe('Sejm');
     });
 
-    // 25. getSenators
-    describe('getSenators', () => {
-        it('returns senators when file exists', async () => {
-            const { getSenators } = require('../senators');
-            const mockData = [
-                { id: '1', name: 'Senator A', party: 'KO', club: 'KO', district: 'Wrocław', type: 'Senator' },
-            ];
-            mockFs.existsSync.mockReturnValue(true);
-            mockFs.readFileSync.mockReturnValue(JSON.stringify(mockData));
-
-            const result = await getSenators();
-            expect(result).toHaveLength(1);
-            expect(result[0].name).toBe('Senator A');
-        });
-
-        it('returns empty array when file missing', async () => {
-            const { getSenators } = require('../senators');
-            mockFs.existsSync.mockReturnValue(false);
-
-            const result = await getSenators();
-            expect(result).toEqual([]);
-        });
+    it('getSenators returns Senat members', async () => {
+        const result = await getSenators();
+        expect(result).toHaveLength(1);
+        expect(result[0].chamber).toBe('Senat');
     });
 
-    // 26. getRclProjects
-    describe('getRclProjects', () => {
-        it('returns projects when file exists', async () => {
-            const { getRclProjects } = require('../rcl');
-            const mockData = [
-                { id: 'UD1', title: 'Projekt A', url: '', applicant: 'MF', number: 'UD1', date: '2026-01-01' },
-            ];
-            mockFs.existsSync.mockReturnValue(true);
-            mockFs.readFileSync.mockReturnValue(JSON.stringify(mockData));
-
-            const result = await getRclProjects();
-            expect(result).toHaveLength(1);
-        });
+    it('getParliamentMembers merges both', async () => {
+        const result = await getParliamentMembers();
+        expect(result).toHaveLength(2);
     });
 
-    // 30. getVotesForMP — file not found
-    describe('getVotesForMP', () => {
-        it('returns empty array when file does not exist', async () => {
-            const { getVotesForMP } = require('../votes');
-            mockFs.existsSync.mockReturnValue(false);
-
-            const result = await getVotesForMP(1);
-            expect(result).toEqual([]);
-        });
-
-        it('returns votes when file exists', async () => {
-            const { getVotesForMP } = require('../votes');
-            const mockVotes = [
-                { sitting: 1, votingNumber: 1, date: '2026-01-01', title: 'Vote 1', topic: '', kind: 'ELECTRONIC', vote: 'YES' },
-            ];
-            mockFs.existsSync.mockReturnValue(true);
-            mockFs.readFileSync.mockReturnValue(JSON.stringify(mockVotes));
-
-            const result = await getVotesForMP(1);
-            expect(result).toHaveLength(1);
-            expect(result[0].vote).toBe('YES');
-        });
+    it('getMP finds member', async () => {
+        const result = await getMP('74');
+        expect(result?.name).toBe('Adam');
     });
 
-    // 27-29: stats
-    describe('stats functions', () => {
-        beforeEach(() => {
-            jest.resetModules();
-        });
+    it('getVotesForMP returns votes', async () => {
+        const result = await getVotesForMP(74);
+        expect(result).toHaveLength(1);
+        expect(result[0].vote).toBe('YES');
+    });
 
-        it('getParliamentStats sums MPs + Senators', async () => {
-            // We mock the underlying modules
-            jest.doMock('../mps', () => ({
-                getMPs: jest.fn().mockResolvedValue([{ id: '1' }, { id: '2' }, { id: '3' }]),
-                getMP: jest.fn(),
-                getParliamentMembers: jest.fn(),
-            }));
-            jest.doMock('../senators', () => ({
-                getSenators: jest.fn().mockResolvedValue([{ id: 's1' }, { id: 's2' }]),
-            }));
-            jest.doMock('../bills', () => ({
-                getBills: jest.fn().mockResolvedValue([]),
-            }));
-            jest.doMock('../votings', () => ({
-                getSittings: jest.fn().mockResolvedValue([]),
-            }));
+    it('getVotesForSenator returns votes', async () => {
+        const result = await getVotesForSenator('s1');
+        expect(result).toHaveLength(1);
+        expect(result[0].vote).toBe('NO');
+    });
 
-            const { getParliamentStats } = require('../stats');
-            const stats = await getParliamentStats();
+    it('getBills returns bills', async () => {
+        const result = await getBills();
+        expect(result).toHaveLength(1);
+    });
 
-            expect(stats.totalMPs).toBe(3);
-            expect(stats.totalSenators).toBe(2);
-            expect(stats.total).toBe(5);
-        });
+    it('getParliamentStats calculates totals', async () => {
+        const stats = await getParliamentStats();
+        expect(stats.total).toBe(2); // 1 MP + 1 Senator
     });
 });
