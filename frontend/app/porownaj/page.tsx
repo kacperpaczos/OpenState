@@ -1,4 +1,4 @@
-import { getMPs } from "@/lib/mps";
+import { getParliamentMembers } from "@/lib/mps";
 import { getVotesForMP } from "@/lib/votes";
 import { notFound } from "next/navigation";
 import Link from "next/link";
@@ -48,9 +48,8 @@ export default async function ComparePage({ searchParams }: PageProps) {
 
     if (!idA || !idB || isNaN(idA) || isNaN(idB)) {
         // Show picker page
-        const mps = await getMPs();
-        // Since we only have voting records for MPs, filter out Senators if necessary (but active=true MPs is a start)
-        const activeMPs = mps.filter(m => m.chamber === 'Sejm' || !m.chamber).filter(m => m.active !== false);
+        const mps = await getParliamentMembers();
+        const activeMPs = mps.filter((m: any) => m.active !== false);
         return (
             <div className="min-h-screen pt-20 px-4">
                 <Suspense fallback={<div className="p-8 text-center">Inicjalizacja porównywarki...</div>}>
@@ -61,7 +60,7 @@ export default async function ComparePage({ searchParams }: PageProps) {
     }
 
     const [mps, votesA, votesB] = await Promise.all([
-        getMPs(),
+        getParliamentMembers(),
         null, // placeholder for votes
         null, // placeholder for votes
     ]);

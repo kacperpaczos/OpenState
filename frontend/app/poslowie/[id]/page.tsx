@@ -1,5 +1,5 @@
-import { getMP } from "@/lib/mps";
-import { getVotesForMP } from "@/lib/votes";
+import { getParliamentMembers } from "@/lib/mps";
+import { getVotesForMP, getVotesForSenator } from "@/lib/votes";
 import MPDetailView from "./MPDetailView";
 import VotingHistory from "./VotingHistory";
 import MPStats from "./MPStats";
@@ -10,12 +10,12 @@ import { notFound } from "next/navigation";
 
 export default async function MPPage({ params }: { params: Promise<{ id: string }> }) {
     const { id } = await params;
-    const mp = await getMP(id);
+    const members = await getParliamentMembers();
+    const mp = members.find(m => m.id === String(id));
 
     if (!mp) return notFound();
 
-    const mpIdNum = parseInt(id, 10);
-    const votes = !isNaN(mpIdNum) ? await getVotesForMP(mpIdNum) : [];
+    const votes = mp.chamber === 'Senat' ? await getVotesForSenator(mp.id) : await getVotesForMP(parseInt(id, 10));
 
     const votingPanel = (
         <>

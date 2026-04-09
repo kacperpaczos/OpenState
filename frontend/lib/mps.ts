@@ -12,45 +12,56 @@ export interface MP {
     photoUrl: string;
     chamber?: 'Sejm' | 'Senat';
     detailUrl?: string; // For Senators
+    // Advanced data for future use
+    birthDate?: string;
+    profession?: string;
+    education?: string;
+    numberOfVotes?: number;
+    voivodeship?: string;
+    attendance?: number;
+    rebelLevel?: number;
 }
 
 export async function getMPs(): Promise<MP[]> {
     try {
-        const mpsPath = path.join(process.cwd(), 'public/data/mps.json');
-        const senatorsPath = path.join(process.cwd(), 'public/data/senators.json');
-        
-        let allMembers: MP[] = [];
-
-        if (fs.existsSync(mpsPath)) {
-            const mpsContent = fs.readFileSync(mpsPath, 'utf-8');
-            const mps = JSON.parse(mpsContent).map((m: any) => ({
+        const filePath = path.join(process.cwd(), 'public/data/mps.json');
+        if (fs.existsSync(filePath)) {
+            const fileContent = fs.readFileSync(filePath, 'utf-8');
+            return JSON.parse(fileContent).map((m: any) => ({
                 ...m,
                 chamber: 'Sejm' as const,
                 firstLastName: m.firstLastName || m.name
             }));
-            allMembers = [...allMembers, ...mps];
         }
-
-        if (fs.existsSync(senatorsPath)) {
-            const senatorsContent = fs.readFileSync(senatorsPath, 'utf-8');
-            const senators = JSON.parse(senatorsContent).map((s: any) => ({
-                ...s,
-                chamber: 'Senat' as const,
-                firstLastName: s.name
-            }));
-            allMembers = [...allMembers, ...senators];
-        }
-
-        return allMembers;
     } catch (e) {
-        console.warn("Error loading parliament members data", e);
+        console.warn("MPs data not found", e);
     }
     return [];
 }
 
-export async function getMP(id: string): Promise<MP | undefined> {
-    const mps = await getMPs();
-    return mps.find(mp => mp.id === id);
+export async function getSenators(): Promise<MP[]> {
+    try {
+        const filePath = path.join(process.cwd(), 'public/data/senators.json');
+        if (fs.existsSync(filePath)) {
+            const fileContent = fs.readFileSync(filePath, 'utf-8');
+            return JSON.parse(fileContent).map((s: any) => ({
+                ...s,
+                chamber: 'Senat' as const,
+                firstLastName: s.name
+            }));
+        }
+    } catch (e) {
+        console.warn("Senators data not found", e);
+    }
+    return [];
 }
-// Alias for compatibility/refactor
-export const getParliamentMembers = getMPs;
+
+export async function getParliamentMembers(): Promise<MP[]> {
+    const [mps, senators] = await Promise.all([getMPs(), getSenators()]);
+    return [...mps, ...senators];
+}
+
+export async function getMP(id: string): Promise<MP | undefined> {
+    const members = await getParliamentMembers();
+    return members.find(m => m.id === id);
+}

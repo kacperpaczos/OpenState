@@ -16,3 +16,8 @@ class SejmApiExtractor(BaseApiExtractor):
         data = self.fetch_json(self.url)
         self._save_raw_cache(data, identifier=self.endpoint.replace('/', '_'))
         return data
+
+    def fetch_details(self, mp_id: int) -> Any:
+        """Fetches detailed info for a specific MP (includes birthDate, profession, etc.)"""
+        detail_url = f"{self.url}/{mp_id}"
+        return self.fetch_json(detail_url)

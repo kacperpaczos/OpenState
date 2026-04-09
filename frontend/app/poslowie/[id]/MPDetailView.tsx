@@ -1,15 +1,22 @@
 "use client";
 
 import { MP } from "@/lib/mps";
-import { ArrowLeft, Mail, MapPin, GitCompare } from "lucide-react";
+import { ArrowLeft, Mail, MapPin, GitCompare, User } from "lucide-react";
 import Link from "next/link";
-import { User } from "lucide-react";
 import { useCompare } from "@/lib/contexts/CompareContext";
 import ComparisonDock from "@/components/compare/ComparisonDock";
+import { PARTY_COLORS } from "@/lib/constants";
 
 export default function MPDetailView({ mp }: { mp: MP }) {
     const { addToCompare, mpA, mpB } = useCompare();
     const isSelected = mpA?.id === mp.id || mpB?.id === mp.id;
+    const accentColor = PARTY_COLORS[mp.club] || '#3b82f6'; // Fallback to blue
+
+    const getSafePhoto = (mp: MP) => {
+        if (!mp.photoUrl) return null;
+        if (mp.chamber === 'Senat') return `/api/image-proxy?url=${encodeURIComponent(mp.photoUrl)}`;
+        return mp.photoUrl;
+    };
 
     return (
         <div className="max-w-4xl mx-auto pb-20 fade-in">
@@ -17,31 +24,37 @@ export default function MPDetailView({ mp }: { mp: MP }) {
                 <ArrowLeft size={18} /> Powrót do listy
             </Link>
 
-            <div className={`glass-card p-8 md:p-12 relative overflow-hidden border-2 transition-colors duration-500 ${isSelected ? 'border-blue-500/50 shadow-blue-500/10' : 'border-transparent'}`}>
+            <div className={`glass-card p-8 md:p-12 relative overflow-hidden border-2 transition-colors duration-500 ${isSelected ? 'border-accent-blue/50 shadow-blue-500/10' : 'border-transparent'}`}>
                 {/* Background Decor */}
-                <div className="absolute top-0 right-0 w-64 h-64 bg-accent-blue/10 rounded-full blur-3xl -translate-y-1/2 translate-x-1/4 pointer-events-none"></div>
+                <div 
+                    className="absolute top-0 right-0 w-64 h-64 opacity-20 rounded-full blur-3xl -translate-y-1/2 translate-x-1/4 pointer-events-none"
+                    style={{ backgroundColor: accentColor }}
+                ></div>
 
                 <div className="flex flex-col md:flex-row gap-8 items-start relative z-10">
                     <div className="w-40 h-40 md:w-56 md:h-56 rounded-full overflow-hidden border-4 border-surface-border shadow-2xl shrink-0 bg-surface-color flex items-center justify-center">
                         {mp.photoUrl ? (
-                            <img src={mp.photoUrl} alt={mp.name} className="w-full h-full object-cover" />
+                            <img src={getSafePhoto(mp)!} alt={mp.name} className="w-full h-full object-cover" />
                         ) : (
                             <User size={64} className="text-gray-500" />
                         )}
                     </div>
 
                     <div className="flex-1 space-y-4">
-                        <div>
-                            <span className={`inline-block px-3 py-1 ${mp.active !== false ? 'bg-green-500/10 text-green-500 border-green-500/20' : 'bg-red-500/10 text-red-500 border-red-500/20'} border rounded-full text-xs font-bold uppercase tracking-wider mb-2`}>
-                                {mp.active !== false ? "Aktywny Poseł" : "Status Nieaktywny"}
+                        <div className="flex flex-wrap gap-2 items-center mb-1">
+                            <span className={`inline-block px-3 py-1 ${mp.active !== false ? 'bg-green-500/10 text-green-500 border-green-500/20' : 'bg-red-500/10 text-red-500 border-red-500/20'} border rounded-full text-xs font-bold uppercase tracking-wider`}>
+                                {mp.active !== false ? `Aktywny ${mp.chamber === 'Senat' ? 'Senator' : 'Poseł'}` : "Status Nieaktywny"}
                             </span>
-                            <h1 className="text-4xl font-bold text-foreground leading-tight">{mp.name}</h1>
+                            <span className="inline-block px-3 py-1 bg-blue-500/10 text-blue-500 border border-blue-500/20 rounded-full text-xs font-bold uppercase tracking-wider">
+                                {mp.chamber}
+                            </span>
                         </div>
+                        <h1 className="text-4xl font-bold text-foreground leading-tight">{mp.name}</h1>
 
                         <div className="space-y-2 text-lg">
                             <div className="flex items-center gap-2 text-text-secondary">
-                                <span className="font-semibold text-foreground">Klub:</span>
-                                <span>{mp.club}</span>
+                                <span className="font-semibold text-foreground">Klub / Koło:</span>
+                                <span style={{ color: accentColor }} className="font-bold">{mp.club}</span>
                             </div>
                             <div className="flex items-center gap-2 text-text-secondary">
                                 <span className="font-semibold text-foreground">Okręg:</span>

@@ -26,6 +26,12 @@ class MPsTransformer(BaseTransformer):
                     "active": is_active,
                     "photoUrl": f"https://api.sejm.gov.pl/sejm/term10/MP/{mp.get('id')}/photo-mini",
                     "chamber": "Sejm",
+                    # Advanced data fields (will be populated once detailed fetch is active)
+                    "birthDate": mp.get('birthDate'),
+                    "profession": mp.get('profession'),
+                    "education": mp.get('education'),
+                    "numberOfVotes": mp.get('numberOfVotes'),
+                    "voivodeship": mp.get('districtName'), // Sejm uses districtName as primary regional identifier
                 })
             
             # Sort: active first, then alphabetically
@@ -58,6 +64,10 @@ class SenatorsTransformer(BaseTransformer):
                     "detailsUrl": s.get('detailsUrl'),
                     "type": "Senator",
                     "club": s.get('party') or "Niezrzeszony",
+                    # Advanced data fields (provisioned for future scraping)
+                    "birthDate": s.get('birthDate'),
+                    "profession": s.get('profession'),
+                    "education": s.get('education'),
                 })
             
             formatted_senators.sort(key=lambda x: x['name'])
