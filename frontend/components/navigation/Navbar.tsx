@@ -22,7 +22,9 @@ import {
     Landmark,
     Edit3,
     MessageSquare,
-    Globe
+    Globe,
+    BookOpen,
+    ShieldCheck
 } from "lucide-react";
 import ThemeToggle from "@/components/ThemeToggle";
 import { useState, FormEvent, useEffect, useRef } from "react";
@@ -163,12 +165,41 @@ export default function Navbar() {
         },
         {
             label: "Legislacja",
-            description: "Projekty i procesy prawne",
+            description: "Wczesny monitoring i procesy prawne rządu",
             mainHref: "/ustawy",
             icon: Gavel,
-            items: [
-                { href: "/ustawy", label: "Ustawy", description: "Wykaz projektów i uchwalonych aktów", icon: FileText },
-                { href: "/rcl", label: "Prace Rządu", description: "Rządowe Centrum Legislacji", icon: Activity },
+            columns: [
+                {
+                    title: "Rządowy Proces (RCL)",
+                    items: [
+                        { href: "https://legislacja.gov.pl/", label: "Baza Projektów", description: "Projekty ustaw na etapie rządu", icon: Search, isExternal: true },
+                        { href: "https://www.gov.pl/web/premier/harmonogram-prac-rady-ministrow", label: "Harmonogram RM", description: "Planowane prace rządu", icon: Calendar, isExternal: true },
+                        { href: "https://legislacja.gov.pl/projekt/projekty-w-konsultacjach", label: "Puls Ministrów", description: "Ostatnio dodane projekty", icon: Activity, isExternal: true },
+                    ]
+                },
+                {
+                    title: "Konsultacje i Lobbing",
+                    items: [
+                        { href: "https://legislacja.gov.pl/projekt/projekty-w-konsultacjach", label: "Uwagi Obywatelskie", description: "Opinie organizacji i obywateli", icon: MessageSquare, isExternal: true },
+                        { href: "https://legislacja.gov.pl/", label: "Mapa Wpływów", description: "Uczestnicy procesu legislacyjnego", icon: Users, isExternal: true },
+                        { href: "/udip", label: "Wpłyń na prawo", description: "Jak zgłosić swoje uwagi?", icon: ArrowRight },
+                    ]
+                },
+                {
+                    title: "Analiza i Skutki (OSR)",
+                    items: [
+                        { href: "https://legislacja.gov.pl/", label: "Baza OSR", description: "Ocena skutków regulacji i koszty", icon: TrendingUp, isExternal: true },
+                        { href: "https://legislacja.gov.pl/", label: "Opinie Prawne", description: "Zgodność z prawem UE", icon: ShieldCheck, isExternal: true },
+                    ]
+                },
+                {
+                    title: "Prawo Obowiązujące",
+                    items: [
+                        { href: "https://dziennikustaw.gov.pl/", label: "Dziennik Ustaw", description: "Oficjalne ogłoszenia aktów", icon: BookOpen, isExternal: true },
+                        { href: "https://monitorpolski.gov.pl/", label: "Monitor Polski", description: "Zarządzenia i uchwały", icon: FileText, isExternal: true },
+                        { href: "https://isap.sejm.gov.pl/", label: "Baza ISAP", description: "Internetowy System Aktów Prawnych", icon: Search, isExternal: true },
+                    ]
+                }
             ]
         },
         {
