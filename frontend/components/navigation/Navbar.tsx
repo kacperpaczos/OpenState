@@ -268,7 +268,7 @@ function NavItemDropdown({ group, pathname, router, activeMegaMenu, setActiveMeg
     const isGroupActive = group.items.some(item => pathname === item.href);
     const isOpen = activeMegaMenu === group.label;
 
-    const longPress = useLongPress({
+    const { isLongPressActive, ...longPressProps } = useLongPress({
         onLongPress: () => {
             setActiveMegaMenu(isOpen ? null : group.label);
         },
@@ -282,7 +282,7 @@ function NavItemDropdown({ group, pathname, router, activeMegaMenu, setActiveMeg
     return (
         <div className="relative">
             <button
-                {...longPress}
+                {...longPressProps}
                 className={`flex items-center gap-1 px-3 py-1.5 rounded-full text-[13px] font-bold tracking-tight transition-all duration-200 transform
                     ${isOpen ? "scale-95" : "scale-100"}
                     ${isGroupActive || isOpen
