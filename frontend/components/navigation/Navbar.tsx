@@ -17,7 +17,8 @@ import {
     Menu,
     X,
     ArrowRight,
-    TrendingUp
+    TrendingUp,
+    ExternalLink
 } from "lucide-react";
 import ThemeToggle from "@/components/ThemeToggle";
 import { useState, FormEvent, useEffect, useRef } from "react";
@@ -28,6 +29,12 @@ interface NavItem {
     label: string;
     description: string;
     icon: any;
+    isExternal?: boolean;
+}
+
+interface NavColumn {
+    title: string;
+    items: NavItem[];
 }
 
 interface NavGroup {
@@ -35,7 +42,8 @@ interface NavGroup {
     description: string;
     mainHref: string;
     icon: any;
-    items: NavItem[];
+    columns?: NavColumn[]; // New structured layout for Sejm
+    items?: NavItem[]; // Legacy flat layout for other groups
 }
 
 export default function Navbar() {
@@ -62,13 +70,42 @@ export default function Navbar() {
     const navGroups: NavGroup[] = [
         {
             label: "Sejm",
-            description: "Izba niższa parlamentu",
+            description: "Pełny wgląd w prace izby niższej parlamentu",
             mainHref: "/poslowie",
             icon: Building2,
-            items: [
-                { href: "/poslowie", label: "Posłowie", description: "Profile, aktywność i statystyki", icon: Users },
-                { href: "/interpelacje", label: "Interpelacje", description: "Zapytania poselskie do rządu", icon: FileText },
-                { href: "/harmonogram", label: "Harmonogram", description: "Plan posiedzeń i prace sejmowe", icon: Calendar },
+            columns: [
+                {
+                    title: "Reprezentanci",
+                    items: [
+                        { href: "/poslowie", label: "Posłowie", description: "Profile, aktywność i statystyki", icon: Users },
+                        { href: "https://www.sejm.gov.pl/Sejm9.nsf/oswiadczenia.xsp", label: "Majątki", description: "Oświadczenia majątkowe", icon: TrendingUp, isExternal: true },
+                        { href: "/poslowie?sort=active", label: "Rankingi", description: "Najbardziej aktywni posłowie", icon: Activity },
+                    ]
+                },
+                {
+                    title: "Procesy",
+                    items: [
+                        { href: "/harmonogram", label: "Harmonogram", description: "Plan posiedzeń i obrad", icon: Calendar },
+                        { href: "https://www.sejm.gov.pl/Sejm9.nsf/agent.xsp?symbol=KOMISJE_STALE", label: "Komisje", description: "Prace w komisjach sejmowych", icon: Search, isExternal: true },
+                        { href: "https://www.sejm.gov.pl/Sejm9.nsf/agent.xsp?symbol=ZESPOLY", label: "Zespoły", description: "Grupy parlamentarne", icon: Users, isExternal: true },
+                    ]
+                },
+                {
+                    title: "Dokumentacja",
+                    items: [
+                        { href: "/ustawy", label: "Ustawy", description: "Projekty i uchwalone akty", icon: Gavel },
+                        { href: "/interpelacje", label: "Interpelacje", description: "Zapytania do rządu", icon: FileText },
+                        { href: "https://www.sejm.gov.pl/Sejm9.nsf/druki.xsp", label: "Druki Sejmowe", description: "Oficjalne dokumenty", icon: FileText, isExternal: true },
+                    ]
+                },
+                {
+                    title: "Transparency",
+                    items: [
+                        { href: "https://www.sejm.gov.pl/Sejm9.nsf/transmisje.xsp", label: "Transmisje", description: "Obrady w czasie rzeczywistym", icon: Activity, isExternal: true },
+                        { href: "https://www.sejm.gov.pl/Sejm9.nsf/stenogramy.xsp", label: "Stenogramy", description: "Zapisy słowo w słowo", icon: FileText, isExternal: true },
+                        { href: "/udip", label: "Wniosek UDIP", description: "Zapytaj o informację publiczną", icon: ArrowRight },
+                    ]
+                }
             ]
         },
         {
@@ -186,40 +223,49 @@ export default function Navbar() {
                 >
                     <div className="max-w-7xl mx-auto px-12 py-12 md:py-16">
                         {navGroups.filter(g => g.label === activeMegaMenu).map(group => (
-                            <div key={group.label} className="grid grid-cols-1 md:grid-cols-4 gap-12">
-                                <div className="col-span-1">
+                            <div key={group.label} className="grid grid-cols-1 lg:grid-cols-12 gap-12">
+                                <div className="lg:col-span-3">
                                     <div className="flex items-center gap-3 text-blue-600 dark:text-blue-500 mb-4">
-                                        <group.icon size={28} />
+                                        <div className="p-3 rounded-2xl bg-blue-50 dark:bg-blue-500/10">
+                                            <group.icon size={32} />
+                                        </div>
                                         <h2 className="text-3xl font-black tracking-tighter">{group.label}</h2>
                                     </div>
-                                    <p className="text-sm text-gray-500 font-medium leading-relaxed">
+                                    <p className="text-sm text-gray-500 font-medium leading-relaxed mb-8">
                                         {group.description}. Eksploruj dane i śledź procesy decyzyjne w czasie rzeczywistym.
                                     </p>
                                     <Link 
                                         href={group.mainHref}
                                         onClick={() => setActiveMegaMenu(null)}
-                                        className="inline-flex items-center gap-2 mt-6 p-1 text-xs font-black uppercase tracking-widest text-gray-900 dark:text-white hover:gap-3 transition-all"
+                                        className="inline-flex items-center gap-2 p-1 text-[10px] font-black uppercase tracking-widest text-gray-900 dark:text-white hover:gap-3 transition-all border-b border-gray-900 dark:border-white"
                                     >
                                         Przejdź do sekcji <ArrowRight size={14} />
                                     </Link>
                                 </div>
-                                <div className="col-span-3 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
-                                    {group.items.map((item) => (
-                                        <Link
-                                            key={item.href}
-                                            href={item.href}
-                                            onClick={() => setActiveMegaMenu(null)}
-                                            className="group flex flex-col gap-2 p-4 rounded-3xl hover:bg-black/5 dark:hover:bg-white/5 transition-all"
-                                        >
-                                            <div className="w-10 h-10 rounded-xl bg-gray-100 dark:bg-white/10 flex items-center justify-center text-gray-600 dark:text-gray-400 group-hover:bg-blue-600 group-hover:text-white transition-colors">
-                                                <item.icon size={20} />
-                                            </div>
-                                            <div className="mt-2">
-                                                <h3 className="font-bold text-gray-900 dark:text-white">{item.label}</h3>
-                                                <p className="text-[11px] text-gray-500 font-medium leading-tight mt-1">{item.description}</p>
-                                            </div>
-                                        </Link>
-                                    ))}
+
+                                <div className="lg:col-span-9">
+                                    {group.columns ? (
+                                        <div className="grid grid-cols-2 md:grid-cols-4 gap-x-8 gap-y-12">
+                                            {group.columns.map((column) => (
+                                                <div key={column.title} className="space-y-6">
+                                                    <h3 className="text-[10px] font-black uppercase tracking-[0.2em] text-gray-400 border-b border-gray-100 dark:border-white/5 pb-2">
+                                                        {column.title}
+                                                    </h3>
+                                                    <div className="flex flex-col gap-4">
+                                                        {column.items.map((item) => (
+                                                            <MenuLink key={item.href} item={item} onClick={() => setActiveMegaMenu(null)} />
+                                                        ))}
+                                                    </div>
+                                                </div>
+                                            ))}
+                                        </div>
+                                    ) : (
+                                        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
+                                            {group.items?.map((item) => (
+                                                <MenuLink key={item.href} item={item} onClick={() => setActiveMegaMenu(null)} />
+                                            ))}
+                                        </div>
+                                    )}
                                 </div>
                             </div>
                         ))}
@@ -227,27 +273,26 @@ export default function Navbar() {
                 </div>
             )}
 
-            {/* Mobile Menu (unchanged for simplicity, but updated labels) */}
+            {/* Mobile Menu */}
             {isMobileMenuOpen && (
                 <div className="fixed inset-0 top-14 bg-surface-color/95 backdrop-blur-xl z-40 lg:hidden overflow-y-auto p-6">
-                    <div className="space-y-8">
+                    <div className="space-y-10">
                         {navGroups.map((group) => (
-                            <div key={group.label} className="space-y-3">
-                                <div className="text-[10px] font-black uppercase tracking-widest text-gray-400">{group.label}</div>
+                            <div key={group.label} className="space-y-4">
+                                <div className="flex items-center gap-2 text-[10px] font-black uppercase tracking-widest text-blue-600">
+                                    <group.icon size={14} />
+                                    {group.label}
+                                </div>
                                 <div className="grid gap-4 pl-2">
-                                    {group.items.map((item) => (
-                                        <Link
-                                            key={item.href}
-                                            href={item.href}
-                                            onClick={() => setIsMobileMenuOpen(false)}
-                                            className="flex items-center gap-4 text-base font-bold text-gray-900 dark:text-white"
-                                        >
-                                            <div className="w-8 h-8 rounded-lg bg-gray-100 dark:bg-white/10 flex items-center justify-center">
-                                                <item.icon size={16} />
-                                            </div>
-                                            {item.label}
-                                        </Link>
-                                    ))}
+                                    {group.columns ? (
+                                        group.columns.map(col => col.items.map(item => (
+                                            <MobileMenuLink key={item.href} item={item} onClick={() => setIsMobileMenuOpen(false)} />
+                                        )))
+                                    ) : (
+                                        group.items?.map((item) => (
+                                            <MobileMenuLink key={item.href} item={item} onClick={() => setIsMobileMenuOpen(false)} />
+                                        ))
+                                    )}
                                 </div>
                             </div>
                         ))}
@@ -265,8 +310,9 @@ function NavItemDropdown({ group, pathname, router, activeMegaMenu, setActiveMeg
     activeMegaMenu: string | null,
     setActiveMegaMenu: (label: string | null) => void 
 }) {
-    const isGroupActive = group.items.some(item => pathname === item.href);
+    const isGroupActive = group.items ? group.items.some(item => pathname === item.href) : group.columns?.some(col => col.items.some(item => pathname === item.href));
     const isOpen = activeMegaMenu === group.label;
+    const hoverTimerRef = useRef<NodeJS.Timeout | null>(null);
 
     const { isLongPressActive, ...longPressProps } = useLongPress({
         onLongPress: () => {
@@ -279,12 +325,27 @@ function NavItemDropdown({ group, pathname, router, activeMegaMenu, setActiveMeg
         ms: 400
     });
 
+    const handleMouseEnter = () => {
+        if (hoverTimerRef.current) clearTimeout(hoverTimerRef.current);
+        hoverTimerRef.current = setTimeout(() => {
+            setActiveMegaMenu(group.label);
+        }, 150);
+    };
+
+    const handleMouseLeave = () => {
+        if (hoverTimerRef.current) clearTimeout(hoverTimerRef.current);
+    };
+
     return (
-        <div className="relative">
+        <div 
+            className="relative"
+            onMouseEnter={handleMouseEnter}
+            onMouseLeave={handleMouseLeave}
+        >
             <button
                 {...longPressProps}
                 className={`flex items-center gap-1 px-3 py-1.5 rounded-full text-[13px] font-bold tracking-tight transition-all duration-200 transform
-                    ${isOpen ? "scale-95" : "scale-100"}
+                    ${isOpen ? "scale-95 text-blue-600" : "scale-100"}
                     ${isGroupActive || isOpen
                         ? "text-blue-600 drop-shadow-sm"
                         : "text-gray-500 hover:text-gray-900 dark:hover:text-white"
@@ -294,6 +355,62 @@ function NavItemDropdown({ group, pathname, router, activeMegaMenu, setActiveMeg
                 <ChevronDown size={12} className={`transition-transform duration-300 ${isOpen ? "rotate-180" : ""}`} />
             </button>
         </div>
+    );
+}
+
+function MenuLink({ item, onClick }: { item: NavItem, onClick: () => void }) {
+    const isExternal = item.isExternal;
+    const LinkComponent = isExternal ? 'a' : Link;
+    const externalProps = isExternal ? { target: "_blank", rel: "noopener noreferrer" } : {};
+
+    return (
+        <LinkComponent
+            key={item.href}
+            href={item.href}
+            onClick={onClick}
+            {...(externalProps as any)}
+            className="group flex items-center gap-3 p-2 rounded-xl hover:bg-black/5 dark:hover:bg-white/5 transition-all"
+        >
+            <div className="w-8 h-8 rounded-lg bg-gray-100 dark:bg-white/10 flex items-center justify-center text-gray-400 group-hover:bg-blue-600 group-hover:text-white transition-all shrink-0">
+                <item.icon size={16} />
+            </div>
+            <div className="flex flex-col min-w-0">
+                <div className="flex items-center gap-1.5 min-w-0">
+                    <span className="text-sm font-bold text-gray-900 dark:text-white truncate group-hover:text-blue-600 transition-colors">
+                        {item.label}
+                    </span>
+                    {isExternal && <ExternalLink size={10} className="text-gray-400 shrink-0" />}
+                </div>
+                <span className="text-[10px] text-gray-500 font-medium leading-tight truncate">
+                    {item.description}
+                </span>
+            </div>
+        </LinkComponent>
+    );
+}
+
+function MobileMenuLink({ item, onClick }: { item: NavItem, onClick: () => void }) {
+    const isExternal = item.isExternal;
+    const LinkComponent = isExternal ? 'a' : Link;
+    const externalProps = isExternal ? { target: "_blank", rel: "noopener noreferrer" } : {};
+
+    return (
+        <LinkComponent
+            key={item.href}
+            href={item.href}
+            onClick={onClick}
+            {...(externalProps as any)}
+            className="flex items-center gap-4 text-base font-bold text-gray-900 dark:text-white group"
+        >
+            <div className="w-8 h-8 rounded-lg bg-gray-100 dark:bg-white/10 flex items-center justify-center text-gray-400 group-hover:bg-blue-600 group-hover:text-white transition-all shrink-0"
+            >
+                <item.icon size={16} />
+            </div>
+            <div className="flex items-center gap-2">
+                {item.label}
+                {isExternal && <ExternalLink size={10} className="text-gray-400" />}
+            </div>
+        </LinkComponent>
     );
 }
 
