@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import "./globals.css";
 import Navbar from "@/components/navigation/Navbar";
-import StoreProvider from "./StoreProvider";
+import { CompareProvider } from "@/lib/contexts/CompareContext";
 
 const inter = Inter({ subsets: ["latin"], variable: "--font-inter" });
 
@@ -10,6 +10,8 @@ export const metadata: Metadata = {
   title: "OpenState",
   description: "Transparentny monitoring działalności publicznej.",
 };
+
+import { Suspense } from "react";
 
 export default function RootLayout({
   children,
@@ -19,13 +21,15 @@ export default function RootLayout({
   return (
     <html lang="pl" suppressHydrationWarning>
       <body className={inter.variable} suppressHydrationWarning>
-        <StoreProvider>
+        <CompareProvider>
           <div className="mesh-background" />
-          <Navbar />
+          <Suspense fallback={<div className="h-16 bg-surface-color" />}>
+            <Navbar />
+          </Suspense>
           <main className="pt-20 px-6">
             {children}
           </main>
-        </StoreProvider>
+        </CompareProvider>
       </body>
     </html>
   );

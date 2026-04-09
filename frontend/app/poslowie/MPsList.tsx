@@ -1,15 +1,19 @@
 "use client";
 
 import { useState, useMemo, useEffect } from "react";
-import { Search, User, Filter, SortAsc } from "lucide-react";
+import { Search, User, Filter, SortAsc, ArrowRightLeft as CompareIcon } from "lucide-react";
 import Link from "next/link";
 import { MP } from "@/lib/mps";
-import { useAppSelector } from "@/lib/hooks";
-import { selectGlobalSearch } from "@/lib/features/search/searchSlice";
+import { useSearchParams } from "next/navigation";
+import { useCompare } from "@/lib/contexts/CompareContext";
+import ComparisonDock from "@/components/compare/ComparisonDock";
 
 export default function MPsList({ initialMPs }: { initialMPs: MP[] }) {
     const [mps] = useState<MP[]>(initialMPs);
-    const globalSearch = useAppSelector(selectGlobalSearch);
+    
+    const searchParams = useSearchParams();
+    const globalSearch = searchParams.get("search") || "";
+
     const [headerHidden, setHeaderHidden] = useState(false);
 
     useEffect(() => {
@@ -131,16 +135,26 @@ export default function MPsList({ initialMPs }: { initialMPs: MP[] }) {
                     Nie znaleziono parlamentarzystów.
                 </div>
             )}
+
+            <ComparisonDock />
         </div>
     );
 }
 
 function MPCard({ mp }: { mp: MP }) {
+    const { addToCompare, mpA, mpB } = useCompare();
+    const isSelected = mpA?.id === mp.id || mpB?.id === mp.id;
     const href = mp.chamber === 'Senat' ? `/senatorowie/${mp.id}` : `/poslowie/${mp.id}`;
 
+    const handleCompareClick = (e: React.MouseEvent) => {
+        e.preventDefault();
+        e.stopPropagation();
+        addToCompare(mp);
+    };
+
     return (
-        <Link href={href} className="block">
-            <div className="glass-card p-4 flex items-center gap-4 hover:bg-surface-hover transition-colors cursor-pointer group h-full">
+        <Link href={href} className="block relative group">
+            <div className={`glass-card p-4 flex items-center gap-4 hover:bg-surface-hover transition-all cursor-pointer h-full border-2 ${isSelected ? 'border-blue-500 shadow-blue-500/10' : 'border-transparent'}`}>
                 <div className="w-16 h-16 rounded-full overflow-hidden bg-gradient-to-br from-gray-200 to-gray-400 dark:from-gray-700 dark:to-gray-900 flex items-center justify-center border border-surface-border group-hover:border-accent-blue/50 transition-colors relative shrink-0">
                     {mp.photoUrl ? (
                         <img src={mp.photoUrl} alt={mp.name} className="w-full h-full object-cover" loading="lazy" />
@@ -148,7 +162,7 @@ function MPCard({ mp }: { mp: MP }) {
                         <User size={24} className="text-gray-400 group-hover:text-blue-400" />
                     )}
                 </div>
-                <div className="overflow-hidden min-w-0">
+                <div className="overflow-hidden min-w-0 flex-1">
                     <div className="flex items-center gap-1.5 mb-0.5">
                         <h3 className="font-semibold text-foreground text-sm truncate">{mp.name}</h3>
                         {mp.active !== false && (
@@ -165,6 +179,17 @@ function MPCard({ mp }: { mp: MP }) {
                         </span>
                     </div>
                 </div>
+
+                <button
+                    onClick={handleCompareClick}
+                    title="Dodaj do porównania"
+                    className={`p-2 rounded-full transition-all shrink-0 ${isSelected 
+                        ? 'bg-blue-500 text-white shadow-lg' 
+                        : 'bg-surface-color text-text-secondary border border-surface-border hover:bg-blue-500/10 hover:text-blue-500 hover:border-blue-500/30'
+                    }`}
+                >
+                    <CompareIcon size={16} />
+                </button>
             </div>
         </Link>
     )

@@ -1,7 +1,7 @@
 "use client";
 
 import React, { useMemo } from 'react';
-import type { MP } from '@/lib/data';
+import type { MP } from '@/lib/mps';
 
 interface HemicycleProps {
     mps: MP[];
@@ -22,13 +22,15 @@ export default function Hemicycle({ mps }: HemicycleProps) {
     const seats = useMemo(() => {
         // Use simple string comparison instead of localeCompare to avoid server/client locale mismatch
         const sortedMps = [...mps].sort((a, b) => {
-            if (a.party < b.party) return -1;
-            if (a.party > b.party) return 1;
+            const partyA = a.club || "";
+            const partyB = b.club || "";
+            if (partyA < partyB) return -1;
+            if (partyA > partyB) return 1;
             return 0;
         });
 
         // We only take the first 460 MPs (exclude senators)
-        const sejmMembers = sortedMps.filter(m => m.type === 'Poseł').slice(0, 460);
+        const sejmMembers = sortedMps.filter(m => m.chamber === 'Sejm' || !m.chamber).slice(0, 460);
 
         const rows = 12;
         const radiusStep = 24;
@@ -57,7 +59,7 @@ export default function Hemicycle({ mps }: HemicycleProps) {
                 const y = cy - radius * Math.sin(theta) - 20;
 
                 const mp = sejmMembers[seatIndex];
-                const color = partyColors[mp.party] || "#555";
+                const color = partyColors[mp.club] || "#555";
 
                 calculatedSeats.push({ x, y, color, mp });
                 seatIndex++;
@@ -78,7 +80,7 @@ export default function Hemicycle({ mps }: HemicycleProps) {
                         backgroundColor: seat.color,
                         boxShadow: `0 1px 2px rgba(0,0,0,0.3)`
                     }}
-                    title={`${seat.mp.name} (${seat.mp.party})`}
+                    title={`${seat.mp.name} (${seat.mp.club})`}
                 />
             ))}
 

@@ -51,16 +51,3 @@ export const KANBAN_STAGE_COLORS: Record<KanbanStage, string> = {
     [KANBAN_STAGES.WEJSCIE_W_ZYCIE]: "bg-apple-green text-white",
 };
 
-// API Endpoints (for future use)
-export const API_ENDPOINTS = {
-    SEJM_BASE: "https://api.sejm.gov.pl/sejm/term10",
-    RCL_BASE: "https://legislacja.rcl.gov.pl",
-    ISAP_BASE: "http://isap.sejm.gov.pl",
-} as const;
-
-// Data refresh intervals (ms)
-export const CACHE_TTL = {
-    PROCESSES: 3600000, // 1 hour
-    VOTINGS: 7200000,   // 2 hours
-    MPS: 86400000,      // 24 hours
-} as const;

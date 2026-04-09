@@ -11,14 +11,19 @@ jest.mock('next/navigation', () => ({
 // For server components, we might need a different testing strategy or treat this as a component test
 // assuming BillPage is a server component, we might mock the data fetching or test a child client component.
 // However, since BillPage in this codebase reads JSON files directly or via helpers, mocking those helpers is best.
-jest.mock('../lib/data', () => ({
-    getBillDetails: jest.fn().mockReturnValue({
+jest.mock('../lib/bills', () => ({
+    getBill: jest.fn().mockReturnValue({
         id: "1000",
+        eli: "eli/1000",
         title: "Testowa Ustawa",
-        date: "2025-01-01",
         description: "Opis testowy",
-        stage: "Sejm",
-        votes: { yes: 100, no: 10, abstain: 5 }
+        documentType: "Ustawa",
+        authorType: "Rząd",
+        isEU: false,
+        date: "2025-01-01",
+        term: 10,
+        urgency: "normalny",
+        stages: []
     })
 }))
 

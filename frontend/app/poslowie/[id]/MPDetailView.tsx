@@ -4,15 +4,20 @@ import { MP } from "@/lib/mps";
 import { ArrowLeft, Mail, MapPin, GitCompare } from "lucide-react";
 import Link from "next/link";
 import { User } from "lucide-react";
+import { useCompare } from "@/lib/contexts/CompareContext";
+import ComparisonDock from "@/components/compare/ComparisonDock";
 
 export default function MPDetailView({ mp }: { mp: MP }) {
+    const { addToCompare, mpA, mpB } = useCompare();
+    const isSelected = mpA?.id === mp.id || mpB?.id === mp.id;
+
     return (
-        <div className="max-w-4xl mx-auto pb-10 fade-in">
+        <div className="max-w-4xl mx-auto pb-20 fade-in">
             <Link href="/poslowie" className="inline-flex items-center gap-2 text-gray-500 hover:text-foreground mb-6 transition-colors font-medium">
                 <ArrowLeft size={18} /> Powrót do listy
             </Link>
 
-            <div className="glass-card p-8 md:p-12 relative overflow-hidden">
+            <div className={`glass-card p-8 md:p-12 relative overflow-hidden border-2 transition-colors duration-500 ${isSelected ? 'border-blue-500/50 shadow-blue-500/10' : 'border-transparent'}`}>
                 {/* Background Decor */}
                 <div className="absolute top-0 right-0 w-64 h-64 bg-accent-blue/10 rounded-full blur-3xl -translate-y-1/2 translate-x-1/4 pointer-events-none"></div>
 
@@ -55,17 +60,22 @@ export default function MPDetailView({ mp }: { mp: MP }) {
                                     <Mail size={18} /> Brak adresu email
                                 </span>
                             )}
-                            <Link
-                                href={`/porownaj?a=${mp.id}`}
-                                className="flex items-center gap-2 px-5 py-2.5 bg-indigo-500/10 border border-indigo-500/20 rounded-xl hover:bg-indigo-500/20 transition-colors text-indigo-400 font-medium shadow-sm"
+                            <button
+                                onClick={() => addToCompare(mp)}
+                                className={`flex items-center gap-2 px-5 py-2.5 rounded-xl transition-all font-medium shadow-sm ${isSelected 
+                                    ? 'bg-blue-600 text-white border border-blue-500' 
+                                    : 'bg-indigo-500/10 border border-indigo-500/20 text-indigo-400 hover:bg-indigo-500/20'
+                                }`}
                             >
                                 <GitCompare size={18} />
-                                Porównaj z…
-                            </Link>
+                                {isSelected ? "W wykazie do porównania" : "Dodaj do porównania"}
+                            </button>
                         </div>
                     </div>
                 </div>
             </div>
+
+            <ComparisonDock />
         </div>
     );
 }

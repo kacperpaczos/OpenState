@@ -1,16 +1,18 @@
 import React from 'react';
 import { render, screen } from '@testing-library/react';
 import Hemicycle from '../components/visual/Hemicycle';
-import { MP } from '../lib/data';
+import { MP } from '../lib/mps';
 
 // Mock data
 const mockMps: MP[] = Array(460).fill(null).map((_, i) => ({
-    type: 'Poseł',
+    id: String(i),
     name: `Poseł ${i}`,
-    party: i % 2 === 0 ? 'Partia A' : 'Partia B',
+    firstLastName: `Poseł ${i}`,
+    club: i % 2 === 0 ? 'Partia A' : 'Partia B',
     district: 'Okręg 1',
-    attendance: 100,
-    votes: []
+    email: `posel${i}@sejm.pl`,
+    active: true,
+    photoUrl: `/photo/${i}.jpg`
 }));
 
 describe('Hemicycle Component', () => {

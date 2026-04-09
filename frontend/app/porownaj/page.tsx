@@ -36,6 +36,8 @@ const VOTE_LABEL: Record<string, { label: string; icon: React.ReactNode; cls: st
     ABSENT: { label: "NIEOB.", icon: <UserX size={14} className="text-gray-600" />, cls: "text-gray-500" },
 };
 
+import { Suspense } from "react";
+
 export default async function ComparePage({ searchParams }: PageProps) {
     const { a, b } = await searchParams;
 
@@ -49,7 +51,9 @@ export default async function ComparePage({ searchParams }: PageProps) {
         const activeMPs = mps.filter(m => m.chamber === 'Sejm' || !m.chamber).filter(m => m.active !== false);
         return (
             <div className="min-h-screen pt-20 px-4">
-                <MPCompareSelector mps={activeMPs} prefilledA={a} prefilledB={b} />
+                <Suspense fallback={<div className="p-8 text-center">Inicjalizacja porównywarki...</div>}>
+                    <MPCompareSelector mps={activeMPs} prefilledA={a} prefilledB={b} />
+                </Suspense>
             </div>
         );
     }

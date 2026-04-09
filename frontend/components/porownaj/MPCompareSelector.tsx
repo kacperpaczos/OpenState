@@ -4,6 +4,7 @@ import { useState, useMemo, useEffect, useRef, useCallback } from "react";
 import { useRouter } from "next/navigation";
 import { MP } from "@/lib/mps";
 import { Search, X, User, ArrowRightLeft } from "lucide-react";
+import { useCompare } from "@/lib/contexts/CompareContext";
 
 interface MPCompareSelectorProps {
     mps: MP[];
@@ -34,6 +35,7 @@ function MPOption({ mp, onClick }: { mp: MP, onClick: (mp: MP) => void }) {
 
 export default function MPCompareSelector({ mps, prefilledA, prefilledB }: MPCompareSelectorProps) {
     const router = useRouter();
+    const { mpA, mpB, setMPA, setMPB, clearCompare } = useCompare();
     
     // Sort MPs alphabetically for better default display
     const sortedMps = useMemo(() => {
@@ -42,8 +44,11 @@ export default function MPCompareSelector({ mps, prefilledA, prefilledB }: MPCom
 
     const findMp = (id?: string | null) => sortedMps.find(m => m.id === id) || null;
 
-    const [selA, setSelA] = useState<MP | null>(findMp(prefilledA));
-    const [selB, setSelB] = useState<MP | null>(findMp(prefilledB));
+    // Sync URL params on mount
+    useEffect(() => {
+        if (prefilledA && !mpA) setMPA(findMp(prefilledA));
+        if (prefilledB && !mpB) setMPB(findMp(prefilledB));
+    }, [prefilledA, prefilledB]);
 
     const [searchA, setSearchA] = useState("");
     const [searchB, setSearchB] = useState("");
@@ -64,26 +69,17 @@ export default function MPCompareSelector({ mps, prefilledA, prefilledB }: MPCom
         return () => document.removeEventListener("mousedown", handleOutsideClick);
     }, []);
 
-    // Navigate when both are selected — called directly in select handlers
-    const navigate = useCallback((a: MP, b: MP) => {
-        router.push(`/porownaj?a=${a.id}&b=${b.id}`);
-    }, [router]);
-
     const handleSelectA = useCallback((m: MP) => {
-        setSelA(m);
+        setMPA(m);
         setOpenA(false);
         setSearchA("");
-        // If B is already selected, navigate immediately
-        if (selB) navigate(m, selB);
-    }, [selB, navigate]);
+    }, [setMPA]);
 
     const handleSelectB = useCallback((m: MP) => {
-        setSelB(m);
+        setMPB(m);
         setOpenB(false);
         setSearchB("");
-        // If A is already selected, navigate immediately
-        if (selA) navigate(selA, m);
-    }, [selA, navigate]);
+    }, [setMPB]);
 
     const filterMps = (query: string) => {
         if (!query) return sortedMps.slice(0, 10);
@@ -95,6 +91,8 @@ export default function MPCompareSelector({ mps, prefilledA, prefilledB }: MPCom
 
     const resultsA = filterMps(searchA);
     const resultsB = filterMps(searchB);
+
+    const canCompare = mpA && mpB;
 
     return (
         <div className="w-full max-w-4xl mx-auto p-4 fade-in">
@@ -109,7 +107,7 @@ export default function MPCompareSelector({ mps, prefilledA, prefilledB }: MPCom
                 <div className="flex-1 w-full relative z-20" ref={refA}>
                     <label className="block text-sm font-semibold text-text-secondary mb-3 uppercase tracking-wider text-center md:text-left">Poseł A</label>
                     
-                    {!selA ? (
+                    {!mpA ? (
                         <div className="relative glass-card overflow-visible">
                             <div className="flex items-center px-4 py-3 border-b border-surface-border bg-surface-color hover:bg-surface-hover transition-colors rounded-t-[15px] rounded-b-[15px] focus-within:ring-2 ring-blue-500/50">
                                 <Search className="text-gray-400 mr-3 shrink-0" size={18} />
@@ -141,18 +139,18 @@ export default function MPCompareSelector({ mps, prefilledA, prefilledB }: MPCom
                         <div className="glass-card p-4 flex items-center justify-between border-2 border-blue-500/30 bg-blue-500/5 hover:border-blue-500/50 transition-colors">
                             <div className="flex items-center gap-4">
                                 <div className="w-14 h-14 rounded-full bg-surface-color border border-surface-border overflow-hidden shrink-0">
-                                    {selA.photoUrl ? (
-                                        <img src={selA.photoUrl} alt={selA.name} className="w-full h-full object-cover" />
+                                    {mpA.photoUrl ? (
+                                        <img src={mpA.photoUrl} alt={mpA.name} className="w-full h-full object-cover" />
                                     ) : (
-                                        <User size={24} className="text-gray-500 m-4" />
+                                        <User size={24} className="text-gray-400 m-4" />
                                     )}
                                 </div>
                                 <div>
-                                    <div className="font-bold text-foreground text-lg">{selA.name}</div>
-                                    <div className="text-sm text-text-secondary">{selA.club}</div>
+                                    <div className="font-bold text-foreground text-lg">{mpA.name}</div>
+                                    <div className="text-sm text-text-secondary">{mpA.club}</div>
                                 </div>
                             </div>
-                            <button onClick={() => setSelA(null)} className="p-2 text-gray-400 hover:text-red-500 transition-colors bg-surface-hover rounded-full" aria-label="Usuń">
+                            <button onClick={() => setMPA(null)} className="p-2 text-gray-400 hover:text-red-500 transition-colors bg-surface-hover rounded-full" aria-label="Usuń">
                                 <X size={18} />
                             </button>
                         </div>
@@ -168,7 +166,7 @@ export default function MPCompareSelector({ mps, prefilledA, prefilledB }: MPCom
                 <div className="flex-1 w-full relative z-10" ref={refB}>
                     <label className="block text-sm font-semibold text-text-secondary mb-3 uppercase tracking-wider text-center md:text-left">Poseł B</label>
                     
-                    {!selB ? (
+                    {!mpB ? (
                         <div className="relative glass-card overflow-visible">
                             <div className="flex items-center px-4 py-3 border-b border-surface-border bg-surface-color hover:bg-surface-hover transition-colors rounded-t-[15px] rounded-b-[15px] focus-within:ring-2 ring-blue-500/50">
                                 <Search className="text-gray-400 mr-3 shrink-0" size={18} />
@@ -200,18 +198,18 @@ export default function MPCompareSelector({ mps, prefilledA, prefilledB }: MPCom
                         <div className="glass-card p-4 flex items-center justify-between border-2 border-blue-500/30 bg-blue-500/5 hover:border-blue-500/50 transition-colors">
                             <div className="flex items-center gap-4">
                                 <div className="w-14 h-14 rounded-full bg-surface-color border border-surface-border overflow-hidden shrink-0">
-                                    {selB.photoUrl ? (
-                                        <img src={selB.photoUrl} alt={selB.name} className="w-full h-full object-cover" />
+                                    {mpB.photoUrl ? (
+                                        <img src={mpB.photoUrl} alt={mpB.name} className="w-full h-full object-cover" />
                                     ) : (
-                                        <User size={24} className="text-gray-500 m-4" />
+                                        <User size={24} className="text-gray-400 m-4" />
                                     )}
                                 </div>
                                 <div>
-                                    <div className="font-bold text-foreground text-lg">{selB.name}</div>
-                                    <div className="text-sm text-text-secondary">{selB.club}</div>
+                                    <div className="font-bold text-foreground text-lg">{mpB.name}</div>
+                                    <div className="text-sm text-text-secondary">{mpB.club}</div>
                                 </div>
                             </div>
-                            <button onClick={() => setSelB(null)} className="p-2 text-gray-400 hover:text-red-500 transition-colors bg-surface-hover rounded-full" aria-label="Usuń">
+                            <button onClick={() => setMPB(null)} className="p-2 text-gray-400 hover:text-red-500 transition-colors bg-surface-hover rounded-full" aria-label="Usuń">
                                 <X size={18} />
                             </button>
                         </div>
@@ -219,11 +217,29 @@ export default function MPCompareSelector({ mps, prefilledA, prefilledB }: MPCom
                 </div>
             </div>
             
-            {(!selA || !selB) && (
-                <div className="mt-12 text-center text-sm text-gray-500 animate-pulse">
-                    Wybierz dwóch posłów, aby ropocząć porównywanie.
-                </div>
-            )}
+            <div className="mt-12 flex flex-col items-center gap-4">
+                {canCompare ? (
+                    <button 
+                        onClick={() => router.push(`/porownaj?a=${mpA.id}&b=${mpB.id}`)}
+                        className="bg-blue-600 hover:bg-blue-500 text-white px-8 py-3 rounded-xl font-bold transition-all shadow-lg shadow-blue-500/20 active:scale-95"
+                    >
+                        Rozpocznij porównanie
+                    </button>
+                ) : (
+                    <div className="text-center text-sm text-gray-500 animate-pulse">
+                        Wybierz dwóch posłów, aby ropocząć porównywanie.
+                    </div>
+                )}
+                
+                {(mpA || mpB) && (
+                    <button 
+                        onClick={() => clearCompare()}
+                        className="text-xs text-gray-500 hover:text-red-500 transition-colors underline decoration-dotted"
+                    >
+                        Wyczyść wszystko
+                    </button>
+                )}
+            </div>
         </div>
     );
 }
