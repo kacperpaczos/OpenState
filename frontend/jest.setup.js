@@ -12,3 +12,19 @@ Object.defineProperty(window, 'matchMedia', {
         dispatchEvent: jest.fn(),
     })),
 });
+
+// Fail tests on console.error
+// This catches React 'prop' warnings and other critical errors that aren't explicit test failures
+const originalError = console.error;
+console.error = (...args) => {
+  const message = args[0];
+  // Filter out any known-safe errors if necessary, otherwise throw for everything
+  if (typeof message === 'string' && (
+      message.includes('React does not recognize the') || 
+      message.includes('Warning: React.jsx: type is invalid') ||
+      message.includes('Failed prop type')
+  )) {
+    throw new Error(`Console error detected during test: ${message}`);
+  }
+  originalError.apply(console, args);
+};
