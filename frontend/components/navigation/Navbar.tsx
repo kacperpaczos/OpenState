@@ -380,7 +380,7 @@ export default function Navbar() {
                                                     </h3>
                                                     <div className="flex flex-col gap-4">
                                                         {column.items.map((item) => (
-                                                            <MenuLink key={item.href} item={item} onClick={() => setActiveMegaMenu(null)} />
+                                                            <MenuLink key={`${item.href}-${item.label}`} item={item} onClick={() => setActiveMegaMenu(null)} />
                                                         ))}
                                                     </div>
                                                 </div>
@@ -389,7 +389,7 @@ export default function Navbar() {
                                     ) : (
                                         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
                                             {group.items?.map((item) => (
-                                                <MenuLink key={item.href} item={item} onClick={() => setActiveMegaMenu(null)} />
+                                                <MenuLink key={`${item.href}-${item.label}`} item={item} onClick={() => setActiveMegaMenu(null)} />
                                             ))}
                                         </div>
                                     )}
@@ -413,11 +413,11 @@ export default function Navbar() {
                                 <div className="grid gap-4 pl-2">
                                     {group.columns ? (
                                         group.columns.map(col => col.items.map(item => (
-                                            <MobileMenuLink key={item.href} item={item} onClick={() => setIsMobileMenuOpen(false)} />
+                                            <MobileMenuLink key={`${item.href}-${item.label}`} item={item} onClick={() => setIsMobileMenuOpen(false)} />
                                         )))
                                     ) : (
                                         group.items?.map((item) => (
-                                            <MobileMenuLink key={item.href} item={item} onClick={() => setIsMobileMenuOpen(false)} />
+                                            <MobileMenuLink key={`${item.href}-${item.label}`} item={item} onClick={() => setIsMobileMenuOpen(false)} />
                                         ))
                                     )}
                                 </div>
