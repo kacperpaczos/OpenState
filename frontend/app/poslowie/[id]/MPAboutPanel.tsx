@@ -19,9 +19,9 @@ export default function MPAboutPanel({ mp }: { mp: MP }) {
                 <div className="space-y-4 text-sm">
                     {infoItems.map((item, idx) => (
                         <div key={idx} className="flex items-center gap-3">
-                            <span className="text-gray-500">{item.icon}</span>
-                            <span className="text-gray-400 min-w-[120px]">{item.label}:</span>
-                            <span className="font-medium text-foreground">
+                            <span className="text-text-secondary">{item.icon}</span>
+                            <span className="text-text-secondary min-w-[120px] font-semibold">{item.label}:</span>
+                            <span className="font-bold text-foreground">
                                 {item.value || <span className="text-gray-600 italic font-normal">Brak danych</span>}
                             </span>
                         </div>
@@ -56,14 +56,14 @@ export default function MPAboutPanel({ mp }: { mp: MP }) {
                 </h3>
                 <div className="space-y-3 text-sm">
                     <div className="flex items-center gap-3">
-                        <Users size={14} className="text-gray-500" />
-                        <span className="text-gray-400 min-w-[120px]">Klub / Koło:</span>
-                        <span className="font-medium text-foreground">{mp.club || "Niezrzeszony"}</span>
+                        <Users size={14} className="text-text-secondary" />
+                        <span className="text-text-secondary min-w-[120px] font-semibold">Klub / Koło:</span>
+                        <span className="font-bold text-foreground">{mp.club || "Niezrzeszony"}</span>
                     </div>
                     <div className="flex items-center gap-3">
-                        <MapPin size={14} className="text-gray-500" />
-                        <span className="text-gray-400 min-w-[120px]">Okręg / Region:</span>
-                        <span className="font-medium text-foreground">{mp.district || mp.voivodeship}</span>
+                        <MapPin size={14} className="text-text-secondary" />
+                        <span className="text-text-secondary min-w-[120px] font-semibold">Okręg / Region:</span>
+                        <span className="font-bold text-foreground">{mp.district || mp.voivodeship}</span>
                     </div>
                 </div>
             </div>

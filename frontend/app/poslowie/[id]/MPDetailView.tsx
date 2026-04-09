@@ -76,7 +76,7 @@ export default function MPDetailView({ mp }: { mp: MP }) {
                             <button
                                 onClick={() => addToCompare(mp)}
                                 className={`flex items-center gap-2 px-5 py-2.5 rounded-xl transition-all font-medium shadow-sm ${isSelected 
-                                    ? 'bg-blue-600 text-white border border-blue-500' 
+                                    ? 'bg-blue-600 dark:text-white text-blue-950 border border-blue-500' 
                                     : 'bg-indigo-500/10 border border-indigo-500/20 text-indigo-400 hover:bg-indigo-500/20'
                                 }`}
                             >

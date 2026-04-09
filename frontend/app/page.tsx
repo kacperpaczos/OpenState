@@ -48,13 +48,13 @@ export default async function HomePage() {
               <Users className="w-6 h-6" />
             </div>
             <h2 className="text-2xl font-bold mb-1">Posłowie</h2>
-            <p className="text-gray-500 text-sm">Profile, głosowania i statystyki aktywności</p>
+            <p className="text-text-secondary font-medium text-sm">Profile, głosowania i statystyki aktywności</p>
             <div className="mt-4 flex gap-3 text-sm">
-              <span className="bg-green-500/10 text-green-400 px-3 py-1 rounded-full font-medium">{parliamentStats.totalMPs} posłów</span>
-              <span className="bg-surface-color text-gray-500 px-3 py-1 rounded-full">{parliamentStats.totalSenators} senatorów</span>
+              <span className="bg-green-500/10 text-green-600 dark:text-green-400 px-3 py-1 rounded-full font-bold">{parliamentStats.totalMPs} posłów</span>
+              <span className="bg-surface-color text-text-secondary font-bold px-3 py-1 rounded-full">{parliamentStats.totalSenators} senatorów</span>
             </div>
           </div>
-          <div className="flex items-center gap-1 text-sm font-medium text-gray-400 group-hover:text-foreground transition-colors">
+          <div className="flex items-center gap-1 text-sm font-bold text-text-secondary group-hover:text-foreground transition-colors">
             Przeglądaj <ArrowUpRight className="w-4 h-4" />
           </div>
           <div className="absolute right-[-30px] bottom-[-30px] w-48 h-48 bg-green-500/10 rounded-full blur-3xl group-hover:bg-green-500/20 transition-colors" />
@@ -68,13 +68,13 @@ export default async function HomePage() {
           </div>
           <div>
             <h3 className="font-bold text-base">Głosowania</h3>
-            <p className="text-gray-500 text-xs mt-0.5">
+            <p className="text-text-secondary font-medium text-xs mt-0.5">
               {votingStats.latestSitting
-                ? `${votingStats.totalSittings} posiedze\u0144 \u00b7 ostatnie: pos. ${votingStats.latestSitting.sitting}`
-                : 'Wyniki g\u0142osowa\u0144 Sejmu'}
+                ? `${votingStats.totalSittings} posiedzeń · ostatnie: pos. ${votingStats.latestSitting.sitting}`
+                : 'Wyniki głosowań Sejmu'}
             </p>
           </div>
-          <ArrowUpRight className="w-4 h-4 ml-auto text-gray-500 group-hover:text-foreground transition-colors" />
+          <ArrowUpRight className="w-4 h-4 ml-auto text-text-secondary group-hover:text-foreground transition-colors" />
         </Link>
 
         {/* 3 — Ustawy (2×1) */}
@@ -93,12 +93,12 @@ export default async function HomePage() {
         {/* 4 — Interpelacje (1×1) */}
         <Link href="/interpelacje"
           className="md:col-span-2 glass-card !p-6 flex flex-col justify-between hover:border-yellow-500/30 transition-colors group">
-          <div className="w-10 h-10 bg-yellow-500/10 rounded-2xl flex items-center justify-center text-yellow-400">
+          <div className="w-10 h-10 bg-yellow-500/10 rounded-2xl flex items-center justify-center text-yellow-600 dark:text-yellow-400">
             <Calendar className="w-5 h-5" />
           </div>
           <div>
             <h3 className="font-bold text-sm">Interpelacje</h3>
-            <p className="text-gray-500 text-xs">Zapytania posłów do rządu</p>
+            <p className="text-text-secondary font-medium text-xs">Zapytania posłów do rządu</p>
           </div>
         </Link>
 
@@ -135,7 +135,7 @@ export default async function HomePage() {
 
       </div>
 
-      <p className="mt-12 text-center text-gray-600 text-xs">
+      <p className="mt-12 text-center text-text-secondary font-bold text-xs">
         OpenState · Otwarte Dane Parlamentarne · X kadencja Sejmu
       </p>
 

@@ -1,4 +1,4 @@
-import { getSenators } from "@/lib/senators";
+import { getSenators } from "@/lib/mps";
 import SenatorsList from "./SenatorsList";
 
 export default async function SenatorsPage() {

@@ -47,7 +47,7 @@ export default function ComparisonDock() {
                     {canCompare ? (
                         <Link 
                             href={`/porownaj?a=${mpA.id}&b=${mpB.id}`}
-                            className="flex items-center gap-2 bg-blue-600 hover:bg-blue-500 text-white px-4 py-2 rounded-full font-bold text-sm transition-all shadow-lg hover:shadow-blue-500/20 hover:-translate-y-0.5"
+                            className="flex items-center gap-2 bg-blue-600 hover:bg-blue-500 dark:text-white text-blue-950 px-4 py-2 rounded-full font-bold text-sm transition-all shadow-lg hover:shadow-blue-500/20 hover:-translate-y-0.5"
                         >
                             <Zap size={14} fill="currentColor" />
                             Porównaj
@@ -78,7 +78,7 @@ function CompareSlot({ mp, onRemove, label }: { mp: MP | null, onRemove: () => v
             {mp && (
                 <button 
                     onClick={onRemove}
-                    className="absolute -top-1 -right-1 bg-red-500 text-white rounded-full p-0.5 shadow-md opacity-0 group-hover:opacity-100 transition-opacity"
+                    className="absolute -top-1 -right-1 bg-red-500 dark:text-white text-red-950 rounded-full p-0.5 shadow-md opacity-0 group-hover:opacity-100 transition-opacity"
                 >
                     <X size={10} strokeWidth={3} />
                 </button>

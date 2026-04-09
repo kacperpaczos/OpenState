@@ -36,7 +36,7 @@ export default function MPTabs({ votingPanel, aboutPanel, interpellationsPanel }
                         data-testid={`tab-${tab.id}`}
                         onClick={() => setActive(tab.id)}
                         className={`flex-1 flex items-center justify-center gap-2 py-2.5 px-3 rounded-lg text-sm font-medium transition-all ${active === tab.id
-                            ? "bg-accent-blue text-white shadow-sm"
+                            ? "bg-accent-blue dark:text-white text-blue-950 shadow-sm"
                             : "text-gray-500 hover:text-foreground hover:bg-surface-hover"
                             }`}
                     >

@@ -77,7 +77,7 @@ export default function MPsList({ initialMPs }: { initialMPs: MP[] }) {
             >
                 <div>
                     <h1 className="text-3xl font-bold text-foreground mb-2">Posłowie</h1>
-                    <p className="text-gray-400">Posłowie X kadencji Sejmu · {mps.length} osób</p>
+                    <p className="text-text-secondary font-medium">Posłowie X kadencji Sejmu · {mps.length} osób</p>
                 </div>
                 {/* Controls */}
                 <div className="flex flex-wrap items-center gap-2">
@@ -124,7 +124,7 @@ export default function MPsList({ initialMPs }: { initialMPs: MP[] }) {
                 <div className="text-center py-8">
                     <button
                         onClick={() => setVisibleCount(prev => prev + 100)}
-                        className="px-6 py-3 bg-accent-blue text-white rounded-xl font-medium hover:opacity-90 transition-opacity"
+                        className="px-6 py-3 bg-accent-blue dark:text-white text-[#1d1d1f] rounded-xl font-medium hover:opacity-90 transition-opacity"
                     >
                         Pokaż więcej ({filteredMps.length - visibleCount} pozostałych)
                     </button>
@@ -159,7 +159,7 @@ function MPCard({ mp }: { mp: MP }) {
                     {mp.photoUrl ? (
                         <img src={mp.photoUrl} alt={mp.name} className="w-full h-full object-cover" loading="lazy" />
                     ) : (
-                        <User size={24} className="text-gray-400 group-hover:text-blue-400" />
+                        <User size={24} className="text-text-secondary group-hover:text-blue-400" />
                     )}
                 </div>
                 <div className="overflow-hidden min-w-0 flex-1">
@@ -174,7 +174,7 @@ function MPCard({ mp }: { mp: MP }) {
                             <span className={`w-1.5 h-1.5 rounded-full shrink-0 ${mp.active !== false ? 'bg-green-500' : 'bg-red-400'}`} />
                             <span className="text-xs text-text-secondary truncate" title={mp.club}>{mp.club}</span>
                         </div>
-                        <span className="text-[10px] text-gray-500 uppercase tracking-wider truncate">
+                        <span className="text-[10px] text-text-secondary dark:text-gray-500 font-bold uppercase tracking-wider truncate">
                             {mp.district}
                         </span>
                     </div>
@@ -184,7 +184,7 @@ function MPCard({ mp }: { mp: MP }) {
                     onClick={handleCompareClick}
                     title="Dodaj do porównania"
                     className={`p-2 rounded-full transition-all shrink-0 ${isSelected 
-                        ? 'bg-blue-500 text-white shadow-lg' 
+                        ? 'bg-blue-500 dark:text-white text-[#1d1d1f] shadow-lg' 
                         : 'bg-surface-color text-text-secondary border border-surface-border hover:bg-blue-500/10 hover:text-blue-500 hover:border-blue-500/30'
                     }`}
                 >

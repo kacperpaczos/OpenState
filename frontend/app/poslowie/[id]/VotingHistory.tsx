@@ -22,7 +22,7 @@ function VoteRow({ vote }: { vote: VoteRecord }) {
             <div className="pt-0.5 flex-shrink-0">{cfg.icon}</div>
             <div className="flex-1 min-w-0">
                 <p className="text-sm text-foreground leading-snug line-clamp-2 group-hover:text-blue-600 dark:group-hover:text-blue-400 transition-colors">{vote.title}</p>
-                {vote.topic && <p className="text-xs text-gray-500 mt-0.5 line-clamp-1">{vote.topic}</p>}
+                {vote.topic && <p className="text-xs text-text-secondary font-medium mt-0.5 line-clamp-1">{vote.topic}</p>}
             </div>
             <span className={`text-[10px] uppercase font-bold px-2 py-0.5 rounded border flex-shrink-0 ${cfg.badge}`}>
                 {cfg.label}
@@ -51,8 +51,8 @@ function SittingSection({ group }: { group: SittingGroup }) {
             >
                 {open ? <ChevronDown size={16} className="text-gray-400 flex-shrink-0" /> : <ChevronRight size={16} className="text-gray-400 flex-shrink-0" />}
                 <div className="flex-1">
-                    <span className="font-medium text-foreground text-sm">Posiedzenie {group.sitting}</span>
-                    {group.date && <span className="text-gray-500 text-xs ml-2">{group.date}</span>}
+                    <span className="font-bold text-foreground text-sm">Posiedzenie {group.sitting}</span>
+                    {group.date && <span className="text-text-secondary font-bold text-xs ml-2">{group.date}</span>}
                 </div>
                 <div className="flex items-center gap-2 text-xs">
                     {yes > 0 && <span className="text-green-400">✓ {yes}</span>}
@@ -126,7 +126,7 @@ export default function VotingHistory({ votes }: { votes: VoteRecord[] }) {
                         <BarChart3 size={18} className="text-accent-blue" />
                         Historia Głosowań
                     </h3>
-                    <span className="text-xs text-gray-500 bg-surface-color px-2 py-1 rounded">
+                    <span className="text-xs text-text-secondary font-bold bg-surface-color px-2 py-1 rounded">
                         {filtered.length} głosowań · {groups.length} posiedzeń
                     </span>
                 </div>

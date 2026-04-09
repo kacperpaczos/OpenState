@@ -26,8 +26,8 @@ function StatBar({ label, count, total, color, textColor }: StatBarProps) {
                     style={{ width: `${pct}%` }}
                 />
             </div>
-            <span className="text-xs text-gray-400 w-14 text-right tabular-nums">
-                {count} <span className="text-gray-600">({pct}%)</span>
+            <span className="text-xs text-text-secondary font-bold w-14 text-right tabular-nums">
+                {count} <span className="text-text-secondary opacity-60 font-medium">({pct}%)</span>
             </span>
         </div>
     );
@@ -55,15 +55,15 @@ export default function MPStats({ votes }: MPStatsProps) {
             <h3 className="font-semibold text-foreground flex items-center gap-2 mb-5">
                 <TrendingUp size={18} className="text-accent-blue" />
                 Statystyki Aktywności
-                <span className="ml-auto text-xs text-gray-500 font-normal">{total} głosowań</span>
+                <span className="ml-auto text-xs text-text-secondary font-bold">{total} głosowań</span>
             </h3>
 
             {/* Attendance KPI */}
             <div className="flex items-center justify-between mb-6 p-4 bg-surface-color rounded-xl border border-surface-border">
                 <div>
-                    <p className="text-xs text-gray-500 uppercase tracking-wide font-semibold">Frekwencja</p>
+                    <p className="text-xs text-text-secondary uppercase tracking-wide font-bold">Frekwencja</p>
                     <p className={`text-4xl font-bold mt-1 ${attendanceColor}`}>{attendancePct}%</p>
-                    <p className="text-xs text-gray-500 mt-1">obecny na {present} z {total} głosowań</p>
+                    <p className="text-xs text-text-secondary font-medium mt-1">obecny na {present} z {total} głosowań</p>
                 </div>
                 {/* Donut ring (pure CSS) */}
                 <div className="relative w-20 h-20 shrink-0">
@@ -85,8 +85,8 @@ export default function MPStats({ votes }: MPStatsProps) {
 
             {/* Vote breakdown bars */}
             <div className="space-y-3">
-                <p className="text-xs text-gray-500 uppercase tracking-wide font-semibold mb-3">Rozkład głosów</p>
-                <StatBar label="Za" count={yes} total={present} color="bg-green-500" textColor="text-green-400" />
+                <p className="text-xs text-text-secondary uppercase tracking-wide font-bold mb-3">Rozkład głosów</p>
+                <StatBar label="Za" count={yes} total={present} color="bg-green-500" textColor="text-green-600 dark:text-green-400" />
                 <StatBar label="Przeciw" count={no} total={present} color="bg-red-500" textColor="text-red-400" />
                 <StatBar label="Wstrz." count={abstain} total={present} color="bg-yellow-400" textColor="text-yellow-400" />
             </div>

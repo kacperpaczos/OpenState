@@ -13,7 +13,7 @@ function VoteResultBadge({ title }: { title: string }) {
         return <span className="text-[10px] uppercase font-bold px-2 py-0.5 rounded border bg-green-500/10 text-green-400 border-green-500/20">Przyjęto</span>;
     }
     if (t.includes("odrzucon") || t.includes("odrzut")) {
-        return <span className="text-[10px] uppercase font-bold px-2 py-0.5 rounded border bg-red-500/10 text-red-400 border-red-500/20">Odrzucono</span>;
+        return <span className="text-[10px] uppercase font-bold px-2 py-0.5 rounded border bg-red-500/10 text-red-600 dark:text-red-400 border-red-500/20">Odrzucono</span>;
     }
     return null;
 }
@@ -37,11 +37,11 @@ export default function VotingsList({ votings }: { votings: VotingSummary[] }) {
     return (
         <div className="max-w-4xl mx-auto px-4 py-10 fade-in">
             <header className="mb-8">
-                <span className="text-blue-400 font-mono text-sm mb-2 block">X Kadencja Sejmu</span>
+                <span className="text-blue-500 dark:text-blue-400 font-bold font-mono text-sm mb-2 block">X Kadencja Sejmu</span>
                 <h1 className="text-4xl font-bold text-foreground tracking-tight">
                     Przegl<span className="text-gradient">ądarka Głosowań</span>
                 </h1>
-                <p className="text-gray-400 mt-2">{votings.length} głosowań z {new Set(votings.map(v => v.sitting)).size} posiedzeń</p>
+                <p className="text-text-secondary font-bold mt-2">{votings.length} głosowań z {new Set(votings.map(v => v.sitting)).size} posiedzeń</p>
             </header>
 
             {/* Search */}
@@ -61,7 +61,7 @@ export default function VotingsList({ votings }: { votings: VotingSummary[] }) {
             </div>
 
             {/* Count */}
-            <p className="text-xs text-gray-500 mb-4">
+            <p className="text-xs text-text-secondary font-bold mb-4">
                 Wyświetlam {visible.length} z {filtered.length} głosowań
                 {search && ` · wyniki dla "${search}"`}
             </p>
@@ -79,14 +79,14 @@ export default function VotingsList({ votings }: { votings: VotingSummary[] }) {
                                 className="flex items-start gap-4 px-5 py-4 hover:bg-surface-hover transition-colors group"
                             >
                                 <div className="w-10 shrink-0 text-center pt-0.5">
-                                    <div className="text-[10px] text-gray-600 uppercase font-mono">pos.</div>
-                                    <div className="text-lg font-bold text-gray-400 leading-none">{v.sitting}</div>
-                                    <div className="text-[10px] text-gray-600">/{v.votingNumber}</div>
+                                    <div className="text-[10px] text-text-secondary uppercase font-bold font-mono">pos.</div>
+                                    <div className="text-lg font-black text-text-secondary/50 dark:text-gray-400 leading-none">{v.sitting}</div>
+                                    <div className="text-[10px] text-text-secondary font-bold">/{v.votingNumber}</div>
                                 </div>
                                 <div className="flex-1 min-w-0">
-                                    <p className="text-sm font-medium text-foreground line-clamp-2 group-hover:text-blue-600 dark:group-hover:text-blue-400 transition-colors">{v.title}</p>
-                                    {v.topic && <p className="text-xs text-gray-500 mt-0.5 line-clamp-1">{v.topic}</p>}
-                                    <p className="text-[10px] text-gray-600 mt-1">{v.date} · {v.kind}</p>
+                                    <p className="text-sm font-bold text-foreground line-clamp-2 group-hover:text-blue-600 dark:group-hover:text-blue-400 transition-colors">{v.title}</p>
+                                    {v.topic && <p className="text-xs text-text-secondary font-medium mt-0.5 line-clamp-1">{v.topic}</p>}
+                                    <p className="text-[10px] text-text-secondary mt-1">{v.date} · {v.kind}</p>
                                 </div>
                                 <div className="shrink-0 pt-0.5">
                                     <VoteResultBadge title={v.title} />
@@ -102,7 +102,7 @@ export default function VotingsList({ votings }: { votings: VotingSummary[] }) {
                     <button
                         data-testid="load-more-votings"
                         onClick={() => setLimit(l => l + PAGE)}
-                        className="px-6 py-2.5 bg-accent-blue text-white rounded-xl text-sm font-medium hover:opacity-90 transition-opacity"
+                        className="px-6 py-2.5 bg-accent-blue dark:text-white text-[#1d1d1f] rounded-xl text-sm font-medium hover:opacity-90 transition-opacity"
                     >
                         Załaduj więcej ({filtered.length - limit} pozostałych)
                     </button>
