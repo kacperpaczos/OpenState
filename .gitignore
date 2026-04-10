@@ -6,3 +6,10 @@ __pycache__/
 
 # Backend ETL Cache
 backend/.cache/
+
+# Secrets – never commit!
+frontend/.env.local
+.env.local
+
+# Next.js
+frontend/.next/
