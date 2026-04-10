@@ -69,7 +69,11 @@ function CompareSlot({ mp, onRemove, label }: { mp: MP | null, onRemove: () => v
         <div className="relative group">
             <div className={`w-11 h-11 rounded-full border-2 transition-all flex items-center justify-center overflow-hidden ${mp ? 'border-blue-500 shadow-lg' : 'border-dashed border-gray-500/30 bg-gray-500/5'}`}>
                 {mp ? (
-                    <img src={mp.photoUrl} alt={mp.name} className="w-full h-full object-cover" />
+                    mp.photoUrl ? (
+                        <img src={mp.photoUrl} alt={mp.name} className="w-full h-full object-cover" />
+                    ) : (
+                        <User size={20} className="text-gray-500/50" />
+                    )
                 ) : (
                     <span className="text-gray-500 text-xs font-bold">{label}</span>
                 )}

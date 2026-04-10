@@ -31,7 +31,7 @@ class MPsTransformer(BaseTransformer):
                     "profession": mp.get('profession'),
                     "education": mp.get('education'),
                     "numberOfVotes": mp.get('numberOfVotes'),
-                    "voivodeship": mp.get('districtName'), // Sejm uses districtName as primary regional identifier
+                    "voivodeship": mp.get('districtName'), # Sejm uses districtName as primary regional identifier
                 })
             
             # Sort: active first, then alphabetically
@@ -43,6 +43,26 @@ class MPsTransformer(BaseTransformer):
             
         except Exception as e:
             raise TransformError(f"Error transforming MPs data: {e}") from e
+
+    def validate(self, data: list[dict]) -> list[str]:
+        warnings = []
+        if not data: return warnings
+
+        # Check for missing photos
+        missing_photos = [m['name'] for m in data if not m.get('photoUrl')]
+        if missing_photos:
+            pct = (len(missing_photos) / len(data)) * 100
+            if pct > 5: # Threshold for warning
+                warnings.append(f"CRITICAL: {len(missing_photos)} MPs ({pct:.1f}%) are missing photoUrl!")
+            else:
+                warnings.append(f"Minor: {len(missing_photos)} MPs ({pct:.1f}%) missing photoUrl.")
+
+        # Check for missing emails (active members only)
+        active_missing_email = [m['name'] for m in data if m.get('active') and not m.get('email')]
+        if active_missing_email:
+            warnings.append(f"Info: {len(active_missing_email)} active MPs are missing email addresses.")
+
+        return warnings
 
 class SenatorsTransformer(BaseTransformer):
     """Transforms raw scraped Senat HTML/JSON into unified ParliamentMember structures."""

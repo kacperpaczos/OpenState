@@ -35,6 +35,11 @@ class ETLJob:
             logger.info("  [2/3] Transforming data...")
             clean_data = self.transformer.transform(raw_data)
 
+            # 2.5 Validate
+            warnings = self.transformer.validate(clean_data)
+            for warn in warnings:
+                logger.warning(f"  ⚠️  [Quality Check] {warn}")
+
             # 3. Load
             logger.info("  [3/3] Loading data...")
             self.loader.load(clean_data)

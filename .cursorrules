@@ -8,17 +8,17 @@
 - **TypeScript**: 5.9.3 strict mode
 - **Styling**: TailwindCSS 3.4.1 with GovApple design tokens
 - **Backend**: Python 3.x scripts (no Node.js backend)
-- **Data**: File-based JSON in `frontend/public/data/`
+- **Data**: PostgreSQL database with Drizzle ORM (Legacy JSON files removed)
+12: - **DB Migrations**: Drizzle-kit for schema management
 
 ### Forbidden Patterns
 ❌ **DO NOT**:
 - Use Next.js Pages Router
-- Add database dependencies (PostgreSQL, MongoDB, etc.) without explicit approval
-- Install state management libraries (Redux, Zustand) - use React built-ins
-- Create API routes that write to files (read-only JSON serving only)
+- Use state management libraries (Redux, Zustand) - use React built-ins
+- Hardcode database connection strings (use `.env`)
 - Disable TypeScript strict mode
 - Use inline styles (use Tailwind utilities)
-- Hardcode data (must come from JSON files)
+- Hardcode data (must come from database)
 - Create new Python web frameworks (Flask, FastAPI) - keep scripts only
 
 ---
@@ -112,59 +112,43 @@ export default function BadComponent() { /* ... */ }
 
 ## Data Flow Rules
 
-### JSON File Locations
-```
-frontend/public/data/
-├── processes.json          # Primary source of bills (696 entries)
-├── bills.json              # Legacy - DO NOT USE (duplicate of processes.json)
-├── mps.json                # 460 MPs
-├── senators.json           # 100 Senators
-├── votings/
-│   ├── sittings.json       # Index of 49 sittings
-│   └── {sitting}/
-│       ├── index.json      # Voting summary
-│       └── {voting}.json   # Individual vote details
-├── rcl/
-│   └── projects.json       # RCL government projects
-└── isap/
-    └── acts_2024.json      # Published acts
+### Database Schema (Drizzle)
+```typescript
+// frontend/src/db/schema.ts
+// Primary tables:
+// - mps (460 MPs)
+// - senators (100 Senators)
+// - bills (Legislative projects)
+// - votings (Sittings and individual votes)
+// - sync_logs (Synchronization history)
 ```
 
-### Data Fetching Pattern
+### Data Fetching Pattern (Drizzle)
 ```typescript
-// ✅ CORRECT: Async function in lib/, called from Server Component
-// lib/processes.ts
-export async function getProcesses(): Promise<LegislativeProcess[]> {
-  const filePath = path.join(process.cwd(), 'public/data/processes.json');
-  const data = fs.readFileSync(filePath, 'utf-8');
-  return JSON.parse(data);
+// ✅ CORRECT: Use Drizzle queries in Server Components
+// lib/db/queries.ts
+import { db } from "@/db";
+import { bills } from "@/db/schema";
+
+export async function getBills() {
+  return await db.select().from(bills);
 }
 
 // app/ustawy/page.tsx
 export default async function BillsPage() {
-  const processes = await getProcesses();  // Server-side only
-  return <BillsList processes={processes} />;
-}
-
-// ❌ WRONG: Fetching in Client Component
-"use client";
-export default function BadComponent() {
-  const [data, setData] = useState([]);
-  useEffect(() => {
-    fetch('/data/processes.json').then(/* ... */);  // Inefficient
-  }, []);
+  const billsData = await getBills(); 
+  return <BillsList bills={billsData} />;
 }
 ```
 
-###Backend Data Refresh
+### Backend Synchronization
 ```bash
-# ✅ CORRECT: Manual execution of Python scripts
+# ✅ CORRECT: Execution of Python sync scripts
 cd backend
-python3 fetch_bills.py      # Updates processes.json
-python3 fetch_mps.py         # Updates mps.json
+python3 sync.py      # Synchronizes all sources with PostgreSQL
 
-# ❌ WRONG: Automated cron jobs writing during runtime
-# (causes HMR refresh loops in development)
+# ❌ WRONG: Manual table modification without using sync script
+# (risks data inconsistency)
 ```
 
 ---
@@ -360,6 +344,7 @@ chore: Update dependencies
 4. Changing design system colors
 5. Adding user authentication
 6. Deploying to production
+7. Database schema changes (requiring migrations)
 
 ### Proceed without asking:
 1. Fixing bugs
@@ -373,21 +358,9 @@ chore: Update dependencies
 
 ## Common Pitfalls to Avoid
 
-### 1. Refresh Loop Hell
-**Problem**: Writing to `public/data/` during dev → HMR triggers
-**Solution**: Only Python scripts write data, frontend reads only
-
-### 2. Dark Mode Blindness
-**Problem**: Hardcoded `text-gray-300` unreadable in light mode
-**Solution**: Always use `dark:` variants
-
-### 3. Type Confusion
-**Problem**: `bills.json` vs `processes.json` (same data, different names)
-**Solution**: Use `processes.json` (canonical), ignore `bills.json`
-
-### 4. Stage Desynchronization
-**Problem**: Backend adds new stage, frontend Kanban doesn't show it
-**Solution**: Update `determine_stage()` AND all Kanban views together
+### 4. Database Sync Delays
+**Problem**: Syncing 10k+ records takes time
+**Solution**: Use incremental syncing or specifically targeted fetch scripts
 
 ### 5. SSL Certificate Drama
 **Problem**: Sejm API certificate issues
@@ -440,10 +413,10 @@ If you break the build:
 4. Finally fix styling issues
 
 If data won't load:
-1. Verify JSON file exists in `public/data/`
-2. Check file permissions
-3. Run `python3 backend/fetch_bills.py` to refresh
-4. Check browser network tab for 404s
+1. Verify database connection (check DATABASE_URL)
+2. Check sync_logs for errors
+3. Run `python3 backend/sync.py` to refresh
+4. Check Drizzle Studio for table contents
 
 If refresh loop occurs:
 1. Check for `useEffect` without cleanup

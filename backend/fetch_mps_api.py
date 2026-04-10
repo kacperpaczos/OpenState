@@ -21,11 +21,21 @@ def fetch_and_sync_mps():
         
         print(f"📦  Received {len(mps_data)} MP records.")
         
+        # Transform data (to get photoUrl and other derived fields)
+        from transform.politicians import MPsTransformer
+        transformer = MPsTransformer()
+        clean_data = transformer.transform(mps_data)
+        
+        # Validate quality
+        warnings = transformer.validate(clean_data)
+        for warn in warnings:
+            print(f"  ⚠️  [Quality Check] {warn}")
+        
         db = DbManager()
-        db.upsert_deputies(mps_data, "Poseł")
+        db.upsert_deputies(clean_data, "Poseł")
         
         print("\n" + "=" * 60)
-        print(f"✅  Sync COMPLETED. Database updated with {len(mps_data)} MPs.")
+        print(f"✅  Sync COMPLETED. Database updated with {len(clean_data)} MPs.")
         print("=" * 60)
         
     except Exception as e:

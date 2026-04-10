@@ -10,6 +10,13 @@ class BaseTransformer:
     def transform(self, raw_data: Any) -> Any:
         raise NotImplementedError("Subclasses must implement transform()")
         
+    def validate(self, data: Any) -> list[str]:
+        """
+        Performs quality checks on transformed data.
+        Returns a list of warning messages. Should be overridden by subclasses.
+        """
+        return []
+
     def _validate_list(self, raw_data: Any, expected_min_length: int = 1) -> None:
         if not isinstance(raw_data, list):
             raise TransformError(f"Expected a list of records, got {type(raw_data).__name__}")

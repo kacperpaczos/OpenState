@@ -3,7 +3,7 @@ import json
 from pathlib import Path
 
 def rebuild_index():
-    # Paths relative to workspace root (assuming running from /Users/szymonpaczos/OpenOurGov)
+    # Paths relative to workspace root (assuming running from /Users/szymonpaczos/OpenState)
     base_dir = Path("frontend/public/data/votings")
     output_file = base_dir / "sittings.json"
     

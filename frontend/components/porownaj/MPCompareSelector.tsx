@@ -172,7 +172,13 @@ export default function MPCompareSelector({ mps, prefilledA, prefilledB }: MPCom
                         <div className={`w-12 h-12 md:w-16 md:h-16 rounded-2xl overflow-hidden border-2 transition-all ${mpA ? 'border-blue-500 shadow-lg shadow-blue-500/20' : 'border-dashed border-gray-400/30'}`}>
                             {mpA ? (
                                 <div className="relative w-full h-full group">
-                                    <img src={getSafePhotoUrl(mpA)!} className="w-full h-full object-cover" alt="" />
+                                    {mpA.photoUrl ? (
+                                        <img src={getSafePhotoUrl(mpA)!} className="w-full h-full object-cover" alt="" />
+                                    ) : (
+                                        <div className="w-full h-full flex items-center justify-center bg-gray-100/10">
+                                            <User size={24} className="text-gray-400" />
+                                        </div>
+                                    )}
                                     <button onClick={() => setMPA(null)} className="absolute inset-0 bg-red-500/80 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity text-white">
                                         <X size={20} />
                                     </button>
@@ -188,7 +194,13 @@ export default function MPCompareSelector({ mps, prefilledA, prefilledB }: MPCom
                         <div className={`w-12 h-12 md:w-16 md:h-16 rounded-2xl overflow-hidden border-2 transition-all ${mpB ? 'border-blue-500 shadow-lg shadow-blue-500/20' : 'border-dashed border-gray-400/30'}`}>
                             {mpB ? (
                                 <div className="relative w-full h-full group">
-                                    <img src={getSafePhotoUrl(mpB)!} className="w-full h-full object-cover" alt="" />
+                                    {mpB.photoUrl ? (
+                                        <img src={getSafePhotoUrl(mpB)!} className="w-full h-full object-cover" alt="" />
+                                    ) : (
+                                        <div className="w-full h-full flex items-center justify-center bg-gray-100/10">
+                                            <User size={24} className="text-gray-400" />
+                                        </div>
+                                    )}
                                     <button onClick={() => setMPB(null)} className="absolute inset-0 bg-red-500/80 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity text-white">
                                         <X size={20} />
                                     </button>
