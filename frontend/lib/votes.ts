@@ -1,7 +1,6 @@
-import fs from "fs";
-import path from "path";
-
-const VOTINGS_DIR = path.join(process.cwd(), 'public/data/votings');
+import { db } from "@/src/db";
+import { voteRecords, votings } from "@/src/db/schema";
+import { eq, desc } from "drizzle-orm";
 
 export interface VoteRecord {
     sitting: number;
@@ -13,42 +12,48 @@ export interface VoteRecord {
     vote: string; // "YES", "NO", "ABSTAIN", "ABSENT"
 }
 
-// Optimized loader: Reads all JSONs in the dir (or specific ones) and filters for MP
-// In production, this should be a database or indexed file. For now, reading 20 files is fast enough.
-export async function getVotesForMP(mpId: number): Promise<VoteRecord[]> {
+/**
+ * Shared logic to fetch votes for any deputy (MP or Senator) from the database
+ */
+async function fetchVotesFromDb(deputyId: number): Promise<VoteRecord[]> {
     try {
-        // Use optimized aggregated file
-        const mpFile = path.join(process.cwd(), 'public/data/votes_by_mp', `${mpId}.json`);
+        const results = await db
+            .select({
+                vote: voteRecords.vote,
+                sitting: votings.sittingNumber,
+                votingNumber: votings.votingNumber,
+                date: votings.date,
+                title: votings.title,
+                topic: votings.topic,
+                kind: votings.kind,
+            })
+            .from(voteRecords)
+            .innerJoin(votings, eq(voteRecords.votingId, votings.id))
+            .where(eq(voteRecords.deputyId, deputyId))
+            .orderBy(desc(votings.date), desc(votings.votingNumber));
 
-        if (fs.existsSync(mpFile)) {
-            const content = fs.readFileSync(mpFile, 'utf-8');
-            const votes = JSON.parse(content);
-            return votes;
-        }
-
-        return [];
+        return results.map(r => ({
+            sitting: r.sitting || 0,
+            votingNumber: r.votingNumber || 0,
+            date: r.date ? new Date(r.date).toLocaleDateString('pl-PL') : "—",
+            title: r.title || "",
+            topic: r.topic || "",
+            kind: r.kind || "ELECTRONIC",
+            vote: r.vote || "ABSENT",
+        }));
 
     } catch (e) {
-        console.error("Error loading votes for MP", e);
+        console.error(`Database error fetching votes for deputy ${deputyId}:`, e);
         return [];
     }
 }
 
-// Optimized loader for Senators
+export async function getVotesForMP(mpId: number): Promise<VoteRecord[]> {
+    return fetchVotesFromDb(mpId);
+}
+
 export async function getVotesForSenator(senatorId: string): Promise<VoteRecord[]> {
-    try {
-        const senatorFile = path.join(process.cwd(), 'public/data/votes_by_senator', `${senatorId}.json`);
-
-        if (fs.existsSync(senatorFile)) {
-            const content = fs.readFileSync(senatorFile, 'utf-8');
-            const votes = JSON.parse(content);
-            return votes;
-        }
-
-        return [];
-
-    } catch (e) {
-        console.error("Error loading votes for Senator", e);
-        return [];
-    }
+    const numericId = parseInt(senatorId);
+    if (isNaN(numericId)) return [];
+    return fetchVotesFromDb(numericId);
 }
