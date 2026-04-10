@@ -1,11 +1,13 @@
-import fs from "fs";
-import path from "path";
+import { db } from "@/src/db";
+import { deputies, type Deputy } from "@/src/db/schema";
+import { eq } from "drizzle-orm";
 
 export interface MP {
     id: string;
     name: string;
     firstLastName: string;
     club: string;
+    party?: string;
     district: string;
     email: string;
     active: boolean;
@@ -22,46 +24,66 @@ export interface MP {
     rebelLevel?: number;
 }
 
+/**
+ * Helper to map DB deputy record to MP interface
+ */
+function mapDeputyToMP(d: Deputy): MP {
+    return {
+        id: d.id.toString(),
+        name: d.name,
+        firstLastName: d.name,
+        club: d.club || "",
+        party: d.party || "",
+        district: d.district || "",
+        email: d.email || "",
+        active: d.active ?? true,
+        photoUrl: d.photoUrl || "",
+        chamber: d.type === "Senator" ? "Senat" : "Sejm",
+    };
+}
+
 export async function getMPs(): Promise<MP[]> {
     try {
-        const filePath = path.join(process.cwd(), 'public/data/mps.json');
-        if (fs.existsSync(filePath)) {
-            const fileContent = fs.readFileSync(filePath, 'utf-8');
-            return JSON.parse(fileContent).map((m: any) => ({
-                ...m,
-                chamber: 'Sejm' as const,
-                firstLastName: m.firstLastName || m.name
-            }));
-        }
+        const dbMps = await db.select().from(deputies).where(eq(deputies.type, "Poseł"));
+        return dbMps.map(mapDeputyToMP);
     } catch (e) {
-        console.warn("MPs data not found", e);
+        console.error("Database error fetching MPs:", e);
+        throw e; // Propagate error for UI handling
     }
-    return [];
 }
 
 export async function getSenators(): Promise<MP[]> {
     try {
-        const filePath = path.join(process.cwd(), 'public/data/senators.json');
-        if (fs.existsSync(filePath)) {
-            const fileContent = fs.readFileSync(filePath, 'utf-8');
-            return JSON.parse(fileContent).map((s: any) => ({
-                ...s,
-                chamber: 'Senat' as const,
-                firstLastName: s.name
-            }));
-        }
+        const dbSenators = await db.select().from(deputies).where(eq(deputies.type, "Senator"));
+        return dbSenators.map(mapDeputyToMP);
     } catch (e) {
-        console.warn("Senators data not found", e);
+        console.error("Database error fetching Senators:", e);
+        throw e;
     }
-    return [];
 }
 
 export async function getParliamentMembers(): Promise<MP[]> {
-    const [mps, senators] = await Promise.all([getMPs(), getSenators()]);
-    return [...mps, ...senators];
+    try {
+        const allMembers = await db.select().from(deputies);
+        return allMembers.map(mapDeputyToMP);
+    } catch (e) {
+        console.error("Database error fetching all members:", e);
+        throw e;
+    }
 }
 
 export async function getMP(id: string): Promise<MP | undefined> {
-    const members = await getParliamentMembers();
-    return members.find(m => m.id === id);
+    try {
+        const numericId = parseInt(id);
+        if (!isNaN(numericId)) {
+            const member = await db.select().from(deputies).where(eq(deputies.id, numericId)).limit(1);
+            if (member.length > 0) {
+                return mapDeputyToMP(member[0]);
+            }
+        }
+        return undefined;
+    } catch (e) {
+        console.error(`Database error fetching MP ${id}:`, e);
+        throw e;
+    }
 }

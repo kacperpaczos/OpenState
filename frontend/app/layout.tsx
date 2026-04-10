@@ -3,6 +3,7 @@ import { Inter } from "next/font/google";
 import "./globals.css";
 import Navbar from "@/components/navigation/Navbar";
 import { CompareProvider } from "@/lib/contexts/CompareContext";
+import { DatabaseStatusWrapper } from "@/components/DatabaseStatusWrapper";
 
 const inter = Inter({ subsets: ["latin"], variable: "--font-inter" });
 
@@ -27,6 +28,9 @@ export default function RootLayout({
             <Navbar />
           </Suspense>
           <main className="pt-20 px-6">
+            <Suspense fallback={null}>
+              <DatabaseStatusWrapper />
+            </Suspense>
             {children}
           </main>
         </CompareProvider>

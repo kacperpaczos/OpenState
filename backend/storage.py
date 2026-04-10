@@ -1,32 +1,55 @@
-import json
 import os
+from .db_manager import DbManager
 
-# Base directory for data storage
-DATA_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "../frontend/public/data")
+# Initialize DB Manager for direct database storage
+db_manager = DbManager()
 
 class Storage:
     @staticmethod
     def save_json(filename, data):
         """
-        Save data to a JSON file in the public/data directory.
-        Safe for basic usage, handles path joining and encoding.
+        Routing method that sends data directly to PostgreSQL.
+        Maintains the signature for backward compatibility with existing scripts.
         """
-        filepath = os.path.join(DATA_DIR, filename)
+        print(f"[Storage] Intercepted save for {filename}. Routing to PostgreSQL...")
         
-        # Ensure directory exists if filename contains subdirs
-        os.makedirs(os.path.dirname(filepath), exist_ok=True)
-        
-        with open(filepath, 'w', encoding='utf-8') as f:
-            json.dump(data, f, indent=4, ensure_ascii=False)
-        
-        print(f"[Storage] Saved {len(data) if isinstance(data, list) else 'data'} to {filename}")
+        try:
+            Storage._sync_to_db(filename, data)
+            print(f"  ✅  Data successfully saved to Database.")
+        except Exception as e:
+            print(f"  ❌  Database save failed for {filename}: {e}")
+            # We don't save to JSON anymore as a fallback by user request
+
+    @staticmethod
+    def _sync_to_db(filename, data):
+        """Internal helper to route data to the correct DB upsert method."""
+        if filename == "mps.json":
+            db_manager.upsert_deputies(data, "Poseł")
+        elif filename == "senators.json":
+            db_manager.upsert_deputies(data, "Senator")
+        elif filename == "bills.json":
+            # Bulk upsert of summaries
+            for bill in data:
+                db_manager.upsert_bill(bill["id"], bill)
+        elif "bills/" in filename and filename.endswith(".json"):
+            # Detailed bill upsert
+            bill_id = os.path.basename(filename).replace(".json", "")
+            db_manager.upsert_bill(bill_id, {}, data)
+        elif "votings/" in filename and filename.endswith(".json") and "/" in filename:
+            # Detailed voting upsert (votings/{sitting}/{voting}.json)
+            parts = filename.split("/")
+            if len(parts) >= 3 and parts[-1] != "index.json":
+                try:
+                    sitting_num = int(parts[-2])
+                    db_manager.upsert_voting(sitting_num, data)
+                except ValueError:
+                    pass
 
     @staticmethod
     def load_json(filename):
-        """Load data from a JSON file."""
-        filepath = os.path.join(DATA_DIR, filename)
-        if not os.path.exists(filepath):
-            return None
-            
-        with open(filepath, 'r', encoding='utf-8') as f:
-            return json.load(f)
+        """
+        Legacy method. Since we are DB-only, loading from local JSON is deprecated.
+        Will return None to signal that it should be fetched from DB instead.
+        """
+        print(f"[Storage] Warning: load_json called for {filename}. This project is now DB-only.")
+        return None

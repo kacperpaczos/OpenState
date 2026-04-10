@@ -1,3 +1,6 @@
+import { loadEnvConfig } from '@next/env'
+loadEnvConfig(__dirname)
+
 import '@testing-library/jest-dom';
 
 // Mock matchMedia globally for Jest
@@ -28,3 +31,13 @@ console.error = (...args) => {
   }
   originalError.apply(console, args);
 };
+
+// Polyfill for postgres.js driver in Jest environment
+if (typeof global.setImmediate === 'undefined') {
+  // @ts-ignore
+  global.setImmediate = (callback, ...args) => setTimeout(callback, 0, ...args);
+}
+if (typeof global.clearImmediate === 'undefined') {
+  // @ts-ignore
+  global.clearImmediate = (id) => clearTimeout(id);
+}

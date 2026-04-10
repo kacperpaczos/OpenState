@@ -1,8 +1,7 @@
-import { getBills } from "./bills";
+import { db } from "@/src/db";
+import { bills, sittings, deputies } from "@/src/db/schema";
+import { count, eq, sql, desc } from "drizzle-orm";
 import { KANBAN_STAGES } from "./constants";
-import { getSittings } from "./votings";
-import { getMPs } from "./mps";
-import { getSenators } from "./senators";
 
 export interface ProcessStats {
     total: number;
@@ -28,49 +27,71 @@ export interface ParliamentStats {
 }
 
 export async function getProcessStats(): Promise<ProcessStats> {
-    const processes = await getBills();
+    try {
+        const completedStages = [KANBAN_STAGES.PUBLIKACJA, KANBAN_STAGES.WEJSCIE_W_ZYCIE] as string[];
+        
+        const [totalRes, completedRes, stagesRes] = await Promise.all([
+            db.select({ value: count() }).from(bills),
+            db.select({ value: count() }).from(bills).where(sql`${bills.kanbanStage} IN ${completedStages}`),
+            db.select({ 
+                stage: bills.kanbanStage, 
+                value: count() 
+            }).from(bills).groupBy(bills.kanbanStage)
+        ]);
 
-    // Group by Kanban stage
-    const byStage: { [key: string]: number } = {};
-    processes.forEach(p => {
-        const stage = p.kanbanStage || "Unknown";
-        byStage[stage] = (byStage[stage] || 0) + 1;
-    });
+        const total = totalRes[0].value;
+        const completed = completedRes[0].value;
+        const byStage: { [key: string]: number } = {};
+        
+        stagesRes.forEach((r: { stage: string | null; value: number }) => {
+            if (r.stage) byStage[r.stage] = r.value;
+        });
 
-    // Count in-progress (not completed)
-    const completedStages = [KANBAN_STAGES.PUBLIKACJA, KANBAN_STAGES.WEJSCIE_W_ZYCIE] as string[];
-    const inProgress = processes.filter(p =>
-        !completedStages.includes(p.kanbanStage || "")
-    ).length;
-
-    const completed = processes.filter(p =>
-        completedStages.includes(p.kanbanStage || "")
-    ).length;
-
-    return {
-        total: processes.length,
-        inProgress,
-        completed,
-        byStage
-    };
+        return {
+            total,
+            inProgress: total - completed,
+            completed,
+            byStage
+        };
+    } catch (e) {
+        console.error("Database error calculating process stats:", e);
+        throw e;
+    }
 }
 
 export async function getVotingStats(): Promise<VotingStats> {
-    const sittings = await getSittings();
+    try {
+        const totalRes = await db.select({ value: count() }).from(sittings);
+        const latest = await db.select().from(sittings).orderBy(desc(sittings.sittingNumber)).limit(1);
 
-    return {
-        totalSittings: sittings.length,
-        latestSitting: sittings.length > 0 ? sittings[sittings.length - 1] : undefined
-    };
+        return {
+            totalSittings: totalRes[0].value,
+            latestSitting: latest.length > 0 ? {
+                sitting: latest[0].sittingNumber,
+                date: latest[0].date?.toISOString() || ""
+            } : undefined
+        };
+    } catch (e) {
+        console.error("Database error calculating voting stats:", e);
+        throw e;
+    }
 }
 
 export async function getParliamentStats(): Promise<ParliamentStats> {
-    const mps = await getMPs();
-    const senators = await getSenators();
+    try {
+        const mpsRes = await db.select({ value: count() }).from(deputies).where(eq(deputies.type, "Poseł"));
+        const senatorsRes = await db.select({ value: count() }).from(deputies).where(eq(deputies.type, "Senator"));
 
-    return {
-        totalMPs: mps.length,
-        totalSenators: senators.length,
-        total: mps.length + senators.length
-    };
+        const mps = mpsRes[0].value;
+        const senators = senatorsRes[0].value;
+
+        return {
+            totalMPs: mps,
+            totalSenators: senators,
+            total: mps + senators
+        };
+    } catch (e) {
+        console.error("Database error calculating parliament stats:", e);
+        throw e;
+    }
 }
