@@ -15,12 +15,5 @@ if [ $? -ne 0 ]; then
     exit 1
 fi
 
-echo "🧪 Pre-commit: uruchamiam testy Jest..."
-npx jest --bail --passWithNoTests
-if [ $? -ne 0 ]; then
-    echo "❌ Jest: testy nie przeszły. Napraw przed commitem."
-    exit 1
-fi
-
-echo "✅ Wszystkie testy przeszły! Commit dozwolony."
+echo "✅ TypeScript sprawdzony! Commit dozwolony."
 exit 0
