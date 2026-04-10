@@ -1,7 +1,7 @@
 "use client";
 
 import { Bill } from "@/lib/bills";
-import { FileText, ArrowRight, Clock, Euro, ArrowUpDown, ExternalLink } from "lucide-react";
+import { FileText, ArrowRight, Clock, Euro, ArrowUpDown, ExternalLink, TrendingUp } from "lucide-react";
 import Link from "next/link";
 import { useState, useEffect, useMemo } from "react";
 
@@ -26,8 +26,18 @@ export default function BillsList({ initialProcesses }: { initialProcesses: Bill
     // Local filtering
     const filteredBills = useMemo(() => {
         return initialProcesses.filter(bill => {
-            // Type filter
-            if (typeFilter !== "all" && bill.documentType !== typeFilter) return false;
+            // Type filter - robust matching
+            if (typeFilter !== "all") {
+                const docType = (bill.documentType || "").toLowerCase();
+                const target = typeFilter.toLowerCase();
+                if (target === "ustawa") {
+                    if (!docType.includes("ustawy") && !docType.includes("ustawa")) return false;
+                } else if (target === "uchwała") {
+                    if (!docType.includes("uchwały") && !docType.includes("uchwała")) return false;
+                } else if (bill.documentType !== typeFilter) {
+                    return false;
+                }
+            }
             
             // EU filter
             if (isEUFilter !== null && bill.isEU !== isEUFilter) return false;
@@ -52,6 +62,12 @@ export default function BillsList({ initialProcesses }: { initialProcesses: Bill
             return true;
         });
     }, [initialProcesses, typeFilter, stageGroupFilter, isEUFilter, authorFilter]);
+
+    const hotBills = useMemo(() => {
+        return [...initialProcesses]
+            .sort((a, b) => (b.date || "").localeCompare(a.date || ""))
+            .slice(0, 5);
+    }, [initialProcesses]);
 
     // Auto-hide header on scroll down
     useEffect(() => {
@@ -155,8 +171,8 @@ export default function BillsList({ initialProcesses }: { initialProcesses: Bill
                     <div className="flex flex-wrap gap-y-3 gap-x-6 items-center">
                         <div className="flex gap-1 overflow-x-auto scrollbar-hide">
                             <MiniFilterButton active={typeFilter === "all"} onClick={() => setTypeFilter("all")} label="Wszystkie" />
-                            <MiniFilterButton active={typeFilter === "Projekt ustawy"} onClick={() => setTypeFilter("Projekt ustawy")} label="Ustawy" />
-                            <MiniFilterButton active={typeFilter === "Projekt uchwały"} onClick={() => setTypeFilter("Projekt uchwały")} label="Uchwały" />
+                            <MiniFilterButton active={typeFilter === "ustawa"} onClick={() => setTypeFilter("ustawa")} label="Ustawy" />
+                            <MiniFilterButton active={typeFilter === "uchwała"} onClick={() => setTypeFilter("uchwała")} label="Uchwały" />
                         </div>
 
                         <div className="h-4 w-[1px] bg-apple-gray-200 dark:bg-white/10 hidden sm:block" />
@@ -178,6 +194,28 @@ export default function BillsList({ initialProcesses }: { initialProcesses: Bill
                     </div>
                 </div>
             </header>
+
+            {/* Hot 5 Section */}
+            {typeFilter === "all" && stageGroupFilter === "all" && !isEUFilter && authorFilter === "all" && (
+                <div className="mb-12">
+                    <div className="flex items-center gap-2 mb-4">
+                        <TrendingUp size={18} className="text-red-500" />
+                        <h2 className="text-sm font-black uppercase tracking-[0.2em] text-gray-500">Gorąca Piątka (Ostatnie Projekty)</h2>
+                    </div>
+                    <div className="grid grid-cols-1 md:grid-cols-5 gap-4">
+                        {hotBills.map(bill => (
+                            <Link key={bill.id} href={`/ustawy/${bill.id}`} className="glass-card !p-4 group hover:border-blue-500/50 transition-all">
+                                <span className="text-[10px] font-mono font-bold text-blue-500 mb-1 block">#{bill.printNo}</span>
+                                <h3 className="text-xs font-black line-clamp-2 leading-tight group-hover:text-blue-600 transition-colors">{bill.title}</h3>
+                                <div className="mt-2 flex items-center justify-between">
+                                    <span className="text-[8px] font-black uppercase text-gray-400">{bill.date}</span>
+                                    {bill.isEU && <Euro size={10} className="text-blue-500" />}
+                                </div>
+                            </Link>
+                        ))}
+                    </div>
+                </div>
+            )}
 
             {/* Content Display based on ViewMode */}
             <div className={`pb-20 ${viewMode !== 'cards' ? 'flex-1 overflow-auto custom-scrollbar' : ''}`}>

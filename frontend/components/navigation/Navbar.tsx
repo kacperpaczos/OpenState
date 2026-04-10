@@ -197,45 +197,6 @@ export default function Navbar() {
             ]
         },
         {
-            label: "Legislacja",
-            description: "Wczesny monitoring i procesy prawne rządu",
-            mainHref: "/ustawy",
-            icon: Gavel,
-            columns: [
-                {
-                    title: "Rządowy Proces (RCL)",
-                    items: [
-                        { href: "https://legislacja.gov.pl/", label: "Baza Projektów", description: "Projekty ustaw na etapie rządu", icon: Search, isExternal: true },
-                        { href: "https://www.gov.pl/web/premier/harmonogram-prac-rady-ministrow", label: "Harmonogram RM", description: "Planowane prace rządu", icon: Calendar, isExternal: true },
-                        { href: "https://legislacja.gov.pl/projekt/projekty-w-konsultacjach", label: "Puls Ministrów", description: "Ostatnio dodane projekty", icon: Activity, isExternal: true },
-                    ]
-                },
-                {
-                    title: "Konsultacje i Lobbing",
-                    items: [
-                        { href: "https://legislacja.gov.pl/projekt/projekty-w-konsultacjach", label: "Uwagi Obywatelskie", description: "Opinie organizacji i obywateli", icon: MessageSquare, isExternal: true },
-                        { href: "https://legislacja.gov.pl/", label: "Mapa Wpływów", description: "Uczestnicy procesu legislacyjnego", icon: Users, isExternal: true },
-                        { href: "/udip", label: "Wpłyń na prawo", description: "Jak zgłosić swoje uwagi?", icon: ArrowRight },
-                    ]
-                },
-                {
-                    title: "Analiza i Skutki (OSR)",
-                    items: [
-                        { href: "https://legislacja.gov.pl/", label: "Baza OSR", description: "Ocena skutków regulacji i koszty", icon: TrendingUp, isExternal: true },
-                        { href: "https://legislacja.gov.pl/", label: "Opinie Prawne", description: "Zgodność z prawem UE", icon: ShieldCheck, isExternal: true },
-                    ]
-                },
-                {
-                    title: "Prawo Obowiązujące",
-                    items: [
-                        { href: "https://dziennikustaw.gov.pl/", label: "Dziennik Ustaw", description: "Oficjalne ogłoszenia aktów", icon: BookOpen, isExternal: true },
-                        { href: "https://monitorpolski.gov.pl/", label: "Monitor Polski", description: "Zarządzenia i uchwały", icon: FileText, isExternal: true },
-                        { href: "https://isap.sejm.gov.pl/", label: "Baza ISAP", description: "Internetowy System Aktów Prawnych", icon: Search, isExternal: true },
-                    ]
-                }
-            ]
-        },
-        {
             label: "Analizy",
             description: "Zaawansowane zestawienia i modele danych",
             mainHref: "/glosowania",
@@ -294,16 +255,6 @@ export default function Navbar() {
 
                     {/* Desktop Navigation */}
                     <div className="hidden lg:flex items-center gap-4">
-                        <Link
-                            href="/"
-                            className={`px-3 py-1.5 rounded-full text-[13px] font-bold tracking-tight transition-all duration-200 ${
-                                pathname === "/" 
-                                ? "text-blue-600" 
-                                : "text-gray-500 hover:text-gray-900 dark:hover:text-white"
-                            }`}
-                        >
-                            Start
-                        </Link>
 
                         {navGroups.map((group) => (
                             <NavItemDropdown 
@@ -437,7 +388,9 @@ function NavItemDropdown({ group, pathname, router, activeMegaMenu, setActiveMeg
     activeMegaMenu: string | null,
     setActiveMegaMenu: (label: string | null) => void 
 }) {
-    const isGroupActive = group.items ? group.items.some(item => pathname === item.href) : group.columns?.some(col => col.items.some(item => pathname === item.href));
+    const isGroupActive = group.items 
+        ? group.items.some(item => pathname.startsWith(item.href)) 
+        : group.columns?.some(col => col.items.some(item => pathname.startsWith(item.href) && item.href !== "/"));
     const isOpen = activeMegaMenu === group.label;
     const hoverTimerRef = useRef<NodeJS.Timeout | null>(null);
 

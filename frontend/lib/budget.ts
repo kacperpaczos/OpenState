@@ -34,6 +34,19 @@ export const BUDGET_DATA: BudgetYear[] = [
         ]
     },
     {
+        year: 2023,
+        revenue: 601.1,
+        expenditure: 693.4,
+        deficit: 92.3,
+        gdpRatio: 4.5,
+        categories: [
+            { id: "soc", label: "Zabezpieczenie Społeczne", amount: 145.2, color: "#f87171", description: "Programy socjalne." },
+            { id: "def", label: "Obrona Narodowa", amount: 97.4, color: "#4ade80", description: "Wydatki na obronność." },
+            { id: "edu", label: "Edukacja", amount: 80.1, color: "#60a5fa", description: "Oświata i nauka." },
+            { id: "oth", label: "Pozostałe", amount: 370.7, color: "#e2e8f0", description: "Pozostała działalność." }
+        ]
+    },
+    {
         year: 2020,
         revenue: 403.5,
         expenditure: 504.8,

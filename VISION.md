@@ -44,9 +44,9 @@ Niniejszy dokument stanowi skonsolidowaną wizję projektu **OpenState**, defini
 | 🔄 | **Metro Map (Law 2.0)** | Nieliniowa oś czasu: połączenie etapu rządu, Sejmu, Senatu i Prezydenta. |
 | 🔄 | **Visual Diff Engine** | Mechanizm Side-by-Side pokazujący realne zmiany w tekście jednolitym. |
 | 📅 | **OpenState Multimedia** | Odtwarzacz wideo zintegrowany ze stenogramami (przeskok do konkretnego przemówienia). |
+| 📅 | **Puls Państwa (Start WOW)** | Nowa strona główna: interaktywny dashboard z najważniejszymi ustawami i szybkim przeglądem budżetu. |
+| 📅 | **Głosowanie Społeczności** | „Jak Ty byś zagłosował?” – zestawienie woli ludu z decyzją parlamentu (Puls Państwa). |
 | 📅 | **Native Previews** | Własny podgląd dokumentów (PDF/Text) bez wychodzenia z aplikacji. |
-| 📅 | **Tryb Porównywania** | Zaawansowane narzędzie do zestawiania aktywności dwóch polityków. |
-| 📅 | **Głosowanie Społeczności** | „Jak Ty byś zagłosował?” – zestawienie woli ludu z decyzją parlamentu. |
 
 ### 🧠 AI i Analiza (Inteligencja)
 | Status | Zadanie | Opis |

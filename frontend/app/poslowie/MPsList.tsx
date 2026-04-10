@@ -55,15 +55,24 @@ export default function MPsList({ initialMPs }: { initialMPs: MP[] }) {
         // active-only filter
         if (activeOnly) result = result.filter(mp => mp.active !== false);
         // sort
-        if (sortActive) result = [...result].sort((a, b) => (b.active !== false ? 1 : 0) - (a.active !== false ? 1 : 0));
+        if (sortActive) {
+            result = [...result].sort((a, b) => {
+                const aActive = a.active !== false;
+                const bActive = b.active !== false;
+                if (aActive === bActive) return a.name.localeCompare(b.name);
+                return bActive ? 1 : -1;
+            });
+        } else {
+            result = [...result].sort((a, b) => a.name.localeCompare(b.name));
+        }
         return result;
     }, [mps, globalSearch, activeOnly, sortActive, selectedClub]);
 
-    const [visibleCount, setVisibleCount] = useState(100);
+    const [visibleCount, setVisibleCount] = useState(460);
 
     // Reset pagination when any filter changes
     useEffect(() => {
-        setVisibleCount(100);
+        setVisibleCount(460);
     }, [globalSearch, selectedClub, activeOnly, sortActive]);
 
     return (
@@ -80,39 +89,50 @@ export default function MPsList({ initialMPs }: { initialMPs: MP[] }) {
                     <p className="text-text-secondary font-medium">Posłowie X kadencji Sejmu · {mps.length} osób</p>
                 </div>
                 {/* Controls */}
-                <div className="flex flex-wrap items-center gap-2">
-                    <select
-                        value={selectedClub}
-                        onChange={(e) => setSelectedClub(e.target.value)}
-                        className="bg-surface-color text-text-secondary border-surface-border text-xs font-semibold rounded-full px-3 py-1.5 focus:outline-none focus:ring-1 focus:ring-accent-blue border cursor-pointer hover:border-accent-blue/30 transition-colors"
-                    >
-                        <option value="">Wszystkie kluby</option>
-                        {clubs.map(club => (
-                            <option key={club} value={club}>{club}</option>
-                        ))}
-                    </select>
-                    <button
-                        onClick={() => setActiveOnly(v => !v)}
-                        data-testid="active-only-toggle"
-                        className={`flex items-center gap-1.5 px-3 py-1.5 rounded-full text-xs font-semibold border transition-colors ${activeOnly
-                            ? 'bg-green-500/15 text-green-500 border-green-500/30'
-                            : 'bg-surface-color text-text-secondary border-surface-border hover:border-green-500/30'
-                            }`}
-                    >
-                        <span className={`w-2 h-2 rounded-full ${activeOnly ? 'bg-green-500' : 'bg-gray-400'}`} />
-                        Tylko aktywni
-                    </button>
-                    <button
-                        onClick={() => setSortActive(v => !v)}
-                        className={`flex items-center gap-1.5 px-3 py-1.5 rounded-full text-xs font-semibold border transition-colors ${sortActive
-                            ? 'bg-accent-blue/10 text-accent-blue border-accent-blue/30'
-                            : 'bg-surface-color text-text-secondary border-surface-border hover:border-accent-blue/30'
-                            }`}
-                    >
-                        <SortAsc size={12} />
-                        {sortActive ? 'Aktywni pierwsi' : 'Alfabetycznie'}
-                    </button>
-                </div>
+                    <div className="flex flex-col gap-2 w-full mt-4">
+                        <p className="text-[10px] font-black uppercase tracking-[0.2em] text-text-secondary ml-1">Kluby i Koła</p>
+                        <div className="flex flex-wrap gap-2 max-h-40 overflow-y-auto pr-2 custom-scrollbar p-1">
+                            <button
+                                onClick={() => setSelectedClub("")}
+                                className={`px-4 py-2 rounded-xl text-xs font-black transition-all border ${selectedClub === "" ? 'bg-blue-600 border-blue-600 text-white shadow-xl' : 'bg-surface-color text-text-secondary border-surface-border hover:border-blue-500/30'}`}
+                            >
+                                Wszystkie
+                            </button>
+                            {clubs.map(club => (
+                                <button
+                                    key={club}
+                                    onClick={() => setSelectedClub(club)}
+                                    className={`px-4 py-2 rounded-xl text-xs font-black transition-all border ${selectedClub === club ? 'bg-blue-600 border-blue-600 text-white shadow-xl' : 'bg-surface-color text-text-secondary border-surface-border hover:border-blue-500/30'}`}
+                                >
+                                    {club}
+                                </button>
+                            ))}
+                        </div>
+                    </div>
+
+                    <div className="flex items-center gap-2 mt-4">
+                        <button
+                            onClick={() => setActiveOnly(v => !v)}
+                            data-testid="active-only-toggle"
+                            className={`flex items-center gap-1.5 px-4 py-2 rounded-xl text-xs font-black border transition-all ${activeOnly
+                                ? 'bg-green-500/15 text-green-500 border-green-500/30 shadow-sm'
+                                : 'bg-surface-color text-text-secondary border-surface-border hover:border-green-500/30'
+                                }`}
+                        >
+                            <span className={`w-2 h-2 rounded-full ${activeOnly ? 'bg-green-500 animate-pulse' : 'bg-gray-400'}`} />
+                            Tylko aktywni
+                        </button>
+                        <button
+                            onClick={() => setSortActive(v => !v)}
+                            className={`flex items-center gap-1.5 px-4 py-2 rounded-xl text-xs font-black border transition-all ${sortActive
+                                ? 'bg-blue-600/10 text-blue-600 border-blue-600/30 shadow-sm'
+                                : 'bg-surface-color text-text-secondary border-surface-border hover:border-blue-500/30'
+                                }`}
+                        >
+                            <SortAsc size={14} />
+                            {sortActive ? 'Aktywni pierwsi' : 'Alfabetycznie'}
+                        </button>
+                    </div>
             </header>
 
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4 pb-20">

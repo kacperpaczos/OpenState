@@ -165,70 +165,96 @@ export default function MPCompareSelector({ mps, prefilledA, prefilledB }: MPCom
 
             {/* FLOATING COMPARISON TRAY */}
             <div className={`fixed bottom-8 left-1/2 -translate-x-1/2 z-50 transition-all duration-500 transform ${mpA || mpB ? 'translate-y-0 opacity-100' : 'translate-y-20 opacity-0 pointer-events-none'}`}>
-                <div className="glass-card-heavy flex items-center gap-4 p-3 md:p-4 shadow-2xl border-2 border-blue-500/20">
+                <div className="glass-card-heavy flex items-center gap-6 p-4 md:p-6 shadow-2xl border-2 border-blue-500/30 backdrop-blur-3xl">
                     
-                    <div className="flex items-center gap-2">
+                    <div className="flex items-center gap-4">
                         {/* Member A */}
-                        <div className={`w-12 h-12 md:w-16 md:h-16 rounded-2xl overflow-hidden border-2 transition-all ${mpA ? 'border-blue-500 shadow-lg shadow-blue-500/20' : 'border-dashed border-gray-400/30'}`}>
-                            {mpA ? (
-                                <div className="relative w-full h-full group">
-                                    {mpA.photoUrl ? (
-                                        <img src={getSafePhotoUrl(mpA)!} className="w-full h-full object-cover" alt="" />
-                                    ) : (
-                                        <div className="w-full h-full flex items-center justify-center bg-gray-100/10">
-                                            <User size={24} className="text-gray-400" />
-                                        </div>
-                                    )}
-                                    <button onClick={() => setMPA(null)} className="absolute inset-0 bg-red-500/80 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity text-white">
-                                        <X size={20} />
-                                    </button>
-                                </div>
-                            ) : (
-                                <div className="w-full h-full flex items-center justify-center text-gray-400 bg-gray-100/10">1</div>
+                        <div className="relative group">
+                            <div className={`w-14 h-14 md:w-20 md:h-20 rounded-2xl overflow-hidden border-2 transition-all ${mpA ? 'border-blue-500 shadow-xl shadow-blue-500/20 scale-110' : 'border-dashed border-gray-400/30'}`}>
+                                {mpA ? (
+                                    <div className="relative w-full h-full">
+                                        {mpA.photoUrl ? (
+                                            <img src={getSafePhotoUrl(mpA)!} className="w-full h-full object-cover" alt="" />
+                                        ) : (
+                                            <div className="w-full h-full flex items-center justify-center bg-gray-100/10">
+                                                <User size={32} className="text-gray-400" />
+                                            </div>
+                                        )}
+                                    </div>
+                                ) : (
+                                    <div className="w-full h-full flex items-center justify-center text-gray-400 bg-gray-100/10 font-black">?</div>
+                                )}
+                            </div>
+                            {mpA && (
+                                <button 
+                                    onClick={() => setMPA(null)} 
+                                    className="absolute -top-2 -right-2 bg-red-500 hover:bg-red-600 text-white rounded-full p-1.5 shadow-lg transition-transform hover:scale-110 z-10"
+                                    title="Usuń"
+                                >
+                                    <X size={14} strokeWidth={3} />
+                                </button>
                             )}
                         </div>
 
-                        <ArrowRightLeft className="text-gray-400 mx-1 md:mx-2 shrink-0" size={20} />
+                        <div className="flex flex-col items-center gap-1">
+                            <ArrowRightLeft className={`${canCompare ? 'text-blue-500 animate-pulse' : 'text-gray-300'} mx-1`} size={24} />
+                            {canCompare && (
+                                <div className="flex flex-col items-center">
+                                    <span className="text-[10px] font-black text-blue-500 uppercase tracking-tighter">Zgodność</span>
+                                    <span className="text-sm font-black text-blue-600">--%</span>
+                                </div>
+                            )}
+                        </div>
 
                         {/* Member B */}
-                        <div className={`w-12 h-12 md:w-16 md:h-16 rounded-2xl overflow-hidden border-2 transition-all ${mpB ? 'border-blue-500 shadow-lg shadow-blue-500/20' : 'border-dashed border-gray-400/30'}`}>
-                            {mpB ? (
-                                <div className="relative w-full h-full group">
-                                    {mpB.photoUrl ? (
-                                        <img src={getSafePhotoUrl(mpB)!} className="w-full h-full object-cover" alt="" />
-                                    ) : (
-                                        <div className="w-full h-full flex items-center justify-center bg-gray-100/10">
-                                            <User size={24} className="text-gray-400" />
-                                        </div>
-                                    )}
-                                    <button onClick={() => setMPB(null)} className="absolute inset-0 bg-red-500/80 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity text-white">
-                                        <X size={20} />
-                                    </button>
-                                </div>
-                            ) : (
-                                <div className="w-full h-full flex items-center justify-center text-gray-400 bg-gray-100/10">2</div>
+                        <div className="relative group">
+                            <div className={`w-14 h-14 md:w-20 md:h-20 rounded-2xl overflow-hidden border-2 transition-all ${mpB ? 'border-blue-500 shadow-xl shadow-blue-500/20 scale-110' : 'border-dashed border-gray-400/30'}`}>
+                                {mpB ? (
+                                    <div className="relative w-full h-full">
+                                        {mpB.photoUrl ? (
+                                            <img src={getSafePhotoUrl(mpB)!} className="w-full h-full object-cover" alt="" />
+                                        ) : (
+                                            <div className="w-full h-full flex items-center justify-center bg-gray-100/10">
+                                                <User size={32} className="text-gray-400" />
+                                            </div>
+                                        )}
+                                    </div>
+                                ) : (
+                                    <div className="w-full h-full flex items-center justify-center text-gray-400 bg-gray-100/10 font-black">?</div>
+                                )}
+                            </div>
+                            {mpB && (
+                                <button 
+                                    onClick={() => setMPB(null)} 
+                                    className="absolute -top-2 -right-2 bg-red-500 hover:bg-red-600 text-white rounded-full p-1.5 shadow-lg transition-transform hover:scale-110 z-10"
+                                    title="Usuń"
+                                >
+                                    <X size={14} strokeWidth={3} />
+                                </button>
                             )}
                         </div>
                     </div>
 
-                    <div className="h-10 w-px bg-surface-border mx-2 hidden md:block" />
+                    <div className="h-12 w-px bg-surface-border mx-2 hidden md:block" />
 
-                    <div className="flex flex-col gap-1 pr-2">
+                    <div className="flex flex-col gap-2 min-w-[140px]">
                         {canCompare ? (
                             <button 
                                 onClick={() => router.push(`/porownaj?a=${mpA.id}&b=${mpB.id}`)}
-                                className="bg-blue-600 hover:bg-blue-500 text-white px-6 py-3 rounded-xl font-bold flex items-center gap-2 shadow-lg shadow-blue-500/30 transition-all active:scale-95 whitespace-nowrap"
+                                className="bg-blue-600 hover:bg-blue-500 text-white px-8 py-4 rounded-2xl font-black text-sm flex items-center justify-center gap-3 shadow-2xl shadow-blue-500/40 transition-all active:scale-95 whitespace-nowrap group/btn"
                             >
-                                Porównaj <ArrowRightLeft size={16} />
+                                Porównaj <ArrowRightLeft size={18} className="group-hover/btn:rotate-180 transition-transform duration-500" />
                             </button>
                         ) : (
-                            <div className="hidden md:block text-xs font-bold text-gray-500 uppercase tracking-widest animate-pulse px-4">
-                                Wybierz {mpA ? 'drugą osobę' : 'pierwszą osobę'}
+                            <div className="text-center">
+                                <p className="text-[10px] font-black text-gray-400 uppercase tracking-widest leading-tight">
+                                    Wybierz {mpA ? 'drugą' : 'pierwszą'} <br/> osobę
+                                </p>
                             </div>
                         )}
                         {(mpA || mpB) && (
-                            <button onClick={clearCompare} className="text-[10px] text-gray-500 hover:text-red-500 transition-colors underline decoration-dotted text-center md:text-left">
-                                Wyczyść
+                            <button onClick={clearCompare} className="text-[10px] font-black text-gray-400 hover:text-red-500 transition-colors uppercase tracking-[0.2em] text-center">
+                                Wyczyść wszystko
                             </button>
                         )}
                     </div>

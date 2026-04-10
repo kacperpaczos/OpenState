@@ -43,17 +43,23 @@ export default function ComparisonDock() {
                 <CompareSlot mp={mpB} onRemove={() => removeFromCompare(mpB?.id || "")} label="B" />
 
                 {/* Action Button */}
-                <div className="ml-2 border-l border-surface-border pl-4">
+                <div className="ml-2 border-l border-surface-border pl-6 flex flex-col items-center justify-center min-w-[120px]">
                     {canCompare ? (
-                        <Link 
-                            href={`/porownaj?a=${mpA.id}&b=${mpB.id}`}
-                            className="flex items-center gap-2 bg-blue-600 hover:bg-blue-500 dark:text-white text-blue-950 px-4 py-2 rounded-full font-bold text-sm transition-all shadow-lg hover:shadow-blue-500/20 hover:-translate-y-0.5"
-                        >
-                            <Zap size={14} fill="currentColor" />
-                            Porównaj
-                        </Link>
+                        <div className="flex flex-col items-center gap-2">
+                             <div className="flex flex-col items-center leading-none">
+                                <span className="text-[9px] font-black text-blue-500 uppercase tracking-tighter">Zgodność</span>
+                                <span className="text-sm font-black text-blue-600">--%</span>
+                            </div>
+                            <Link 
+                                href={`/porownaj?a=${mpA.id}&b=${mpB.id}`}
+                                className="flex items-center gap-2 bg-blue-600 hover:bg-blue-500 text-white px-5 py-2.5 rounded-2xl font-black text-xs transition-all shadow-xl shadow-blue-500/30 hover:-translate-y-0.5 active:scale-95 group/btn"
+                            >
+                                <Zap size={12} fill="currentColor" className="group-hover/btn:animate-pulse" />
+                                Porównaj
+                            </Link>
+                        </div>
                     ) : (
-                        <div className="text-[10px] text-gray-500 font-bold uppercase tracking-tighter leading-none max-w-[80px]">
+                        <div className="text-[10px] text-gray-500 font-black uppercase tracking-widest text-center animate-pulse">
                             Wybierz drugą osobę
                         </div>
                     )}
@@ -67,24 +73,25 @@ export default function ComparisonDock() {
 function CompareSlot({ mp, onRemove, label }: { mp: MP | null, onRemove: () => void, label: string }) {
     return (
         <div className="relative group">
-            <div className={`w-11 h-11 rounded-full border-2 transition-all flex items-center justify-center overflow-hidden ${mp ? 'border-blue-500 shadow-lg' : 'border-dashed border-gray-500/30 bg-gray-500/5'}`}>
+            <div className={`w-14 h-14 md:w-16 md:h-16 rounded-2xl border-2 transition-all flex items-center justify-center overflow-hidden ${mp ? 'border-blue-500 shadow-2xl shadow-blue-500/20 scale-105 bg-surface-color' : 'border-dashed border-gray-500/30 bg-gray-500/5'}`}>
                 {mp ? (
                     mp.photoUrl ? (
                         <img src={mp.photoUrl} alt={mp.name} className="w-full h-full object-cover" />
                     ) : (
-                        <User size={20} className="text-gray-500/50" />
+                        <User size={24} className="text-gray-500/50" />
                     )
                 ) : (
-                    <span className="text-gray-500 text-xs font-bold">{label}</span>
+                    <span className="text-gray-500 text-sm font-black">{label}</span>
                 )}
             </div>
             
             {mp && (
                 <button 
                     onClick={onRemove}
-                    className="absolute -top-1 -right-1 bg-red-500 dark:text-white text-red-950 rounded-full p-0.5 shadow-md opacity-0 group-hover:opacity-100 transition-opacity"
+                    className="absolute -top-2 -right-2 bg-red-500 text-white rounded-full p-1.5 shadow-xl hover:bg-red-600 transition-all hover:scale-110 z-10"
+                    title="Usuń"
                 >
-                    <X size={10} strokeWidth={3} />
+                    <X size={12} strokeWidth={4} />
                 </button>
             )}
             

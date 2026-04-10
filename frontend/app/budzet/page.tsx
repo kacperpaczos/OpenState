@@ -1,6 +1,4 @@
-"use client";
-
-import React, { useState, useMemo } from 'react';
+import React, { useState, useMemo, useEffect } from 'react';
 import { 
     PieChart as RePieChart, 
     Pie, 
@@ -35,6 +33,11 @@ export default function BudgetPage() {
     const sortedBudgets = [...BUDGET_DATA].sort((a, b) => b.year - a.year);
     const [selectedYear, setSelectedYear] = useState<BudgetYear>(sortedBudgets[0]);
     
+    // Update window title
+    useEffect(() => {
+        document.title = `Budżet Państwa ${selectedYear.year} | OpenState`;
+    }, [selectedYear]);
+
     // Znajdź poprzedni rok dla porównania delt
     const prevYearData = useMemo(() => {
         const index = sortedBudgets.findIndex(b => b.year === selectedYear.year);
@@ -306,7 +309,7 @@ export default function BudgetPage() {
             </div>
 
             {/* Educational / Interactive call to action */}
-            <div className="glass-card !p-12 bg-gradient-to-br from-zinc-900 to-blue-950 text-white border-none relative overflow-hidden group">
+            <div className="glass-card !p-12 bg-zinc-950 text-white border-none relative overflow-hidden group">
                 <div className="relative z-10 max-w-3xl">
                     <h2 className="text-4xl font-black mb-6 tracking-tighter">Zrozumieć Miliardy</h2>
                     <p className="text-blue-100/70 text-lg leading-relaxed mb-10">
