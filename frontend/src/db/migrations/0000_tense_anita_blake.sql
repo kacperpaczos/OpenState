@@ -113,7 +113,7 @@ CREATE INDEX "votings_sitting_idx" ON "votings" USING btree ("sitting_number");
 --> statement-breakpoint
 -- GIN indexes for PostgreSQL Full-Text Search (FTS / Spotlight-style search)
 CREATE INDEX "bills_fts_idx" ON "bills" USING GIN (
-  to_tsvector('polish', coalesce("title", '') || ' ' || coalesce("description", ''))
+  to_tsvector('simple', coalesce("title", '') || ' ' || coalesce("description", ''))
 );
 --> statement-breakpoint
 CREATE INDEX "deputies_fts_idx" ON "deputies" USING GIN (
@@ -121,5 +121,5 @@ CREATE INDEX "deputies_fts_idx" ON "deputies" USING GIN (
 );
 --> statement-breakpoint
 CREATE INDEX "votings_fts_idx" ON "votings" USING GIN (
-  to_tsvector('polish', coalesce("title", '') || ' ' || coalesce("topic", ''))
+  to_tsvector('simple', coalesce("title", '') || ' ' || coalesce("topic", ''))
 );

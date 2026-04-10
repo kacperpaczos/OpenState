@@ -19,7 +19,7 @@ import sys
 import glob
 from pathlib import Path
 from datetime import datetime
-from typing import Optional
+from typing import Optional, Union, List, Dict
 
 # ── Dependency check ──────────────────────────────────────────────────────────
 try:
@@ -46,7 +46,7 @@ DATA_DIR = ROOT_DIR / "frontend" / "public" / "data"
 
 # ── Helpers ───────────────────────────────────────────────────────────────────
 
-def load_json(path: Path) -> Optional[dict | list]:
+def load_json(path: Path) -> Union[Dict, List, None]:
     try:
         with open(path, "r", encoding="utf-8") as f:
             return json.load(f)
@@ -81,13 +81,15 @@ def batch_execute(cursor, sql: str, rows: list, batch_size: int = 500):
 def migrate_deputies(cursor) -> tuple[int, int]:
     """Load mps.json + senators.json → deputies table."""
     print("\n🏛️  Migrating deputies (posłowie + senatorowie)...")
-    rows = []
+    # Use a dict to deduplicate by ID before sending to DB
+    deputy_map = {}
 
     # MPs
     mps_data = load_json(DATA_DIR / "mps.json") or []
     for mp in mps_data:
-        rows.append((
-            int(mp["id"]),
+        d_id = int(mp["id"])
+        deputy_map[d_id] = (
+            d_id,
             mp.get("name", ""),
             mp.get("name", "").split(" ")[0] if mp.get("name") else None,
             " ".join(mp.get("name", "").split(" ")[1:]) if mp.get("name") else None,
@@ -100,17 +102,18 @@ def migrate_deputies(cursor) -> tuple[int, int]:
             mp.get("active", True),
             "Poseł",
             10,
-        ))
+        )
 
     # Senators (from senators.json - different structure, string IDs)
     senators_data = load_json(DATA_DIR / "senators.json") or []
     for sen in senators_data:
         try:
-            deputy_id = int(sen["id"])
+            d_id = int(sen["id"])
         except (ValueError, KeyError):
             continue
-        rows.append((
-            deputy_id,
+        # Senators overwrite or supplement MPs if ID overlaps
+        deputy_map[d_id] = (
+            d_id,
             sen.get("name", ""),
             sen.get("name", "").split(" ")[0] if sen.get("name") else None,
             " ".join(sen.get("name", "").split(" ")[1:]) if sen.get("name") else None,
@@ -123,7 +126,9 @@ def migrate_deputies(cursor) -> tuple[int, int]:
             True,
             "Senator",
             11,  # Senate term differs
-        ))
+        )
+
+    rows = list(deputy_map.values())
 
     sql = """
         INSERT INTO deputies
@@ -221,10 +226,9 @@ def migrate_bills(cursor) -> int:
     # Delete old stages and re-insert (simpler than upsert on serial PK)
     bill_ids = [r[0] for r in bill_rows]
     if bill_ids:
-        psycopg2.extras.execute_values(
-            cursor,
-            "DELETE FROM bill_stages WHERE bill_id IN %s",
-            [(bill_ids,)]
+        cursor.execute(
+            "DELETE FROM bill_stages WHERE bill_id = ANY(%s)",
+            (bill_ids,)
         )
 
     sql_stages = """
@@ -327,6 +331,22 @@ def migrate_votings_and_records(cursor) -> tuple[int, int]:
         # Build lookup: (sitting, voting_num) → db_id
         voting_id_map = {(r[1], r[2]): r[0] for r in inserted_votings}
         total_votings += len(voting_rows)
+
+        # Check for missing deputies before inserting records
+        voted_deputy_ids = {int(vote.get("MP")) for f in voting_files if (v_data := load_json(f)) for vote in v_data.get("votes", []) if vote.get("MP")}
+        if voted_deputy_ids:
+            cursor.execute("SELECT id FROM deputies WHERE id = ANY(%s)", (list(voted_deputy_ids),))
+            existing_ids = {r[0] for r in cursor.fetchall()}
+            missing_ids = voted_deputy_ids - existing_ids
+            
+            if missing_ids:
+                print(f"  ⚠️  Found {len(missing_ids)} missing deputies in votes. Creating placeholders...")
+                placeholder_rows = [(mid, f"Poseł nieznany ({mid})", "Nieznany", False, "Inne") for mid in missing_ids]
+                psycopg2.extras.execute_values(
+                    cursor,
+                    "INSERT INTO deputies (id, name, type, active, party) VALUES %s ON CONFLICT DO NOTHING",
+                    placeholder_rows
+                )
 
         # Now process vote_records for this sitting
         record_rows = []
