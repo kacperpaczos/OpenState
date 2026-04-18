@@ -1,0 +1,926 @@
+[
+  {
+    "votingNumber": 1,
+    "title": "53. posiedzenie Sejmu Rzeczypospolitej Polskiej w dniach 11, 12 i 13 marca 2026 r.",
+    "topic": "Wniosek o przerwę",
+    "date": "2026-03-11T10:45:34",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 2,
+    "title": "53. posiedzenie Sejmu Rzeczypospolitej Polskiej w dniach 11, 12 i 13 marca 2026 r.",
+    "topic": "wniosek o odroczenie posiedzenia",
+    "date": "2026-03-11T10:54:37",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 3,
+    "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Państwowej Inspekcji Pracy oraz niektórych innych ustaw (druki nr 2250, 2252 i 2252-A)",
+    "topic": "wniosek o odrzucenie w całości projektu.",
+    "date": "2026-03-11T21:38:36",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 4,
+    "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Państwowej Inspekcji Pracy oraz niektórych innych ustaw (druki nr 2250, 2252 i 2252-A)",
+    "topic": "poprawka 1",
+    "date": "2026-03-11T21:39:29",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 5,
+    "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Państwowej Inspekcji Pracy oraz niektórych innych ustaw (druki nr 2250, 2252 i 2252-A)",
+    "topic": "poprawki nr 2 i 15",
+    "date": "2026-03-11T21:40:08",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 6,
+    "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Państwowej Inspekcji Pracy oraz niektórych innych ustaw (druki nr 2250, 2252 i 2252-A)",
+    "topic": "poprawka 3",
+    "date": "2026-03-11T21:40:41",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 7,
+    "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Państwowej Inspekcji Pracy oraz niektórych innych ustaw (druki nr 2250, 2252 i 2252-A)",
+    "topic": "wnioski mniejszości nr 1 i 3",
+    "date": "2026-03-11T21:41:30",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 8,
+    "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Państwowej Inspekcji Pracy oraz niektórych innych ustaw (druki nr 2250, 2252 i 2252-A)",
+    "topic": "wniosek mniejszości 2",
+    "date": "2026-03-11T21:42:10",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 9,
+    "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Państwowej Inspekcji Pracy oraz niektórych innych ustaw (druki nr 2250, 2252 i 2252-A)",
+    "topic": "poprawka 4",
+    "date": "2026-03-11T21:42:48",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 10,
+    "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Państwowej Inspekcji Pracy oraz niektórych innych ustaw (druki nr 2250, 2252 i 2252-A)",
+    "topic": "poprawka 5",
+    "date": "2026-03-11T21:43:24",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 11,
+    "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Państwowej Inspekcji Pracy oraz niektórych innych ustaw (druki nr 2250, 2252 i 2252-A)",
+    "topic": "poprawka 7",
+    "date": "2026-03-11T21:44:09",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 12,
+    "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Państwowej Inspekcji Pracy oraz niektórych innych ustaw (druki nr 2250, 2252 i 2252-A)",
+    "topic": "poprawka 6",
+    "date": "2026-03-11T21:44:40",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 13,
+    "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Państwowej Inspekcji Pracy oraz niektórych innych ustaw (druki nr 2250, 2252 i 2252-A)",
+    "topic": "poprawka 8",
+    "date": "2026-03-11T21:45:17",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 14,
+    "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Państwowej Inspekcji Pracy oraz niektórych innych ustaw (druki nr 2250, 2252 i 2252-A)",
+    "topic": "poprawka 9",
+    "date": "2026-03-11T21:45:48",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 15,
+    "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Państwowej Inspekcji Pracy oraz niektórych innych ustaw (druki nr 2250, 2252 i 2252-A)",
+    "topic": "poprawka 10",
+    "date": "2026-03-11T21:46:19",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 16,
+    "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Państwowej Inspekcji Pracy oraz niektórych innych ustaw (druki nr 2250, 2252 i 2252-A)",
+    "topic": "poprawka 11",
+    "date": "2026-03-11T21:46:52",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 17,
+    "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Państwowej Inspekcji Pracy oraz niektórych innych ustaw (druki nr 2250, 2252 i 2252-A)",
+    "topic": "poprawka 12",
+    "date": "2026-03-11T21:47:26",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 18,
+    "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Państwowej Inspekcji Pracy oraz niektórych innych ustaw (druki nr 2250, 2252 i 2252-A)",
+    "topic": "poprawka 13",
+    "date": "2026-03-11T21:48:01",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 19,
+    "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Państwowej Inspekcji Pracy oraz niektórych innych ustaw (druki nr 2250, 2252 i 2252-A)",
+    "topic": "poprawka 14",
+    "date": "2026-03-11T21:48:34",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 20,
+    "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Państwowej Inspekcji Pracy oraz niektórych innych ustaw (druki nr 2250, 2252 i 2252-A)",
+    "topic": "poprawka 16",
+    "date": "2026-03-11T21:49:07",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 21,
+    "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Państwowej Inspekcji Pracy oraz niektórych innych ustaw (druki nr 2250, 2252 i 2252-A)",
+    "topic": "poprawka 17",
+    "date": "2026-03-11T21:49:39",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 22,
+    "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Państwowej Inspekcji Pracy oraz niektórych innych ustaw (druki nr 2250, 2252 i 2252-A)",
+    "topic": "poprawka 18",
+    "date": "2026-03-11T21:50:14",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 23,
+    "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Państwowej Inspekcji Pracy oraz niektórych innych ustaw (druki nr 2250, 2252 i 2252-A)",
+    "topic": "poprawka 19",
+    "date": "2026-03-11T21:50:46",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 24,
+    "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Państwowej Inspekcji Pracy oraz niektórych innych ustaw (druki nr 2250, 2252 i 2252-A)",
+    "topic": "poprawka 20",
+    "date": "2026-03-11T21:51:17",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 25,
+    "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Państwowej Inspekcji Pracy oraz niektórych innych ustaw (druki nr 2250, 2252 i 2252-A)",
+    "topic": "poprawka 21",
+    "date": "2026-03-11T21:51:48",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 26,
+    "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Państwowej Inspekcji Pracy oraz niektórych innych ustaw (druki nr 2250, 2252 i 2252-A)",
+    "topic": "poprawka 22",
+    "date": "2026-03-11T21:52:21",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 27,
+    "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Państwowej Inspekcji Pracy oraz niektórych innych ustaw (druki nr 2250, 2252 i 2252-A)",
+    "topic": "poprawka 23",
+    "date": "2026-03-11T21:52:52",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 28,
+    "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Państwowej Inspekcji Pracy oraz niektórych innych ustaw (druki nr 2250, 2252 i 2252-A)",
+    "topic": "poprawka 24",
+    "date": "2026-03-11T21:53:27",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 29,
+    "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Państwowej Inspekcji Pracy oraz niektórych innych ustaw (druki nr 2250, 2252 i 2252-A)",
+    "topic": "poprawka 25",
+    "date": "2026-03-11T21:53:58",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 30,
+    "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Państwowej Inspekcji Pracy oraz niektórych innych ustaw (druki nr 2250, 2252 i 2252-A)",
+    "topic": "poprawka 26",
+    "date": "2026-03-11T21:54:35",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 31,
+    "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Państwowej Inspekcji Pracy oraz niektórych innych ustaw (druki nr 2250, 2252 i 2252-A)",
+    "topic": "poprawka 27",
+    "date": "2026-03-11T21:55:06",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 32,
+    "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Państwowej Inspekcji Pracy oraz niektórych innych ustaw (druki nr 2250, 2252 i 2252-A)",
+    "topic": "poprawka 28",
+    "date": "2026-03-11T21:55:36",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 33,
+    "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Państwowej Inspekcji Pracy oraz niektórych innych ustaw (druki nr 2250, 2252 i 2252-A)",
+    "topic": "wniosek mniejszości 4",
+    "date": "2026-03-11T21:56:07",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 34,
+    "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Państwowej Inspekcji Pracy oraz niektórych innych ustaw (druki nr 2250, 2252 i 2252-A)",
+    "topic": "poprawka 29",
+    "date": "2026-03-11T21:56:45",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 35,
+    "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Państwowej Inspekcji Pracy oraz niektórych innych ustaw (druki nr 2250, 2252 i 2252-A)",
+    "topic": "wniosek mniejszości 5",
+    "date": "2026-03-11T21:57:21",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 36,
+    "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Państwowej Inspekcji Pracy oraz niektórych innych ustaw (druki nr 2250, 2252 i 2252-A)",
+    "topic": "poprawki nr 30, 44 i 50",
+    "date": "2026-03-11T21:58:08",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 37,
+    "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Państwowej Inspekcji Pracy oraz niektórych innych ustaw (druki nr 2250, 2252 i 2252-A)",
+    "topic": "poprawka 32",
+    "date": "2026-03-11T21:59:00",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 38,
+    "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Państwowej Inspekcji Pracy oraz niektórych innych ustaw (druki nr 2250, 2252 i 2252-A)",
+    "topic": "poprawka 33",
+    "date": "2026-03-11T21:59:31",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 39,
+    "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Państwowej Inspekcji Pracy oraz niektórych innych ustaw (druki nr 2250, 2252 i 2252-A)",
+    "topic": "poprawka 34",
+    "date": "2026-03-11T22:00:19",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 40,
+    "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Państwowej Inspekcji Pracy oraz niektórych innych ustaw (druki nr 2250, 2252 i 2252-A)",
+    "topic": "poprawka 35",
+    "date": "2026-03-11T22:00:55",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 41,
+    "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Państwowej Inspekcji Pracy oraz niektórych innych ustaw (druki nr 2250, 2252 i 2252-A)",
+    "topic": "poprawka 36",
+    "date": "2026-03-11T22:01:29",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 42,
+    "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Państwowej Inspekcji Pracy oraz niektórych innych ustaw (druki nr 2250, 2252 i 2252-A)",
+    "topic": "poprawka 37",
+    "date": "2026-03-11T22:02:01",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 43,
+    "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Państwowej Inspekcji Pracy oraz niektórych innych ustaw (druki nr 2250, 2252 i 2252-A)",
+    "topic": "poprawka 38",
+    "date": "2026-03-11T22:02:36",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 44,
+    "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Państwowej Inspekcji Pracy oraz niektórych innych ustaw (druki nr 2250, 2252 i 2252-A)",
+    "topic": "poprawka 39",
+    "date": "2026-03-11T22:03:26",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 45,
+    "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Państwowej Inspekcji Pracy oraz niektórych innych ustaw (druki nr 2250, 2252 i 2252-A)",
+    "topic": "poprawka 40",
+    "date": "2026-03-11T22:03:59",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 46,
+    "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Państwowej Inspekcji Pracy oraz niektórych innych ustaw (druki nr 2250, 2252 i 2252-A)",
+    "topic": "poprawka 41",
+    "date": "2026-03-11T22:04:32",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 47,
+    "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Państwowej Inspekcji Pracy oraz niektórych innych ustaw (druki nr 2250, 2252 i 2252-A)",
+    "topic": "poprawka 42",
+    "date": "2026-03-11T22:05:07",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 48,
+    "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Państwowej Inspekcji Pracy oraz niektórych innych ustaw (druki nr 2250, 2252 i 2252-A)",
+    "topic": "poprawka 46",
+    "date": "2026-03-11T22:05:51",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 49,
+    "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Państwowej Inspekcji Pracy oraz niektórych innych ustaw (druki nr 2250, 2252 i 2252-A)",
+    "topic": "poprawka 47",
+    "date": "2026-03-11T22:06:23",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 50,
+    "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Państwowej Inspekcji Pracy oraz niektórych innych ustaw (druki nr 2250, 2252 i 2252-A)",
+    "topic": "poprawka 48",
+    "date": "2026-03-11T22:06:57",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 51,
+    "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Państwowej Inspekcji Pracy oraz niektórych innych ustaw (druki nr 2250, 2252 i 2252-A)",
+    "topic": "poprawka 49",
+    "date": "2026-03-11T22:07:30",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 52,
+    "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Państwowej Inspekcji Pracy oraz niektórych innych ustaw (druki nr 2250, 2252 i 2252-A)",
+    "topic": "głosowanie nad całością projektu.",
+    "date": "2026-03-11T22:08:05",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 53,
+    "title": "Głosowanie proceduralne dotyczące druku nr 2324",
+    "topic": "wniosek o skrócenie terminu, o którym mowa w art. 44 ust. 3 regulaminu Sejmu w sprawie sprawozdania z druku nr 2324",
+    "date": "2026-03-12T12:54:54",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 54,
+    "title": "Głosowanie proceduralne dotyczące druku nr 2329",
+    "topic": "wniosek o skrócenie terminu, o którym mowa w art. 44 ust. 3 regulaminu Sejmu w sprawie sprawozdania z druku nr 2329",
+    "date": "2026-03-12T12:55:32",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 55,
+    "title": "Głosowanie proceduralne dotyczące druku nr 2330",
+    "topic": "wniosek o skrócenie terminu, o którym mowa w art. 44 ust. 3 regulaminu Sejmu w sprawie sprawozdania z druku nr 2330",
+    "date": "2026-03-12T12:56:13",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 56,
+    "title": "Głosowanie proceduralne dotyczące druku nr 2309",
+    "topic": "wniosek o skrócenie terminu, o którym mowa w art. 54 ust. 5 regulaminu Sejmu w sprawie sprawozdania z druku nr 2309",
+    "date": "2026-03-13T10:41:02",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 57,
+    "title": "Głosowanie proceduralne dotyczące druku nr 2341",
+    "topic": "wniosek o skrócenie terminu, o którym mowa w art. 54 ust. 5 regulaminu Sejmu w sprawie sprawozdania z druku nr 2341",
+    "date": "2026-03-13T10:41:47",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 58,
+    "title": "Głosowanie proceduralne dotyczące druku nr 2315",
+    "topic": "wniosek o skrócenie terminu, o którym mowa w art. 54 ust. 5 regulaminu Sejmu w sprawie sprawozdania z druku nr 2315",
+    "date": "2026-03-13T10:42:42",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 59,
+    "title": "Głosowanie proceduralne dotyczące druku nr 2306",
+    "topic": "wniosek o skrócenie terminu, o którym mowa w art. 54 ust. 5 regulaminu Sejmu w sprawie sprawozdania z druku nr 2306",
+    "date": "2026-03-13T10:43:23",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 60,
+    "title": "53. posiedzenie Sejmu Rzeczypospolitej Polskiej w dniach 11, 12 i 13 marca 2026 r.",
+    "topic": "Wniosek o przerwę",
+    "date": "2026-03-13T10:48:40",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 61,
+    "title": "53. posiedzenie Sejmu Rzeczypospolitej Polskiej w dniach 11, 12 i 13 marca 2026 r.",
+    "topic": "wniosek o odroczenie posiedzenia",
+    "date": "2026-03-13T10:52:55",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 62,
+    "title": "Pkt. 2 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Kodeks rodzinny i opiekuńczy oraz niektórych innych ustaw (druki nr 2121, 2233 i 2233-A)",
+    "topic": "wniosek o odrzucenie w całości projektu.",
+    "date": "2026-03-13T11:02:39",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 63,
+    "title": "Pkt. 2 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Kodeks rodzinny i opiekuńczy oraz niektórych innych ustaw (druki nr 2121, 2233 i 2233-A)",
+    "topic": "poprawka 1",
+    "date": "2026-03-13T11:03:20",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 64,
+    "title": "Pkt. 2 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Kodeks rodzinny i opiekuńczy oraz niektórych innych ustaw (druki nr 2121, 2233 i 2233-A)",
+    "topic": "poprawka 2",
+    "date": "2026-03-13T11:03:53",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 65,
+    "title": "Pkt. 2 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Kodeks rodzinny i opiekuńczy oraz niektórych innych ustaw (druki nr 2121, 2233 i 2233-A)",
+    "topic": "poprawka 3",
+    "date": "2026-03-13T11:04:26",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 66,
+    "title": "Pkt. 2 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Kodeks rodzinny i opiekuńczy oraz niektórych innych ustaw (druki nr 2121, 2233 i 2233-A)",
+    "topic": "głosowanie nad całością projektu.",
+    "date": "2026-03-13T11:04:56",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 67,
+    "title": "Pkt. 3 Sprawozdanie Komisji o rządowym projekcie ustawy o koordynacji działań antykorupcyjnych oraz o likwidacji Centralnego Biura Antykorupcyjnego (druki nr 1884, 2257 i 2257-A)",
+    "topic": "wniosek o odrzucenie w całości projektu.",
+    "date": "2026-03-13T11:53:16",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 68,
+    "title": "Pkt. 3 Sprawozdanie Komisji o rządowym projekcie ustawy o koordynacji działań antykorupcyjnych oraz o likwidacji Centralnego Biura Antykorupcyjnego (druki nr 1884, 2257 i 2257-A)",
+    "topic": "głosowanie nad całością projektu.",
+    "date": "2026-03-13T11:53:47",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 69,
+    "title": "Pkt. 4 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie niektórych ustaw w związku z przekazywaniem informacji do europejskiego pojedynczego punktu dostępu (druki nr 2159 i 2260)",
+    "topic": "głosowanie nad całością projektu.",
+    "date": "2026-03-13T11:54:49",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 70,
+    "title": "Pkt. 5 Sprawozdanie Komisji o poselskim projekcie ustawy o zmianie ustawy o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków oraz niektórych innych ustaw (druki nr 2165, 2235 i 2235-A)",
+    "topic": "poprawki nr 1-3, 7 oraz 9-10",
+    "date": "2026-03-13T11:57:25",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 71,
+    "title": "Pkt. 5 Sprawozdanie Komisji o poselskim projekcie ustawy o zmianie ustawy o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków oraz niektórych innych ustaw (druki nr 2165, 2235 i 2235-A)",
+    "topic": "poprawki nr 4-5, 11 i 13",
+    "date": "2026-03-13T11:58:04",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 72,
+    "title": "Pkt. 5 Sprawozdanie Komisji o poselskim projekcie ustawy o zmianie ustawy o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków oraz niektórych innych ustaw (druki nr 2165, 2235 i 2235-A)",
+    "topic": "poprawka 6",
+    "date": "2026-03-13T11:58:36",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 73,
+    "title": "Pkt. 5 Sprawozdanie Komisji o poselskim projekcie ustawy o zmianie ustawy o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków oraz niektórych innych ustaw (druki nr 2165, 2235 i 2235-A)",
+    "topic": "poprawka 8",
+    "date": "2026-03-13T11:59:08",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 74,
+    "title": "Pkt. 5 Sprawozdanie Komisji o poselskim projekcie ustawy o zmianie ustawy o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków oraz niektórych innych ustaw (druki nr 2165, 2235 i 2235-A)",
+    "topic": "poprawka 12",
+    "date": "2026-03-13T11:59:41",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 75,
+    "title": "Pkt. 5 Sprawozdanie Komisji o poselskim projekcie ustawy o zmianie ustawy o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków oraz niektórych innych ustaw (druki nr 2165, 2235 i 2235-A)",
+    "topic": "głosowanie nad całością projektu.",
+    "date": "2026-03-13T12:00:12",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 76,
+    "title": "Pkt. 6 Sprawozdanie Komisji o senackim projekcie ustawy o zmianie ustawy o działaczach opozycji antykomunistycznej oraz osobach represjonowanych z powodów politycznych (druki nr 1651 i 2280)",
+    "topic": "głosowanie nad całością projektu.",
+    "date": "2026-03-13T12:01:08",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 77,
+    "title": "Pkt. 8 Sprawozdanie Komisji o poselskich projektach uchwał w sprawie:- zobowiązania Rady Ministrów do podjęcia działań prawnych przed Trybunałem Sprawiedliwości Unii Europejskiej w związku z umową handlową UE-Mercosur,- wezwania do zaskarżenia do Trybunału Sprawiedliwości Unii Europejskiej umowy Unii Europejskiej z państwami MERCOSUR,- zobowiązania Rady Ministrów do zaskarżenia decyzji Rady Unii Europejskiej z dnia 9 stycznia 2026 r. w sprawie tymczasowego stosowania umowy Mercosur do Trybunału Sprawiedliwości Unii Europejskiej (druki nr 2166, 2167, 2199 i 2232)",
+    "topic": "głosowanie nad całością projektu.",
+    "date": "2026-03-13T12:07:40",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 78,
+    "title": "Pkt. 9 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Prawo lotnicze oraz niektórych innych ustaw (druki nr 2236 i 2281)",
+    "topic": "głosowanie nad całością projektu.",
+    "date": "2026-03-13T12:08:35",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 79,
+    "title": "Pkt. 12 Sprawozdanie Komisji o poselskim projekcie uchwały w sprawie działań niezbędnych do zapewnienia spełniania przez Trybunał Konstytucyjny wymogów sądu ustanowionego na mocy prawa, niezawisłego i bezstronnego (druki nr 2316, 2330 i 2330-A)",
+    "topic": "wniosek o odrzucenie w całości projektu.",
+    "date": "2026-03-13T12:10:25",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 80,
+    "title": "Pkt. 12 Sprawozdanie Komisji o poselskim projekcie uchwały w sprawie działań niezbędnych do zapewnienia spełniania przez Trybunał Konstytucyjny wymogów sądu ustanowionego na mocy prawa, niezawisłego i bezstronnego (druki nr 2316, 2330 i 2330-A)",
+    "topic": "wniosek mniejszości 1",
+    "date": "2026-03-13T12:10:57",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 81,
+    "title": "Pkt. 12 Sprawozdanie Komisji o poselskim projekcie uchwały w sprawie działań niezbędnych do zapewnienia spełniania przez Trybunał Konstytucyjny wymogów sądu ustanowionego na mocy prawa, niezawisłego i bezstronnego (druki nr 2316, 2330 i 2330-A)",
+    "topic": "głosowanie nad całością projektu.",
+    "date": "2026-03-13T12:11:27",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 82,
+    "title": "Pkt. 13 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o sporcie oraz ustawy o przygotowaniu finałowego turnieju Mistrzostw Europy w Piłce Nożnej UEFA EURO 2012 (druki nr 2162 i 2203)",
+    "topic": "głosowanie nad całością projektu.",
+    "date": "2026-03-13T12:12:32",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 83,
+    "title": "Pkt. 14 Sprawozdanie Komisji o poselskim projekcie ustawy o zmianie ustawy o Funduszu Ochrony Rolnictwa (druki nr 2295 i 2329)",
+    "topic": "głosowanie nad całością projektu.",
+    "date": "2026-03-13T12:13:15",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 84,
+    "title": "Pkt. 16 Pierwsze czytanie rządowego projektu ustawy o zmianie ustawy - Ordynacja podatkowa oraz ustawy - Kodeks karny skarbowy (druk nr 2288)",
+    "topic": "wniosek o odrzucenie projektu w pierwszym czytaniu.",
+    "date": "2026-03-13T12:14:06",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 85,
+    "title": "Pkt. 18 Sprawozdanie Komisji o poselskim projekcie uchwały w sprawie upamiętnienia 45. rocznicy wydarzeń Kryzysu Bydgoskiego 1981 roku (druki nr 2305 i 2324)",
+    "topic": "głosowanie nad całością projektu.",
+    "date": "2026-03-13T12:15:01",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 86,
+    "title": "Pkt. 19 Sprawozdanie Komisji o rządowym projekcie ustawy o ratyfikacji Umowy między Rzecząpospolitą Polską a Republiką Indonezji o wzajemnej pomocy prawnej w sprawach karnych, podpisanej w Warszawie dnia 19 września 2025 r. (druki nr 2161 i 2204)",
+    "topic": "głosowanie nad całością projektu.",
+    "date": "2026-03-13T12:15:58",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 87,
+    "title": "Pkt. 20 Sprawozdanie Komisji o rządowym projekcie ustawy o ratyfikacji poprawek do Rzymskiego Statutu Międzynarodowego Trybunału Karnego, sporządzonego w Rzymie dnia 17 lipca 1998 r., przyjętych przez Zgromadzenie Państw-Stron Statutu w dniu 26 listopada 2015 r. (rezolucja nr ICC-ASP/14/Res.2), w dniu 14 grudnia 2017 r. (rezolucja nr ICC-ASP/16/Res.4) oraz w dniu 6 grudnia 2019 r. (rezolucja nr ICC-ASP/18/Res.5) (druki nr 2164 i 2205)",
+    "topic": "głosowanie nad całością projektu.",
+    "date": "2026-03-13T12:17:15",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 88,
+    "title": "Pkt. 21 Rozpatrzenie wniosku Rady Ministrów o wyrażenie przez Sejm Rzeczypospolitej Polskiej zgody na przedłużenie czasowego ograniczenia prawa do złożenia wniosku o udzielenie ochrony międzynarodowej na granicy państwowej z Republiką Białorusi (druk nr 2308)",
+    "topic": "głosowanie nad przyjęciem wniosku",
+    "date": "2026-03-13T12:19:19",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 89,
+    "title": "Pkt. 22 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy - Prawo oświatowe oraz niektórych innych ustaw (druki nr 2301 i 2309)",
+    "topic": "poprawka 1",
+    "date": "2026-03-13T12:21:01",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 90,
+    "title": "Pkt. 23 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o ochronie zabytków i opiece nad zabytkami oraz ustawy o Krajowej Administracji Skarbowej (druki nr 2300 i 2323)",
+    "topic": "poprawka 1",
+    "date": "2026-03-13T12:22:39",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 91,
+    "title": "Pkt. 24 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o obrocie z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa oraz ustawy o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym (druki nr 2298 i 2314)",
+    "topic": "poprawka 1",
+    "date": "2026-03-13T12:25:03",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 92,
+    "title": "Pkt. 24 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o obrocie z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa oraz ustawy o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym (druki nr 2298 i 2314)",
+    "topic": "poprawka 2",
+    "date": "2026-03-13T12:25:39",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 93,
+    "title": "Pkt. 24 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o obrocie z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa oraz ustawy o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym (druki nr 2298 i 2314)",
+    "topic": "poprawka 3",
+    "date": "2026-03-13T12:26:16",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 94,
+    "title": "Pkt. 24 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o obrocie z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa oraz ustawy o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym (druki nr 2298 i 2314)",
+    "topic": "poprawka 4",
+    "date": "2026-03-13T12:26:51",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 95,
+    "title": "Pkt. 25 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o niekaraniu obywateli Rzeczypospolitej Polskiej biorących udział po stronie Ukrainy w konflikcie zbrojnym wywołanym agresją Federacji Rosyjskiej na Ukrainę (druki nr 2297 i 2341)",
+    "topic": "poprawki nr 1 i 4",
+    "date": "2026-03-13T12:29:01",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 96,
+    "title": "Pkt. 25 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o niekaraniu obywateli Rzeczypospolitej Polskiej biorących udział po stronie Ukrainy w konflikcie zbrojnym wywołanym agresją Federacji Rosyjskiej na Ukrainę (druki nr 2297 i 2341)",
+    "topic": "poprawka 2",
+    "date": "2026-03-13T12:29:35",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 97,
+    "title": "Pkt. 25 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o niekaraniu obywateli Rzeczypospolitej Polskiej biorących udział po stronie Ukrainy w konflikcie zbrojnym wywołanym agresją Federacji Rosyjskiej na Ukrainę (druki nr 2297 i 2341)",
+    "topic": "poprawka 3",
+    "date": "2026-03-13T12:30:09",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 98,
+    "title": "Pkt. 26 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o Centralnej Ewidencji i Informacji o Działalności Gospodarczej i Punkcie Informacji dla Przedsiębiorcy oraz niektórych innych ustaw (druki nr 2299 i 2315)",
+    "topic": "poprawka 1",
+    "date": "2026-03-13T12:31:59",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 99,
+    "title": "Pkt. 26 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o Centralnej Ewidencji i Informacji o Działalności Gospodarczej i Punkcie Informacji dla Przedsiębiorcy oraz niektórych innych ustaw (druki nr 2299 i 2315)",
+    "topic": "poprawki nr 2, 4-11, 13 i 16",
+    "date": "2026-03-13T12:32:45",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 100,
+    "title": "Pkt. 26 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o Centralnej Ewidencji i Informacji o Działalności Gospodarczej i Punkcie Informacji dla Przedsiębiorcy oraz niektórych innych ustaw (druki nr 2299 i 2315)",
+    "topic": "poprawki nr 3 i 14",
+    "date": "2026-03-13T12:33:30",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 101,
+    "title": "Pkt. 26 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o Centralnej Ewidencji i Informacji o Działalności Gospodarczej i Punkcie Informacji dla Przedsiębiorcy oraz niektórych innych ustaw (druki nr 2299 i 2315)",
+    "topic": "poprawka 12",
+    "date": "2026-03-13T12:34:08",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 102,
+    "title": "Pkt. 26 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o Centralnej Ewidencji i Informacji o Działalności Gospodarczej i Punkcie Informacji dla Przedsiębiorcy oraz niektórych innych ustaw (druki nr 2299 i 2315)",
+    "topic": "poprawka 15",
+    "date": "2026-03-13T12:34:46",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 103,
+    "title": "Pkt. 27 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o szczególnych zasadach przygotowania do realizacji inwestycji w zakresie budowli przeciwpowodziowych (druki nr 2302 i 2306)",
+    "topic": "poprawka 1",
+    "date": "2026-03-13T12:36:23",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 104,
+    "title": "Pkt. 27 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o szczególnych zasadach przygotowania do realizacji inwestycji w zakresie budowli przeciwpowodziowych (druki nr 2302 i 2306)",
+    "topic": "poprawka 2",
+    "date": "2026-03-13T12:36:56",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 105,
+    "title": "Pkt. 27 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o szczególnych zasadach przygotowania do realizacji inwestycji w zakresie budowli przeciwpowodziowych (druki nr 2302 i 2306)",
+    "topic": "poprawka 3",
+    "date": "2026-03-13T12:37:31",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 106,
+    "title": "Pkt. 28 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy - Prawo energetyczne oraz niektórych innych ustaw (druki nr 2303 i 2328)",
+    "topic": "poprawka 1",
+    "date": "2026-03-13T12:39:31",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 107,
+    "title": "Pkt. 28 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy - Prawo energetyczne oraz niektórych innych ustaw (druki nr 2303 i 2328)",
+    "topic": "poprawki nr 2-3",
+    "date": "2026-03-13T12:40:11",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 108,
+    "title": "Pkt. 28 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy - Prawo energetyczne oraz niektórych innych ustaw (druki nr 2303 i 2328)",
+    "topic": "poprawka 4",
+    "date": "2026-03-13T12:40:47",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 109,
+    "title": "Pkt. 28 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy - Prawo energetyczne oraz niektórych innych ustaw (druki nr 2303 i 2328)",
+    "topic": "poprawka 5",
+    "date": "2026-03-13T12:41:21",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 110,
+    "title": "Pkt. 28 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy - Prawo energetyczne oraz niektórych innych ustaw (druki nr 2303 i 2328)",
+    "topic": "poprawka 6",
+    "date": "2026-03-13T12:41:58",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 111,
+    "title": "Pkt. 28 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy - Prawo energetyczne oraz niektórych innych ustaw (druki nr 2303 i 2328)",
+    "topic": "poprawka 7",
+    "date": "2026-03-13T12:42:33",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 112,
+    "title": "Pkt. 28 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy - Prawo energetyczne oraz niektórych innych ustaw (druki nr 2303 i 2328)",
+    "topic": "poprawka 8",
+    "date": "2026-03-13T12:43:08",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 113,
+    "title": "Pkt. 28 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy - Prawo energetyczne oraz niektórych innych ustaw (druki nr 2303 i 2328)",
+    "topic": "poprawki nr 9, 12-14 i 21",
+    "date": "2026-03-13T12:43:57",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 114,
+    "title": "Pkt. 28 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy - Prawo energetyczne oraz niektórych innych ustaw (druki nr 2303 i 2328)",
+    "topic": "poprawka 10",
+    "date": "2026-03-13T12:44:34",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 115,
+    "title": "Pkt. 28 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy - Prawo energetyczne oraz niektórych innych ustaw (druki nr 2303 i 2328)",
+    "topic": "poprawka 11",
+    "date": "2026-03-13T12:45:11",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 116,
+    "title": "Pkt. 28 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy - Prawo energetyczne oraz niektórych innych ustaw (druki nr 2303 i 2328)",
+    "topic": "poprawki nr 15 i 23",
+    "date": "2026-03-13T12:45:53",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 117,
+    "title": "Pkt. 28 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy - Prawo energetyczne oraz niektórych innych ustaw (druki nr 2303 i 2328)",
+    "topic": "poprawka 16",
+    "date": "2026-03-13T12:46:33",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 118,
+    "title": "Pkt. 28 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy - Prawo energetyczne oraz niektórych innych ustaw (druki nr 2303 i 2328)",
+    "topic": "poprawka 17",
+    "date": "2026-03-13T12:47:11",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 119,
+    "title": "Pkt. 28 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy - Prawo energetyczne oraz niektórych innych ustaw (druki nr 2303 i 2328)",
+    "topic": "poprawka 18",
+    "date": "2026-03-13T12:47:45",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 120,
+    "title": "Pkt. 28 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy - Prawo energetyczne oraz niektórych innych ustaw (druki nr 2303 i 2328)",
+    "topic": "poprawka 19",
+    "date": "2026-03-13T12:48:23",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 121,
+    "title": "Pkt. 28 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy - Prawo energetyczne oraz niektórych innych ustaw (druki nr 2303 i 2328)",
+    "topic": "poprawki nr 20 i 22",
+    "date": "2026-03-13T12:49:06",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 122,
+    "title": "Pkt. 28 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy - Prawo energetyczne oraz niektórych innych ustaw (druki nr 2303 i 2328)",
+    "topic": "poprawka 24",
+    "date": "2026-03-13T12:49:39",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 123,
+    "title": "Pkt. 28 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy - Prawo energetyczne oraz niektórych innych ustaw (druki nr 2303 i 2328)",
+    "topic": "poprawka 25",
+    "date": "2026-03-13T12:50:14",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 124,
+    "title": "53. posiedzenie Sejmu Rzeczypospolitej Polskiej w dniach 11, 12 i 13 marca 2026 r.",
+    "topic": "ustalenie czasów debat",
+    "date": "2026-03-13T13:14:18",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 125,
+    "title": "Pkt. 29 Wybór sędziów Trybunału Konstytucyjnego (druki nr 2331, 2332, 2333, 2334, 2335, 2336, 2337, 2338, 2344, 2345, 2346, 2347, 2348, 2349, 2350 i 2351)",
+    "topic": "głosowanie nad kandydaturą Pani Magdaleny Bentkowskiej na stanowisko sędziego Trybunału Konstytucyjnego",
+    "date": "2026-03-13T13:33:55",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 126,
+    "title": "Pkt. 29 Wybór sędziów Trybunału Konstytucyjnego (druki nr 2331, 2332, 2333, 2334, 2335, 2336, 2337, 2338, 2344, 2345, 2346, 2347, 2348, 2349, 2350 i 2351)",
+    "topic": "głosowanie nad kandydaturą Pana Marcina Dziurdy na stanowisko sędziego Trybunału Konstytucyjnego",
+    "date": "2026-03-13T13:34:41",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 127,
+    "title": "Pkt. 29 Wybór sędziów Trybunału Konstytucyjnego (druki nr 2331, 2332, 2333, 2334, 2335, 2336, 2337, 2338, 2344, 2345, 2346, 2347, 2348, 2349, 2350 i 2351)",
+    "topic": "głosowanie nad kandydaturą Pani Anny Korwin-Piotrowskiej na stanowisko sędziego Trybunału Konstytucyjnego",
+    "date": "2026-03-13T13:35:25",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 128,
+    "title": "Pkt. 29 Wybór sędziów Trybunału Konstytucyjnego (druki nr 2331, 2332, 2333, 2334, 2335, 2336, 2337, 2338, 2344, 2345, 2346, 2347, 2348, 2349, 2350 i 2351)",
+    "topic": "głosowanie nad kandydaturą Pana Artura Kotowskiego na stanowisko sędziego Trybunału Konstytucyjnego",
+    "date": "2026-03-13T13:36:09",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 129,
+    "title": "Pkt. 29 Wybór sędziów Trybunału Konstytucyjnego (druki nr 2331, 2332, 2333, 2334, 2335, 2336, 2337, 2338, 2344, 2345, 2346, 2347, 2348, 2349, 2350 i 2351)",
+    "topic": "głosowanie nad kandydaturą Pana Krystiana Markiewicza na stanowisko sędziego Trybunału Konstytucyjnego",
+    "date": "2026-03-13T13:36:56",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 130,
+    "title": "Pkt. 29 Wybór sędziów Trybunału Konstytucyjnego (druki nr 2331, 2332, 2333, 2334, 2335, 2336, 2337, 2338, 2344, 2345, 2346, 2347, 2348, 2349, 2350 i 2351)",
+    "topic": "głosowanie nad kandydaturą Pana Michała Skwarzyńskiego na stanowisko sędziego Trybunału Konstytucyjnego",
+    "date": "2026-03-13T13:37:40",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 131,
+    "title": "Pkt. 29 Wybór sędziów Trybunału Konstytucyjnego (druki nr 2331, 2332, 2333, 2334, 2335, 2336, 2337, 2338, 2344, 2345, 2346, 2347, 2348, 2349, 2350 i 2351)",
+    "topic": "głosowanie nad kandydaturą Pana Dariusza Szostka na stanowisko sędziego Trybunału Konstytucyjnego",
+    "date": "2026-03-13T13:38:29",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 132,
+    "title": "Pkt. 29 Wybór sędziów Trybunału Konstytucyjnego (druki nr 2331, 2332, 2333, 2334, 2335, 2336, 2337, 2338, 2344, 2345, 2346, 2347, 2348, 2349, 2350 i 2351)",
+    "topic": "głosowanie nad kandydaturą Pana Macieja Taborowskiego na stanowisko sędziego Trybunału Konstytucyjnego",
+    "date": "2026-03-13T13:39:13",
+    "kind": "ELECTRONIC"
+  }
+]

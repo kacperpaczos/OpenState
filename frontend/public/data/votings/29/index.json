@@ -1,0 +1,548 @@
+[
+  {
+    "votingNumber": 1,
+    "title": "29. posiedzenie Sejmu Rzeczypospolitej Polskiej w dniach 20 i 21 lutego 2025 r.",
+    "topic": "Wniosek o przerwę",
+    "date": "2025-02-20T10:17:18",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 2,
+    "title": "29. posiedzenie Sejmu Rzeczypospolitej Polskiej w dniach 20 i 21 lutego 2025 r.",
+    "topic": "wniosek o odroczenie posiedzenia",
+    "date": "2025-02-20T10:21:53",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 3,
+    "title": "Głosowania proceduralne",
+    "topic": "wniosek o skrócenie terminu, o którym mowa w art. 44 ust. 3 regulaminu Sejmu, w sprawie sprawozdania z druku nr 1027",
+    "date": "2025-02-20T20:35:25",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 4,
+    "title": "Głosowania proceduralne",
+    "topic": "wniosek o skrócenie terminu, o którym mowa w art. 44 ust. 3 regulaminu Sejmu, w sprawie sprawozdania z druku nr 1031",
+    "date": "2025-02-20T20:36:00",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 5,
+    "title": "Głosowania proceduralne",
+    "topic": "wniosek o skrócenie terminu, o którym mowa w art. 54 ust. 5 regulaminu Sejmu, w sprawie sprawozdania z druku nr 1023",
+    "date": "2025-02-20T20:37:24",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 6,
+    "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o przygotowaniu i realizacji inwestycji w zakresie obiektów energetyki jądrowej oraz inwestycji towarzyszących oraz ustawy o wpłatach z zysku przez jednoosobowe spółki Skarbu Państwa (druki nr 955 i 968)",
+    "topic": "głosowanie nad całością projektu.",
+    "date": "2025-02-20T20:41:32",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 7,
+    "title": "Pkt. 2 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o podatku akcyzowym, ustawy o zdrowiu publicznym oraz niektórych innych ustaw (druki nr 981 i 1015)",
+    "topic": "głosowanie nad całością projektu.",
+    "date": "2025-02-20T20:45:32",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 8,
+    "title": "Pkt. 3 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Ordynacja podatkowa oraz niektórych innych ustaw (druki nr 964 i 1007)",
+    "topic": "głosowanie nad całością projektu.",
+    "date": "2025-02-20T20:47:35",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 9,
+    "title": "Pkt. 13 Wniosek o wyrażenie wotum nieufności wobec Minister do spraw Równości Katarzyny Kotuli (druki nr 990 i 1018)",
+    "topic": "głosowanie nad wnioskiem o wyrażenie wotum nieufności.",
+    "date": "2025-02-20T20:48:42",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 10,
+    "title": "Pkt. 7 Sprawozdanie Komisji w sprawie wniosku oskarżyciela prywatnego Pawła Bednarza reprezentowanego przez adwokata Michała Ubika z dnia 4 grudnia 2018 r. o wyrażenie zgody przez Sejm na pociągnięcie do odpowiedzialności karnej posła Pawła Kukiza (druk nr 978)",
+    "topic": "głosowanie nad przyjęciem wniosku o wyrażenie zgody na pociągnięcie do odpowiedzialności karnej posła Pawła Kukiza",
+    "date": "2025-02-20T20:51:11",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 11,
+    "title": "Pkt. 8 Sprawozdanie Komisji w sprawie wniosku oskarżyciela prywatnego Łukasza Konrada Piebiaka reprezentowanego przez adwokata Krzysztofa Wąsowskiego z dnia 24 kwietnia 2023 r. o wyrażenie zgody przez Sejm na pociągnięcie do odpowiedzialności karnej posła Waldemara Jana Sługockiego (druk nr 1014)",
+    "topic": "głosowanie nad przyjęciem wniosku o wyrażenie zgody na pociągnięcie do odpowiedzialności karnej posła Waldemara Jana Sługockiego",
+    "date": "2025-02-20T20:52:45",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 12,
+    "title": "Pkt. 9 Sprawozdanie Komisji w sprawie wniosku oskarżyciela prywatnego z dnia 22 kwietnia 2024 r., poprawionego w dniu 12 lipca 2024 r., o wyrażenie zgody przez Sejm na pociągnięcie do odpowiedzialności karnej poseł Anity Kucharskiej-Dziedzic (druk nr 1024)",
+    "topic": "głosowanie nad przyjęciem wniosku o wyrażenie zgody na pociągnięcie do odpowiedzialności karnej poseł Anity Kucharskiej-Dziedzic",
+    "date": "2025-02-20T20:54:26",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 13,
+    "title": "Pkt. 10 Sprawozdanie Komisji w sprawie wniosku oskarżyciela prywatnego Romana Giertycha reprezentowanego przez adwokata Krzysztofa Pawlaka z dnia 18 grudnia 2023 r., uzupełnionego w dniu 18 czerwca 2024 r., o wyrażenie zgody przez Sejm na pociągnięcie do odpowiedzialności karnej posła Zbigniewa Ziobry (druk nr 1012)",
+    "topic": "głosowanie nad przyjęciem wniosku o wyrażenie zgody na pociągnięcie do odpowiedzialności karnej posła Zbigniewa Ziobry",
+    "date": "2025-02-20T20:56:26",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 14,
+    "title": "Pkt. 11 Sprawozdanie Komisji w sprawie wniosku z dnia 3 lutego 2025 r. Komisji Śledczej do zbadania legalności, prawidłowości oraz celowości czynności operacyjno-rozpoznawczych podejmowanych m.in. z wykorzystaniem oprogramowania Pegasus przez członków Rady Ministrów, służby specjalne, Policję, organy kontroli skarbowej oraz celno-skarbowej, organy powołane do ścigania przestępstw i prokuraturę w okresie od dnia 16 listopada 2015 r. do dnia 20 listopada 2023 r. o wyrażenie przez Sejm zgody na aresztowanie w celu zapewnienia stawiennictwa na posiedzeniu Sejmowej Komisji Śledczej posła Zbigniewa Ziobry (druk nr 1025)",
+    "topic": "głosowanie nad przyjęciem wniosku o wyrażenie zgody na aresztowanie w celu zapewnienia stawiennictwa na posiedzeniu Sejmowej Komisji Śledczej posła Zbigniewa Ziobry",
+    "date": "2025-02-20T20:59:53",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 15,
+    "title": "Pkt. 12 Sprawozdanie Komisji w sprawie wniosku Kierownika Zespołu Śledczego Nr 2 Prokuratury Krajowej z dnia 3 lutego 2025 r. o wyrażenie zgody przez Sejm na pociągnięcie do odpowiedzialności karnej  oraz zatrzymanie i tymczasowe aresztowanie posła Marcina Romanowskiego (druk nr 1026)",
+    "topic": "głosowanie nad przyjęciem wniosku o wyrażenie zgody na pociągnięcie do odpowiedzialności karnej posła Marcina Romanowskiego za czyn określony w punkcie pierwszym",
+    "date": "2025-02-20T21:02:22",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 16,
+    "title": "Pkt. 12 Sprawozdanie Komisji w sprawie wniosku Kierownika Zespołu Śledczego Nr 2 Prokuratury Krajowej z dnia 3 lutego 2025 r. o wyrażenie zgody przez Sejm na pociągnięcie do odpowiedzialności karnej  oraz zatrzymanie i tymczasowe aresztowanie posła Marcina Romanowskiego (druk nr 1026)",
+    "topic": "głosowanie nad przyjęciem wniosku o wyrażenie zgody na pociągnięcie do odpowiedzialności karnej posła Marcina Romanowskiego za czyn określony w punkcie drugim",
+    "date": "2025-02-20T21:03:09",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 17,
+    "title": "Pkt. 12 Sprawozdanie Komisji w sprawie wniosku Kierownika Zespołu Śledczego Nr 2 Prokuratury Krajowej z dnia 3 lutego 2025 r. o wyrażenie zgody przez Sejm na pociągnięcie do odpowiedzialności karnej  oraz zatrzymanie i tymczasowe aresztowanie posła Marcina Romanowskiego (druk nr 1026)",
+    "topic": "głosowanie nad przyjęciem wniosku o wyrażenie zgody na pociągnięcie do odpowiedzialności karnej posła Marcina Romanowskiego za czyn określony w punkcie trzecim",
+    "date": "2025-02-20T21:03:56",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 18,
+    "title": "Pkt. 12 Sprawozdanie Komisji w sprawie wniosku Kierownika Zespołu Śledczego Nr 2 Prokuratury Krajowej z dnia 3 lutego 2025 r. o wyrażenie zgody przez Sejm na pociągnięcie do odpowiedzialności karnej  oraz zatrzymanie i tymczasowe aresztowanie posła Marcina Romanowskiego (druk nr 1026)",
+    "topic": "głosowanie nad przyjęciem wniosku o wyrażenie zgody na pociągnięcie do odpowiedzialności karnej posła Marcina Romanowskiego za czyn określony w punkcie czwartym",
+    "date": "2025-02-20T21:04:41",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 19,
+    "title": "Pkt. 12 Sprawozdanie Komisji w sprawie wniosku Kierownika Zespołu Śledczego Nr 2 Prokuratury Krajowej z dnia 3 lutego 2025 r. o wyrażenie zgody przez Sejm na pociągnięcie do odpowiedzialności karnej  oraz zatrzymanie i tymczasowe aresztowanie posła Marcina Romanowskiego (druk nr 1026)",
+    "topic": "głosowanie nad przyjęciem wniosku o wyrażenie zgody na pociągnięcie do odpowiedzialności karnej posła Marcina Romanowskiego za czyn określony w punkcie piątym",
+    "date": "2025-02-20T21:05:24",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 20,
+    "title": "Pkt. 12 Sprawozdanie Komisji w sprawie wniosku Kierownika Zespołu Śledczego Nr 2 Prokuratury Krajowej z dnia 3 lutego 2025 r. o wyrażenie zgody przez Sejm na pociągnięcie do odpowiedzialności karnej  oraz zatrzymanie i tymczasowe aresztowanie posła Marcina Romanowskiego (druk nr 1026)",
+    "topic": "głosowanie nad przyjęciem wniosku o wyrażenie zgody na pociągnięcie do odpowiedzialności karnej posła Marcina Romanowskiego za czyn określony w punkcie szóstym",
+    "date": "2025-02-20T21:06:10",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 21,
+    "title": "Pkt. 12 Sprawozdanie Komisji w sprawie wniosku Kierownika Zespołu Śledczego Nr 2 Prokuratury Krajowej z dnia 3 lutego 2025 r. o wyrażenie zgody przez Sejm na pociągnięcie do odpowiedzialności karnej  oraz zatrzymanie i tymczasowe aresztowanie posła Marcina Romanowskiego (druk nr 1026)",
+    "topic": "głosowanie nad przyjęciem wniosku o wyrażenie zgody na pociągnięcie do odpowiedzialności karnej posła Marcina Romanowskiego za czyn określony w punkcie siódmym",
+    "date": "2025-02-20T21:06:59",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 22,
+    "title": "Pkt. 12 Sprawozdanie Komisji w sprawie wniosku Kierownika Zespołu Śledczego Nr 2 Prokuratury Krajowej z dnia 3 lutego 2025 r. o wyrażenie zgody przez Sejm na pociągnięcie do odpowiedzialności karnej  oraz zatrzymanie i tymczasowe aresztowanie posła Marcina Romanowskiego (druk nr 1026)",
+    "topic": "głosowanie nad przyjęciem wniosku o wyrażenie zgody na pociągnięcie do odpowiedzialności karnej posła Marcina Romanowskiego za czyn określony w punkcie ósmym",
+    "date": "2025-02-20T21:07:51",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 23,
+    "title": "Pkt. 12 Sprawozdanie Komisji w sprawie wniosku Kierownika Zespołu Śledczego Nr 2 Prokuratury Krajowej z dnia 3 lutego 2025 r. o wyrażenie zgody przez Sejm na pociągnięcie do odpowiedzialności karnej  oraz zatrzymanie i tymczasowe aresztowanie posła Marcina Romanowskiego (druk nr 1026)",
+    "topic": "głosowanie nad przyjęciem wniosku o wyrażenie zgody na zatrzymanie i tymczasowe aresztowanie posła Marcina Romanowskiego",
+    "date": "2025-02-20T21:08:38",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 24,
+    "title": "Pkt. 14 Sprawozdanie Komisji w sprawie wniosku Zastępcy Prokuratora Regionalnego w Warszawie z dnia 19 grudnia 2024 r. o wyrażenie zgody przez Sejm na pociągnięcie do odpowiedzialności karnej posła Jana Krzysztofa Ardanowskiego (druk nr 986) - głosowanie",
+    "topic": "głosowanie nad przyjęciem wniosku o wyrażenie zgody na pociągnięcie do odpowiedzialności karnej posła Jana Krzysztofa Ardanowskiego za czyn określony w punkcie pierwszym",
+    "date": "2025-02-20T21:10:27",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 25,
+    "title": "Pkt. 14 Sprawozdanie Komisji w sprawie wniosku Zastępcy Prokuratora Regionalnego w Warszawie z dnia 19 grudnia 2024 r. o wyrażenie zgody przez Sejm na pociągnięcie do odpowiedzialności karnej posła Jana Krzysztofa Ardanowskiego (druk nr 986) - głosowanie",
+    "topic": "głosowanie nad przyjęciem wniosku o wyrażenie zgody na pociągnięcie do odpowiedzialności karnej posła Jana Krzysztofa Ardanowskiego za czyn określony w punkcie drugim",
+    "date": "2025-02-20T21:11:17",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 26,
+    "title": "29. posiedzenie Sejmu Rzeczypospolitej Polskiej w dniach 20 i 21 lutego 2025 r.",
+    "topic": "Wniosek o przerwę",
+    "date": "2025-02-21T18:15:55",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 27,
+    "title": "29. posiedzenie Sejmu Rzeczypospolitej Polskiej w dniach 20 i 21 lutego 2025 r.",
+    "topic": "Głosowanie kworum",
+    "date": "2025-02-21T18:22:37",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 28,
+    "title": "Pkt. 15 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o ochronie zdrowia przed następstwami używania tytoniu i wyrobów tytoniowych (druki nr 982 i 1029)",
+    "topic": "głosowanie nad całością projektu.",
+    "date": "2025-02-21T18:25:26",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 29,
+    "title": "Pkt. 20 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o rynku mocy oraz niektórych innych ustaw (druki nr 1008 i 1031)",
+    "topic": "głosowanie nad całością projektu.",
+    "date": "2025-02-21T18:30:20",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 30,
+    "title": "Pkt. 26 Pierwsze czytanie poselskiego projektu ustawy o zmianie ustawy o Instytucie Pamięci Narodowej - Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu oraz ustawy - Kodeks karny (druk nr 908) - kontynuacja",
+    "topic": "wniosek o przystąpienie do drugiego czytania  bez kierowania projektu do komisji",
+    "date": "2025-02-21T18:31:48",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 31,
+    "title": "Pkt. 4 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o funduszach promocji produktów rolno-spożywczych (druki nr 953, 987 i 987-A)",
+    "topic": "poprawki nr 1 i 5",
+    "date": "2025-02-21T18:34:25",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 32,
+    "title": "Pkt. 4 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o funduszach promocji produktów rolno-spożywczych (druki nr 953, 987 i 987-A)",
+    "topic": "poprawki nr 2-4",
+    "date": "2025-02-21T18:35:00",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 33,
+    "title": "Pkt. 4 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o funduszach promocji produktów rolno-spożywczych (druki nr 953, 987 i 987-A)",
+    "topic": "poprawka 6",
+    "date": "2025-02-21T18:35:29",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 34,
+    "title": "Pkt. 4 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o funduszach promocji produktów rolno-spożywczych (druki nr 953, 987 i 987-A)",
+    "topic": "głosowanie nad całością projektu.",
+    "date": "2025-02-21T18:35:59",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 35,
+    "title": "Pkt. 5 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (druki nr 933, 957 i 957-A)",
+    "topic": "poprawki nr 1-2",
+    "date": "2025-02-21T18:37:22",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 36,
+    "title": "Pkt. 5 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (druki nr 933, 957 i 957-A)",
+    "topic": "głosowanie nad całością projektu.",
+    "date": "2025-02-21T18:37:50",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 37,
+    "title": "Pkt. 6 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej (druki nr 924, 1010 i 1010-A)",
+    "topic": "wniosek o odrzucenie w całości projektu.",
+    "date": "2025-02-21T18:45:41",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 38,
+    "title": "Pkt. 6 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej (druki nr 924, 1010 i 1010-A)",
+    "topic": "poprawka 1",
+    "date": "2025-02-21T18:46:29",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 39,
+    "title": "Pkt. 6 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej (druki nr 924, 1010 i 1010-A)",
+    "topic": "poprawka 2",
+    "date": "2025-02-21T18:56:05",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 40,
+    "title": "Pkt. 6 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej (druki nr 924, 1010 i 1010-A)",
+    "topic": "poprawka 3",
+    "date": "2025-02-21T19:00:29",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 41,
+    "title": "Pkt. 6 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej (druki nr 924, 1010 i 1010-A)",
+    "topic": "poprawka 4",
+    "date": "2025-02-21T19:00:59",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 42,
+    "title": "Pkt. 6 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej (druki nr 924, 1010 i 1010-A)",
+    "topic": "głosowanie nad całością projektu.",
+    "date": "2025-02-21T19:01:34",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 43,
+    "title": "Pkt. 16 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023-2027 oraz niektórych innych ustaw (druki nr 1009, 1028 i 1028-A)",
+    "topic": "wniosek o odrzucenie w całości projektu.",
+    "date": "2025-02-21T19:04:05",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 44,
+    "title": "Pkt. 16 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023-2027 oraz niektórych innych ustaw (druki nr 1009, 1028 i 1028-A)",
+    "topic": "głosowanie nad całością projektu.",
+    "date": "2025-02-21T19:10:48",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 45,
+    "title": "Pkt. 17 Sprawozdanie Komisji o rządowym projekcie ustawy o rynku pracy i służbach zatrudnienia (druki nr 948, 1021 i 1021-A)",
+    "topic": "poprawka 1",
+    "date": "2025-02-21T19:14:27",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 46,
+    "title": "Pkt. 17 Sprawozdanie Komisji o rządowym projekcie ustawy o rynku pracy i służbach zatrudnienia (druki nr 948, 1021 i 1021-A)",
+    "topic": "wniosek mniejszości 1",
+    "date": "2025-02-21T19:14:54",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 47,
+    "title": "Pkt. 17 Sprawozdanie Komisji o rządowym projekcie ustawy o rynku pracy i służbach zatrudnienia (druki nr 948, 1021 i 1021-A)",
+    "topic": "wniosek mniejszości 2",
+    "date": "2025-02-21T19:15:24",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 48,
+    "title": "Pkt. 17 Sprawozdanie Komisji o rządowym projekcie ustawy o rynku pracy i służbach zatrudnienia (druki nr 948, 1021 i 1021-A)",
+    "topic": "wniosek mniejszości 3",
+    "date": "2025-02-21T19:15:53",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 49,
+    "title": "Pkt. 17 Sprawozdanie Komisji o rządowym projekcie ustawy o rynku pracy i służbach zatrudnienia (druki nr 948, 1021 i 1021-A)",
+    "topic": "poprawka 2",
+    "date": "2025-02-21T19:17:31",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 50,
+    "title": "Pkt. 17 Sprawozdanie Komisji o rządowym projekcie ustawy o rynku pracy i służbach zatrudnienia (druki nr 948, 1021 i 1021-A)",
+    "topic": "głosowanie nad całością projektu.",
+    "date": "2025-02-21T19:18:01",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 51,
+    "title": "Pkt. 18 Sprawozdanie Komisji o rządowym projekcie ustawy o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (druki nr 949, 1022 i 1022-A)",
+    "topic": "wniosek o odrzucenie w całości projektu.",
+    "date": "2025-02-21T19:20:13",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 52,
+    "title": "Pkt. 18 Sprawozdanie Komisji o rządowym projekcie ustawy o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (druki nr 949, 1022 i 1022-A)",
+    "topic": "wniosek mniejszości 1",
+    "date": "2025-02-21T19:20:41",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 53,
+    "title": "Pkt. 18 Sprawozdanie Komisji o rządowym projekcie ustawy o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (druki nr 949, 1022 i 1022-A)",
+    "topic": "poprawka 1",
+    "date": "2025-02-21T19:21:08",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 54,
+    "title": "Pkt. 18 Sprawozdanie Komisji o rządowym projekcie ustawy o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (druki nr 949, 1022 i 1022-A)",
+    "topic": "poprawki nr 2 i 14",
+    "date": "2025-02-21T19:22:35",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 55,
+    "title": "Pkt. 18 Sprawozdanie Komisji o rządowym projekcie ustawy o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (druki nr 949, 1022 i 1022-A)",
+    "topic": "wniosek mniejszości 2",
+    "date": "2025-02-21T19:23:02",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 56,
+    "title": "Pkt. 18 Sprawozdanie Komisji o rządowym projekcie ustawy o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (druki nr 949, 1022 i 1022-A)",
+    "topic": "poprawka 3",
+    "date": "2025-02-21T19:23:30",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 57,
+    "title": "Pkt. 18 Sprawozdanie Komisji o rządowym projekcie ustawy o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (druki nr 949, 1022 i 1022-A)",
+    "topic": "poprawki nr 4, 6-7 i 15",
+    "date": "2025-02-21T19:25:53",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 58,
+    "title": "Pkt. 18 Sprawozdanie Komisji o rządowym projekcie ustawy o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (druki nr 949, 1022 i 1022-A)",
+    "topic": "poprawki nr 5 i 9",
+    "date": "2025-02-21T19:26:23",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 60,
+    "title": "Pkt. 18 Sprawozdanie Komisji o rządowym projekcie ustawy o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (druki nr 949, 1022 i 1022-A)",
+    "topic": "poprawka 8",
+    "date": "2025-02-21T19:28:24",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 61,
+    "title": "Pkt. 18 Sprawozdanie Komisji o rządowym projekcie ustawy o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (druki nr 949, 1022 i 1022-A)",
+    "topic": "poprawka 10",
+    "date": "2025-02-21T19:28:56",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 62,
+    "title": "Pkt. 18 Sprawozdanie Komisji o rządowym projekcie ustawy o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (druki nr 949, 1022 i 1022-A)",
+    "topic": "wniosek mniejszości 3",
+    "date": "2025-02-21T19:29:25",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 63,
+    "title": "Pkt. 18 Sprawozdanie Komisji o rządowym projekcie ustawy o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (druki nr 949, 1022 i 1022-A)",
+    "topic": "poprawka 11",
+    "date": "2025-02-21T19:29:56",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 64,
+    "title": "Pkt. 18 Sprawozdanie Komisji o rządowym projekcie ustawy o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (druki nr 949, 1022 i 1022-A)",
+    "topic": "poprawka 12",
+    "date": "2025-02-21T19:30:26",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 65,
+    "title": "Pkt. 18 Sprawozdanie Komisji o rządowym projekcie ustawy o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (druki nr 949, 1022 i 1022-A)",
+    "topic": "poprawka 13",
+    "date": "2025-02-21T19:30:53",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 66,
+    "title": "Pkt. 18 Sprawozdanie Komisji o rządowym projekcie ustawy o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (druki nr 949, 1022 i 1022-A)",
+    "topic": "wniosek mniejszości 4",
+    "date": "2025-02-21T19:31:20",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 67,
+    "title": "Pkt. 18 Sprawozdanie Komisji o rządowym projekcie ustawy o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (druki nr 949, 1022 i 1022-A)",
+    "topic": "wniosek mniejszości 5",
+    "date": "2025-02-21T19:31:47",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 68,
+    "title": "Pkt. 18 Sprawozdanie Komisji o rządowym projekcie ustawy o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (druki nr 949, 1022 i 1022-A)",
+    "topic": "poprawka 16",
+    "date": "2025-02-21T19:32:20",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 69,
+    "title": "Pkt. 18 Sprawozdanie Komisji o rządowym projekcie ustawy o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (druki nr 949, 1022 i 1022-A)",
+    "topic": "poprawka 17",
+    "date": "2025-02-21T19:35:16",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 70,
+    "title": "Pkt. 18 Sprawozdanie Komisji o rządowym projekcie ustawy o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (druki nr 949, 1022 i 1022-A)",
+    "topic": "poprawka 18",
+    "date": "2025-02-21T19:35:56",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 71,
+    "title": "Pkt. 18 Sprawozdanie Komisji o rządowym projekcie ustawy o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (druki nr 949, 1022 i 1022-A)",
+    "topic": "głosowanie nad całością projektu.",
+    "date": "2025-02-21T19:38:29",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 72,
+    "title": "Pkt. 19 Sprawozdanie Komisji o poselskim projekcie ustawy zmieniającej ustawę o zmianie ustawy o finansowym wsparciu tworzenia lokali socjalnych, mieszkań chronionych, noclegowni i domów dla bezdomnych, ustawy o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego oraz niektórych innych ustaw (druki nr 954 i 1027)",
+    "topic": "wnioski mniejszości nr 1-2",
+    "date": "2025-02-21T19:42:44",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 73,
+    "title": "Pkt. 19 Sprawozdanie Komisji o poselskim projekcie ustawy zmieniającej ustawę o zmianie ustawy o finansowym wsparciu tworzenia lokali socjalnych, mieszkań chronionych, noclegowni i domów dla bezdomnych, ustawy o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego oraz niektórych innych ustaw (druki nr 954 i 1027)",
+    "topic": "głosowanie nad całością projektu.",
+    "date": "2025-02-21T19:43:15",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 74,
+    "title": "Pkt. 24 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o wykonywaniu mandatu posła i senatora (druki nr 1016 i 1023)",
+    "topic": "poprawki nr 1-2",
+    "date": "2025-02-21T19:44:56",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 75,
+    "title": "Pkt. 25 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o biokomponentach i biopaliwach ciekłych oraz niektórych innych ustaw (druki nr 1017 i 1033)",
+    "topic": "poprawki nr 1-2",
+    "date": "2025-02-21T19:46:55",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 76,
+    "title": "Pkt. 25 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o biokomponentach i biopaliwach ciekłych oraz niektórych innych ustaw (druki nr 1017 i 1033)",
+    "topic": "poprawka 3",
+    "date": "2025-02-21T19:47:28",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 77,
+    "title": "Pkt. 25 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o biokomponentach i biopaliwach ciekłych oraz niektórych innych ustaw (druki nr 1017 i 1033)",
+    "topic": "poprawka 4",
+    "date": "2025-02-21T19:48:07",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 78,
+    "title": "Pkt. 23 Wybór sędziów Trybunału Konstytucyjnego (druki nr 898, 899, 1019 i 1020)",
+    "topic": "głosowanie nad kandydaturą Pana Marka Asta na stanowisko sędziego Trybunału Konstytucyjnego",
+    "date": "2025-02-21T20:06:56",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 79,
+    "title": "Pkt. 23 Wybór sędziów Trybunału Konstytucyjnego (druki nr 898, 899, 1019 i 1020)",
+    "topic": "głosowanie nad kandydaturą Pana Artura Kotowskiego na stanowisko sędziego Trybunału Konstytucyjnego",
+    "date": "2025-02-21T20:07:36",
+    "kind": "ELECTRONIC"
+  }
+]

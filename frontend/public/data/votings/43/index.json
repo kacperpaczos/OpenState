@@ -1,0 +1,534 @@
+[
+  {
+    "votingNumber": 1,
+    "title": "Głosowanie proceduralne dotyczące druku 1802",
+    "topic": "wniosek o skrócenie terminu, o którym mowa w art. 44 ust. 3 regulaminu Sejmu w sprawie sprawozdania z druku nr 1802",
+    "date": "2025-10-15T10:11:50",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 2,
+    "title": "Głosowanie proceduralne dotyczące druku 1801",
+    "topic": "wniosek o skrócenie terminu, o którym mowa w art. 44 ust. 3 regulaminu Sejmu w sprawie sprawozdania z druku nr 1801",
+    "date": "2025-10-15T10:12:30",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 3,
+    "title": "Głosowanie proceduralne dotyczące druku 1769",
+    "topic": "wniosek o skrócenie terminu, o którym mowa w art. 44 ust. 3 regulaminu Sejmu w sprawie sprawozdania z druku nr 1769",
+    "date": "2025-10-15T10:13:37",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 4,
+    "title": "43. posiedzenie Sejmu Rzeczypospolitej Polskiej w dniach 15, 16 i 17 października 2025 r.",
+    "topic": "wniosek o odroczenie posiedzenia",
+    "date": "2025-10-15T10:21:38",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 5,
+    "title": "43. posiedzenie Sejmu Rzeczypospolitej Polskiej w dniach 15, 16 i 17 października 2025 r.",
+    "topic": "Głosowanie kworum",
+    "date": "2025-10-15T10:33:17",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 6,
+    "title": "Głosowanie proceduralne dotyczące druku 1825",
+    "topic": "wniosek o skrócenie terminu, o którym mowa w art. 37 ust. 4 regulaminu Sejmu w sprawie przedłożenia z druku nr 1825",
+    "date": "2025-10-15T16:26:57",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 7,
+    "title": "Głosowanie proceduralne dotyczące druku 1826",
+    "topic": "wniosek o skrócenie terminu, o którym mowa w art. 37 ust. 4 regulaminu Sejmu w sprawie przedłożenia z druku nr 1826",
+    "date": "2025-10-15T16:27:59",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 8,
+    "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o układach zbiorowych pracy i porozumieniach zbiorowych (druki nr 1627 i 1791)",
+    "topic": "wniosek o przystąpienie do trzeciego czytania bez kierowania projektu do komisji",
+    "date": "2025-10-15T16:29:16",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 9,
+    "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o układach zbiorowych pracy i porozumieniach zbiorowych (druki nr 1627 i 1791)",
+    "topic": "poprawki nr 1, 11 i 17",
+    "date": "2025-10-15T16:31:11",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 10,
+    "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o układach zbiorowych pracy i porozumieniach zbiorowych (druki nr 1627 i 1791)",
+    "topic": "poprawka 2",
+    "date": "2025-10-15T16:31:42",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 11,
+    "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o układach zbiorowych pracy i porozumieniach zbiorowych (druki nr 1627 i 1791)",
+    "topic": "poprawki nr 3 i 5",
+    "date": "2025-10-15T16:32:26",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 12,
+    "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o układach zbiorowych pracy i porozumieniach zbiorowych (druki nr 1627 i 1791)",
+    "topic": "poprawka 14",
+    "date": "2025-10-15T16:33:06",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 13,
+    "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o układach zbiorowych pracy i porozumieniach zbiorowych (druki nr 1627 i 1791)",
+    "topic": "poprawka 4",
+    "date": "2025-10-15T16:33:40",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 14,
+    "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o układach zbiorowych pracy i porozumieniach zbiorowych (druki nr 1627 i 1791)",
+    "topic": "poprawki nr 6 i 12",
+    "date": "2025-10-15T16:34:10",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 15,
+    "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o układach zbiorowych pracy i porozumieniach zbiorowych (druki nr 1627 i 1791)",
+    "topic": "poprawka 7",
+    "date": "2025-10-15T16:34:37",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 16,
+    "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o układach zbiorowych pracy i porozumieniach zbiorowych (druki nr 1627 i 1791)",
+    "topic": "poprawka 8",
+    "date": "2025-10-15T16:35:11",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 17,
+    "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o układach zbiorowych pracy i porozumieniach zbiorowych (druki nr 1627 i 1791)",
+    "topic": "poprawka 10",
+    "date": "2025-10-15T16:35:44",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 18,
+    "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o układach zbiorowych pracy i porozumieniach zbiorowych (druki nr 1627 i 1791)",
+    "topic": "poprawka 13",
+    "date": "2025-10-15T16:36:14",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 19,
+    "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o układach zbiorowych pracy i porozumieniach zbiorowych (druki nr 1627 i 1791)",
+    "topic": "poprawka 15",
+    "date": "2025-10-15T16:36:40",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 20,
+    "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o układach zbiorowych pracy i porozumieniach zbiorowych (druki nr 1627 i 1791)",
+    "topic": "poprawka 16",
+    "date": "2025-10-15T16:37:09",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 21,
+    "title": "Pkt. 1 Sprawozdanie Komisji o rządowym projekcie ustawy o układach zbiorowych pracy i porozumieniach zbiorowych (druki nr 1627 i 1791)",
+    "topic": "głosowanie nad całością projektu.",
+    "date": "2025-10-15T16:37:37",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 22,
+    "title": "Głosowanie proceduralne dotyczące uchwały Senatu z druku 1834",
+    "topic": "wniosek o skrócenie terminu, o którym mowa w art. 54 ust. 5 regulaminu Sejmu w sprawie sprawozdania z druku nr 1840",
+    "date": "2025-10-17T09:21:22",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 23,
+    "title": "43. posiedzenie Sejmu Rzeczypospolitej Polskiej w dniach 15, 16 i 17 października 2025 r.",
+    "topic": "Wniosek o przerwę",
+    "date": "2025-10-17T09:24:53",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 24,
+    "title": "43. posiedzenie Sejmu Rzeczypospolitej Polskiej w dniach 15, 16 i 17 października 2025 r.",
+    "topic": "wniosek o odroczenie posiedzenia",
+    "date": "2025-10-17T09:29:37",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 25,
+    "title": "43. posiedzenie Sejmu Rzeczypospolitej Polskiej w dniach 15, 16 i 17 października 2025 r.",
+    "topic": "Głosowanie kworum",
+    "date": "2025-10-17T09:36:27",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 26,
+    "title": "Pkt. 11 Sprawozdanie Komisji o poselskim projekcie uchwały w sprawie upamiętnienia 200. rocznicy urodzin Karola Miarki (starszego), wybitnego działacza społecznego Ziemi Śląskiej (druki nr 1710 i 1755)",
+    "topic": "głosowanie nad całością projektu.",
+    "date": "2025-10-17T09:43:11",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 27,
+    "title": "Pkt. 5 Sprawozdanie Komisji o rządowym projekcie ustawy o zdrowiu zwierząt (druki nr 1479 i 1803)",
+    "topic": "głosowanie nad całością projektu.",
+    "date": "2025-10-17T09:43:53",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 28,
+    "title": "Pkt. 6 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności (druki nr 1634 i 1782)",
+    "topic": "głosowanie nad całością projektu.",
+    "date": "2025-10-17T09:44:40",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 29,
+    "title": "Pkt. 8 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o zdrowiu publicznym (druki nr 1107 i 1793)",
+    "topic": "głosowanie nad całością projektu.",
+    "date": "2025-10-17T09:45:25",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 30,
+    "title": "Pkt. 2 Sprawozdanie Komisji o senackim projekcie ustawy o zmianie ustawy o rzecznikach patentowych (druki nr 1649, 1722 i 1722-A)",
+    "topic": "poprawka 1",
+    "date": "2025-10-17T09:48:08",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 31,
+    "title": "Pkt. 2 Sprawozdanie Komisji o senackim projekcie ustawy o zmianie ustawy o rzecznikach patentowych (druki nr 1649, 1722 i 1722-A)",
+    "topic": "poprawki nr 2-3",
+    "date": "2025-10-17T09:48:35",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 32,
+    "title": "Pkt. 2 Sprawozdanie Komisji o senackim projekcie ustawy o zmianie ustawy o rzecznikach patentowych (druki nr 1649, 1722 i 1722-A)",
+    "topic": "poprawka 4",
+    "date": "2025-10-17T09:49:02",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 33,
+    "title": "Pkt. 2 Sprawozdanie Komisji o senackim projekcie ustawy o zmianie ustawy o rzecznikach patentowych (druki nr 1649, 1722 i 1722-A)",
+    "topic": "poprawka 5",
+    "date": "2025-10-17T09:49:30",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 34,
+    "title": "Pkt. 2 Sprawozdanie Komisji o senackim projekcie ustawy o zmianie ustawy o rzecznikach patentowych (druki nr 1649, 1722 i 1722-A)",
+    "topic": "głosowanie nad całością projektu.",
+    "date": "2025-10-17T09:49:59",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 35,
+    "title": "Pkt. 3 Sprawozdanie Komisji o poselskim projekcie ustawy o zmianie ustawy - Kodeks wyborczy (druki nr 1389, 1715 i 1715-A)",
+    "topic": "wniosek o odrzucenie w całości projektu.",
+    "date": "2025-10-17T09:51:36",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 36,
+    "title": "Pkt. 3 Sprawozdanie Komisji o poselskim projekcie ustawy o zmianie ustawy - Kodeks wyborczy (druki nr 1389, 1715 i 1715-A)",
+    "topic": "głosowanie nad całością projektu.",
+    "date": "2025-10-17T09:52:03",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 37,
+    "title": "Pkt. 4 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym oraz niektórych innych ustaw (druki nr 1638, 1773 i 1773-A)",
+    "topic": "poprawka 1",
+    "date": "2025-10-17T09:54:57",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 38,
+    "title": "Pkt. 4 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym oraz niektórych innych ustaw (druki nr 1638, 1773 i 1773-A)",
+    "topic": "poprawka 2",
+    "date": "2025-10-17T09:55:29",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 39,
+    "title": "Pkt. 4 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym oraz niektórych innych ustaw (druki nr 1638, 1773 i 1773-A)",
+    "topic": "poprawka 3",
+    "date": "2025-10-17T09:55:56",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 40,
+    "title": "Pkt. 4 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym oraz niektórych innych ustaw (druki nr 1638, 1773 i 1773-A)",
+    "topic": "głosowanie nad całością projektu.",
+    "date": "2025-10-17T09:58:19",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 41,
+    "title": "Pkt. 7 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o cudzoziemcach oraz niektórych innych ustaw (druki nr 1630, 1775 i 1775-A)",
+    "topic": "poprawka 1",
+    "date": "2025-10-17T09:59:56",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 42,
+    "title": "Pkt. 7 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o cudzoziemcach oraz niektórych innych ustaw (druki nr 1630, 1775 i 1775-A)",
+    "topic": "poprawka 2",
+    "date": "2025-10-17T10:00:24",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 43,
+    "title": "Pkt. 7 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o cudzoziemcach oraz niektórych innych ustaw (druki nr 1630, 1775 i 1775-A)",
+    "topic": "poprawka 3",
+    "date": "2025-10-17T10:00:53",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 44,
+    "title": "Pkt. 7 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o cudzoziemcach oraz niektórych innych ustaw (druki nr 1630, 1775 i 1775-A)",
+    "topic": "głosowanie nad całością projektu.",
+    "date": "2025-10-17T10:01:19",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 45,
+    "title": "Pkt. 9 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o podatku dochodowym od osób prawnych i ustawy o podatku od niektórych instytucji finansowych (druki nr 1752 i 1802)",
+    "topic": "wniosek mniejszości 1",
+    "date": "2025-10-17T10:02:24",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 46,
+    "title": "Pkt. 9 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o podatku dochodowym od osób prawnych i ustawy o podatku od niektórych instytucji finansowych (druki nr 1752 i 1802)",
+    "topic": "wniosek mniejszości 2",
+    "date": "2025-10-17T10:02:55",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 47,
+    "title": "Pkt. 9 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o podatku dochodowym od osób prawnych i ustawy o podatku od niektórych instytucji finansowych (druki nr 1752 i 1802)",
+    "topic": "głosowanie nad całością projektu.",
+    "date": "2025-10-17T10:03:21",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 48,
+    "title": "Pkt. 10 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o podatku dochodowym od osób prawnych (druki nr 1753, 1801 i 1801-A)",
+    "topic": "wniosek o odrzucenie w całości projektu.",
+    "date": "2025-10-17T10:04:53",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 49,
+    "title": "Pkt. 10 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o podatku dochodowym od osób prawnych (druki nr 1753, 1801 i 1801-A)",
+    "topic": "głosowanie nad całością projektu.",
+    "date": "2025-10-17T10:05:20",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 50,
+    "title": "Pkt. 12 Sprawozdanie Komisji o poselskich projektach ustaw o zmianie ustawy o ochronie zwierząt (druki nr 703, 835, 1769 i 1769-A)",
+    "topic": "poprawka 1",
+    "date": "2025-10-17T10:11:20",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 51,
+    "title": "Pkt. 12 Sprawozdanie Komisji o poselskich projektach ustaw o zmianie ustawy o ochronie zwierząt (druki nr 703, 835, 1769 i 1769-A)",
+    "topic": "wnioski mniejszości nr 1 i 4",
+    "date": "2025-10-17T10:12:01",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 52,
+    "title": "Pkt. 12 Sprawozdanie Komisji o poselskich projektach ustaw o zmianie ustawy o ochronie zwierząt (druki nr 703, 835, 1769 i 1769-A)",
+    "topic": "wniosek mniejszości 2",
+    "date": "2025-10-17T10:12:30",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 53,
+    "title": "Pkt. 12 Sprawozdanie Komisji o poselskich projektach ustaw o zmianie ustawy o ochronie zwierząt (druki nr 703, 835, 1769 i 1769-A)",
+    "topic": "poprawka 2",
+    "date": "2025-10-17T10:12:57",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 54,
+    "title": "Pkt. 12 Sprawozdanie Komisji o poselskich projektach ustaw o zmianie ustawy o ochronie zwierząt (druki nr 703, 835, 1769 i 1769-A)",
+    "topic": "wniosek mniejszości 3",
+    "date": "2025-10-17T10:13:24",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 55,
+    "title": "Pkt. 12 Sprawozdanie Komisji o poselskich projektach ustaw o zmianie ustawy o ochronie zwierząt (druki nr 703, 835, 1769 i 1769-A)",
+    "topic": "poprawka 3",
+    "date": "2025-10-17T10:13:54",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 56,
+    "title": "Pkt. 12 Sprawozdanie Komisji o poselskich projektach ustaw o zmianie ustawy o ochronie zwierząt (druki nr 703, 835, 1769 i 1769-A)",
+    "topic": "poprawka 4",
+    "date": "2025-10-17T10:14:26",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 57,
+    "title": "Pkt. 12 Sprawozdanie Komisji o poselskich projektach ustaw o zmianie ustawy o ochronie zwierząt (druki nr 703, 835, 1769 i 1769-A)",
+    "topic": "głosowanie nad całością projektu.",
+    "date": "2025-10-17T10:14:57",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 58,
+    "title": "Pkt. 15 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw (druki nr 1677, 1794 i 1794-A)",
+    "topic": "poprawki nr 1 i 5",
+    "date": "2025-10-17T10:17:15",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 59,
+    "title": "Pkt. 15 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw (druki nr 1677, 1794 i 1794-A)",
+    "topic": "poprawka 2",
+    "date": "2025-10-17T10:17:46",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 60,
+    "title": "Pkt. 15 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw (druki nr 1677, 1794 i 1794-A)",
+    "topic": "poprawka 3",
+    "date": "2025-10-17T10:18:16",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 61,
+    "title": "Pkt. 15 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw (druki nr 1677, 1794 i 1794-A)",
+    "topic": "wniosek mniejszości 1",
+    "date": "2025-10-17T10:18:42",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 62,
+    "title": "Pkt. 15 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw (druki nr 1677, 1794 i 1794-A)",
+    "topic": "wniosek mniejszości 2",
+    "date": "2025-10-17T10:19:09",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 63,
+    "title": "Pkt. 15 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw (druki nr 1677, 1794 i 1794-A)",
+    "topic": "poprawki nr 4 i 8",
+    "date": "2025-10-17T10:20:56",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 64,
+    "title": "Pkt. 15 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw (druki nr 1677, 1794 i 1794-A)",
+    "topic": "wniosek mniejszości 3",
+    "date": "2025-10-17T10:21:53",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 65,
+    "title": "Pkt. 15 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw (druki nr 1677, 1794 i 1794-A)",
+    "topic": "poprawki nr 6 i 9",
+    "date": "2025-10-17T10:22:31",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 66,
+    "title": "Pkt. 15 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw (druki nr 1677, 1794 i 1794-A)",
+    "topic": "poprawka 7",
+    "date": "2025-10-17T10:22:58",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 67,
+    "title": "Pkt. 15 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw (druki nr 1677, 1794 i 1794-A)",
+    "topic": "głosowanie nad całością projektu.",
+    "date": "2025-10-17T10:23:26",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 68,
+    "title": "Pkt. 16 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Prawo o notariacie oraz ustawy o księgach wieczystych i hipotece (druki nr 1444 i 1675)",
+    "topic": "głosowanie nad całością projektu.",
+    "date": "2025-10-17T10:27:11",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 69,
+    "title": "Pkt. 18 Sprawozdanie Komisji o rządowym projekcie ustawy o ratyfikacji Umowy o ochronie inwestycji między Unią Europejską i jej państwami członkowskimi, z jednej strony, a Socjalistyczną Republiką Wietnamu, z drugiej strony, sporządzonej w Hanoi dnia 30 czerwca 2019 r. (druki nr 1747 i 1783)",
+    "topic": "głosowanie nad całością projektu.",
+    "date": "2025-10-17T10:28:44",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 70,
+    "title": "Pkt. 20 Pierwsze czytanie rządowego projektu ustawy o zmianie ustawy o świadczeniu usług drogą elektroniczną oraz niektórych innych ustaw (druk nr 1757)",
+    "topic": "wniosek o odrzucenie projektu w pierwszym czytaniu.",
+    "date": "2025-10-17T10:29:50",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 71,
+    "title": "Pkt. 21 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o Centralnej Ewidencji i Informacji o Działalności Gospodarczej i Punkcie Informacji dla Przedsiębiorcy oraz ustawy o podatku od towarów i usług (druki nr 1741 i 1770)",
+    "topic": "poprawka 1",
+    "date": "2025-10-17T10:31:35",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 72,
+    "title": "Pkt. 22 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o rozpatrywaniu reklamacji przez podmioty rynku finansowego, o Rzeczniku Finansowym i o Funduszu Edukacji Finansowej (druki nr 1744 i 1771)",
+    "topic": "poprawka 1",
+    "date": "2025-10-17T10:33:27",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 73,
+    "title": "Pkt. 22 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o rozpatrywaniu reklamacji przez podmioty rynku finansowego, o Rzeczniku Finansowym i o Funduszu Edukacji Finansowej (druki nr 1744 i 1771)",
+    "topic": "poprawka 2",
+    "date": "2025-10-17T10:34:00",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 74,
+    "title": "Pkt. 27 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o utworzeniu Parku Narodowego Doliny Dolnej Odry (druki nr 1834 i 1840)",
+    "topic": "poprawka 1",
+    "date": "2025-10-17T10:36:18",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 75,
+    "title": "Pkt. 27 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o utworzeniu Parku Narodowego Doliny Dolnej Odry (druki nr 1834 i 1840)",
+    "topic": "poprawka 2",
+    "date": "2025-10-17T10:37:07",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 76,
+    "title": "Pkt. 23 Zmiany w składach osobowych komisji sejmowych (druk nr 1832)",
+    "topic": "głosowanie nad przyjęciem wniosku z druku.",
+    "date": "2025-10-17T10:38:15",
+    "kind": "ELECTRONIC"
+  }
+]

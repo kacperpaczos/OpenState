@@ -1,0 +1,863 @@
+[
+  {
+    "votingNumber": 1,
+    "title": "40. posiedzenie Sejmu Rzeczypospolitej Polskiej w dniach 9, 10, 11 i 12 września 2025 r.",
+    "topic": "Wniosek o przerwę",
+    "date": "2025-09-09T12:17:11",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 2,
+    "title": "40. posiedzenie Sejmu Rzeczypospolitej Polskiej w dniach 9, 10, 11 i 12 września 2025 r.",
+    "topic": "wniosek o odroczenie posiedzenia",
+    "date": "2025-09-09T12:19:28",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 3,
+    "title": "Pkt. 1 Zmiany w składach osobowych komisji sejmowych (druk nr 1664)",
+    "topic": "głosowanie nad przyjęciem wniosku z druku.",
+    "date": "2025-09-09T12:31:02",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 4,
+    "title": "Głosowanie proceduralne dotyczące druku 1625",
+    "topic": "wniosek o skrócenie terminu, o którym mowa w art. 37 ust. 4 regulaminu Sejmu w sprawie przedłożenia z druku nr 1625",
+    "date": "2025-09-10T10:35:49",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 5,
+    "title": "Głosowanie proceduralne dotyczące druku 1684",
+    "topic": "wniosek o skrócenie terminu, o którym mowa w art. 37 ust. 4 regulaminu Sejmu w sprawie przedłożenia z druku nr 1684",
+    "date": "2025-09-10T10:36:33",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 6,
+    "title": "Głosowanie proceduralne dotyczące druku 1685",
+    "topic": "wniosek o skrócenie terminu, o którym mowa w art. 37 ust. 4 regulaminu Sejmu w sprawie przedłożenia z druku nr 1685",
+    "date": "2025-09-10T10:37:22",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 7,
+    "title": "Głosowanie proceduralne dotyczące druku 1568",
+    "topic": "wniosek o skrócenie terminu, o którym mowa w art. 44 ust. 3 regulaminu Sejmu w sprawie sprawozdania z druku nr 1568",
+    "date": "2025-09-10T10:38:38",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 8,
+    "title": "Głosowanie proceduralne dotyczące druku 1570",
+    "topic": "wniosek o skrócenie terminu, o którym mowa w art. 44 ust. 3 regulaminu Sejmu w sprawie sprawozdania z druku nr 1570",
+    "date": "2025-09-10T10:39:18",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 9,
+    "title": "40. posiedzenie Sejmu Rzeczypospolitej Polskiej w dniach 9, 10, 11 i 12 września 2025 r.",
+    "topic": "Wniosek o przerwę",
+    "date": "2025-09-10T16:23:25",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 10,
+    "title": "Pkt. 17 Pierwsze czytanie rządowego projektu ustawy o zmianie niektórych ustaw w celu weryfikacji prawa do świadczeń na rzecz rodziny dla cudzoziemców oraz o warunkach pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa (druk nr 1685)",
+    "topic": "wniosek o odrzucenie projektu w pierwszym czytaniu.",
+    "date": "2025-09-10T16:31:21",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 11,
+    "title": "Głosowanie proceduralne dotyczące druku 1687",
+    "topic": "wniosek o skrócenie terminu, o którym mowa w art. 44 ust. 3 regulaminu Sejmu w sprawie sprawozdania z druku nr 1687",
+    "date": "2025-09-11T16:44:07",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 12,
+    "title": "Głosowanie proceduralne dotyczące druku 1686",
+    "topic": "wniosek o skrócenie terminu, o którym mowa w art. 44 ust. 3 regulaminu Sejmu w sprawie sprawozdania z druku nr 1686",
+    "date": "2025-09-11T16:44:54",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 13,
+    "title": "Głosowanie proceduralne dotyczące druku 1696",
+    "topic": "wniosek o skrócenie terminu, o którym mowa w art. 44 ust. 3 regulaminu Sejmu w sprawie sprawozdania z druku nr 1696",
+    "date": "2025-09-11T16:45:35",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 14,
+    "title": "Głosowanie proceduralne dotyczące druku 1697",
+    "topic": "wniosek o skrócenie terminu, o którym mowa w art. 44 ust. 3 regulaminu Sejmu w sprawie sprawozdania z druku nr 1697",
+    "date": "2025-09-11T16:46:20",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 15,
+    "title": "Głosowanie proceduralne dotyczące druku nr 1701",
+    "topic": "wniosek o skrócenie terminu, o którym mowa w art. 37 ust. 4 regulaminu Sejmu w sprawie przedłożenia z druku nr 1701",
+    "date": "2025-09-12T18:16:31",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 16,
+    "title": "40. posiedzenie Sejmu Rzeczypospolitej Polskiej w dniach 9, 10, 11 i 12 września 2025 r.",
+    "topic": "Wniosek o przerwę",
+    "date": "2025-09-12T18:31:49",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 17,
+    "title": "40. posiedzenie Sejmu Rzeczypospolitej Polskiej w dniach 9, 10, 11 i 12 września 2025 r.",
+    "topic": "wniosek o odroczenie posiedzenia",
+    "date": "2025-09-12T18:35:27",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 18,
+    "title": "Pkt. 2 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (druki nr 1450 i 1545)",
+    "topic": "głosowanie nad całością projektu.",
+    "date": "2025-09-12T18:39:36",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 19,
+    "title": "Pkt. 3 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o rozpatrywaniu reklamacji przez podmioty rynku finansowego, o Rzeczniku Finansowym i o Funduszu Edukacji Finansowej (druki nr 1434 i 1546)",
+    "topic": "głosowanie nad całością projektu.",
+    "date": "2025-09-12T18:40:40",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 20,
+    "title": "Pkt. 4 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Prawo farmaceutyczne (druki nr 1378 i 1508)",
+    "topic": "głosowanie nad całością projektu.",
+    "date": "2025-09-12T18:41:23",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 21,
+    "title": "Pkt. 5 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Kodeks postępowania karnego (druki nr 1402 i 1549)",
+    "topic": "głosowanie nad całością projektu.",
+    "date": "2025-09-12T18:42:07",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 22,
+    "title": "Pkt. 8 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o systemie ubezpieczeń społecznych (druki nr 1522 i 1566)",
+    "topic": "głosowanie nad całością projektu.",
+    "date": "2025-09-12T18:42:46",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 23,
+    "title": "Pkt. 12 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o Centralnej Ewidencji i Informacji o Działalności Gospodarczej i Punkcie Informacji dla Przedsiębiorcy oraz ustawy o podatku od towarów i usług (druki nr 1449 i 1565)",
+    "topic": "głosowanie nad całością projektu.",
+    "date": "2025-09-12T18:43:34",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 24,
+    "title": "Pkt. 21 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o sporcie (druki nr 1482 i 1596)",
+    "topic": "głosowanie nad całością projektu.",
+    "date": "2025-09-12T18:44:18",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 25,
+    "title": "Pkt. 22 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Prawo pocztowe (druki nr 1448 i 1568)",
+    "topic": "głosowanie nad całością projektu.",
+    "date": "2025-09-12T18:44:58",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 26,
+    "title": "Pkt. 23 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o produktach pochodzenia zwierzęcego oraz ustawy o bezpieczeństwie żywności i żywienia (druki nr 1435 i 1570)",
+    "topic": "głosowanie nad całością projektu.",
+    "date": "2025-09-12T18:45:46",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 27,
+    "title": "Pkt. 54 Powołanie Prezesa Najwyższej Izby Kontroli (druki nr 1575, 1576, 1672 i 1673)",
+    "topic": "głosowanie nad kandydaturą Pana Mariusza Haładyja na stanowisko Prezesa Najwyższej Izby Kontroli",
+    "date": "2025-09-12T19:04:24",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 28,
+    "title": "Pkt. 55 Wybór Przewodniczącego Państwowej Komisji do spraw przeciwdziałania wykorzystaniu seksualnemu małoletnich poniżej lat 15 (druk nr 1695)",
+    "topic": "głosowanie nad kandydaturą Pani Joanny Napierały na stanowisko Przewodniczącego Państwowej Komisji do spraw przeciwdziałania wykorzystaniu seksualnemu małoletnich poniżej lat 15",
+    "date": "2025-09-12T19:08:35",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 29,
+    "title": "Pkt. 56 Wybór sędziów Trybunału Konstytucyjnego (druki nr 1454, 1455, 1689 i 1690)",
+    "topic": "głosowanie nad kandydaturą Pana Marka Asta na stanowisko sędziego Trybunału Konstytucyjnego",
+    "date": "2025-09-12T19:17:31",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 30,
+    "title": "Pkt. 56 Wybór sędziów Trybunału Konstytucyjnego (druki nr 1454, 1455, 1689 i 1690)",
+    "topic": "głosowanie nad kandydaturą Pana Artura Kotowskiego na stanowisko sędziego Trybunału Konstytucyjnego",
+    "date": "2025-09-12T19:18:11",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 31,
+    "title": "40. posiedzenie Sejmu Rzeczypospolitej Polskiej w dniach 9, 10, 11 i 12 września 2025 r.",
+    "topic": "wniosek o zamknięcie dyskusji",
+    "date": "2025-09-12T19:25:56",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 32,
+    "title": "Pkt. 59 Pierwsze czytanie przedstawionego przez Prezydium Sejmu projektu uchwały w sprawie wyrażenia sprzeciwu wobec naruszenia przestrzeni powietrznej Rzeczypospolitej Polskiej przez Federację Rosyjską przy użyciu bezzałogowych statków powietrznych w dniach 9 i 10 września 2025 r. (druk nr 1701)",
+    "topic": "wniosek o przystąpienie do drugiego czytania  bez kierowania projektu do komisji",
+    "date": "2025-09-12T19:26:37",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 33,
+    "title": "Pkt. 59 Pierwsze czytanie przedstawionego przez Prezydium Sejmu projektu uchwały w sprawie wyrażenia sprzeciwu wobec naruszenia przestrzeni powietrznej Rzeczypospolitej Polskiej przez Federację Rosyjską przy użyciu bezzałogowych statków powietrznych w dniach 9 i 10 września 2025 r. (druk nr 1701)",
+    "topic": "wniosek o głosowanie bez dyskusji",
+    "date": "2025-09-12T19:27:18",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 34,
+    "title": "Pkt. 59 Pierwsze czytanie przedstawionego przez Prezydium Sejmu projektu uchwały w sprawie wyrażenia sprzeciwu wobec naruszenia przestrzeni powietrznej Rzeczypospolitej Polskiej przez Federację Rosyjską przy użyciu bezzałogowych statków powietrznych w dniach 9 i 10 września 2025 r. (druk nr 1701)",
+    "topic": "głosowanie nad całością projektu.",
+    "date": "2025-09-12T19:27:48",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 35,
+    "title": "Pkt. 45 Sprawozdanie Komisji o pilnym rządowym projekcie ustawy o zmianie ustawy o zapasach ropy naftowej, produktów naftowych i gazu ziemnego oraz zasadach postępowania w sytuacjach zagrożenia bezpieczeństwa paliwowego państwa i zakłóceń na rynku naftowym oraz ustawy - Prawo energetyczne (druki nr 1683 i 1691)",
+    "topic": "głosowanie nad całością projektu.",
+    "date": "2025-09-12T19:29:03",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 36,
+    "title": "Pkt. 51 Rozpatrzenie wniosku Rady Ministrów o wyrażenie przez Sejm Rzeczypospolitej Polskiej zgody na przedłużenie czasowego ograniczenia prawa do złożenia wniosku o udzielenie ochrony międzynarodowej na granicy państwowej z Republiką Białorusi (druk nr 1674)",
+    "topic": "głosowanie nad przyjęciem wniosku",
+    "date": "2025-09-12T19:30:31",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 37,
+    "title": "Pkt. 46 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie niektórych ustaw w celu weryfikacji prawa do świadczeń na rzecz rodziny dla cudzoziemców oraz o warunkach pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa (druki nr 1685 i 1697)",
+    "topic": "wniosek o przystąpienie do trzeciego czytania bez kierowania projektu do komisji",
+    "date": "2025-09-12T19:31:55",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 38,
+    "title": "Pkt. 46 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie niektórych ustaw w celu weryfikacji prawa do świadczeń na rzecz rodziny dla cudzoziemców oraz o warunkach pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa (druki nr 1685 i 1697)",
+    "topic": "wniosek o odrzucenie w całości projektu.",
+    "date": "2025-09-12T19:32:50",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 39,
+    "title": "Pkt. 46 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie niektórych ustaw w celu weryfikacji prawa do świadczeń na rzecz rodziny dla cudzoziemców oraz o warunkach pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa (druki nr 1685 i 1697)",
+    "topic": "wnioski mniejszości nr 1-4, 8-9, 11-12, 14-15, 19, 22-23 oraz 25-41",
+    "date": "2025-09-12T19:33:47",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 40,
+    "title": "Pkt. 46 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie niektórych ustaw w celu weryfikacji prawa do świadczeń na rzecz rodziny dla cudzoziemców oraz o warunkach pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa (druki nr 1685 i 1697)",
+    "topic": "wnioski mniejszości nr 5-6",
+    "date": "2025-09-12T19:35:15",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 41,
+    "title": "Pkt. 46 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie niektórych ustaw w celu weryfikacji prawa do świadczeń na rzecz rodziny dla cudzoziemców oraz o warunkach pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa (druki nr 1685 i 1697)",
+    "topic": "wniosek mniejszości 7",
+    "date": "2025-09-12T19:35:55",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 42,
+    "title": "Pkt. 46 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie niektórych ustaw w celu weryfikacji prawa do świadczeń na rzecz rodziny dla cudzoziemców oraz o warunkach pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa (druki nr 1685 i 1697)",
+    "topic": "wnioski mniejszości nr 10 i 24",
+    "date": "2025-09-12T19:36:33",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 43,
+    "title": "Pkt. 46 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie niektórych ustaw w celu weryfikacji prawa do świadczeń na rzecz rodziny dla cudzoziemców oraz o warunkach pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa (druki nr 1685 i 1697)",
+    "topic": "wnioski mniejszości nr 13, 16 i 18",
+    "date": "2025-09-12T19:45:08",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 44,
+    "title": "Pkt. 46 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie niektórych ustaw w celu weryfikacji prawa do świadczeń na rzecz rodziny dla cudzoziemców oraz o warunkach pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa (druki nr 1685 i 1697)",
+    "topic": "poprawki nr 1 i 4",
+    "date": "2025-09-12T19:46:59",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 45,
+    "title": "Pkt. 46 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie niektórych ustaw w celu weryfikacji prawa do świadczeń na rzecz rodziny dla cudzoziemców oraz o warunkach pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa (druki nr 1685 i 1697)",
+    "topic": "wniosek mniejszości 17",
+    "date": "2025-09-12T19:47:32",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 46,
+    "title": "Pkt. 46 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie niektórych ustaw w celu weryfikacji prawa do świadczeń na rzecz rodziny dla cudzoziemców oraz o warunkach pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa (druki nr 1685 i 1697)",
+    "topic": "poprawka 2",
+    "date": "2025-09-12T19:48:08",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 47,
+    "title": "Pkt. 46 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie niektórych ustaw w celu weryfikacji prawa do świadczeń na rzecz rodziny dla cudzoziemców oraz o warunkach pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa (druki nr 1685 i 1697)",
+    "topic": "wniosek mniejszości 20",
+    "date": "2025-09-12T19:48:46",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 48,
+    "title": "Pkt. 46 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie niektórych ustaw w celu weryfikacji prawa do świadczeń na rzecz rodziny dla cudzoziemców oraz o warunkach pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa (druki nr 1685 i 1697)",
+    "topic": "poprawka 3",
+    "date": "2025-09-12T19:49:17",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 49,
+    "title": "Pkt. 46 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie niektórych ustaw w celu weryfikacji prawa do świadczeń na rzecz rodziny dla cudzoziemców oraz o warunkach pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa (druki nr 1685 i 1697)",
+    "topic": "wniosek mniejszości 21",
+    "date": "2025-09-12T19:49:48",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 50,
+    "title": "Pkt. 46 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie niektórych ustaw w celu weryfikacji prawa do świadczeń na rzecz rodziny dla cudzoziemców oraz o warunkach pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa (druki nr 1685 i 1697)",
+    "topic": "głosowanie nad całością projektu.",
+    "date": "2025-09-12T19:50:17",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 51,
+    "title": "Pkt. 47 Sprawozdanie Komisji o rządowym projekcie ustawy o bonie ciepłowniczym oraz o zmianie niektórych innych ustaw (druki nr 1684 i 1696)",
+    "topic": "wniosek o przystąpienie do trzeciego czytania bez kierowania projektu do komisji",
+    "date": "2025-09-12T19:51:40",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 52,
+    "title": "Pkt. 47 Sprawozdanie Komisji o rządowym projekcie ustawy o bonie ciepłowniczym oraz o zmianie niektórych innych ustaw (druki nr 1684 i 1696)",
+    "topic": "poprawka 1",
+    "date": "2025-09-12T19:52:30",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 53,
+    "title": "Pkt. 47 Sprawozdanie Komisji o rządowym projekcie ustawy o bonie ciepłowniczym oraz o zmianie niektórych innych ustaw (druki nr 1684 i 1696)",
+    "topic": "poprawka 2",
+    "date": "2025-09-12T19:52:55",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 54,
+    "title": "Pkt. 47 Sprawozdanie Komisji o rządowym projekcie ustawy o bonie ciepłowniczym oraz o zmianie niektórych innych ustaw (druki nr 1684 i 1696)",
+    "topic": "poprawka 3",
+    "date": "2025-09-12T19:53:25",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 55,
+    "title": "Pkt. 47 Sprawozdanie Komisji o rządowym projekcie ustawy o bonie ciepłowniczym oraz o zmianie niektórych innych ustaw (druki nr 1684 i 1696)",
+    "topic": "poprawka 4",
+    "date": "2025-09-12T19:53:52",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 56,
+    "title": "Pkt. 47 Sprawozdanie Komisji o rządowym projekcie ustawy o bonie ciepłowniczym oraz o zmianie niektórych innych ustaw (druki nr 1684 i 1696)",
+    "topic": "poprawka 5",
+    "date": "2025-09-12T19:54:22",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 57,
+    "title": "Pkt. 47 Sprawozdanie Komisji o rządowym projekcie ustawy o bonie ciepłowniczym oraz o zmianie niektórych innych ustaw (druki nr 1684 i 1696)",
+    "topic": "wnioski mniejszości nr 1-5",
+    "date": "2025-09-12T19:54:58",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 58,
+    "title": "Pkt. 47 Sprawozdanie Komisji o rządowym projekcie ustawy o bonie ciepłowniczym oraz o zmianie niektórych innych ustaw (druki nr 1684 i 1696)",
+    "topic": "poprawka 6",
+    "date": "2025-09-12T19:55:26",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 59,
+    "title": "Pkt. 47 Sprawozdanie Komisji o rządowym projekcie ustawy o bonie ciepłowniczym oraz o zmianie niektórych innych ustaw (druki nr 1684 i 1696)",
+    "topic": "poprawka 7",
+    "date": "2025-09-12T19:55:53",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 60,
+    "title": "Pkt. 47 Sprawozdanie Komisji o rządowym projekcie ustawy o bonie ciepłowniczym oraz o zmianie niektórych innych ustaw (druki nr 1684 i 1696)",
+    "topic": "głosowanie nad całością projektu.",
+    "date": "2025-09-12T19:58:51",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 61,
+    "title": "Pkt. 6 Sprawozdanie Komisji o rządowym oraz poselskim projektach ustaw o zmianie ustawy - Kodeks pracy oraz niektórych innych ustaw (druki nr 1426, 1404, 1548 i 1548-A)",
+    "topic": "poprawka 1",
+    "date": "2025-09-12T20:01:22",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 62,
+    "title": "Pkt. 6 Sprawozdanie Komisji o rządowym oraz poselskim projektach ustaw o zmianie ustawy - Kodeks pracy oraz niektórych innych ustaw (druki nr 1426, 1404, 1548 i 1548-A)",
+    "topic": "poprawka 2",
+    "date": "2025-09-12T20:01:56",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 63,
+    "title": "Pkt. 6 Sprawozdanie Komisji o rządowym oraz poselskim projektach ustaw o zmianie ustawy - Kodeks pracy oraz niektórych innych ustaw (druki nr 1426, 1404, 1548 i 1548-A)",
+    "topic": "poprawka 3",
+    "date": "2025-09-12T20:02:26",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 64,
+    "title": "Pkt. 6 Sprawozdanie Komisji o rządowym oraz poselskim projektach ustaw o zmianie ustawy - Kodeks pracy oraz niektórych innych ustaw (druki nr 1426, 1404, 1548 i 1548-A)",
+    "topic": "poprawka 4",
+    "date": "2025-09-12T20:02:59",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 65,
+    "title": "Pkt. 6 Sprawozdanie Komisji o rządowym oraz poselskim projektach ustaw o zmianie ustawy - Kodeks pracy oraz niektórych innych ustaw (druki nr 1426, 1404, 1548 i 1548-A)",
+    "topic": "poprawka 5",
+    "date": "2025-09-12T20:03:29",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 66,
+    "title": "Pkt. 6 Sprawozdanie Komisji o rządowym oraz poselskim projektach ustaw o zmianie ustawy - Kodeks pracy oraz niektórych innych ustaw (druki nr 1426, 1404, 1548 i 1548-A)",
+    "topic": "poprawka 6",
+    "date": "2025-09-12T20:03:58",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 67,
+    "title": "Pkt. 6 Sprawozdanie Komisji o rządowym oraz poselskim projektach ustaw o zmianie ustawy - Kodeks pracy oraz niektórych innych ustaw (druki nr 1426, 1404, 1548 i 1548-A)",
+    "topic": "poprawka 7",
+    "date": "2025-09-12T20:04:28",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 68,
+    "title": "Pkt. 6 Sprawozdanie Komisji o rządowym oraz poselskim projektach ustaw o zmianie ustawy - Kodeks pracy oraz niektórych innych ustaw (druki nr 1426, 1404, 1548 i 1548-A)",
+    "topic": "poprawka 8",
+    "date": "2025-09-12T20:05:00",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 69,
+    "title": "Pkt. 6 Sprawozdanie Komisji o rządowym oraz poselskim projektach ustaw o zmianie ustawy - Kodeks pracy oraz niektórych innych ustaw (druki nr 1426, 1404, 1548 i 1548-A)",
+    "topic": "poprawka 9",
+    "date": "2025-09-12T20:05:31",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 70,
+    "title": "Pkt. 6 Sprawozdanie Komisji o rządowym oraz poselskim projektach ustaw o zmianie ustawy - Kodeks pracy oraz niektórych innych ustaw (druki nr 1426, 1404, 1548 i 1548-A)",
+    "topic": "poprawka 10",
+    "date": "2025-09-12T20:08:20",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 71,
+    "title": "Pkt. 6 Sprawozdanie Komisji o rządowym oraz poselskim projektach ustaw o zmianie ustawy - Kodeks pracy oraz niektórych innych ustaw (druki nr 1426, 1404, 1548 i 1548-A)",
+    "topic": "głosowanie nad całością projektu.",
+    "date": "2025-09-12T20:08:48",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 72,
+    "title": "Pkt. 7 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o organizacji i funkcjonowaniu funduszy emerytalnych (druki nr 1443 i 1572)",
+    "topic": "wniosek o przystąpienie do trzeciego czytania bez kierowania projektu do komisji",
+    "date": "2025-09-12T20:09:57",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 73,
+    "title": "Pkt. 7 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o organizacji i funkcjonowaniu funduszy emerytalnych (druki nr 1443 i 1572)",
+    "topic": "poprawka 1",
+    "date": "2025-09-12T20:10:47",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 74,
+    "title": "Pkt. 7 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o organizacji i funkcjonowaniu funduszy emerytalnych (druki nr 1443 i 1572)",
+    "topic": "głosowanie nad całością projektu.",
+    "date": "2025-09-12T20:11:17",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 75,
+    "title": "Pkt. 9 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o systemie ubezpieczeń społecznych (druki nr 1431 i 1571)",
+    "topic": "wniosek o przystąpienie do trzeciego czytania bez kierowania projektu do komisji",
+    "date": "2025-09-12T20:12:30",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 76,
+    "title": "Pkt. 9 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o systemie ubezpieczeń społecznych (druki nr 1431 i 1571)",
+    "topic": "poprawka 1",
+    "date": "2025-09-12T20:13:20",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 77,
+    "title": "Pkt. 9 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o systemie ubezpieczeń społecznych (druki nr 1431 i 1571)",
+    "topic": "głosowanie nad całością projektu.",
+    "date": "2025-09-12T20:13:46",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 78,
+    "title": "Pkt. 13 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Kodeks postępowania cywilnego (druki nr 1442, 1559 i 1559-A)",
+    "topic": "poprawka 1",
+    "date": "2025-09-12T20:15:09",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 79,
+    "title": "Pkt. 13 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Kodeks postępowania cywilnego (druki nr 1442, 1559 i 1559-A)",
+    "topic": "poprawka 2",
+    "date": "2025-09-12T20:15:38",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 80,
+    "title": "Pkt. 13 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Kodeks postępowania cywilnego (druki nr 1442, 1559 i 1559-A)",
+    "topic": "głosowanie nad całością projektu.",
+    "date": "2025-09-12T20:16:08",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 81,
+    "title": "Pkt. 14 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Kodeks cywilny (druki nr 1425, 1558 i 1558-A)",
+    "topic": "poprawka 1",
+    "date": "2025-09-12T20:18:49",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 82,
+    "title": "Pkt. 14 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Kodeks cywilny (druki nr 1425, 1558 i 1558-A)",
+    "topic": "poprawka 2",
+    "date": "2025-09-12T20:19:22",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 83,
+    "title": "Pkt. 14 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Kodeks cywilny (druki nr 1425, 1558 i 1558-A)",
+    "topic": "głosowanie nad całością projektu.",
+    "date": "2025-09-12T20:19:50",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 84,
+    "title": "Pkt. 18 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o podatku dochodowym od osób prawnych (druki nr 1441, 1620 i 1620-A)",
+    "topic": "poprawka 1",
+    "date": "2025-09-12T20:21:05",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 85,
+    "title": "Pkt. 18 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o podatku dochodowym od osób prawnych (druki nr 1441, 1620 i 1620-A)",
+    "topic": "głosowanie nad całością projektu.",
+    "date": "2025-09-12T20:21:38",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 86,
+    "title": "Pkt. 19 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Ordynacja podatkowa (druki nr 1265, 1621 i 1621-A)",
+    "topic": "poprawka 1",
+    "date": "2025-09-12T20:23:18",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 87,
+    "title": "Pkt. 19 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Ordynacja podatkowa (druki nr 1265, 1621 i 1621-A)",
+    "topic": "głosowanie nad całością projektu.",
+    "date": "2025-09-12T20:23:48",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 88,
+    "title": "Pkt. 20 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Ordynacja podatkowa (druki nr 1439, 1622 i 1622-A)",
+    "topic": "poprawka nr 1, wniosek mniejszości nr 1",
+    "date": "2025-09-12T20:26:57",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 89,
+    "title": "Pkt. 20 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Ordynacja podatkowa (druki nr 1439, 1622 i 1622-A)",
+    "topic": "wniosek mniejszości 2",
+    "date": "2025-09-12T20:27:30",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 90,
+    "title": "Pkt. 20 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Ordynacja podatkowa (druki nr 1439, 1622 i 1622-A)",
+    "topic": "głosowanie nad całością projektu.",
+    "date": "2025-09-12T20:27:59",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 91,
+    "title": "Pkt. 24 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o zwrocie podatku akcyzowego zawartego w cenie oleju napędowego wykorzystywanego do produkcji rolnej (druki nr 1428, 1569 i 1569-A)",
+    "topic": "poprawka 1",
+    "date": "2025-09-12T20:29:26",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 92,
+    "title": "Pkt. 24 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o zwrocie podatku akcyzowego zawartego w cenie oleju napędowego wykorzystywanego do produkcji rolnej (druki nr 1428, 1569 i 1569-A)",
+    "topic": "poprawka 2",
+    "date": "2025-09-12T20:29:54",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 93,
+    "title": "Pkt. 24 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o zwrocie podatku akcyzowego zawartego w cenie oleju napędowego wykorzystywanego do produkcji rolnej (druki nr 1428, 1569 i 1569-A)",
+    "topic": "poprawka 3",
+    "date": "2025-09-12T20:30:22",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 94,
+    "title": "Pkt. 24 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o zwrocie podatku akcyzowego zawartego w cenie oleju napędowego wykorzystywanego do produkcji rolnej (druki nr 1428, 1569 i 1569-A)",
+    "topic": "poprawka 4",
+    "date": "2025-09-12T20:30:51",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 95,
+    "title": "Pkt. 24 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o zwrocie podatku akcyzowego zawartego w cenie oleju napędowego wykorzystywanego do produkcji rolnej (druki nr 1428, 1569 i 1569-A)",
+    "topic": "głosowanie nad całością projektu.",
+    "date": "2025-09-12T20:31:21",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 96,
+    "title": "Pkt. 31 Sprawozdanie Komisji o komisyjnym projekcie ustawy o zmianie ustawy o mniejszościach narodowych i etnicznych oraz o języku regionalnym oraz niektórych innych ustaw (druki nr 321, 1553 i 1553-A)",
+    "topic": "poprawki nr 1-2",
+    "date": "2025-09-12T20:32:55",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 97,
+    "title": "Pkt. 31 Sprawozdanie Komisji o komisyjnym projekcie ustawy o zmianie ustawy o mniejszościach narodowych i etnicznych oraz o języku regionalnym oraz niektórych innych ustaw (druki nr 321, 1553 i 1553-A)",
+    "topic": "głosowanie nad całością projektu.",
+    "date": "2025-09-12T20:33:27",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 98,
+    "title": "Pkt. 42 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie niektórych ustaw w związku z określeniem zasad zakwaterowania funkcjonariuszy Policji, Straży Granicznej, Państwowej Straży Pożarnej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Służby Ochrony Państwa oraz poprawy niektórych warunków pełnienia służby (druki nr 1623, 1687 i 1687-A)",
+    "topic": "poprawka 1",
+    "date": "2025-09-12T20:35:36",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 99,
+    "title": "Pkt. 42 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie niektórych ustaw w związku z określeniem zasad zakwaterowania funkcjonariuszy Policji, Straży Granicznej, Państwowej Straży Pożarnej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Służby Ochrony Państwa oraz poprawy niektórych warunków pełnienia służby (druki nr 1623, 1687 i 1687-A)",
+    "topic": "poprawka 2",
+    "date": "2025-09-12T20:36:08",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 100,
+    "title": "Pkt. 42 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie niektórych ustaw w związku z określeniem zasad zakwaterowania funkcjonariuszy Policji, Straży Granicznej, Państwowej Straży Pożarnej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Służby Ochrony Państwa oraz poprawy niektórych warunków pełnienia służby (druki nr 1623, 1687 i 1687-A)",
+    "topic": "poprawka 3",
+    "date": "2025-09-12T20:36:39",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 101,
+    "title": "Pkt. 42 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie niektórych ustaw w związku z określeniem zasad zakwaterowania funkcjonariuszy Policji, Straży Granicznej, Państwowej Straży Pożarnej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Służby Ochrony Państwa oraz poprawy niektórych warunków pełnienia służby (druki nr 1623, 1687 i 1687-A)",
+    "topic": "poprawka 4",
+    "date": "2025-09-12T20:37:20",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 102,
+    "title": "Pkt. 42 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie niektórych ustaw w związku z określeniem zasad zakwaterowania funkcjonariuszy Policji, Straży Granicznej, Państwowej Straży Pożarnej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Służby Ochrony Państwa oraz poprawy niektórych warunków pełnienia służby (druki nr 1623, 1687 i 1687-A)",
+    "topic": "poprawka 5",
+    "date": "2025-09-12T20:37:46",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 103,
+    "title": "Pkt. 42 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie niektórych ustaw w związku z określeniem zasad zakwaterowania funkcjonariuszy Policji, Straży Granicznej, Państwowej Straży Pożarnej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Służby Ochrony Państwa oraz poprawy niektórych warunków pełnienia służby (druki nr 1623, 1687 i 1687-A)",
+    "topic": "poprawka 6",
+    "date": "2025-09-12T20:38:13",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 104,
+    "title": "Pkt. 42 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie niektórych ustaw w związku z określeniem zasad zakwaterowania funkcjonariuszy Policji, Straży Granicznej, Państwowej Straży Pożarnej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Służby Ochrony Państwa oraz poprawy niektórych warunków pełnienia służby (druki nr 1623, 1687 i 1687-A)",
+    "topic": "poprawka 7",
+    "date": "2025-09-12T20:38:48",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 105,
+    "title": "Pkt. 42 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie niektórych ustaw w związku z określeniem zasad zakwaterowania funkcjonariuszy Policji, Straży Granicznej, Państwowej Straży Pożarnej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Służby Ochrony Państwa oraz poprawy niektórych warunków pełnienia służby (druki nr 1623, 1687 i 1687-A)",
+    "topic": "głosowanie nad całością projektu.",
+    "date": "2025-09-12T20:41:03",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 106,
+    "title": "Pkt. 52 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Prawo o postępowaniu przed sądami administracyjnymi (druki nr 1432, 1541 i 1541-A) - trzecie czytanie",
+    "topic": "poprawka 1",
+    "date": "2025-09-12T20:43:10",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 107,
+    "title": "Pkt. 52 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Prawo o postępowaniu przed sądami administracyjnymi (druki nr 1432, 1541 i 1541-A) - trzecie czytanie",
+    "topic": "poprawka 2",
+    "date": "2025-09-12T20:43:47",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 108,
+    "title": "Pkt. 52 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Prawo o postępowaniu przed sądami administracyjnymi (druki nr 1432, 1541 i 1541-A) - trzecie czytanie",
+    "topic": "poprawka 3",
+    "date": "2025-09-12T20:44:16",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 109,
+    "title": "Pkt. 52 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy - Prawo o postępowaniu przed sądami administracyjnymi (druki nr 1432, 1541 i 1541-A) - trzecie czytanie",
+    "topic": "głosowanie nad całością projektu.",
+    "date": "2025-09-12T20:44:45",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 110,
+    "title": "Pkt. 53 Sprawozdanie Komisji o poselskim projekcie ustawy o zmianie ustawy o samorządzie gminnym oraz ustawy o funduszu sołeckim (druki nr 610 i 1550) - trzecie czytanie",
+    "topic": "wniosek o przystąpienie do trzeciego czytania bez kierowania projektu do komisji",
+    "date": "2025-09-12T20:46:04",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 111,
+    "title": "Pkt. 53 Sprawozdanie Komisji o poselskim projekcie ustawy o zmianie ustawy o samorządzie gminnym oraz ustawy o funduszu sołeckim (druki nr 610 i 1550) - trzecie czytanie",
+    "topic": "wniosek mniejszości 1",
+    "date": "2025-09-12T20:47:58",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 112,
+    "title": "Pkt. 53 Sprawozdanie Komisji o poselskim projekcie ustawy o zmianie ustawy o samorządzie gminnym oraz ustawy o funduszu sołeckim (druki nr 610 i 1550) - trzecie czytanie",
+    "topic": "poprawka 2",
+    "date": "2025-09-12T20:49:31",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 113,
+    "title": "Pkt. 53 Sprawozdanie Komisji o poselskim projekcie ustawy o zmianie ustawy o samorządzie gminnym oraz ustawy o funduszu sołeckim (druki nr 610 i 1550) - trzecie czytanie",
+    "topic": "poprawka 3",
+    "date": "2025-09-12T20:49:57",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 114,
+    "title": "Pkt. 53 Sprawozdanie Komisji o poselskim projekcie ustawy o zmianie ustawy o samorządzie gminnym oraz ustawy o funduszu sołeckim (druki nr 610 i 1550) - trzecie czytanie",
+    "topic": "głosowanie nad całością projektu.",
+    "date": "2025-09-12T20:50:21",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 115,
+    "title": "Pkt. 28 Sprawozdanie Komisji o rządowym projekcie ustawy o ratyfikacji Umowy o Międzynarodowym Banku Odbudowy i Rozwoju, sporządzonej w Bretton Woods dnia 22 lipca 1944 r. wraz z poprawkami, tj. Rezolucjami Rady Gubernatorów Międzynarodowego Banku Odbudowy i Rozwoju o numerach 221, 417, 596, 696, przyjętymi odpowiednio dnia 25 sierpnia 1965 r., 30 czerwca 1987 r., 30 stycznia 2009 r. oraz 10 lipca 2023 r. (druki nr 1485 i 1515)",
+    "topic": "głosowanie nad całością projektu.",
+    "date": "2025-09-12T20:51:38",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 116,
+    "title": "Pkt. 32 Sprawozdanie Komisji o poselskim projekcie uchwały w 150. rocznicę śmierci Albina Węsierskiego (druki nr 1562 i 1599)",
+    "topic": "głosowanie nad całością projektu.",
+    "date": "2025-09-12T20:53:00",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 117,
+    "title": "Pkt. 33 Sprawozdanie Komisji o poselskim projekcie uchwały w sprawie upamiętnienia 45. rocznicy powstania Niezależnego Zrzeszenia Studentów (druki nr 1052 i 1598)",
+    "topic": "głosowanie nad całością projektu.",
+    "date": "2025-09-12T20:53:49",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 118,
+    "title": "Pkt. 43 Sprawozdanie Komisji o rządowym projekcie ustawy o ratyfikacji Traktatu o wzmocnionej współpracy i przyjaźni między Rzecząpospolitą Polską a Republiką Francuską, podpisanego w Nancy dnia 9 maja 2025 r. (druki nr 1384 i 1542)",
+    "topic": "głosowanie nad całością projektu.",
+    "date": "2025-09-12T20:55:18",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 119,
+    "title": "Pkt. 25 Sprawozdanie Komisji o rządowym projekcie ustawy o ratyfikacji Umowy o Międzynarodowej Korporacji Finansowej, sporządzonej w Waszyngtonie dnia 20 lipca 1956 r. (druki nr 1484 i 1514)",
+    "topic": "głosowanie nad całością projektu.",
+    "date": "2025-09-12T20:56:25",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 120,
+    "title": "Pkt. 26 Sprawozdanie Komisji o rządowym projekcie ustawy o ratyfikacji Umowy o Międzynarodowym Stowarzyszeniu Rozwoju, sporządzonej w Waszyngtonie dnia 26 stycznia 1960 r. (druki nr 1487 i 1517)",
+    "topic": "głosowanie nad całością projektu.",
+    "date": "2025-09-12T20:57:29",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 121,
+    "title": "Pkt. 27 Sprawozdanie Komisji o rządowym projekcie ustawy o ratyfikacji Umowy o Międzynarodowym Funduszu Walutowym, sporządzonej w Bretton Woods dnia 22 lipca 1944 r., w wersji tej Umowy nadanej Drugą Poprawką przyjętą Rezolucją nr 31-4 Rady Gubernatorów Międzynarodowego Funduszu Walutowego z dnia 30 kwietnia 1976 r., wraz z Trzecią Poprawką przyjętą Rezolucją nr 45-3 Rady Gubernatorów Międzynarodowego Funduszu Walutowego z dnia 28 czerwca 1990 r. oraz z Czwartą Poprawką przyjętą Rezolucją nr 52-4 Rady Gubernatorów Międzynarodowego Funduszu Walutowego z dnia 23 września 1997 r. (druki nr 1486 i 1516)",
+    "topic": "głosowanie nad całością projektu.",
+    "date": "2025-09-12T20:59:19",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 122,
+    "title": "Pkt. 50 Pierwsze czytanie poselskiego projektu ustawy o zmianie ustawy - Kodeks wyborczy (druk nr 1529)",
+    "topic": "wniosek o odrzucenie projektu w pierwszym czytaniu.",
+    "date": "2025-09-12T21:02:57",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 123,
+    "title": "Pkt. 58 Zmiany w składach osobowych komisji sejmowych (druk nr 1706)",
+    "topic": "głosowanie nad przyjęciem wniosku z druku.",
+    "date": "2025-09-12T21:04:24",
+    "kind": "ELECTRONIC"
+  }
+]

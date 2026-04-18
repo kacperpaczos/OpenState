@@ -1,0 +1,513 @@
+[
+  {
+    "votingNumber": 1,
+    "title": "Pkt. 1 Zmiany w składach osobowych komisji sejmowych (druk nr 2407)",
+    "topic": "głosowanie nad przyjęciem wniosku z druku.",
+    "date": "2026-04-14T11:11:29",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 2,
+    "title": "55. posiedzenie Sejmu Rzeczypospolitej Polskiej w dniach 14, 15, 16 i 17 kwietnia 2026 r.",
+    "topic": "Wniosek o przerwę",
+    "date": "2026-04-14T11:13:43",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 3,
+    "title": "55. posiedzenie Sejmu Rzeczypospolitej Polskiej w dniach 14, 15, 16 i 17 kwietnia 2026 r.",
+    "topic": "Głosowanie kworum",
+    "date": "2026-04-14T11:19:55",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 4,
+    "title": "Głosowanie proceduralne dotyczące druku 2430",
+    "topic": "wniosek o skrócenie terminu, o którym mowa w art. 44 ust. 3 regulaminu Sejmu w sprawie sprawozdania z druku nr 2430",
+    "date": "2026-04-16T14:25:14",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 5,
+    "title": "Głosowanie proceduralne dotyczące druku 2435",
+    "topic": "wniosek o skrócenie terminu, o którym mowa w art. 44 ust. 3 regulaminu Sejmu w sprawie sprawozdania z druku nr 2435",
+    "date": "2026-04-16T14:25:55",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 6,
+    "title": "Głosowanie proceduralne dotyczące planowanego sprawozdania do druku 2440",
+    "topic": "wniosek o skrócenie terminu, o którym mowa w art. 44 ust. 3 regulaminu Sejmu w sprawie planowanego sprawozdania do druku nr 2440",
+    "date": "2026-04-16T14:27:09",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 7,
+    "title": "55. posiedzenie Sejmu Rzeczypospolitej Polskiej w dniach 14, 15, 16 i 17 kwietnia 2026 r.",
+    "topic": "ustalenie czasów debat",
+    "date": "2026-04-16T14:28:21",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 8,
+    "title": "55. posiedzenie Sejmu Rzeczypospolitej Polskiej w dniach 14, 15, 16 i 17 kwietnia 2026 r.",
+    "topic": "Wniosek o przerwę",
+    "date": "2026-04-17T09:09:32",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 9,
+    "title": "55. posiedzenie Sejmu Rzeczypospolitej Polskiej w dniach 14, 15, 16 i 17 kwietnia 2026 r.",
+    "topic": "Głosowanie kworum",
+    "date": "2026-04-17T09:11:50",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 10,
+    "title": "Pkt. 2 Sprawozdanie Komisji o komisyjnym projekcie ustawy o zmianie ustawy o radcach prawnych (druki nr 1963 i 2367)",
+    "topic": "głosowanie nad całością projektu.",
+    "date": "2026-04-17T09:26:08",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 11,
+    "title": "Pkt. 3 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o zapobieganiu zanieczyszczaniu morza przez statki oraz niektórych innych ustaw (druki nr 2317 i 2364)",
+    "topic": "głosowanie nad wnioskiem komisji o odrzucenie projektu ustawy",
+    "date": "2026-04-17T09:27:39",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 12,
+    "title": "Pkt. 4 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o postępowaniu egzekucyjnym w administracji (druki nr 2319 i 2383)",
+    "topic": "głosowanie nad całością projektu.",
+    "date": "2026-04-17T09:45:36",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 13,
+    "title": "Pkt. 19 Sprawozdanie Komisji o wniosku Prezydenta Rzeczypospolitej Polskiej o ponowne rozpatrzenie ustawy z dnia 18 grudnia 2025 r. o rynku kryptoaktywów (druki nr 2267 i 2436)",
+    "topic": "głosowanie nad wnioskiem o ponowne uchwalenie ustawy",
+    "date": "2026-04-17T10:06:49",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 14,
+    "title": "Pkt. 5 Sprawozdanie Komisji o rządowym projekcie ustawy o Krajowym Rejestrze Oznakowanych Psów i Kotów (druki nr 2293, 2380 i 2380-A)",
+    "topic": "poprawki nr 1, 8, 11-12 i 16",
+    "date": "2026-04-17T10:09:27",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 15,
+    "title": "Pkt. 5 Sprawozdanie Komisji o rządowym projekcie ustawy o Krajowym Rejestrze Oznakowanych Psów i Kotów (druki nr 2293, 2380 i 2380-A)",
+    "topic": "poprawki nr 2 i 13",
+    "date": "2026-04-17T10:10:08",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 16,
+    "title": "Pkt. 5 Sprawozdanie Komisji o rządowym projekcie ustawy o Krajowym Rejestrze Oznakowanych Psów i Kotów (druki nr 2293, 2380 i 2380-A)",
+    "topic": "poprawki nr 3 oraz 14-15",
+    "date": "2026-04-17T10:10:45",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 17,
+    "title": "Pkt. 5 Sprawozdanie Komisji o rządowym projekcie ustawy o Krajowym Rejestrze Oznakowanych Psów i Kotów (druki nr 2293, 2380 i 2380-A)",
+    "topic": "poprawka 4",
+    "date": "2026-04-17T10:11:15",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 18,
+    "title": "Pkt. 5 Sprawozdanie Komisji o rządowym projekcie ustawy o Krajowym Rejestrze Oznakowanych Psów i Kotów (druki nr 2293, 2380 i 2380-A)",
+    "topic": "poprawki nr 5-6",
+    "date": "2026-04-17T10:11:50",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 19,
+    "title": "Pkt. 5 Sprawozdanie Komisji o rządowym projekcie ustawy o Krajowym Rejestrze Oznakowanych Psów i Kotów (druki nr 2293, 2380 i 2380-A)",
+    "topic": "poprawka 7",
+    "date": "2026-04-17T10:12:24",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 20,
+    "title": "Pkt. 5 Sprawozdanie Komisji o rządowym projekcie ustawy o Krajowym Rejestrze Oznakowanych Psów i Kotów (druki nr 2293, 2380 i 2380-A)",
+    "topic": "poprawka 9",
+    "date": "2026-04-17T10:12:55",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 21,
+    "title": "Pkt. 5 Sprawozdanie Komisji o rządowym projekcie ustawy o Krajowym Rejestrze Oznakowanych Psów i Kotów (druki nr 2293, 2380 i 2380-A)",
+    "topic": "poprawka 10",
+    "date": "2026-04-17T10:13:22",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 22,
+    "title": "Pkt. 5 Sprawozdanie Komisji o rządowym projekcie ustawy o Krajowym Rejestrze Oznakowanych Psów i Kotów (druki nr 2293, 2380 i 2380-A)",
+    "topic": "poprawka 17",
+    "date": "2026-04-17T10:13:49",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 23,
+    "title": "Pkt. 5 Sprawozdanie Komisji o rządowym projekcie ustawy o Krajowym Rejestrze Oznakowanych Psów i Kotów (druki nr 2293, 2380 i 2380-A)",
+    "topic": "poprawka 18",
+    "date": "2026-04-17T10:14:19",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 24,
+    "title": "Pkt. 5 Sprawozdanie Komisji o rządowym projekcie ustawy o Krajowym Rejestrze Oznakowanych Psów i Kotów (druki nr 2293, 2380 i 2380-A)",
+    "topic": "poprawki nr 19-20 i 29",
+    "date": "2026-04-17T10:14:56",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 25,
+    "title": "Pkt. 5 Sprawozdanie Komisji o rządowym projekcie ustawy o Krajowym Rejestrze Oznakowanych Psów i Kotów (druki nr 2293, 2380 i 2380-A)",
+    "topic": "poprawka 21",
+    "date": "2026-04-17T10:15:28",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 26,
+    "title": "Pkt. 5 Sprawozdanie Komisji o rządowym projekcie ustawy o Krajowym Rejestrze Oznakowanych Psów i Kotów (druki nr 2293, 2380 i 2380-A)",
+    "topic": "poprawka 22",
+    "date": "2026-04-17T10:16:03",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 27,
+    "title": "Pkt. 5 Sprawozdanie Komisji o rządowym projekcie ustawy o Krajowym Rejestrze Oznakowanych Psów i Kotów (druki nr 2293, 2380 i 2380-A)",
+    "topic": "poprawki nr 23-25 i 31",
+    "date": "2026-04-17T10:16:44",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 28,
+    "title": "Pkt. 5 Sprawozdanie Komisji o rządowym projekcie ustawy o Krajowym Rejestrze Oznakowanych Psów i Kotów (druki nr 2293, 2380 i 2380-A)",
+    "topic": "poprawka 26",
+    "date": "2026-04-17T10:17:25",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 29,
+    "title": "Pkt. 5 Sprawozdanie Komisji o rządowym projekcie ustawy o Krajowym Rejestrze Oznakowanych Psów i Kotów (druki nr 2293, 2380 i 2380-A)",
+    "topic": "poprawka 27",
+    "date": "2026-04-17T10:17:59",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 30,
+    "title": "Pkt. 5 Sprawozdanie Komisji o rządowym projekcie ustawy o Krajowym Rejestrze Oznakowanych Psów i Kotów (druki nr 2293, 2380 i 2380-A)",
+    "topic": "poprawka 28",
+    "date": "2026-04-17T10:18:30",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 31,
+    "title": "Pkt. 5 Sprawozdanie Komisji o rządowym projekcie ustawy o Krajowym Rejestrze Oznakowanych Psów i Kotów (druki nr 2293, 2380 i 2380-A)",
+    "topic": "poprawka 30",
+    "date": "2026-04-17T10:18:57",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 32,
+    "title": "Pkt. 5 Sprawozdanie Komisji o rządowym projekcie ustawy o Krajowym Rejestrze Oznakowanych Psów i Kotów (druki nr 2293, 2380 i 2380-A)",
+    "topic": "głosowanie nad całością projektu.",
+    "date": "2026-04-17T10:19:27",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 33,
+    "title": "Pkt. 6 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o języku polskim oraz ustawy o Narodowej Agencji Wymiany Akademickiej (druki nr 2361, 2385 i 2385-A)",
+    "topic": "poprawka 1",
+    "date": "2026-04-17T10:22:24",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 34,
+    "title": "Pkt. 6 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o języku polskim oraz ustawy o Narodowej Agencji Wymiany Akademickiej (druki nr 2361, 2385 i 2385-A)",
+    "topic": "głosowanie nad całością projektu.",
+    "date": "2026-04-17T10:22:54",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 35,
+    "title": "Pkt. 7 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o systemie teleinformatycznym do obsługi niektórych umów oraz niektórych innych ustaw (druki nr 2290, 2312 i 2312-A)",
+    "topic": "poprawki nr 1-2",
+    "date": "2026-04-17T10:24:41",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 36,
+    "title": "Pkt. 7 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o systemie teleinformatycznym do obsługi niektórych umów oraz niektórych innych ustaw (druki nr 2290, 2312 i 2312-A)",
+    "topic": "wniosek mniejszości 1",
+    "date": "2026-04-17T10:25:09",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 37,
+    "title": "Pkt. 7 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o systemie teleinformatycznym do obsługi niektórych umów oraz niektórych innych ustaw (druki nr 2290, 2312 i 2312-A)",
+    "topic": "głosowanie nad całością projektu.",
+    "date": "2026-04-17T10:25:38",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 38,
+    "title": "Pkt. 8 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi oraz niektórych innych ustaw (druki nr 2272, 2386 i 2386-A)",
+    "topic": "wniosek o odrzucenie w całości projektu.",
+    "date": "2026-04-17T10:27:29",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 39,
+    "title": "Pkt. 8 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi oraz niektórych innych ustaw (druki nr 2272, 2386 i 2386-A)",
+    "topic": "głosowanie nad całością projektu.",
+    "date": "2026-04-17T10:27:55",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 40,
+    "title": "Pkt. 9 Sprawozdanie Komisji o rządowym projekcie ustawy o ratyfikacji Umowy między Rządem Rzeczypospolitej Polskiej a Gabinetem Ministrów Ukrainy o współpracy w zwalczaniu przestępczości, podpisanej we Lwowie dnia 11 grudnia 2025 r. (druki nr 2276 i 2379)",
+    "topic": "głosowanie nad całością projektu.",
+    "date": "2026-04-17T10:28:56",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 41,
+    "title": "Pkt. 10 Pierwsze czytanie poselskiego projektu ustawy o najmie krótkoterminowym (druki nr 2353 i 2353-A)",
+    "topic": "wniosek o odrzucenie projektu w pierwszym czytaniu.",
+    "date": "2026-04-17T10:30:02",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 42,
+    "title": "Pkt. 10 Pierwsze czytanie poselskiego projektu ustawy o najmie krótkoterminowym (druki nr 2353 i 2353-A)",
+    "topic": "wniosek o przystąpienie do drugiego czytania  bez kierowania projektu do komisji",
+    "date": "2026-04-17T10:31:29",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 43,
+    "title": "Pkt. 10 Pierwsze czytanie poselskiego projektu ustawy o najmie krótkoterminowym (druki nr 2353 i 2353-A)",
+    "topic": "wniosek o skierowanie projektu ustawy do Komisji Infrastruktury oraz Komisji Samorządu Terytorialnego i Polityki Regionalnej",
+    "date": "2026-04-17T10:32:39",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 44,
+    "title": "Pkt. 16 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014-2020 oraz niektórych innych ustaw (druki nr 2371 i 2427)",
+    "topic": "głosowanie nad całością projektu.",
+    "date": "2026-04-17T10:33:34",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 45,
+    "title": "Pkt. 17 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o finansach publicznych oraz niektórych innych ustaw (druki nr 2388 i 2430)",
+    "topic": "głosowanie nad całością projektu.",
+    "date": "2026-04-17T10:34:32",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 46,
+    "title": "Pkt. 18 Sprawozdanie Komisji o rządowym projekcie ustawy o zmianie ustawy o utworzeniu Uniwersytetu Medycznego w Łodzi (druki nr 2404 i 2435)",
+    "topic": "głosowanie nad całością projektu.",
+    "date": "2026-04-17T10:35:19",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 47,
+    "title": "Pkt. 11 Pierwsze czytanie rządowego projektu ustawy o wykonywaniu orzeczeń Europejskiego Trybunału Praw Człowieka (druk nr 2271)",
+    "topic": "wniosek o odrzucenie projektu w pierwszym czytaniu.",
+    "date": "2026-04-17T10:36:14",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 48,
+    "title": "Pkt. 30 Sprawozdanie Komisji o poselskim projekcie ustawy o zmianie ustawy o systemie instytucji rozwoju (druki nr 2440 i 2448)",
+    "topic": "głosowanie nad całością projektu.",
+    "date": "2026-04-17T10:37:02",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 49,
+    "title": "Pkt. 21 Sprawozdanie Komisji o poselskim projekcie ustawy o zmianie ustawy o ochronie zwierząt (druki nr 1765, 2278 i 2278-A) - trzecie czytanie",
+    "topic": "poprawka 1",
+    "date": "2026-04-17T10:40:24",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 50,
+    "title": "Pkt. 21 Sprawozdanie Komisji o poselskim projekcie ustawy o zmianie ustawy o ochronie zwierząt (druki nr 1765, 2278 i 2278-A) - trzecie czytanie",
+    "topic": "poprawka 2",
+    "date": "2026-04-17T10:40:53",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 51,
+    "title": "Pkt. 21 Sprawozdanie Komisji o poselskim projekcie ustawy o zmianie ustawy o ochronie zwierząt (druki nr 1765, 2278 i 2278-A) - trzecie czytanie",
+    "topic": "poprawka 3",
+    "date": "2026-04-17T10:41:26",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 52,
+    "title": "Pkt. 21 Sprawozdanie Komisji o poselskim projekcie ustawy o zmianie ustawy o ochronie zwierząt (druki nr 1765, 2278 i 2278-A) - trzecie czytanie",
+    "topic": "poprawki nr 4 i 6",
+    "date": "2026-04-17T10:42:08",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 53,
+    "title": "Pkt. 21 Sprawozdanie Komisji o poselskim projekcie ustawy o zmianie ustawy o ochronie zwierząt (druki nr 1765, 2278 i 2278-A) - trzecie czytanie",
+    "topic": "poprawka 5",
+    "date": "2026-04-17T10:42:39",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 54,
+    "title": "Pkt. 21 Sprawozdanie Komisji o poselskim projekcie ustawy o zmianie ustawy o ochronie zwierząt (druki nr 1765, 2278 i 2278-A) - trzecie czytanie",
+    "topic": "głosowanie nad całością projektu.",
+    "date": "2026-04-17T10:43:09",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 55,
+    "title": "Pkt. 22 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o koordynacji działań antykorupcyjnych oraz o likwidacji Centralnego Biura Antykorupcyjnego (druki nr 2400 i 2405)",
+    "topic": "poprawki nr 1-2, 5-6 i 10",
+    "date": "2026-04-17T10:45:59",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 56,
+    "title": "Pkt. 22 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o koordynacji działań antykorupcyjnych oraz o likwidacji Centralnego Biura Antykorupcyjnego (druki nr 2400 i 2405)",
+    "topic": "poprawki nr 3-4 oraz 7-8",
+    "date": "2026-04-17T10:46:44",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 57,
+    "title": "Pkt. 22 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o koordynacji działań antykorupcyjnych oraz o likwidacji Centralnego Biura Antykorupcyjnego (druki nr 2400 i 2405)",
+    "topic": "poprawka 9",
+    "date": "2026-04-17T10:47:26",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 58,
+    "title": "Pkt. 22 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o koordynacji działań antykorupcyjnych oraz o likwidacji Centralnego Biura Antykorupcyjnego (druki nr 2400 i 2405)",
+    "topic": "poprawka 11",
+    "date": "2026-04-17T10:48:08",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 59,
+    "title": "Pkt. 23 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie niektórych ustaw w związku z przekazywaniem informacji do europejskiego pojedynczego punktu dostępu (druki nr 2403 i 2429)",
+    "topic": "poprawki nr 1-4, 7-11, 13-14, 16, 18 oraz 20-21",
+    "date": "2026-04-17T10:50:48",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 60,
+    "title": "Pkt. 23 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie niektórych ustaw w związku z przekazywaniem informacji do europejskiego pojedynczego punktu dostępu (druki nr 2403 i 2429)",
+    "topic": "poprawki nr 5, 15 i 17",
+    "date": "2026-04-17T10:51:35",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 61,
+    "title": "Pkt. 23 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie niektórych ustaw w związku z przekazywaniem informacji do europejskiego pojedynczego punktu dostępu (druki nr 2403 i 2429)",
+    "topic": "poprawka 6",
+    "date": "2026-04-17T10:52:18",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 62,
+    "title": "Pkt. 23 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie niektórych ustaw w związku z przekazywaniem informacji do europejskiego pojedynczego punktu dostępu (druki nr 2403 i 2429)",
+    "topic": "poprawka 12",
+    "date": "2026-04-17T10:52:57",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 63,
+    "title": "Pkt. 23 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie niektórych ustaw w związku z przekazywaniem informacji do europejskiego pojedynczego punktu dostępu (druki nr 2403 i 2429)",
+    "topic": "poprawka 19",
+    "date": "2026-04-17T10:53:40",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 64,
+    "title": "Pkt. 24 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o Funduszu Ochrony Rolnictwa (druki nr 2402 i 2428)",
+    "topic": "poprawka 1",
+    "date": "2026-04-17T10:55:22",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 65,
+    "title": "Pkt. 25 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o ochronie ludności i obronie cywilnej oraz niektórych innych ustaw (druki nr 2401 i 2406)",
+    "topic": "poprawka 1",
+    "date": "2026-04-17T10:57:16",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 66,
+    "title": "Pkt. 25 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o ochronie ludności i obronie cywilnej oraz niektórych innych ustaw (druki nr 2401 i 2406)",
+    "topic": "poprawka 2",
+    "date": "2026-04-17T10:57:52",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 67,
+    "title": "Pkt. 25 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o ochronie ludności i obronie cywilnej oraz niektórych innych ustaw (druki nr 2401 i 2406)",
+    "topic": "poprawka 3",
+    "date": "2026-04-17T10:58:25",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 68,
+    "title": "Pkt. 25 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o ochronie ludności i obronie cywilnej oraz niektórych innych ustaw (druki nr 2401 i 2406)",
+    "topic": "poprawki nr 4-7, 10 oraz 13-14",
+    "date": "2026-04-17T10:59:03",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 69,
+    "title": "Pkt. 25 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o ochronie ludności i obronie cywilnej oraz niektórych innych ustaw (druki nr 2401 i 2406)",
+    "topic": "poprawka 8",
+    "date": "2026-04-17T10:59:36",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 70,
+    "title": "Pkt. 25 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o ochronie ludności i obronie cywilnej oraz niektórych innych ustaw (druki nr 2401 i 2406)",
+    "topic": "poprawka 9",
+    "date": "2026-04-17T11:00:13",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 71,
+    "title": "Pkt. 25 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o ochronie ludności i obronie cywilnej oraz niektórych innych ustaw (druki nr 2401 i 2406)",
+    "topic": "poprawka 11",
+    "date": "2026-04-17T11:00:47",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 72,
+    "title": "Pkt. 25 Sprawozdanie Komisji o uchwale Senatu w sprawie ustawy o zmianie ustawy o ochronie ludności i obronie cywilnej oraz niektórych innych ustaw (druki nr 2401 i 2406)",
+    "topic": "poprawka 12",
+    "date": "2026-04-17T11:01:21",
+    "kind": "ELECTRONIC"
+  },
+  {
+    "votingNumber": 73,
+    "title": "Pkt. 26 Zmiany w składach osobowych komisji sejmowych (druk nr 2439)",
+    "topic": "głosowanie nad przyjęciem wniosku z druku.",
+    "date": "2026-04-17T11:02:25",
+    "kind": "ELECTRONIC"
+  }
+]
