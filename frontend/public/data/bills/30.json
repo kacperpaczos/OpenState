@@ -1,0 +1,18 @@
+{
+  "id": "30",
+  "printNo": "30",
+  "title": "Obywatelski projekt ustawy o zmianie ustawy o rencie socjalnej",
+  "description": "projekt dotyczy zdaniem wnioskodawców - zwiększenia kwoty renty socjalnej z 1217,98 zł netto do kwoty minimalnego wynagrodzenia za pracę; obecnie kwota renty socjalnej równa jest kwocie najniższej renty z tytułu całkowitej niezdolności do pracy tj. 1588,44 zł",
+  "date": "2023-03-07",
+  "status": "W toku",
+  "documentType": "projekt ustawy",
+  "authorType": "Obywatelski",
+  "isEU": false,
+  "term": 10,
+  "kanbanStage": "Inicjatywa",
+  "isapLink": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001615",
+  "eliLink": "https://eli.gov.pl/eli/DU/2024/1615/ogl",
+  "rclLink": null,
+  "stages": [],
+  "urgency": "normalny"
+}

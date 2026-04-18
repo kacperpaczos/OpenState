@@ -1,4 +1,5 @@
 import logging
+import concurrent.futures
 from typing import Any
 from extract.base import BaseApiExtractor
 from core.config import SEJM_API_BASE
@@ -34,7 +35,7 @@ class SejmVotingsExtractor(BaseApiExtractor):
 
         result = []
         for sitting_info in sittings_raw:
-            sitting_num = sitting_info.get("sitting") or sitting_info.get("number")
+            sitting_num = sitting_info.get("proceeding") or sitting_info.get("sitting") or sitting_info.get("number")
             if not sitting_num:
                 continue
 
@@ -49,22 +50,21 @@ class SejmVotingsExtractor(BaseApiExtractor):
                 logger.warning(f"Sitting {sitting_num}: could not fetch voting index — {e}")
                 sitting_votings = []
 
-            full_votings = []
-            for v in sitting_votings:
+            def fetch_detail(v):
                 voting_num = v.get("votingNumber")
                 if not voting_num:
-                    continue
-
-                # Step 3 — detail (includes 'votes' per-person list)
+                    return None
                 try:
                     detail = self.fetch_json(f"{SEJM_API_BASE}/votings/{sitting_num}/{voting_num}")
-                    # Merge summary fields with full detail (detail takes precedence)
-                    merged = {**v, **detail, "sitting": sitting_num}
+                    return {**v, **detail, "sitting": sitting_num}
                 except ExtractError as e:
                     logger.warning(f"  Voting {sitting_num}/{voting_num}: could not fetch detail — {e}")
-                    merged = {**v, "sitting": sitting_num, "votes": []}
+                    return {**v, "sitting": sitting_num, "votes": []}
 
-                full_votings.append(merged)
+            # Step 3 — parallel detail fetch
+            logger.info(f"Sitting {sitting_num}: Fetching details for {len(sitting_votings)} votings in parallel (5 threads)...")
+            with concurrent.futures.ThreadPoolExecutor(max_workers=5) as executor:
+                full_votings = list(filter(None, executor.map(fetch_detail, sitting_votings)))
 
             logger.info(f"Sitting {sitting_num}: fetched {len(full_votings)} votings.")
             result.append({

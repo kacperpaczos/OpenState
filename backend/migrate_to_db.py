@@ -271,9 +271,13 @@ def migrate_votings_and_records(cursor) -> tuple[int, int]:
     print("\n🗳️  Migrating votings + vote_records (this may take a while)...")
 
     votings_dir = DATA_DIR / "votings"
+    if not votings_dir.exists():
+        print("  ⚠️  Votings directory doesn't exist yet. Skipping.")
+        return 0, 0
+
     sitting_dirs = sorted(
         [d for d in votings_dir.iterdir() if d.is_dir()],
-        key=lambda d: int(d.name)
+        key=lambda d: int(d.name) if d.name.isdigit() else 0
     )
 
     total_votings = 0

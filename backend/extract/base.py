@@ -44,20 +44,28 @@ class BaseApiExtractor(BaseExtractor):
             self.ctx.check_hostname = False
             self.ctx.verify_mode = ssl.CERT_NONE
 
-    def fetch_json(self, url: str) -> Any:
-        try:
-            req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0 (OpenState ETL Pipeline)'})
-            with urllib.request.urlopen(req, context=self.ctx, timeout=REQUEST_TIMEOUT) as response:
-                if response.status != 200:
-                    raise ExtractError(f"HTTP Error {response.status} from {url}")
+    def fetch_json(self, url: str, retries: int = 3, backoff: float = 1.0) -> Any:
+        import time
+        attempt = 0
+        while attempt < retries:
+            try:
+                logger.info(f"  ⬇️  Fetching: {url}" + (f" (Attempt {attempt+1}/{retries})" if attempt > 0 else ""))
+                req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0 (OpenState ETL Pipeline)'})
+                with urllib.request.urlopen(req, context=self.ctx, timeout=REQUEST_TIMEOUT) as response:
+                    if response.status != 200:
+                        raise ExtractError(f"HTTP Error {response.status} from {url}")
+                    
+                    content = response.read().decode('utf-8')
+                    data = json.loads(content)
+                    return data
+                    
+            except (urllib.error.URLError, ConnectionResetError, ExtractError) as e:
+                attempt += 1
+                if attempt >= retries:
+                    raise ExtractError(f"Failed to fetch {url} after {retries} attempts: {str(e)}") from e
                 
-                content = response.read().decode('utf-8')
-                data = json.loads(content)
-                return data
-                
-        except urllib.error.URLError as e:
-            raise ExtractError(f"Network error fetching {url}: {e.reason}") from e
-        except json.JSONDecodeError as e:
-            raise ExtractError(f"Invalid JSON received from {url}: {e.msg}") from e
-        except Exception as e:
-            raise ExtractError(f"Unexpected error fetching {url}: {str(e)}") from e
+                wait_time = backoff * (2 ** (attempt - 1))
+                logger.warning(f"  ⚠️  Error fetching {url}: {e}. Retrying in {wait_time}s...")
+                time.sleep(wait_time)
+            except Exception as e:
+                raise ExtractError(f"Unexpected error fetching {url}: {str(e)}") from e

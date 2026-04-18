@@ -40,13 +40,13 @@ def run_sync():
         loader=BasicLoader("mps.json")
     ))
     
-    # 1B. Senators Job
-    orchestrator.add_job(ETLJob(
-        name="Senat_Senators",
-        extractor=SenateScraper(),  # Scrapes using Playwright
-        transformer=SenatorsTransformer(),
-        loader=BasicLoader("senators.json")
-    ))
+    # 1B. Senators Job (SKIPPED per user request)
+    # orchestrator.add_job(ETLJob(
+    #     name="Senat_Senators",
+    #     extractor=SenateScraper(),  # Scrapes using Playwright
+    #     transformer=SenatorsTransformer(),
+    #     loader=BasicLoader("senators.json")
+    # ))
     
     # 2. Bills Job
     orchestrator.add_job(ETLJob(

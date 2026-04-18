@@ -45,7 +45,13 @@ class ETLJob:
             self.loader.load(clean_data)
 
             # Success
-            record_count = len(clean_data) if isinstance(clean_data, list) else 1
+            if isinstance(clean_data, list):
+                record_count = len(clean_data)
+            elif isinstance(clean_data, tuple) and len(clean_data) > 0 and isinstance(clean_data[0], list):
+                record_count = len(clean_data[0]) # BillsTransformer case
+            else:
+                record_count = 1
+            
             logger.info(f"✅ Job '{self.name}' completed. Processed {record_count} records.")
             reporter.log_job_success(self.name, record_count)
 
